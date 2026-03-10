@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SR Fashion POS</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+background:#0f0f0f;
+color:white;
+}
+
+/* HEADER */
+
+.header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:12px 20px;
+background:#111;
+border-bottom:2px solid #d4af37;
+}
+
+.logo{
+font-size:22px;
+color:#d4af37;
+font-weight:bold;
+}
+
+.cartIcon{
+font-size:24px;
+cursor:pointer;
+position:relative;
+}
+
+.cartCount{
+position:absolute;
+top:-8px;
+right:-10px;
+background:red;
+border-radius:50%;
+padding:3px 6px;
+font-size:12px;
+}
+
+/* SEARCH */
+
+.search{
+width:96%;
+margin:10px;
+padding:10px;
+font-size:16px;
+border-radius:6px;
+border:none;
+}
+
+/* TABLE */
+
+table{
+width:100%;
+border-collapse:collapse;
+font-size:13px;
+}
+
+th{
+background:#9c7c1c;
+padding:8px;
+}
+
+td{
+padding:7px;
+border-bottom:1px solid #333;
+}
+
+tr:hover{
+background:#1e1e1e;
+}
+
+/* PRICE COLORS */
+
+.sale{
+background:#143d1f;
+color:#5cff85;
+font-weight:bold;
+cursor:pointer;
+}
+
+.wholesale{
+background:#1b2d4f;
+color:#6fb7ff;
+font-weight:bold;
+cursor:pointer;
+}
+
+.mrp{
+color:#d4af37;
+}
+
+.stock{
+color:#ff8c8c;
+}
+
+/* CART PANEL */
+
+.cartPanel{
+
+position:fixed;
+right:-400px;
+top:0;
+width:350px;
+height:100%;
+background:#1b1b1b;
+padding:15px;
+transition:0.4s;
+overflow:auto;
+border-left:2px solid #d4af37;
+
+}
+
+.cartPanel.open{
+right:0;
+}
+
+.cartHeader{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.cartItem{
+border-bottom:1px solid #444;
+padding:6px;
+}
+
+.qty{
+width:50px;
+}
+
+.price{
+width:70px;
+}
+
+.total{
+font-size:20px;
+color:#d4af37;
+margin-top:10px;
+}
+
+button{
+background:#d4af37;
+border:none;
+padding:8px 12px;
+margin:4px;
+cursor:pointer;
+}
+
+button:hover{
+background:#9c7c1c;
+}
+
+.closeBtn{
+cursor:pointer;
+font-size:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!-- HEADER -->
+
+<div class="header">
+
+<div class="logo">SR Fashion POS</div>
+
+<div class="cartIcon" onclick="toggleCart()">
+🛒
+<span class="cartCount" id="cartCount">0</span>
+</div>
+
+</div>
+
+<input id="search" class="search" placeholder="Search item or scan barcode">
+
+<div id="table"></div>
+
+<!-- CART PANEL -->
+
+<div class="cartPanel" id="cartPanel">
+
+<div class="cartHeader">
+<h2>Cart</h2>
+<span class="closeBtn" onclick="toggleCart()">❌</span>
+</div>
+
+<div id="cart"></div>
+
+<div class="total" id="total">Total ₹0</div>
+
+<button onclick="printQuote()">Print</button>
+<button onclick="sendWhatsapp()">WhatsApp</button>
+<button onclick="clearCart()">Clear</button>
+
+</div>
+
+<script>
+
+let items=[]
+let cart=[]
+let searchText=""
+
+/* CART TOGGLE */
+
+function toggleCart(){
+
+document.getElementById("cartPanel").classList.toggle("open")
+
+}
+
+/* LOAD INVENTORY */
+
+async function loadItems(){
+
+try{
+
+const r=await fetch("https://raw.githubusercontent.com/srfashoinned/busywin-live-inventory/main/items.json")
+
+items=await r.json()
+
+applySearch()
+
+}catch{
+
+document.getElementById("table").innerHTML="API not running"
+
+}
+
+}
+
+/* SEARCH */
+
+document.getElementById("search").addEventListener("input",function(){
+
+searchText=this.value.toLowerCase()
+
+applySearch()
+
+})
+
+function applySearch(){
+
+let filtered=items.filter(i=>
+(i.ItemName||"").toLowerCase().includes(searchText) ||
+(i.ItemAlias||"").toLowerCase().includes(searchText)
+)
+
+render(filtered)
+
+}
+
+/* RENDER TABLE */
+
+function render(data){
+
+let html="<table>"
+
+html+="<tr>"
+html+="<th>Item</th>"
+html+="<th>Barcode</th>"
+html+="<th>Stock</th>"
+html+="<th>MRP</th>"
+html+="<th>Sale</th>"
+html+="<th>Wholesale</th>"
+html+="</tr>"
+
+data.forEach(i=>{
+
+html+=`
+
+<tr>
+
+<td>${i.ItemName}</td>
+
+<td>${i.ItemAlias||""}</td>
+
+<td class="stock">${i.Stock}</td>
+
+<td class="mrp">₹${i.Item_MRP}</td>
+
+<td class="sale"
+onclick='addToCart("${i.ItemName}",${i.Item_Sale_Price})'>
+
+₹${i.Item_Sale_Price}
+
+</td>
+
+<td class="wholesale"
+onclick='addToCart("${i.ItemName}",${i.Item_Wholesale_Price})'>
+
+₹${i.Item_Wholesale_Price}
+
+</td>
+
+</tr>
+
+`
+
+})
+
+html+="</table>"
+
+document.getElementById("table").innerHTML=html
+
+}
+
+/* CART FUNCTIONS */
+
+function addToCart(name,price){
+
+let found=cart.find(c=>c.name==name && c.price==price)
+
+if(found){
+found.qty++
+}else{
+cart.push({name:name,price:price,qty:1})
+}
+
+renderCart()
+
+}
+
+function renderCart(){
+
+let html=""
+let total=0
+
+cart.forEach((c,i)=>{
+
+let line=c.price*c.qty
+total+=line
+
+html+=`
+
+<div class="cartItem">
+
+<b>${c.name}</b><br>
+
+Qty
+<input class="qty"
+type="number"
+value="${c.qty}"
+onchange="updateQty(${i},this.value)">
+
+Price
+<input class="price"
+type="number"
+value="${c.price}"
+onchange="updatePrice(${i},this.value)">
+
+₹ ${line}
+
+<button onclick="removeItem(${i})">❌</button>
+
+</div>
+
+`
+
+})
+
+document.getElementById("cart").innerHTML=html
+document.getElementById("total").innerHTML="Total ₹"+total
+document.getElementById("cartCount").innerHTML=cart.length
+
+}
+
+function updateQty(i,v){
+cart[i].qty=parseFloat(v)
+renderCart()
+}
+
+function updatePrice(i,v){
+cart[i].price=parseFloat(v)
+renderCart()
+}
+
+function removeItem(i){
+cart.splice(i,1)
+renderCart()
+}
+
+function clearCart(){
+cart=[]
+renderCart()
+}
+
+/* PRINT */
+
+function printQuote(){
+
+let w=window.open("")
+
+let html="<h2>SR Fashion Quotation</h2><table border=1 width=100%>"
+html+="<tr><th>Item</th><th>Qty</th><th>Price</th><th>Total</th></tr>"
+
+let total=0
+
+cart.forEach(c=>{
+let line=c.qty*c.price
+total+=line
+
+html+=`<tr>
+<td>${c.name}</td>
+<td>${c.qty}</td>
+<td>${c.price}</td>
+<td>${line}</td>
+</tr>`
+})
+
+html+="</table>"
+html+="<h3>Total ₹"+total+"</h3>"
+
+w.document.write(html)
+w.print()
+
+}
+
+/* WHATSAPP */
+
+function sendWhatsapp(){
+
+let text="SR Fashion Quotation\n\n"
+
+let total=0
+
+cart.forEach(c=>{
+let line=c.qty*c.price
+total+=line
+text+=`${c.name} x${c.qty} = ₹${line}\n`
+})
+
+text+="\nTotal ₹"+total
+
+window.open("https://wa.me/?text="+encodeURIComponent(text))
+
+}
+
+/* START */
+
+loadItems()
+
+setInterval(loadItems,15000)
+
+</script>
+
+</body>
+</html>
