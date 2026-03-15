@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<title>LIBAS Stock</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="stock_data.js"></script>
+
+<script src="https://unpkg.com/html5-qrcode"></script>
+
+<style>
+
+body{
+font-family:Arial;
+background:#f2f2f2;
+margin:0;
+}
+
+.header{
+background:#3c64a5;
+color:white;
+text-align:center;
+padding:22px;
+font-size:28px;
+font-weight:bold;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+padding:20px;
+}
+
+.searchbox{
+width:100%;
+padding:14px;
+font-size:16px;
+border-radius:6px;
+border:1px solid #aaa;
+margin-bottom:10px;
+}
+
+.scanbtn{
+width:100%;
+padding:13px;
+background:#2ea44f;
+color:white;
+border:none;
+border-radius:6px;
+font-size:16px;
+cursor:pointer;
+}
+
+.live{
+text-align:center;
+margin:15px;
+color:#555;
+}
+
+.card{
+background:white;
+border-left:6px solid #3c64a5;
+padding:15px;
+margin-top:15px;
+border-radius:6px;
+}
+
+.price{
+margin-top:10px;
+}
+
+.tag{
+display:inline-block;
+padding:4px 8px;
+border-radius:4px;
+color:white;
+font-size:13px;
+margin-right:5px;
+}
+
+.mrp{background:#1e73be;}
+.sale{background:#28a745;}
+.ws{background:#d73a49;}
+
+.stock{
+background:#f1c40f;
+color:black;
+padding:4px 8px;
+border-radius:4px;
+display:inline-block;
+margin-top:8px;
+}
+
+#reader{
+margin-top:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="header">
+LIBAS Stock
+</div>
+
+<div class="container">
+
+<input type="text"
+id="search"
+class="searchbox"
+placeholder="Search by name, barcode, or group..."
+onkeyup="searchProduct()">
+
+<button class="scanbtn" onclick="startScanner()">
+📷 Scan Barcode
+</button>
+
+<div class="live">
+● Live: <span id="time"></span> |
+<span id="count"></span> items
+</div>
+
+<div id="results"></div>
+
+<div id="reader"></div>
+
+</div>
+
+<script>
+
+function updateTime(){
+
+let now=new Date();
+
+document.getElementById("time").innerText=
+now.toLocaleTimeString();
+
+document.getElementById("count").innerText=
+STOCK_DATA.length;
+
+}
+
+setInterval(updateTime,1000);
+updateTime();
+
+function searchProduct(){
+
+let q=document.getElementById("search").value.toLowerCase();
+
+let html="";
+
+let results=STOCK_DATA.filter(p=>
+p.name.toLowerCase().includes(q) ||
+p.barcode.includes(q) ||
+p.group.toLowerCase().includes(q)
+);
+
+if(results.length===0){
+html="<p>No product found</p>";
+}
+
+results.forEach(p=>{
+
+html+=`
+<div class="card">
+
+<b>${p.name}</b><br>
+${p.barcode} • ${p.size}
+
+<div class="price">
+<span class="tag mrp">MRP: ₹${p.mrp}</span>
+<span class="tag sale">Sale: ₹${p.sale}</span>
+<span class="tag ws">WS: ₹${p.wholesale}</span>
+</div>
+
+<div class="stock">
+Stock: ${p.stock}
+</div>
+
+</div>
+`;
+
+});
+
+document.getElementById("results").innerHTML=html;
+
+}
+
+function startScanner(){
+
+const html5QrCode=new Html5Qrcode("reader");
+
+html5QrCode.start(
+{facingMode:"environment"},
+{fps:10,qrbox:250},
+
+(barcode)=>{
+
+document.getElementById("search").value=barcode;
+
+searchProduct();
+
+html5QrCode.stop();
+
+}
+
+);
+
+}
+
+</script>
+
+</body>
+</html>
