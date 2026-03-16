@@ -111,10 +111,6 @@ display:inline-block;
 margin-top:6px;
 }
 
-#reader{
-margin-top:15px;
-}
-
 </style>
 
 </head>
@@ -149,19 +145,23 @@ Scan Barcode
 <script>
 
 let STOCK_DATA=[]
-let searchIndex={}
+let filtered=[]
 let admin=false
+let renderCount=50
 
 async function loadStock(){
 
-const script = document.createElement("script")
+const script=document.createElement("script")
 
-script.src = "stock_data.js?" + Date.now()
+script.src="stock_data.js?"+Date.now()
 
-script.onload = function(){
+script.onload=function(){
 
-buildIndex()
-render(STOCK_DATA)
+filtered=[...STOCK_DATA]
+
+renderCount=50
+
+render()
 
 }
 
@@ -169,49 +169,15 @@ document.body.appendChild(script)
 
 }
 
-function buildIndex(){
+function render(){
 
-searchIndex={}
-
-for(let i=0;i<STOCK_DATA.length;i++){
-
-let item=STOCK_DATA[i]
-
-searchIndex[item.barcode]=item
-
-let name=item.name.toLowerCase()
-
-for(let j=1;j<=name.length;j++){
-
-let part=name.substring(0,j)
-
-searchIndex[part]=item
-
-}
-
-}
-
-}
-
-function adminLogin(){
-
-let pass=prompt("Enter Admin Password")
-
-if(pass==="7865"){
-admin=true
-alert("Admin Mode Enabled")
-render(STOCK_DATA)
-}else{
-alert("Wrong Password")
-}
-
-}
-
-function render(list){
+let container=document.getElementById("results")
 
 let html=""
 
-for(let p of list){
+let items=filtered.slice(0,renderCount)
+
+for(let p of items){
 
 html+=`
 <div class="card">
@@ -221,19 +187,11 @@ ${p.barcode||""}
 
 <div class="price">
 
-<span class="tag mrp">
-MRP ₹${p.mrp}
-</span>
+<span class="tag mrp">MRP ₹${p.mrp}</span>
+<span class="tag sale">Sale ₹${p.sale}</span>
+<span class="tag ws">WS ₹${p.wholesale}</span>
 
-<span class="tag sale">
-Sale ₹${p.sale}
-</span>
-
-<span class="tag ws">
-WS ₹${p.wholesale}
-</span>
-
-${admin ? `<span class="tag purchase">Purchase ₹${p.wholesale}</span>` : ""}
+${admin?`<span class="tag purchase">Purchase ₹${p.wholesale}</span>`:""}
 
 </div>
 
@@ -246,7 +204,7 @@ Stock: ${p.stock}
 
 }
 
-document.getElementById("results").innerHTML=html
+container.innerHTML=html
 
 }
 
@@ -255,34 +213,67 @@ function searchItems(){
 let q=document.getElementById("search").value.toLowerCase()
 
 if(q===""){
-render(STOCK_DATA)
-return
-}
+filtered=[...STOCK_DATA]
+}else{
 
-let result=[]
+filtered=STOCK_DATA.filter(p=>
 
-for(let item of STOCK_DATA){
+(p.name && p.name.toLowerCase().includes(q)) ||
 
-if(
-(item.name && item.name.toLowerCase().includes(q)) ||
-(item.barcode && item.barcode.includes(q))
-){
-result.push(item)
-}
+(p.barcode && p.barcode.includes(q))
+
+)
 
 }
 
-render(result)
+renderCount=50
+
+render()
+
+}
+
+window.addEventListener("scroll",()=>{
+
+if(window.innerHeight+window.scrollY>=document.body.offsetHeight-200){
+
+renderCount+=50
+
+render()
+
+}
+
+})
+
+function adminLogin(){
+
+let pass=prompt("Enter Admin Password")
+
+if(pass==="7865"){
+
+admin=true
+
+alert("Admin Mode Enabled")
+
+render()
+
+}else{
+
+alert("Wrong Password")
+
+}
 
 }
 
 function startScanner(){
 
-const html5QrCode = new Html5Qrcode("reader")
+const html5QrCode=new Html5Qrcode("reader")
 
 html5QrCode.start(
-{ facingMode: "environment" },
-{ fps: 10, qrbox: 250 },
+
+{ facingMode:"environment" },
+
+{ fps:10, qrbox:250 },
+
 (decodedText)=>{
 
 document.getElementById("search").value=decodedText
@@ -292,6 +283,7 @@ searchItems()
 html5QrCode.stop()
 
 }
+
 )
 
 }
