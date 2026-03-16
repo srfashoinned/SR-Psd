@@ -154,14 +154,18 @@ let admin=false
 
 async function loadStock(){
 
-const res=await fetch("stock_data.js?"+Date.now())
-const text=await res.text()
+const script = document.createElement("script")
 
-eval(text)
+script.src = "stock_data.js?" + Date.now()
+
+script.onload = function(){
 
 buildIndex()
-
 render(STOCK_DATA)
+
+}
+
+document.body.appendChild(script)
 
 }
 
