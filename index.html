@@ -8,8 +8,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<script src="stock_data.js"></script>
-
 <style>
 
 *{
@@ -18,47 +16,45 @@ box-sizing:border-box;
 
 body{
 font-family:Arial;
-background:#f2f2f2;
 margin:0;
-padding:0;
+background:#f2f2f2;
 overflow-x:hidden;
 }
 
 .header{
 background:#3c64a5;
 color:white;
+padding:16px;
 text-align:center;
-padding:18px;
-font-size:26px;
+font-size:24px;
 font-weight:bold;
 position:relative;
 }
 
-.adminBtn{
+.admin{
 position:absolute;
-right:15px;
-top:15px;
-background:#222;
+right:10px;
+top:12px;
+background:black;
 color:white;
 border:none;
-padding:8px 12px;
-border-radius:6px;
+padding:6px 10px;
+border-radius:5px;
 cursor:pointer;
 }
 
 .container{
-width:100%;
-max-width:1000px;
+max-width:1100px;
 margin:auto;
 padding:15px;
 }
 
-.searchbox{
+.search{
 width:100%;
 padding:14px;
 font-size:16px;
 border-radius:6px;
-border:1px solid #aaa;
+border:1px solid #ccc;
 margin-bottom:10px;
 }
 
@@ -70,43 +66,43 @@ color:#555;
 
 .results{
 display:grid;
-grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
 gap:12px;
 }
 
 .card{
 background:white;
-border-left:6px solid #3c64a5;
-padding:14px;
+border-left:5px solid #3c64a5;
+padding:12px;
 border-radius:6px;
 }
 
 .price{
-margin-top:10px;
+margin-top:8px;
 display:flex;
 flex-wrap:wrap;
-gap:6px;
+gap:5px;
 }
 
 .tag{
-padding:4px 8px;
-border-radius:4px;
-color:white;
+padding:3px 8px;
 font-size:13px;
+color:white;
+border-radius:4px;
 }
 
 .mrp{background:#1e73be;}
 .sale{background:#28a745;}
 .ws{background:#d73a49;}
-.purchase{background:#333;}
+.purchase{background:#444;}
 
 .stock{
 background:#f1c40f;
 color:black;
-padding:4px 8px;
+padding:3px 8px;
 border-radius:4px;
 display:inline-block;
-margin-top:8px;
+margin-top:6px;
 }
 
 </style>
@@ -116,22 +112,19 @@ margin-top:8px;
 <body>
 
 <div class="header">
-
 SR Psd
-
-<button class="adminBtn" onclick="adminLogin()">
-Admin
-</button>
-
+<button class="admin" onclick="adminLogin()">Admin</button>
 </div>
 
 <div class="container">
 
-<input type="text"
+<input
+type="text"
 id="search"
-class="searchbox"
-placeholder="Search by name, barcode, or group..."
-onkeyup="searchProduct()">
+class="search"
+placeholder="Search by name, barcode or group..."
+oninput="searchItems()"
+/>
 
 <div class="live">
 ● Live: <span id="time"></span> |
@@ -144,56 +137,47 @@ onkeyup="searchProduct()">
 
 <script>
 
-let adminMode=false
+let STOCK_DATA=[]
+let admin=false
+
+async function loadStock(){
+
+const res=await fetch("stock_data.js?"+Date.now())
+const text=await res.text()
+
+eval(text)
+
+render(STOCK_DATA)
+
+}
 
 function adminLogin(){
 
 let pass=prompt("Enter Admin Password")
 
 if(pass==="7865"){
-adminMode=true
+admin=true
 alert("Admin Mode Enabled")
-searchProduct()
+render(STOCK_DATA)
 }else{
 alert("Wrong Password")
 }
 
 }
 
-function updateTime(){
-
-let now=new Date()
-
-document.getElementById("time").innerText=
-now.toLocaleTimeString()
-
-document.getElementById("count").innerText=
-STOCK_DATA.length
-
-}
-
-setInterval(updateTime,1000)
-updateTime()
-
-function searchProduct(){
-
-let q=document.getElementById("search").value.toLowerCase()
+function render(list){
 
 let html=""
 
-let results=STOCK_DATA.filter(p=>
-p.name.toLowerCase().includes(q) ||
-(p.barcode && p.barcode.includes(q)) ||
-(p.group && p.group.toLowerCase().includes(q))
-)
+for(let i=0;i<list.length;i++){
 
-results.forEach(p=>{
+let p=list[i]
 
 html+=`
 <div class="card">
 
 <b>${p.name}</b><br>
-${p.barcode || ""}
+${p.barcode||""}
 
 <div class="price">
 
@@ -209,11 +193,7 @@ Sale ₹${p.sale}
 WS ₹${p.wholesale}
 </span>
 
-${adminMode ? `
-<span class="tag purchase">
-Purchase ₹${p.wholesale}
-</span>
-` : ""}
+${admin ? `<span class="tag purchase">Purchase ₹${p.wholesale}</span>` : ""}
 
 </div>
 
@@ -224,13 +204,56 @@ Stock: ${p.stock}
 </div>
 `
 
-})
+}
 
 document.getElementById("results").innerHTML=html
 
 }
 
-searchProduct()
+function searchItems(){
+
+let q=document.getElementById("search").value.toLowerCase()
+
+if(q===""){
+render(STOCK_DATA)
+return
+}
+
+let results=[]
+
+for(let i=0;i<STOCK_DATA.length;i++){
+
+let p=STOCK_DATA[i]
+
+if(
+(p.name && p.name.toLowerCase().includes(q)) ||
+(p.barcode && p.barcode.includes(q)) ||
+(p.group && p.group.toLowerCase().includes(q))
+){
+results.push(p)
+}
+
+}
+
+render(results)
+
+}
+
+function updateTime(){
+
+document.getElementById("time").innerText=
+new Date().toLocaleTimeString()
+
+document.getElementById("count").innerText=
+STOCK_DATA.length
+
+}
+
+setInterval(updateTime,1000)
+
+loadStock()
+
+setInterval(loadStock,90000)
 
 </script>
 
