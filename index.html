@@ -1,174 +1,37 @@
-<!DOCTYPE html>
-
-<html lang="en">
-<head>
-
-<meta charset="UTF-8">
-<title>SR Psd</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<script src="stock_data.js"></script>
-
-<script src="https://unpkg.com/html5-qrcode"></script>
-
-<style>
-
-*{box-sizing:border-box}
-
-body{
-margin:0;
-font-family:Arial;
-background:#f2f2f2;
-overflow-x:hidden;
-}
-
-.header{
-background:#3c64a5;
-color:white;
-padding:15px;
-text-align:center;
-font-size:24px;
-font-weight:bold;
-position:relative;
-}
-
-.admin{
-position:absolute;
-right:10px;
-top:10px;
-background:black;
-color:white;
-border:none;
-padding:6px 10px;
-border-radius:5px;
-cursor:pointer;
-}
-
-.container{
-max-width:1100px;
-margin:auto;
-padding:15px;
-}
-
-.search{
-width:100%;
-padding:14px;
-font-size:16px;
-border-radius:6px;
-border:1px solid #ccc;
-margin-bottom:10px;
-}
-
-.scanBtn{
-width:100%;
-padding:12px;
-background:#2ea44f;
-color:white;
-border:none;
-border-radius:6px;
-font-size:16px;
-cursor:pointer;
-margin-bottom:10px;
-}
-
-.results{
-display:grid;
-grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
-gap:12px;
-}
-
-.card{
-background:white;
-border-left:5px solid #3c64a5;
-padding:12px;
-border-radius:6px;
-}
-
-.price{
-margin-top:8px;
-display:flex;
-flex-wrap:wrap;
-gap:5px;
-}
-
-.tag{
-padding:3px 8px;
-font-size:13px;
-color:white;
-border-radius:4px;
-}
-
-.mrp{background:#1e73be}
-.sale{background:#28a745}
-.ws{background:#d73a49}
-.purchase{background:#444}
-
-.stock{
-background:#f1c40f;
-color:black;
-padding:3px 8px;
-border-radius:4px;
-display:inline-block;
-margin-top:6px;
-}
-
-</style>
-
-</head>
-
-<body>
-
-<div class="header">
-SR Psd
-<button class="admin" onclick="adminLogin()">Admin</button>
-</div>
-
-<div class="container">
-
-<input
-type="text"
-id="search"
-class="search"
-placeholder="Search item name / barcode"
-oninput="searchItems()"
-/>
-
-<button class="scanBtn" onclick="startScanner()">
-Scan Barcode
-</button>
-
-<div id="reader"></div>
-
-<div id="results" class="results"></div>
-
-</div>
-
 <script>
 
-let admin=false
-let filtered=[...STOCK_DATA]
-let renderLimit=50
+let filtered = []
+
+window.onload = function(){
+
+if(typeof STOCK_DATA === "undefined"){
+document.getElementById("results").innerHTML = "Stock data not loaded"
+return
+}
+
+filtered = [...STOCK_DATA]
+
+render()
+
+}
 
 function render(){
 
-let html=""
-let items=filtered.slice(0,renderLimit)
+let html = ""
 
-for(let p of items){
+for(let p of filtered.slice(0,200)){
 
-html+=`
+html += `
 <div class="card">
 
 <b>${p.name}</b><br>
-${p.barcode||""}
+${p.barcode || ""}
 
 <div class="price">
 
-<span class="tag mrp">MRP ₹${p.mrp}</span>
-<span class="tag sale">Sale ₹${p.sale}</span>
-<span class="tag ws">WS ₹${p.wholesale}</span>
-
-${admin?`<span class="tag purchase">Purchase ₹${p.wholesale}</span>`:""}
+<span class="mrp">MRP ₹${p.mrp}</span>
+<span class="sale">Sale ₹${p.sale}</span>
+<span class="ws">WS ₹${p.wholesale}</span>
 
 </div>
 
@@ -181,86 +44,23 @@ Stock: ${p.stock}
 
 }
 
-document.getElementById("results").innerHTML=html
+document.getElementById("results").innerHTML = html
 
 }
 
 function searchItems(){
 
-let q=document.getElementById("search").value.toLowerCase()
+let q = document.getElementById("search").value.toLowerCase()
 
-if(q===""){
-filtered=[...STOCK_DATA]
-}else{
+filtered = STOCK_DATA.filter(p =>
 
-filtered=STOCK_DATA.filter(p=>
 (p.name && p.name.toLowerCase().includes(q)) ||
 (p.barcode && p.barcode.includes(q))
+
 )
 
-}
-
-renderLimit=50
 render()
 
 }
-
-window.addEventListener("scroll",()=>{
-
-if(window.innerHeight+window.scrollY>=document.body.offsetHeight-200){
-
-renderLimit+=50
-render()
-
-}
-
-})
-
-function adminLogin(){
-
-let pass=prompt("Enter Admin Password")
-
-if(pass==="7865"){
-
-admin=true
-alert("Admin Mode Enabled")
-render()
-
-}else{
-
-alert("Wrong Password")
-
-}
-
-}
-
-function startScanner(){
-
-const html5QrCode=new Html5Qrcode("reader")
-
-html5QrCode.start(
-{ facingMode:"environment" },
-{ fps:10, qrbox:250 },
-(decodedText)=>{
-
-document.getElementById("search").value=decodedText
-searchItems()
-html5QrCode.stop()
-
-}
-)
-
-}
-
-render()
-
-setInterval(()=>{
-
-location.reload()
-
-},90000)
 
 </script>
-
-</body>
-</html>
