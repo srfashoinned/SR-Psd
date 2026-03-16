@@ -12,26 +12,45 @@
 
 <style>
 
+*{
+box-sizing:border-box;
+}
+
 body{
 font-family:Arial;
 background:#f2f2f2;
 margin:0;
+padding:0;
+overflow-x:hidden;
 }
 
 .header{
 background:#3c64a5;
 color:white;
 text-align:center;
-padding:22px;
-font-size:28px;
+padding:18px;
+font-size:26px;
 font-weight:bold;
+position:relative;
+}
+
+.adminBtn{
+position:absolute;
+right:15px;
+top:15px;
+background:#222;
+color:white;
+border:none;
+padding:8px 12px;
+border-radius:6px;
 cursor:pointer;
 }
 
 .container{
-max-width:900px;
+width:100%;
+max-width:1000px;
 margin:auto;
-padding:20px;
+padding:15px;
 }
 
 .searchbox{
@@ -43,48 +62,43 @@ border:1px solid #aaa;
 margin-bottom:10px;
 }
 
-.scanbtn{
-width:100%;
-padding:13px;
-background:#2ea44f;
-color:white;
-border:none;
-border-radius:6px;
-font-size:16px;
-cursor:pointer;
-}
-
 .live{
 text-align:center;
-margin:15px;
+margin:10px;
 color:#555;
+}
+
+.results{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+gap:12px;
 }
 
 .card{
 background:white;
 border-left:6px solid #3c64a5;
-padding:15px;
-margin-top:15px;
+padding:14px;
 border-radius:6px;
 }
 
 .price{
 margin-top:10px;
+display:flex;
+flex-wrap:wrap;
+gap:6px;
 }
 
 .tag{
-display:inline-block;
 padding:4px 8px;
 border-radius:4px;
 color:white;
 font-size:13px;
-margin-right:5px;
 }
 
 .mrp{background:#1e73be;}
 .sale{background:#28a745;}
 .ws{background:#d73a49;}
-.purchase{background:#444;}
+.purchase{background:#333;}
 
 .stock{
 background:#f1c40f;
@@ -101,8 +115,14 @@ margin-top:8px;
 
 <body>
 
-<div class="header" id="title">
+<div class="header">
+
 SR Psd
+
+<button class="adminBtn" onclick="adminLogin()">
+Admin
+</button>
+
 </div>
 
 <div class="container">
@@ -118,7 +138,7 @@ onkeyup="searchProduct()">
 <span id="count"></span> items
 </div>
 
-<div id="results"></div>
+<div id="results" class="results"></div>
 
 </div>
 
@@ -126,34 +146,19 @@ onkeyup="searchProduct()">
 
 let adminMode=false
 
-document.getElementById("title").addEventListener("mousedown",startHold)
+function adminLogin(){
 
-function startHold(){
-
-holdTimer=setTimeout(function(){
-
-let pass=prompt("Admin Password")
+let pass=prompt("Enter Admin Password")
 
 if(pass==="7865"){
-
 adminMode=true
 alert("Admin Mode Enabled")
-
 searchProduct()
-
 }else{
-
 alert("Wrong Password")
-
 }
 
-},1500)
-
 }
-
-document.getElementById("title").addEventListener("mouseup",function(){
-clearTimeout(holdTimer)
-})
 
 function updateTime(){
 
@@ -191,11 +196,24 @@ html+=`
 ${p.barcode || ""}
 
 <div class="price">
-<span class="tag mrp">MRP: ₹${p.mrp}</span>
-<span class="tag sale">Sale: ₹${p.sale}</span>
-<span class="tag ws">WS: ₹${p.wholesale}</span>
 
-${adminMode ? `<span class="tag purchase">Purchase: ₹${p.wholesale}</span>` : ""}
+<span class="tag mrp">
+MRP ₹${p.mrp}
+</span>
+
+<span class="tag sale">
+Sale ₹${p.sale}
+</span>
+
+<span class="tag ws">
+WS ₹${p.wholesale}
+</span>
+
+${adminMode ? `
+<span class="tag purchase">
+Purchase ₹${p.wholesale}
+</span>
+` : ""}
 
 </div>
 
@@ -211,6 +229,8 @@ Stock: ${p.stock}
 document.getElementById("results").innerHTML=html
 
 }
+
+searchProduct()
 
 </script>
 
