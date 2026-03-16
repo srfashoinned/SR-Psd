@@ -1,9 +1,9 @@
 ﻿// BusyWin Stock Data - Auto-generated
-// Last Updated: 2026-03-16 13:49:53
+// Last Updated: 2026-03-16 13:51:28
 
 var STOCK_DATA = [
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "4003",
         "Stock":  31,
@@ -15,7 +15,7 @@ var STOCK_DATA = [
         "ItemName":  "RAYON MIRROR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1650,
         "ItemCode":  "1971",
         "Stock":  0,
@@ -27,7 +27,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Burberry pant trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215,
         "ItemCode":  "3445",
         "Stock":  -2,
@@ -39,7 +39,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Jan Kalyan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "2357",
         "Stock":  0,
@@ -51,7 +51,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS Isha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  5600,
         "ItemCode":  "2231",
         "Stock":  0,
@@ -63,7 +63,7 @@ var STOCK_DATA = [
         "ItemName":  "12 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "4016",
         "Stock":  0,
@@ -75,7 +75,7 @@ var STOCK_DATA = [
         "ItemName":  "SG SUNSHINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4364",
         "Stock":  3,
@@ -87,7 +87,7 @@ var STOCK_DATA = [
         "ItemName":  "KC EASY FIT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  421,
         "ItemCode":  "4072",
         "Stock":  3,
@@ -99,7 +99,7 @@ var STOCK_DATA = [
         "ItemName":  "MT DIVYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "4166",
         "Stock":  -1,
@@ -111,7 +111,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JELLY BLISS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "2020",
         "Stock":  0,
@@ -123,7 +123,7 @@ var STOCK_DATA = [
         "ItemName":  "GF CINEMEX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "2354",
         "Stock":  0,
@@ -135,7 +135,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS Ruhi-1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "3653",
         "Stock":  -4,
@@ -147,7 +147,7 @@ var STOCK_DATA = [
         "ItemName":  "WELCOME BEGAM JAAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1560,
         "ItemCode":  "4554",
         "Stock":  3,
@@ -159,7 +159,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MILLIONAIR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1570,
         "ItemCode":  "1567",
         "Stock":  0,
@@ -171,7 +171,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Chocolate"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  18,
         "ItemCode":  "2031",
         "Stock":  810,
@@ -183,7 +183,7 @@ var STOCK_DATA = [
         "ItemName":  "Towel Small"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "2556",
         "Stock":  0,
@@ -195,7 +195,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Firdos Neeta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  345,
         "ItemCode":  "3314",
         "Stock":  -1,
@@ -207,7 +207,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Vanilla"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1233.33,
         "ItemCode":  "1416",
         "Stock":  0,
@@ -219,7 +219,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Pant Trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "1887",
         "Stock":  0,
@@ -231,7 +231,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Faaiz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2050,
         "ItemCode":  "2853",
         "Stock":  0,
@@ -243,7 +243,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 030"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "1760",
         "Stock":  0,
@@ -255,7 +255,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Aaradhya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  950,
         "ItemCode":  "3162",
         "Stock":  -1,
@@ -267,7 +267,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Blue City"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "2940",
         "Stock":  0,
@@ -279,7 +279,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bhagam Bhag"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2832",
         "Stock":  -1,
@@ -291,7 +291,7 @@ var STOCK_DATA = [
         "ItemName":  "MT SAKINA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2336",
         "Stock":  -1,
@@ -303,7 +303,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Fawwaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1270,
         "ItemCode":  "2548",
         "Stock":  0,
@@ -315,7 +315,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mansoor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4452",
         "Stock":  3,
@@ -327,7 +327,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BINDAS SWAG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  614.67,
         "ItemCode":  "2119",
         "Stock":  0,
@@ -339,7 +339,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11667"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  776.67,
         "ItemCode":  "1913",
         "Stock":  0,
@@ -351,7 +351,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Marathon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1388",
         "Stock":  0,
@@ -363,7 +363,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Black Out"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  5350,
         "ItemCode":  "4224",
         "Stock":  -1,
@@ -375,7 +375,7 @@ var STOCK_DATA = [
         "ItemName":  "LACHA ABHIVADAN KANIKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1925,
         "ItemCode":  "3130",
         "Stock":  0,
@@ -387,7 +387,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Heavy 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "1682",
         "Stock":  0,
@@ -399,7 +399,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Vijay Rath"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1580,
         "ItemCode":  "3992",
         "Stock":  -1,
@@ -411,7 +411,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FASHION ROCK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1085,
         "ItemCode":  "3877",
         "Stock":  2,
@@ -423,7 +423,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM KISMISH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3728",
         "Stock":  -1,
@@ -435,7 +435,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc High Power"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "1475",
         "Stock":  0,
@@ -447,7 +447,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Vichitra Pepsi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1284.67,
         "ItemCode":  "2885",
         "Stock":  -1,
@@ -459,7 +459,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Palak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "2111",
         "Stock":  0,
@@ -471,7 +471,7 @@ var STOCK_DATA = [
         "ItemName":  "VC SONIKUDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1505,
         "ItemCode":  "4256",
         "Stock":  3,
@@ -483,7 +483,7 @@ var STOCK_DATA = [
         "ItemName":  "KC EK TARFA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  830,
         "ItemCode":  "1979",
         "Stock":  0,
@@ -495,7 +495,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Jagran"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2000,
         "ItemCode":  "1945",
         "Stock":  0,
@@ -507,7 +507,7 @@ var STOCK_DATA = [
         "ItemName":  "GC Freedom Farshi Sharara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1779",
         "Stock":  0,
@@ -519,7 +519,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Yaqub"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "2194",
         "Stock":  0,
@@ -531,7 +531,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Patiyala Pant"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1200,
         "ItemCode":  "4273",
         "Stock":  3,
@@ -543,7 +543,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GULFARA BEGUM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "2565",
         "Stock":  0,
@@ -555,7 +555,7 @@ var STOCK_DATA = [
         "ItemName":  "JIMI CHUG VISCOSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "2076",
         "Stock":  0,
@@ -567,7 +567,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Dhana Dhan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "3251",
         "Stock":  0,
@@ -579,7 +579,7 @@ var STOCK_DATA = [
         "ItemName":  "Innaya Nonstop"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  253,
         "ItemCode":  "2858",
         "Stock":  -2,
@@ -591,7 +591,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC ANDAZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "4146",
         "Stock":  0,
@@ -603,7 +603,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC MARGI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "3920",
         "Stock":  -1,
@@ -615,7 +615,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 1325"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1190,
         "ItemCode":  "1367",
         "Stock":  0,
@@ -627,7 +627,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ateera"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  405,
         "ItemCode":  "3638",
         "Stock":  60,
@@ -639,7 +639,7 @@ var STOCK_DATA = [
         "ItemName":  "MF MIX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "4334",
         "Stock":  17,
@@ -651,7 +651,7 @@ var STOCK_DATA = [
         "ItemName":  "VV VIMMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "2128",
         "Stock":  0,
@@ -663,7 +663,7 @@ var STOCK_DATA = [
         "ItemName":  "OM PRATIGNA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1450,
         "ItemCode":  "3794",
         "Stock":  1,
@@ -675,7 +675,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rich Chocolate"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4258",
         "Stock":  3,
@@ -687,7 +687,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PARTY PATAKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  994.67,
         "ItemCode":  "2718",
         "Stock":  0,
@@ -699,7 +699,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PIYA ALBELA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3293",
         "Stock":  1,
@@ -711,7 +711,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Selfie"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1545,
         "ItemCode":  "3856",
         "Stock":  2,
@@ -723,7 +723,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NOOR E GuLAAB"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  875,
         "ItemCode":  "4411",
         "Stock":  3,
@@ -735,7 +735,7 @@ var STOCK_DATA = [
         "ItemName":  "OM PANEER ANGARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1916.67,
         "ItemCode":  "1669",
         "Stock":  0,
@@ -747,7 +747,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zoyaan Nayra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  665,
         "ItemCode":  "3227",
         "Stock":  3,
@@ -759,7 +759,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Almora"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "1444",
         "Stock":  0,
@@ -771,7 +771,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Orchid"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  444.67,
         "ItemCode":  "2655",
         "Stock":  0,
@@ -783,7 +783,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dil ki Khwahish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "4047",
         "Stock":  0,
@@ -795,7 +795,7 @@ var STOCK_DATA = [
         "ItemName":  "GK DHISOOM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1174.67,
         "ItemCode":  "2767",
         "Stock":  0,
@@ -807,7 +807,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY CREAMY TROUSER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1080,
         "ItemCode":  "1325",
         "Stock":  0,
@@ -819,7 +819,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Farrey"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "3882",
         "Stock":  -3,
@@ -831,7 +831,7 @@ var STOCK_DATA = [
         "ItemName":  "RR BLACK BUNNY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "1632",
         "Stock":  0,
@@ -843,7 +843,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Shikara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2617",
         "Stock":  0,
@@ -855,7 +855,7 @@ var STOCK_DATA = [
         "ItemName":  "DTS ASIFFA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3122",
         "Stock":  0,
@@ -867,7 +867,7 @@ var STOCK_DATA = [
         "ItemName":  "Anjumi Khathi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2365,
         "ItemCode":  "4192",
         "Stock":  -1,
@@ -879,7 +879,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GULZAR E DIL (WITH PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3431",
         "Stock":  -2,
@@ -891,7 +891,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Gulshan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1535,
         "ItemCode":  "3029",
         "Stock":  -1,
@@ -903,7 +903,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Voice Note"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "1799",
         "Stock":  -1,
@@ -915,7 +915,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Jasmine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2545",
         "Stock":  0,
@@ -927,7 +927,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Behrukh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "1242",
         "Stock":  0,
@@ -939,7 +939,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Betab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  314.67,
         "ItemCode":  "2645",
         "Stock":  0,
@@ -951,7 +951,7 @@ var STOCK_DATA = [
         "ItemName":  "SN CLIMAX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  985,
         "ItemCode":  "3044",
         "Stock":  -1,
@@ -963,7 +963,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hamish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2108",
         "Stock":  0,
@@ -975,7 +975,7 @@ var STOCK_DATA = [
         "ItemName":  "Nose Piece"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "3686",
         "Stock":  -1,
@@ -987,7 +987,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BIRD SOUND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455.33,
         "ItemCode":  "1742",
         "Stock":  0,
@@ -999,7 +999,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhavri GF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  313,
         "ItemCode":  "3557",
         "Stock":  1,
@@ -1011,7 +1011,7 @@ var STOCK_DATA = [
         "ItemName":  "Jmd Mehbooba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3729",
         "Stock":  -1,
@@ -1023,7 +1023,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Big screen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1315,
         "ItemCode":  "3711",
         "Stock":  -1,
@@ -1035,7 +1035,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Robo Car"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "4419",
         "Stock":  1,
@@ -1047,7 +1047,7 @@ var STOCK_DATA = [
         "ItemName":  "MN ALU PUDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1000,
         "ItemCode":  "1864",
         "Stock":  0,
@@ -1059,7 +1059,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Passbook"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1260,
         "ItemCode":  "1837",
         "Stock":  0,
@@ -1071,7 +1071,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Tafeer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "3365",
         "Stock":  0,
@@ -1083,7 +1083,7 @@ var STOCK_DATA = [
         "ItemName":  "Sg Summer Time"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4496",
         "Stock":  1,
@@ -1095,7 +1095,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAHI ROOP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1334.67,
         "ItemCode":  "2297",
         "Stock":  0,
@@ -1107,7 +1107,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROZAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "3581",
         "Stock":  0,
@@ -1119,7 +1119,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY S 30"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  554.67,
         "ItemCode":  "2245",
         "Stock":  1,
@@ -1131,7 +1131,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Mannat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  394.67,
         "ItemCode":  "2248",
         "Stock":  0,
@@ -1143,7 +1143,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Afsana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3380",
         "Stock":  -3,
@@ -1155,7 +1155,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Mango Raas"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415.33,
         "ItemCode":  "1730",
         "Stock":  0,
@@ -1167,7 +1167,7 @@ var STOCK_DATA = [
         "ItemName":  "Barsaat diksha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2993",
         "Stock":  -2,
@@ -1179,7 +1179,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Sarthi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2147",
         "Stock":  -5,
@@ -1191,7 +1191,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT SIKANDAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  576.67,
         "ItemCode":  "1565",
         "Stock":  0,
@@ -1203,7 +1203,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Kudi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2317",
         "Stock":  0,
@@ -1215,7 +1215,7 @@ var STOCK_DATA = [
         "ItemName":  "OM OFFICER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1050,
         "ItemCode":  "3164",
         "Stock":  0,
@@ -1227,7 +1227,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kaju Paneer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3316",
         "Stock":  -1,
@@ -1239,7 +1239,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Dil Se"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215.33,
         "ItemCode":  "1748",
         "Stock":  0,
@@ -1251,7 +1251,7 @@ var STOCK_DATA = [
         "ItemName":  "RS JanKalyan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2100,
         "ItemCode":  "3040",
         "Stock":  0,
@@ -1263,7 +1263,7 @@ var STOCK_DATA = [
         "ItemName":  "Sonet Plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  576.67,
         "ItemCode":  "1504",
         "Stock":  0,
@@ -1275,7 +1275,7 @@ var STOCK_DATA = [
         "ItemName":  "Sadhna Jalebi Bai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "1786",
         "Stock":  0,
@@ -1287,7 +1287,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Rafee"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "2033",
         "Stock":  0,
@@ -1299,7 +1299,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Kusum"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  495.33,
         "ItemCode":  "1342",
         "Stock":  0,
@@ -1311,7 +1311,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Supriya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2250,
         "ItemCode":  "2610",
         "Stock":  0,
@@ -1323,7 +1323,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SIHAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3433",
         "Stock":  -1,
@@ -1335,7 +1335,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Aizaz Yellow"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1194.67,
         "ItemCode":  "2825",
         "Stock":  0,
@@ -1347,7 +1347,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAIN LADAVA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  305,
         "ItemCode":  "3603",
         "Stock":  107,
@@ -1359,7 +1359,7 @@ var STOCK_DATA = [
         "ItemName":  "Rozy Chandramukhi kala chashma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "3699",
         "Stock":  7,
@@ -1371,7 +1371,7 @@ var STOCK_DATA = [
         "ItemName":  "SG LOTUS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1635,
         "ItemCode":  "4355",
         "Stock":  27,
@@ -1383,7 +1383,7 @@ var STOCK_DATA = [
         "ItemName":  "GF RUSIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3700",
         "Stock":  13,
@@ -1395,7 +1395,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA devi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1960,
         "ItemCode":  "4514",
         "Stock":  3,
@@ -1407,7 +1407,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FLY ZONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "4184",
         "Stock":  15,
@@ -1419,7 +1419,7 @@ var STOCK_DATA = [
         "ItemName":  "OM SALI SAHIBA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  421,
         "ItemCode":  "2856",
         "Stock":  0,
@@ -1431,7 +1431,7 @@ var STOCK_DATA = [
         "ItemName":  "MT ALIA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  742,
         "ItemCode":  "3555",
         "Stock":  2,
@@ -1443,7 +1443,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Ishq Express"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1200,
         "ItemCode":  "4385",
         "Stock":  3,
@@ -1455,7 +1455,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FLORY BAND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  504.67,
         "ItemCode":  "2291",
         "Stock":  0,
@@ -1467,7 +1467,7 @@ var STOCK_DATA = [
         "ItemName":  "GF NOVELTY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1426.67,
         "ItemCode":  "1773",
         "Stock":  0,
@@ -1479,7 +1479,7 @@ var STOCK_DATA = [
         "ItemName":  "KC firoz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1797",
         "Stock":  0,
@@ -1491,7 +1491,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT watermelon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1515,
         "ItemCode":  "4155",
         "Stock":  1,
@@ -1503,7 +1503,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUPER ME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "3285",
         "Stock":  0,
@@ -1515,7 +1515,7 @@ var STOCK_DATA = [
         "ItemName":  "SR 02 CRUNCHY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "1989",
         "Stock":  -97,
@@ -1527,7 +1527,7 @@ var STOCK_DATA = [
         "ItemName":  "METER CLOTH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1545,
         "ItemCode":  "3842",
         "Stock":  -1,
@@ -1539,7 +1539,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HAPPY CONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  810,
         "ItemCode":  "3253",
         "Stock":  0,
@@ -1551,7 +1551,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Dream Girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  60,
         "ItemCode":  "1717",
         "Stock":  73,
@@ -1563,7 +1563,7 @@ var STOCK_DATA = [
         "ItemName":  "Kingfisher"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2000,
         "ItemCode":  "3771",
         "Stock":  -1,
@@ -1575,7 +1575,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZAIKA E SHAHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "4171",
         "Stock":  1,
@@ -1587,7 +1587,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWEETORA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  38,
         "ItemCode":  "1379",
         "Stock":  0,
@@ -1599,7 +1599,7 @@ var STOCK_DATA = [
         "ItemName":  "Agarwal Pure Cotton Dupatta Printed"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  590,
         "ItemCode":  "1680",
         "Stock":  0,
@@ -1611,7 +1611,7 @@ var STOCK_DATA = [
         "ItemName":  "Balma SVT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "2662",
         "Stock":  0,
@@ -1623,7 +1623,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ankhiya Gulabi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "1981",
         "Stock":  0,
@@ -1635,7 +1635,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Arbuda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  870,
         "ItemCode":  "4018",
         "Stock":  3,
@@ -1647,7 +1647,7 @@ var STOCK_DATA = [
         "ItemName":  "GK RUTU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  225,
         "ItemCode":  "3443",
         "Stock":  -1,
@@ -1659,7 +1659,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Anti Virus"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3397",
         "Stock":  2,
@@ -1671,7 +1671,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Dhamal Masti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1226.67,
         "ItemCode":  "2362",
         "Stock":  0,
@@ -1683,7 +1683,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Nighat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1630,
         "ItemCode":  "2944",
         "Stock":  0,
@@ -1695,7 +1695,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Funny Jokes"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3760",
         "Stock":  0,
@@ -1707,7 +1707,7 @@ var STOCK_DATA = [
         "ItemName":  "GK COMMANDO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2219",
         "Stock":  0,
@@ -1719,7 +1719,7 @@ var STOCK_DATA = [
         "ItemName":  "GF VOLVO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  592.67,
         "ItemCode":  "2937",
         "Stock":  -2,
@@ -1731,7 +1731,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bindiya Chamke"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "4474",
         "Stock":  3,
@@ -1743,7 +1743,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWAG PAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "1473",
         "Stock":  0,
@@ -1755,7 +1755,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Pepsi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  920,
         "ItemCode":  "2299",
         "Stock":  0,
@@ -1767,7 +1767,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ISHQ KHUDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415.33,
         "ItemCode":  "1446",
         "Stock":  0,
@@ -1779,7 +1779,7 @@ var STOCK_DATA = [
         "ItemName":  "Mahi 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "2409",
         "Stock":  3,
@@ -1791,7 +1791,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FARIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2122",
         "Stock":  0,
@@ -1803,7 +1803,7 @@ var STOCK_DATA = [
         "ItemName":  "KEYONA MAHIMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1704.67,
         "ItemCode":  "2685",
         "Stock":  0,
@@ -1815,7 +1815,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY GARARA READYMADE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2750",
         "Stock":  0,
@@ -1827,7 +1827,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY READYMADE 617"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "3225",
         "Stock":  0,
@@ -1839,7 +1839,7 @@ var STOCK_DATA = [
         "ItemName":  "MS Kashmir ki Kali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  633.33,
         "ItemCode":  "2003",
         "Stock":  0,
@@ -1851,7 +1851,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Lenskart"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "3069",
         "Stock":  0,
@@ -1863,7 +1863,7 @@ var STOCK_DATA = [
         "ItemName":  "RS Fendi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  235,
         "ItemCode":  "3636",
         "Stock":  -1,
@@ -1875,7 +1875,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Garima"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "4388",
         "Stock":  3,
@@ -1887,7 +1887,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESERT STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  225.33,
         "ItemCode":  "1261",
         "Stock":  0,
@@ -1899,7 +1899,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Answer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "1327",
         "Stock":  0,
@@ -1911,7 +1911,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Kathakali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "1503",
         "Stock":  0,
@@ -1923,7 +1923,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohini Red Bull Firdous B/W"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "1663",
         "Stock":  -8,
@@ -1935,7 +1935,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Cherry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1625,
         "ItemCode":  "4208",
         "Stock":  -1,
@@ -1947,7 +1947,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZANzAR QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "4084",
         "Stock":  -1,
@@ -1959,7 +1959,7 @@ var STOCK_DATA = [
         "ItemName":  "MT ORANGE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "3806",
         "Stock":  1,
@@ -1971,7 +1971,7 @@ var STOCK_DATA = [
         "ItemName":  "SG HOUSEFULL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2991",
         "Stock":  0,
@@ -1983,7 +1983,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Cadbury"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  994.67,
         "ItemCode":  "2427",
         "Stock":  3,
@@ -1995,7 +1995,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hidaya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  186.67,
         "ItemCode":  "1696",
         "Stock":  0,
@@ -2007,7 +2007,7 @@ var STOCK_DATA = [
         "ItemName":  "RV G-3"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2657",
         "Stock":  0,
@@ -2019,7 +2019,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bandagi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "2916",
         "Stock":  0,
@@ -2031,7 +2031,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Caliber"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "4428",
         "Stock":  3,
@@ -2043,7 +2043,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHAT CHASKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2764",
         "Stock":  0,
@@ -2055,7 +2055,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT ZAREEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415,
         "ItemCode":  "2810",
         "Stock":  0,
@@ -2067,7 +2067,7 @@ var STOCK_DATA = [
         "ItemName":  "MT GAURI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "3691",
         "Stock":  11,
@@ -2079,7 +2079,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT DIWALI DHAMAKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "3010",
         "Stock":  0,
@@ -2091,7 +2091,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Nokia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "1231",
         "Stock":  0,
@@ -2103,7 +2103,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop Ki Rani 1st"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675,
         "ItemCode":  "2797",
         "Stock":  0,
@@ -2115,7 +2115,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TERE KAABIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "4498",
         "Stock":  3,
@@ -2127,7 +2127,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT BEGUM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3118",
         "Stock":  -1,
@@ -2139,7 +2139,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt Jugni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4100",
         "Stock":  -1,
@@ -2151,7 +2151,7 @@ var STOCK_DATA = [
         "ItemName":  "Sg Kohinoor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  584.67,
         "ItemCode":  "2243",
         "Stock":  0,
@@ -2163,7 +2163,7 @@ var STOCK_DATA = [
         "ItemName":  "GK chup chupke"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2114.67,
         "ItemCode":  "2850",
         "Stock":  0,
@@ -2175,7 +2175,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 273"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1239",
         "Stock":  0,
@@ -2187,7 +2187,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Mitu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "1805",
         "Stock":  0,
@@ -2199,7 +2199,7 @@ var STOCK_DATA = [
         "ItemName":  "Manpasand Rani ki Jawani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1310,
         "ItemCode":  "4194",
         "Stock":  0,
@@ -2211,7 +2211,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY GANESH 01"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2096",
         "Stock":  0,
@@ -2223,7 +2223,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Zaafira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1165,
         "ItemCode":  "3888",
         "Stock":  3,
@@ -2235,7 +2235,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAHI BITES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1220,
         "ItemCode":  "4336",
         "Stock":  3,
@@ -2247,7 +2247,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIZZORA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1834.67,
         "ItemCode":  "3097",
         "Stock":  0,
@@ -2259,7 +2259,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 09"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "4148",
         "Stock":  3,
@@ -2271,7 +2271,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC SUPRIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1484.67,
         "ItemCode":  "2446",
         "Stock":  0,
@@ -2283,7 +2283,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sufinama"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2749",
         "Stock":  0,
@@ -2295,7 +2295,7 @@ var STOCK_DATA = [
         "ItemName":  "Crunchy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  666,
         "ItemCode":  "1835",
         "Stock":  0,
@@ -2307,7 +2307,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Ahuja"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1795",
         "Stock":  0,
@@ -2319,7 +2319,7 @@ var STOCK_DATA = [
         "ItemName":  "OC Anu Shree"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "4413",
         "Stock":  -1,
@@ -2331,7 +2331,7 @@ var STOCK_DATA = [
         "ItemName":  "AF GULZAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "4143",
         "Stock":  3,
@@ -2343,7 +2343,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC GITANJALI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1210,
         "ItemCode":  "2425",
         "Stock":  0,
@@ -2355,7 +2355,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zemana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "3990",
         "Stock":  2,
@@ -2367,7 +2367,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BRIGHT FLOWER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "1437",
         "Stock":  0,
@@ -2379,7 +2379,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Masha Allah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "2898",
         "Stock":  -5,
@@ -2391,7 +2391,7 @@ var STOCK_DATA = [
         "ItemName":  "Burj Khalifa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  376.67,
         "ItemCode":  "2072",
         "Stock":  0,
@@ -2403,7 +2403,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Wax Batik Bandni Rayon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "1946",
         "Stock":  0,
@@ -2415,7 +2415,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Mariyam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1094.67,
         "ItemCode":  "2815",
         "Stock":  0,
@@ -2427,7 +2427,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1650,
         "ItemCode":  "3387",
         "Stock":  0,
@@ -2439,7 +2439,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Rewards"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  190,
         "ItemCode":  "1706",
         "Stock":  0,
@@ -2451,7 +2451,7 @@ var STOCK_DATA = [
         "ItemName":  "BB Shah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185.33,
         "ItemCode":  "1737",
         "Stock":  0,
@@ -2463,7 +2463,7 @@ var STOCK_DATA = [
         "ItemName":  "Vistara KC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1094.67,
         "ItemCode":  "2844",
         "Stock":  2,
@@ -2475,7 +2475,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 6"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "2323",
         "Stock":  0,
@@ -2487,7 +2487,7 @@ var STOCK_DATA = [
         "ItemName":  "RUBI RUBI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1800",
         "Stock":  0,
@@ -2499,7 +2499,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT chahat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3205",
         "Stock":  0,
@@ -2511,7 +2511,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Prem Palki"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2093",
         "Stock":  0,
@@ -2523,7 +2523,7 @@ var STOCK_DATA = [
         "ItemName":  "KC REWA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1454",
         "Stock":  0,
@@ -2535,7 +2535,7 @@ var STOCK_DATA = [
         "ItemName":  "Pehnawa Monika Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  154,
         "ItemCode":  "3753",
         "Stock":  11,
@@ -2547,7 +2547,7 @@ var STOCK_DATA = [
         "ItemName":  "Malai 2 Pcs"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2235",
         "Stock":  0,
@@ -2559,7 +2559,7 @@ var STOCK_DATA = [
         "ItemName":  "GF White House"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4076",
         "Stock":  6,
@@ -2571,7 +2571,7 @@ var STOCK_DATA = [
         "ItemName":  "GK TIMBER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4034",
         "Stock":  -4,
@@ -2583,7 +2583,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 565"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2626",
         "Stock":  0,
@@ -2595,7 +2595,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Mahi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215,
         "ItemCode":  "3905",
         "Stock":  13,
@@ -2607,7 +2607,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC WORLD CURRENCY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1524.67,
         "ItemCode":  "3073",
         "Stock":  -1,
@@ -2619,7 +2619,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Sharara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  305.33,
         "ItemCode":  "1608",
         "Stock":  0,
@@ -2631,7 +2631,7 @@ var STOCK_DATA = [
         "ItemName":  "Archies"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2095,
         "ItemCode":  "4522",
         "Stock":  3,
@@ -2643,7 +2643,7 @@ var STOCK_DATA = [
         "ItemName":  "KC INSTA QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1595,
         "ItemCode":  "4045",
         "Stock":  -1,
@@ -2655,7 +2655,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 2091 CRUNCHY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2689",
         "Stock":  0,
@@ -2667,7 +2667,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Nency"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  205.33,
         "ItemCode":  "1280",
         "Stock":  0,
@@ -2679,7 +2679,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Zoya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "2209",
         "Stock":  0,
@@ -2691,7 +2691,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Jio Cinema"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "3928",
         "Stock":  -1,
@@ -2703,7 +2703,7 @@ var STOCK_DATA = [
         "ItemName":  "N NASARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3000",
         "Stock":  -1,
@@ -2715,7 +2715,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Tarana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  850,
         "ItemCode":  "2201",
         "Stock":  0,
@@ -2727,7 +2727,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Status"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1374.67,
         "ItemCode":  "2423",
         "Stock":  -1,
@@ -2739,7 +2739,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Myreen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "3850",
         "Stock":  3,
@@ -2751,7 +2751,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZAIKA E GULAB"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1638",
         "Stock":  0,
@@ -2763,7 +2763,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Saloni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2195,
         "ItemCode":  "4190",
         "Stock":  2,
@@ -2775,7 +2775,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BOOM BOX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1766.67,
         "ItemCode":  "3212",
         "Stock":  0,
@@ -2787,7 +2787,7 @@ var STOCK_DATA = [
         "ItemName":  "Cross Pattern Plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "4135",
         "Stock":  19,
@@ -2799,7 +2799,7 @@ var STOCK_DATA = [
         "ItemName":  "OM JORJET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2523",
         "Stock":  0,
@@ -2811,7 +2811,7 @@ var STOCK_DATA = [
         "ItemName":  "YELLOW SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "1440",
         "Stock":  0,
@@ -2823,7 +2823,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh Butterfly"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4408",
         "Stock":  3,
@@ -2835,7 +2835,7 @@ var STOCK_DATA = [
         "ItemName":  "GF JILANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1577",
         "Stock":  3,
@@ -2847,7 +2847,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Gulabo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  3400,
         "ItemCode":  "4228",
         "Stock":  1,
@@ -2859,7 +2859,7 @@ var STOCK_DATA = [
         "ItemName":  "PLAZO PRINT DFILL TAIL PAPLON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "4037",
         "Stock":  -1,
@@ -2871,7 +2871,7 @@ var STOCK_DATA = [
         "ItemName":  "LC DDL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3735",
         "Stock":  2,
@@ -2883,7 +2883,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FOIL BALL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "1972",
         "Stock":  0,
@@ -2895,7 +2895,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Afaaf plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "3368",
         "Stock":  -2,
@@ -2907,7 +2907,7 @@ var STOCK_DATA = [
         "ItemName":  "Sg lazy lamhe"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2075,
         "ItemCode":  "3996",
         "Stock":  -1,
@@ -2919,7 +2919,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SMILE STICK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2681",
         "Stock":  0,
@@ -2931,7 +2931,7 @@ var STOCK_DATA = [
         "ItemName":  "MANNAT SHOHRAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1782.5,
         "ItemCode":  "3092",
         "Stock":  0,
@@ -2943,7 +2943,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 04"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2249",
         "Stock":  0,
@@ -2955,7 +2955,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Kites"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  270,
         "ItemCode":  "1698",
         "Stock":  0,
@@ -2967,7 +2967,7 @@ var STOCK_DATA = [
         "ItemName":  "Bobby Jasoos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "2967",
         "Stock":  0,
@@ -2979,7 +2979,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Samsung"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1960,
         "ItemCode":  "4457",
         "Stock":  3,
@@ -2991,7 +2991,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DAILY FASHION"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  526.67,
         "ItemCode":  "1644",
         "Stock":  0,
@@ -3003,7 +3003,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Gopi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "3231",
         "Stock":  -3,
@@ -3015,7 +3015,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Ajanta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3861",
         "Stock":  -1,
@@ -3027,7 +3027,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BEETE LAMHE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1860,
         "ItemCode":  "4509",
         "Stock":  3,
@@ -3039,7 +3039,7 @@ var STOCK_DATA = [
         "ItemName":  "KC QUEEN CHOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2083",
         "Stock":  0,
@@ -3051,7 +3051,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Pinkey"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "1822",
         "Stock":  0,
@@ -3063,7 +3063,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zulfishan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  212,
         "ItemCode":  "1275",
         "Stock":  0,
@@ -3075,7 +3075,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Surbhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1313",
         "Stock":  0,
@@ -3087,7 +3087,7 @@ var STOCK_DATA = [
         "ItemName":  "VS Varnita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "2504",
         "Stock":  0,
@@ -3099,7 +3099,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Navrangi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1363",
         "Stock":  0,
@@ -3111,7 +3111,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Baadshaho"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  930,
         "ItemCode":  "3181",
         "Stock":  0,
@@ -3123,7 +3123,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Malamaal Weekly"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "4254",
         "Stock":  5,
@@ -3135,7 +3135,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA GLASS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "2349",
         "Stock":  0,
@@ -3147,7 +3147,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Good Luck"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1030,
         "ItemCode":  "4288",
         "Stock":  3,
@@ -3159,7 +3159,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESI VIBES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  555,
         "ItemCode":  "3083",
         "Stock":  2,
@@ -3171,7 +3171,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Lotus"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1374.67,
         "ItemCode":  "2946",
         "Stock":  -1,
@@ -3183,7 +3183,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ishq Vishq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  354.67,
         "ItemCode":  "2643",
         "Stock":  0,
@@ -3195,7 +3195,7 @@ var STOCK_DATA = [
         "ItemName":  "ANOKHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1240",
         "Stock":  0,
@@ -3207,7 +3207,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Anju"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  535,
         "ItemCode":  "3462",
         "Stock":  2,
@@ -3219,7 +3219,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Begumjaan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "2040",
         "Stock":  -2,
@@ -3231,7 +3231,7 @@ var STOCK_DATA = [
         "ItemName":  "GF BHAI JAAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1529",
         "Stock":  0,
@@ -3243,7 +3243,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Khwahish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "4434",
         "Stock":  3,
@@ -3255,7 +3255,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MANNIKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "3460",
         "Stock":  0,
@@ -3267,7 +3267,7 @@ var STOCK_DATA = [
         "ItemName":  "JT BROWN BEAUTY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1867",
         "Stock":  0,
@@ -3279,7 +3279,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Snapchat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3254",
         "Stock":  -1,
@@ -3291,7 +3291,7 @@ var STOCK_DATA = [
         "ItemName":  "Shriyan Shehzadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2595",
         "Stock":  0,
@@ -3303,7 +3303,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rukshana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  795,
         "ItemCode":  "4007",
         "Stock":  0,
@@ -3315,7 +3315,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NOODLE NATION"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "3180",
         "Stock":  0,
@@ -3327,7 +3327,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dosti Yari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1521",
         "Stock":  0,
@@ -3339,7 +3339,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Ramsha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  605,
         "ItemCode":  "3975",
         "Stock":  -1,
@@ -3351,7 +3351,7 @@ var STOCK_DATA = [
         "ItemName":  "Star W Zarkan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "2724",
         "Stock":  0,
@@ -3363,7 +3363,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAN JOGIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "3352",
         "Stock":  -4,
@@ -3375,7 +3375,7 @@ var STOCK_DATA = [
         "ItemName":  "Alina 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1216.67,
         "ItemCode":  "1613",
         "Stock":  0,
@@ -3387,7 +3387,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Malaya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1535,
         "ItemCode":  "3034",
         "Stock":  0,
@@ -3399,7 +3399,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Champions"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "3869",
         "Stock":  -1,
@@ -3411,7 +3411,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT RANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "2241",
         "Stock":  -1,
@@ -3423,7 +3423,7 @@ var STOCK_DATA = [
         "ItemName":  "GF aafreen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1365,
         "ItemCode":  "4396",
         "Stock":  3,
@@ -3435,7 +3435,7 @@ var STOCK_DATA = [
         "ItemName":  "GK BIRD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "1762",
         "Stock":  1,
@@ -3447,7 +3447,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "3594",
         "Stock":  0,
@@ -3459,7 +3459,7 @@ var STOCK_DATA = [
         "ItemName":  "Garima Rani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "4311",
         "Stock":  3,
@@ -3471,7 +3471,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MINT MAX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1335,
         "ItemCode":  "4055",
         "Stock":  -1,
@@ -3483,7 +3483,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BEST CHOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3568",
         "Stock":  0,
@@ -3495,7 +3495,7 @@ var STOCK_DATA = [
         "ItemName":  "Mf Gala Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "1851",
         "Stock":  0,
@@ -3507,7 +3507,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Ziya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "1572",
         "Stock":  0,
@@ -3519,7 +3519,7 @@ var STOCK_DATA = [
         "ItemName":  "Music YouTube"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "2615",
         "Stock":  0,
@@ -3531,7 +3531,7 @@ var STOCK_DATA = [
         "ItemName":  "SKKC Kashmira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1205.33,
         "ItemCode":  "1288",
         "Stock":  0,
@@ -3543,7 +3543,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Jorjet Suit Heavy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "4074",
         "Stock":  7,
@@ -3555,7 +3555,7 @@ var STOCK_DATA = [
         "ItemName":  "JBT TITAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  565,
         "ItemCode":  "3112",
         "Stock":  -1,
@@ -3567,7 +3567,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Firoti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635.33,
         "ItemCode":  "1216",
         "Stock":  0,
@@ -3579,7 +3579,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Mustari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3651",
         "Stock":  157,
@@ -3591,7 +3591,7 @@ var STOCK_DATA = [
         "ItemName":  "Chahat Jaam Mix"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1550",
         "Stock":  0,
@@ -3603,7 +3603,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Nagin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1477",
         "Stock":  0,
@@ -3615,7 +3615,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mayyan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  38,
         "ItemCode":  "3659",
         "Stock":  71,
@@ -3627,7 +3627,7 @@ var STOCK_DATA = [
         "ItemName":  "FIRDOS METER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1394.67,
         "ItemCode":  "2887",
         "Stock":  2,
@@ -3639,7 +3639,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Hit Men"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2091",
         "Stock":  0,
@@ -3651,7 +3651,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Eva Rehu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  466.67,
         "ItemCode":  "2330",
         "Stock":  0,
@@ -3663,7 +3663,7 @@ var STOCK_DATA = [
         "ItemName":  "GG MAHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1510,
         "ItemCode":  "3075",
         "Stock":  0,
@@ -3675,7 +3675,7 @@ var STOCK_DATA = [
         "ItemName":  "GK JET AIRWAYS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1430,
         "ItemCode":  "2549",
         "Stock":  0,
@@ -3687,7 +3687,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dil e Dastoor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "4360",
         "Stock":  1,
@@ -3699,7 +3699,7 @@ var STOCK_DATA = [
         "ItemName":  "JT IMLI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "3354",
         "Stock":  -1,
@@ -3711,7 +3711,7 @@ var STOCK_DATA = [
         "ItemName":  "Alina 3"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  195,
         "ItemCode":  "3747",
         "Stock":  -1,
@@ -3723,7 +3723,7 @@ var STOCK_DATA = [
         "ItemName":  "Al Minah XL Sada"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1985,
         "ItemCode":  "4432",
         "Stock":  3,
@@ -3735,7 +3735,7 @@ var STOCK_DATA = [
         "ItemName":  "KC WAFA NOOR (PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2037",
         "Stock":  0,
@@ -3747,7 +3747,7 @@ var STOCK_DATA = [
         "ItemName":  "GF DREAM 11"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "2355",
         "Stock":  0,
@@ -3759,7 +3759,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS Ruhi-2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  10000,
         "ItemCode":  "2233",
         "Stock":  0,
@@ -3771,7 +3771,7 @@ var STOCK_DATA = [
         "ItemName":  "14 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "4300",
         "Stock":  0,
@@ -3783,7 +3783,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FULL MASTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1186.67,
         "ItemCode":  "1885",
         "Stock":  0,
@@ -3795,7 +3795,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Jaane man"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4552",
         "Stock":  3,
@@ -3807,7 +3807,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MOON BEAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1578",
         "Stock":  0,
@@ -3819,7 +3819,7 @@ var STOCK_DATA = [
         "ItemName":  "NA Jam Pooja"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "2025",
         "Stock":  0,
@@ -3831,7 +3831,7 @@ var STOCK_DATA = [
         "ItemName":  "NET GOWN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1570,
         "ItemCode":  "3041",
         "Stock":  0,
@@ -3843,7 +3843,7 @@ var STOCK_DATA = [
         "ItemName":  "Priyanka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  735.33,
         "ItemCode":  "1382",
         "Stock":  0,
@@ -3855,7 +3855,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Zarina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "2410",
         "Stock":  -1,
@@ -3867,7 +3867,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Paksima"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "4075",
         "Stock":  7,
@@ -3879,7 +3879,7 @@ var STOCK_DATA = [
         "ItemName":  "PAWAN KILAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "3389",
         "Stock":  9,
@@ -3891,7 +3891,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc big boss"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1310,
         "ItemCode":  "4035",
         "Stock":  4,
@@ -3903,7 +3903,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY S 91"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "3722",
         "Stock":  0,
@@ -3915,7 +3915,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Pocket Full"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2695,
         "ItemCode":  "4222",
         "Stock":  0,
@@ -3927,7 +3927,7 @@ var STOCK_DATA = [
         "ItemName":  "LACHA ABHIVADAN ISHANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  434.67,
         "ItemCode":  "2329",
         "Stock":  0,
@@ -3939,7 +3939,7 @@ var STOCK_DATA = [
         "ItemName":  "OM ZAVERA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1580,
         "ItemCode":  "3994",
         "Stock":  -1,
@@ -3951,7 +3951,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TINY TRENDS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2683",
         "Stock":  0,
@@ -3963,7 +3963,7 @@ var STOCK_DATA = [
         "ItemName":  "MANNAT NAZAKAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "3246",
         "Stock":  -2,
@@ -3975,7 +3975,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Gulaboo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  170,
         "ItemCode":  "1777",
         "Stock":  0,
@@ -3987,7 +3987,7 @@ var STOCK_DATA = [
         "ItemName":  "Royal Pouch Packing"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "2196",
         "Stock":  0,
@@ -3999,7 +3999,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Mogra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  366.67,
         "ItemCode":  "1919",
         "Stock":  0,
@@ -4011,7 +4011,7 @@ var STOCK_DATA = [
         "ItemName":  "Punjabi Lassi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3197",
         "Stock":  1,
@@ -4023,7 +4023,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Rail Neer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  820,
         "ItemCode":  "3149",
         "Stock":  0,
@@ -4035,7 +4035,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 009"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1275,
         "ItemCode":  "4528",
         "Stock":  3,
@@ -4047,7 +4047,7 @@ var STOCK_DATA = [
         "ItemName":  "HH 1501"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1536.67,
         "ItemCode":  "1858",
         "Stock":  0,
@@ -4059,7 +4059,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Lime Juice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "2321",
         "Stock":  0,
@@ -4071,7 +4071,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Gangubai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395.33,
         "ItemCode":  "1435",
         "Stock":  0,
@@ -4083,7 +4083,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Queen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2385,
         "ItemCode":  "4450",
         "Stock":  3,
@@ -4095,7 +4095,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STYLE QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "1670",
         "Stock":  0,
@@ -4107,7 +4107,7 @@ var STOCK_DATA = [
         "ItemName":  "Rapid Pro MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2102",
         "Stock":  -63,
@@ -4119,7 +4119,7 @@ var STOCK_DATA = [
         "ItemName":  "LIBAS KIDS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1196.67,
         "ItemCode":  "1801",
         "Stock":  0,
@@ -4131,7 +4131,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sonic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1835,
         "ItemCode":  "4494",
         "Stock":  3,
@@ -4143,7 +4143,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PIZZA FUNDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3873",
         "Stock":  -1,
@@ -4155,7 +4155,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COFEE COOL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  565.33,
         "ItemCode":  "1408",
         "Stock":  0,
@@ -4167,7 +4167,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Vipul"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2450,
         "ItemCode":  "4332",
         "Stock":  0,
@@ -4179,7 +4179,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FARAANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2171",
         "Stock":  0,
@@ -4191,7 +4191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Muhsin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3610",
         "Stock":  6,
@@ -4203,7 +4203,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FULL EPISODE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1025,
         "ItemCode":  "3832",
         "Stock":  1,
@@ -4215,7 +4215,7 @@ var STOCK_DATA = [
         "ItemName":  "SG LAADO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  605,
         "ItemCode":  "3740",
         "Stock":  3,
@@ -4227,7 +4227,7 @@ var STOCK_DATA = [
         "ItemName":  "Mt Jasmine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4448",
         "Stock":  7,
@@ -4239,7 +4239,7 @@ var STOCK_DATA = [
         "ItemName":  "GF RESHAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1642",
         "Stock":  0,
@@ -4251,7 +4251,7 @@ var STOCK_DATA = [
         "ItemName":  "Sarso ka sach"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  405,
         "ItemCode":  "3274",
         "Stock":  0,
@@ -4263,7 +4263,7 @@ var STOCK_DATA = [
         "ItemName":  "Lakhnavi Dhaga Work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  850,
         "ItemCode":  "3792",
         "Stock":  0,
@@ -4275,7 +4275,7 @@ var STOCK_DATA = [
         "ItemName":  "N Lovely"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1110,
         "ItemCode":  "2179",
         "Stock":  0,
@@ -4287,7 +4287,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Koka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2126",
         "Stock":  0,
@@ -4299,7 +4299,7 @@ var STOCK_DATA = [
         "ItemName":  "OM TITAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3790",
         "Stock":  -1,
@@ -4311,7 +4311,7 @@ var STOCK_DATA = [
         "ItemName":  "Mt Radhya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  920,
         "ItemCode":  "2294",
         "Stock":  0,
@@ -4323,7 +4323,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GUL BAHAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3267",
         "Stock":  -1,
@@ -4335,7 +4335,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Mojito"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1070,
         "ItemCode":  "1365",
         "Stock":  0,
@@ -4347,7 +4347,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Taimur"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3884",
         "Stock":  -1,
@@ -4359,7 +4359,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA CHINON PAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1695,
         "ItemCode":  "3858",
         "Stock":  3,
@@ -4371,7 +4371,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY ARVIND 068"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "1487",
         "Stock":  0,
@@ -4383,7 +4383,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Sacha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4198",
         "Stock":  3,
@@ -4395,7 +4395,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 4358"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "1932",
         "Stock":  2,
@@ -4407,7 +4407,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Bawaal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "4317",
         "Stock":  3,
@@ -4419,7 +4419,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAX POWER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "4348",
         "Stock":  3,
@@ -4431,7 +4431,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MAAZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  345,
         "ItemCode":  "3372",
         "Stock":  0,
@@ -4443,7 +4443,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt July"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3562",
         "Stock":  -1,
@@ -4455,7 +4455,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 1191"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2150,
         "ItemCode":  "3046",
         "Stock":  0,
@@ -4467,7 +4467,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hero Hindustani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3684",
         "Stock":  -1,
@@ -4479,7 +4479,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MISS UNIVERSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1344.67,
         "ItemCode":  "2710",
         "Stock":  0,
@@ -4491,7 +4491,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KHUSHIYAN TERI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1225,
         "ItemCode":  "3036",
         "Stock":  0,
@@ -4503,7 +4503,7 @@ var STOCK_DATA = [
         "ItemName":  "Somnath Anika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3311",
         "Stock":  5,
@@ -4515,7 +4515,7 @@ var STOCK_DATA = [
         "ItemName":  "Vas Avni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "4394",
         "Stock":  3,
@@ -4527,7 +4527,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CARAMEL CRUNCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "3103",
         "Stock":  -1,
@@ -4539,7 +4539,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 4334B"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "2360",
         "Stock":  0,
@@ -4551,7 +4551,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Lazzat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1315,
         "ItemCode":  "4529",
         "Stock":  3,
@@ -4563,7 +4563,7 @@ var STOCK_DATA = [
         "ItemName":  "HH 1463"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "3900",
         "Stock":  -1,
@@ -4575,7 +4575,7 @@ var STOCK_DATA = [
         "ItemName":  "PUBLIC DEMAND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "3583",
         "Stock":  -1,
@@ -4587,7 +4587,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 7 NO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  696.67,
         "ItemCode":  "1828",
         "Stock":  0,
@@ -4599,7 +4599,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Ship"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "2676",
         "Stock":  -1,
@@ -4611,7 +4611,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DHOL NAGADE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1809",
         "Stock":  0,
@@ -4623,7 +4623,7 @@ var STOCK_DATA = [
         "ItemName":  "GK ceat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  664.67,
         "ItemCode":  "2912",
         "Stock":  0,
@@ -4635,7 +4635,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Apney"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1311",
         "Stock":  0,
@@ -4647,7 +4647,7 @@ var STOCK_DATA = [
         "ItemName":  "VS Indu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  420,
         "ItemCode":  "3863",
         "Stock":  12,
@@ -4659,7 +4659,7 @@ var STOCK_DATA = [
         "ItemName":  "WHITE 2 TAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1704.67,
         "ItemCode":  "2852",
         "Stock":  0,
@@ -4671,7 +4671,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 009"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2207",
         "Stock":  0,
@@ -4683,7 +4683,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Dove"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  208.67,
         "ItemCode":  "1277",
         "Stock":  0,
@@ -4695,7 +4695,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Yogita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "3509",
         "Stock":  -1,
@@ -4707,7 +4707,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Playstore"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "3280",
         "Stock":  0,
@@ -4719,7 +4719,7 @@ var STOCK_DATA = [
         "ItemName":  "Crunchy 0001"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2173",
         "Stock":  0,
@@ -4731,7 +4731,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Fighter"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  430,
         "ItemCode":  "1455",
         "Stock":  0,
@@ -4743,7 +4743,7 @@ var STOCK_DATA = [
         "ItemName":  "Sanvika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  620,
         "ItemCode":  "3172",
         "Stock":  -1,
@@ -4755,7 +4755,7 @@ var STOCK_DATA = [
         "ItemName":  "Pari Fab Sheetal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  925,
         "ItemCode":  "3973",
         "Stock":  1,
@@ -4767,7 +4767,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RICH BERRIES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "3152",
         "Stock":  -12,
@@ -4779,7 +4779,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 004"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  420.67,
         "ItemCode":  "2630",
         "Stock":  0,
@@ -4791,7 +4791,7 @@ var STOCK_DATA = [
         "ItemName":  "JS MANALI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2400,
         "ItemCode":  "1943",
         "Stock":  -9,
@@ -4803,7 +4803,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Gown"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1110,
         "ItemCode":  "2345",
         "Stock":  0,
@@ -4815,7 +4815,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Noor E Fashion"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  227,
         "ItemCode":  "4284",
         "Stock":  47,
@@ -4827,7 +4827,7 @@ var STOCK_DATA = [
         "ItemName":  "ROYAL BRAND QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2508",
         "Stock":  0,
@@ -4839,7 +4839,7 @@ var STOCK_DATA = [
         "ItemName":  "NAJRANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  586.67,
         "ItemCode":  "1938",
         "Stock":  0,
@@ -4851,7 +4851,7 @@ var STOCK_DATA = [
         "ItemName":  "Darjiling GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2546",
         "Stock":  0,
@@ -4863,7 +4863,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mashq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2055",
         "Stock":  0,
@@ -4875,7 +4875,7 @@ var STOCK_DATA = [
         "ItemName":  "G50"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  985,
         "ItemCode":  "3054",
         "Stock":  0,
@@ -4887,7 +4887,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zahabia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "1498",
         "Stock":  0,
@@ -4899,7 +4899,7 @@ var STOCK_DATA = [
         "ItemName":  "Honda GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2868",
         "Stock":  0,
@@ -4911,7 +4911,7 @@ var STOCK_DATA = [
         "ItemName":  "MN RAJNI GANDHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1542",
         "Stock":  0,
@@ -4923,7 +4923,7 @@ var STOCK_DATA = [
         "ItemName":  "Fire SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4309",
         "Stock":  3,
@@ -4935,7 +4935,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PIZOOKIE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2027",
         "Stock":  0,
@@ -4947,7 +4947,7 @@ var STOCK_DATA = [
         "ItemName":  "SAHELI SHARARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  405,
         "ItemCode":  "3265",
         "Stock":  0,
@@ -4959,7 +4959,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Lassi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1545,
         "ItemCode":  "3989",
         "Stock":  3,
@@ -4971,7 +4971,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PURE GOLD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "4544",
         "Stock":  7,
@@ -4983,7 +4983,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT BHAVIKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1344.67,
         "ItemCode":  "2623",
         "Stock":  0,
@@ -4995,7 +4995,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Wynk"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3128",
         "Stock":  -1,
@@ -5007,7 +5007,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Skena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "3589",
         "Stock":  0,
@@ -5019,7 +5019,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Qayamat NX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  196.67,
         "ItemCode":  "1694",
         "Stock":  0,
@@ -5031,7 +5031,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Army"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1095,
         "ItemCode":  "3109",
         "Stock":  0,
@@ -5043,7 +5043,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 4148B"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  565,
         "ItemCode":  "4083",
         "Stock":  5,
@@ -5055,7 +5055,7 @@ var STOCK_DATA = [
         "ItemName":  "Lc Soniya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2106.67,
         "ItemCode":  "1660",
         "Stock":  0,
@@ -5067,7 +5067,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Gunjan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "1855",
         "Stock":  0,
@@ -5079,7 +5079,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Green city"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1105,
         "ItemCode":  "3101",
         "Stock":  0,
@@ -5091,7 +5091,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 937B"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  584.67,
         "ItemCode":  "2184",
         "Stock":  0,
@@ -5103,7 +5103,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Torento"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "4315",
         "Stock":  3,
@@ -5115,7 +5115,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MORNING TUNE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "3924",
         "Stock":  22,
@@ -5127,7 +5127,7 @@ var STOCK_DATA = [
         "ItemName":  "SS JAAM MIX biscuits"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3718",
         "Stock":  0,
@@ -5139,7 +5139,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Kubera"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  444.67,
         "ItemCode":  "2674",
         "Stock":  0,
@@ -5151,7 +5151,7 @@ var STOCK_DATA = [
         "ItemName":  "JF STUDIO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3908",
         "Stock":  0,
@@ -5163,7 +5163,7 @@ var STOCK_DATA = [
         "ItemName":  "Purse"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "2901",
         "Stock":  -3,
@@ -5175,7 +5175,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Jitendar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "2493",
         "Stock":  0,
@@ -5187,7 +5187,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Muzahira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1640,
         "ItemCode":  "2282",
         "Stock":  0,
@@ -5199,7 +5199,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KHWAB SARAYE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  845,
         "ItemCode":  "3406",
         "Stock":  -1,
@@ -5211,7 +5211,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Taqdeer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "4442",
         "Stock":  11,
@@ -5223,7 +5223,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA GORJET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "1648",
         "Stock":  0,
@@ -5235,7 +5235,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Twinkle"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3838",
         "Stock":  1,
@@ -5247,7 +5247,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MADRAS CAFE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  666,
         "ItemCode":  "1995",
         "Stock":  0,
@@ -5259,7 +5259,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Firdos Raja"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  270,
         "ItemCode":  "3948",
         "Stock":  1,
@@ -5271,7 +5271,7 @@ var STOCK_DATA = [
         "ItemName":  "KF RAYON TOP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3565",
         "Stock":  -1,
@@ -5283,7 +5283,7 @@ var STOCK_DATA = [
         "ItemName":  "Mf Tai Pannel Dw"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3289",
         "Stock":  2,
@@ -5295,7 +5295,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Roshni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3628",
         "Stock":  -1,
@@ -5307,7 +5307,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 007"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2650,
         "ItemCode":  "4324",
         "Stock":  3,
@@ -5319,7 +5319,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CRAZY BOUNCE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "4182",
         "Stock":  3,
@@ -5331,7 +5331,7 @@ var STOCK_DATA = [
         "ItemName":  "JBT SIMRAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3207",
         "Stock":  -12,
@@ -5343,7 +5343,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Varsha Devi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  13,
         "ItemCode":  "1254",
         "Stock":  -388,
@@ -5355,7 +5355,7 @@ var STOCK_DATA = [
         "ItemName":  "Plain Kapda Mix Light Colour Chart"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "2783",
         "Stock":  3,
@@ -5367,7 +5367,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT HEENA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  645,
         "ItemCode":  "3015",
         "Stock":  0,
@@ -5379,7 +5379,7 @@ var STOCK_DATA = [
         "ItemName":  "Anusha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "4123",
         "Stock":  9,
@@ -5391,7 +5391,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS BMW"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "3835",
         "Stock":  -1,
@@ -5403,7 +5403,7 @@ var STOCK_DATA = [
         "ItemName":  "SG SUBHANALLAH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "2088",
         "Stock":  0,
@@ -5415,7 +5415,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Lemon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1285,
         "ItemCode":  "3281",
         "Stock":  0,
@@ -5427,7 +5427,7 @@ var STOCK_DATA = [
         "ItemName":  "Cruncy 0002"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2699",
         "Stock":  0,
@@ -5439,7 +5439,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MONALISA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1705,
         "ItemCode":  "2755",
         "Stock":  0,
@@ -5451,7 +5451,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 101 READYMADE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "4180",
         "Stock":  4,
@@ -5463,7 +5463,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA FOX DHAKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1720,
         "ItemCode":  "4469",
         "Stock":  3,
@@ -5475,7 +5475,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FUN CRUST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2987",
         "Stock":  3,
@@ -5487,7 +5487,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Manmeet"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2733",
         "Stock":  0,
@@ -5499,7 +5499,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shaima"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "2433",
         "Stock":  0,
@@ -5511,7 +5511,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Al Falah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2268",
         "Stock":  0,
@@ -5523,7 +5523,7 @@ var STOCK_DATA = [
         "ItemName":  "GK SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  814.67,
         "ItemCode":  "2603",
         "Stock":  0,
@@ -5535,7 +5535,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mainu Mileya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "3215",
         "Stock":  0,
@@ -5547,7 +5547,7 @@ var STOCK_DATA = [
         "ItemName":  "INNU BELLA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1750,
         "ItemCode":  "4461",
         "Stock":  3,
@@ -5559,7 +5559,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROWDY RAJA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  466.67,
         "ItemCode":  "1999",
         "Stock":  0,
@@ -5571,7 +5571,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Verna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "1225",
         "Stock":  0,
@@ -5583,7 +5583,7 @@ var STOCK_DATA = [
         "ItemName":  "Shee Girl SG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1265,
         "ItemCode":  "4402",
         "Stock":  7,
@@ -5595,7 +5595,7 @@ var STOCK_DATA = [
         "ItemName":  "VF LAST TIME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  394.67,
         "ItemCode":  "2540",
         "Stock":  0,
@@ -5607,7 +5607,7 @@ var STOCK_DATA = [
         "ItemName":  "Roman White Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  325,
         "ItemCode":  "3020",
         "Stock":  0,
@@ -5619,7 +5619,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Variety"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3381",
         "Stock":  -4,
@@ -5631,7 +5631,7 @@ var STOCK_DATA = [
         "ItemName":  "YF jeevan Dhara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2860",
         "Stock":  0,
@@ -5643,7 +5643,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD VIMOCHAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "3053",
         "Stock":  -1,
@@ -5655,7 +5655,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mango Dolly"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  814.67,
         "ItemCode":  "2592",
         "Stock":  0,
@@ -5667,7 +5667,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Fidaa Tujhpe"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "1752",
         "Stock":  0,
@@ -5679,7 +5679,7 @@ var STOCK_DATA = [
         "ItemName":  "RR kishorebagh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "3970",
         "Stock":  -1,
@@ -5691,7 +5691,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BREEZE SIP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3672",
         "Stock":  -6,
@@ -5703,7 +5703,7 @@ var STOCK_DATA = [
         "ItemName":  "Chahat Jaam Mix 03"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "4372",
         "Stock":  11,
@@ -5715,7 +5715,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1295 MOSS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "2014",
         "Stock":  0,
@@ -5727,7 +5727,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY PLAZO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "3141",
         "Stock":  0,
@@ -5739,7 +5739,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena 03 White"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  241,
         "ItemCode":  "4142",
         "Stock":  3,
@@ -5751,7 +5751,7 @@ var STOCK_DATA = [
         "ItemName":  "KT SAPNA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3940",
         "Stock":  2,
@@ -5763,7 +5763,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt Baarat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3764",
         "Stock":  3,
@@ -5775,7 +5775,7 @@ var STOCK_DATA = [
         "ItemName":  "GK IIFA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2525",
         "Stock":  0,
@@ -5787,7 +5787,7 @@ var STOCK_DATA = [
         "ItemName":  "MOONLIGHT YELLOW"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1514",
         "Stock":  0,
@@ -5799,7 +5799,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Surjan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "1597",
         "Stock":  0,
@@ -5811,7 +5811,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Subuhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "2704",
         "Stock":  0,
@@ -5823,7 +5823,7 @@ var STOCK_DATA = [
         "ItemName":  "CHUNRI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3377",
         "Stock":  0,
@@ -5835,7 +5835,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Bislerry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "2813",
         "Stock":  0,
@@ -5847,7 +5847,7 @@ var STOCK_DATA = [
         "ItemName":  "MT SALMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "3705",
         "Stock":  0,
@@ -5859,7 +5859,7 @@ var STOCK_DATA = [
         "ItemName":  "Ahd Reyon Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  565.33,
         "ItemCode":  "1398",
         "Stock":  9,
@@ -5871,7 +5871,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Janvi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "1419",
         "Stock":  0,
@@ -5883,7 +5883,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Black Berry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "3002",
         "Stock":  1,
@@ -5895,7 +5895,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Chaiya Chaiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  90,
         "ItemCode":  "3678",
         "Stock":  11,
@@ -5907,7 +5907,7 @@ var STOCK_DATA = [
         "ItemName":  "Cotton 2.25 Dupatta WHITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  375,
         "ItemCode":  "4041",
         "Stock":  -1,
@@ -5919,7 +5919,7 @@ var STOCK_DATA = [
         "ItemName":  "OLKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  306.67,
         "ItemCode":  "1634",
         "Stock":  0,
@@ -5931,7 +5931,7 @@ var STOCK_DATA = [
         "ItemName":  "Sanskar Rolex"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "3421",
         "Stock":  -2,
@@ -5943,7 +5943,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Orient"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  666,
         "ItemCode":  "1758",
         "Stock":  0,
@@ -5955,7 +5955,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Ranchi jam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2175",
         "Stock":  0,
@@ -5967,7 +5967,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Queen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "4247",
         "Stock":  3,
@@ -5979,7 +5979,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FUSION BITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "2038",
         "Stock":  0,
@@ -5991,7 +5991,7 @@ var STOCK_DATA = [
         "ItemName":  "GF VIVO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "3174",
         "Stock":  0,
@@ -6003,7 +6003,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Maestro"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415,
         "ItemCode":  "3272",
         "Stock":  -2,
@@ -6015,7 +6015,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena White 04"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3383",
         "Stock":  1,
@@ -6027,7 +6027,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhagya Laxmi Alfino"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  895.33,
         "ItemCode":  "1227",
         "Stock":  0,
@@ -6039,7 +6039,7 @@ var STOCK_DATA = [
         "ItemName":  "Kiana SG-221"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "3429",
         "Stock":  1,
@@ -6051,7 +6051,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Khushnasib"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  544.67,
         "ItemCode":  "2374",
         "Stock":  -1,
@@ -6063,7 +6063,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Anokhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2706",
         "Stock":  -1,
@@ -6075,7 +6075,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZARKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "4058",
         "Stock":  -1,
@@ -6087,7 +6087,7 @@ var STOCK_DATA = [
         "ItemName":  "GK GARIMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "2862",
         "Stock":  3,
@@ -6099,7 +6099,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT SANDWICH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "4347",
         "Stock":  3,
@@ -6111,7 +6111,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIRINDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2140",
         "Stock":  -11,
@@ -6123,7 +6123,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Panchi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3390",
         "Stock":  0,
@@ -6135,7 +6135,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Khushbu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "2205",
         "Stock":  0,
@@ -6147,7 +6147,7 @@ var STOCK_DATA = [
         "ItemName":  "SG MashaAllah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "1492",
         "Stock":  0,
@@ -6159,7 +6159,7 @@ var STOCK_DATA = [
         "ItemName":  "Skoda GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1657",
         "Stock":  0,
@@ -6171,7 +6171,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Mahira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "2974",
         "Stock":  3,
@@ -6183,7 +6183,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Shifa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  776.67,
         "ItemCode":  "1914",
         "Stock":  0,
@@ -6195,7 +6195,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dollars"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3713",
         "Stock":  -1,
@@ -6207,7 +6207,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Param Sundari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1104.67,
         "ItemCode":  "2925",
         "Stock":  0,
@@ -6219,7 +6219,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 489 Readymade (5)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "4444",
         "Stock":  46,
@@ -6231,7 +6231,7 @@ var STOCK_DATA = [
         "ItemName":  "INSTAGRAM JIMMY CHUU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "3249",
         "Stock":  -7,
@@ -6243,7 +6243,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Xxx"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "3404",
         "Stock":  0,
@@ -6255,7 +6255,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 2 No X"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "1890",
         "Stock":  0,
@@ -6267,7 +6267,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mahira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  880,
         "ItemCode":  "4206",
         "Stock":  1,
@@ -6279,7 +6279,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CRYSTAL WEAVE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "1997",
         "Stock":  -17,
@@ -6291,7 +6291,7 @@ var STOCK_DATA = [
         "ItemName":  "Lacha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "4165",
         "Stock":  3,
@@ -6303,7 +6303,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAHI ANGOOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1535,
         "ItemCode":  "4011",
         "Stock":  -1,
@@ -6315,7 +6315,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MASTI KA TADKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "3854",
         "Stock":  -1,
@@ -6327,7 +6327,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZAIKA E MAGIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2200,
         "ItemCode":  "3471",
         "Stock":  -1,
@@ -6339,7 +6339,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Heavy Red"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2650,
         "ItemCode":  "4270",
         "Stock":  1,
@@ -6351,7 +6351,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PATIYALA QUEEN FARSI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "1352",
         "Stock":  0,
@@ -6363,7 +6363,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zulfein"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  325,
         "ItemCode":  "3584",
         "Stock":  9,
@@ -6375,7 +6375,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Prem Leela"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2672",
         "Stock":  0,
@@ -6387,7 +6387,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Fuwara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  333.33,
         "ItemCode":  "2110",
         "Stock":  0,
@@ -6399,7 +6399,7 @@ var STOCK_DATA = [
         "ItemName":  "VC PAKISTANI WHITE HOUSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3399",
         "Stock":  0,
@@ -6411,7 +6411,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Baazigar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1825,
         "ItemCode":  "3796",
         "Stock":  0,
@@ -6423,7 +6423,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Outlook"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "3250",
         "Stock":  -4,
@@ -6435,7 +6435,7 @@ var STOCK_DATA = [
         "ItemName":  "VT Sunrise"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "2347",
         "Stock":  0,
@@ -6447,7 +6447,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Gabgubai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1450,
         "ItemCode":  "3917",
         "Stock":  2,
@@ -6459,7 +6459,7 @@ var STOCK_DATA = [
         "ItemName":  "KC REST BOX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  230,
         "ItemCode":  "4438",
         "Stock":  23,
@@ -6471,7 +6471,7 @@ var STOCK_DATA = [
         "ItemName":  "KT JANNAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "2435",
         "Stock":  0,
@@ -6483,7 +6483,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Baby Doll"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1196.67,
         "ItemCode":  "1976",
         "Stock":  0,
@@ -6495,7 +6495,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Behnaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2150,
         "ItemCode":  "2983",
         "Stock":  0,
@@ -6507,7 +6507,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sher"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "1525",
         "Stock":  5,
@@ -6519,7 +6519,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Aditi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "4467",
         "Stock":  7,
@@ -6531,7 +6531,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA FIRDOS MIX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "1980",
         "Stock":  0,
@@ -6543,7 +6543,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Prime"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1525,
         "ItemCode":  "3217",
         "Stock":  -1,
@@ -6555,7 +6555,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Master Piece"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2266",
         "Stock":  0,
@@ -6567,7 +6567,7 @@ var STOCK_DATA = [
         "ItemName":  "GF TWISHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  23.5,
         "ItemCode":  "1297",
         "Stock":  0,
@@ -6579,7 +6579,7 @@ var STOCK_DATA = [
         "ItemName":  "Simran Printed"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2731",
         "Stock":  -1,
@@ -6591,7 +6591,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Azari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2585,
         "ItemCode":  "4268",
         "Stock":  3,
@@ -6603,7 +6603,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZOOM FASHION"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3865",
         "Stock":  3,
@@ -6615,7 +6615,7 @@ var STOCK_DATA = [
         "ItemName":  "WHITE 4 PRINT GALA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "3738",
         "Stock":  -1,
@@ -6627,7 +6627,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Aaghyat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  110,
         "ItemCode":  "3749",
         "Stock":  -3,
@@ -6639,7 +6639,7 @@ var STOCK_DATA = [
         "ItemName":  "Camric Duptta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2326",
         "Stock":  0,
@@ -6651,7 +6651,7 @@ var STOCK_DATA = [
         "ItemName":  "MOHIT MADAM SAHIBA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "1344",
         "Stock":  0,
@@ -6663,7 +6663,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Sunshine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "2220",
         "Stock":  12,
@@ -6675,7 +6675,7 @@ var STOCK_DATA = [
         "ItemName":  "01 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2514",
         "Stock":  -10,
@@ -6687,7 +6687,7 @@ var STOCK_DATA = [
         "ItemName":  "Libas Garments"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1166.67,
         "ItemCode":  "1600",
         "Stock":  0,
@@ -6699,7 +6699,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kenzo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2150,
         "ItemCode":  "2739",
         "Stock":  0,
@@ -6711,7 +6711,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MEHRANG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2650,
         "ItemCode":  "4234",
         "Stock":  -1,
@@ -6723,7 +6723,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STYLISH BEAUTY, FARSHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1186.67,
         "ItemCode":  "1844",
         "Stock":  0,
@@ -6735,7 +6735,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Smoothie"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "4091",
         "Stock":  1,
@@ -6747,7 +6747,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Taaziir"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1030,
         "ItemCode":  "4107",
         "Stock":  -1,
@@ -6759,7 +6759,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAGIC MIRROR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2527",
         "Stock":  0,
@@ -6771,7 +6771,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Samayra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1715,
         "ItemCode":  "2012",
         "Stock":  -3,
@@ -6783,7 +6783,7 @@ var STOCK_DATA = [
         "ItemName":  "PLAZO 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  586.67,
         "ItemCode":  "1554",
         "Stock":  0,
@@ -6795,7 +6795,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Zindail"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "3430",
         "Stock":  0,
@@ -6807,7 +6807,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome New Gulaboo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1588",
         "Stock":  0,
@@ -6819,7 +6819,7 @@ var STOCK_DATA = [
         "ItemName":  "Sapna Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "2811",
         "Stock":  0,
@@ -6831,7 +6831,7 @@ var STOCK_DATA = [
         "ItemName":  "MT YUSRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1516",
         "Stock":  0,
@@ -6843,7 +6843,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Nirali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1426.67,
         "ItemCode":  "1820",
         "Stock":  0,
@@ -6855,7 +6855,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Nike"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  423.33,
         "ItemCode":  "2775",
         "Stock":  0,
@@ -6867,7 +6867,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT BLACKMAIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  9,
         "ItemCode":  "1722",
         "Stock":  -150,
@@ -6879,7 +6879,7 @@ var STOCK_DATA = [
         "ItemName":  "Handkerchief"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1425,
         "ItemCode":  "4404",
         "Stock":  7,
@@ -6891,7 +6891,7 @@ var STOCK_DATA = [
         "ItemName":  "VF SURPRICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515.33,
         "ItemCode":  "1335",
         "Stock":  0,
@@ -6903,7 +6903,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Race"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1375,
         "ItemCode":  "3412",
         "Stock":  0,
@@ -6915,7 +6915,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Arbaaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1515,
         "ItemCode":  "3077",
         "Stock":  -1,
@@ -6927,7 +6927,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Choco Cream"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2239",
         "Stock":  0,
@@ -6939,7 +6939,7 @@ var STOCK_DATA = [
         "ItemName":  "GF amber"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "4410",
         "Stock":  3,
@@ -6951,7 +6951,7 @@ var STOCK_DATA = [
         "ItemName":  "OM SONA BABU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "3114",
         "Stock":  2,
@@ -6963,7 +6963,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Burj Khalifa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "2086",
         "Stock":  0,
@@ -6975,7 +6975,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3337",
         "Stock":  -1,
@@ -6987,7 +6987,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Jio"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  494.67,
         "ItemCode":  "3013",
         "Stock":  0,
@@ -6999,7 +6999,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Sadiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3626",
         "Stock":  -1,
@@ -7011,7 +7011,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 005"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2090,
         "ItemCode":  "4326",
         "Stock":  3,
@@ -7023,7 +7023,7 @@ var STOCK_DATA = [
         "ItemName":  "KC EASY LOOK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  875,
         "ItemCode":  "3147",
         "Stock":  0,
@@ -7035,7 +7035,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 007"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "4232",
         "Stock":  3,
@@ -7047,7 +7047,7 @@ var STOCK_DATA = [
         "ItemName":  "BARKHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675,
         "ItemCode":  "4516",
         "Stock":  3,
@@ -7059,7 +7059,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STREET FOOD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "2311",
         "Stock":  0,
@@ -7071,7 +7071,7 @@ var STOCK_DATA = [
         "ItemName":  "SF ZAMZAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "2420",
         "Stock":  0,
@@ -7083,7 +7083,7 @@ var STOCK_DATA = [
         "ItemName":  "Coconut"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  854.67,
         "ItemCode":  "2827",
         "Stock":  0,
@@ -7095,7 +7095,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NOORALI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  860,
         "ItemCode":  "1429",
         "Stock":  0,
@@ -7107,7 +7107,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Good Night"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "1458",
         "Stock":  0,
@@ -7119,7 +7119,7 @@ var STOCK_DATA = [
         "ItemName":  "Sarkas All Over"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3318",
         "Stock":  -2,
@@ -7131,7 +7131,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Mirzapur"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  645,
         "ItemCode":  "4238",
         "Stock":  2,
@@ -7143,7 +7143,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MADHAVI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1421",
         "Stock":  0,
@@ -7155,7 +7155,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Saheli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1348",
         "Stock":  0,
@@ -7167,7 +7167,7 @@ var STOCK_DATA = [
         "ItemName":  "Ragini JF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3166",
         "Stock":  3,
@@ -7179,7 +7179,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Ganga Jamuna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3952",
         "Stock":  -1,
@@ -7191,7 +7191,7 @@ var STOCK_DATA = [
         "ItemName":  "Rrt High"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  235,
         "ItemCode":  "4066",
         "Stock":  5,
@@ -7203,7 +7203,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC SEHNAAZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "3988",
         "Stock":  3,
@@ -7215,7 +7215,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SPECIAL SOUL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1895,
         "ItemCode":  "3435",
         "Stock":  0,
@@ -7227,7 +7227,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sab Khushnuma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  860,
         "ItemCode":  "1430",
         "Stock":  0,
@@ -7239,7 +7239,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Alina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  421,
         "ItemCode":  "4353",
         "Stock":  7,
@@ -7251,7 +7251,7 @@ var STOCK_DATA = [
         "ItemName":  "MALAI COTTON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2092",
         "Stock":  0,
@@ -7263,7 +7263,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Ancher"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1554.67,
         "ItemCode":  "2552",
         "Stock":  -4,
@@ -7275,7 +7275,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DIL E GULZAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "3124",
         "Stock":  0,
@@ -7287,7 +7287,7 @@ var STOCK_DATA = [
         "ItemName":  "Ss Melody"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  786.67,
         "ItemCode":  "1956",
         "Stock":  0,
@@ -7299,7 +7299,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Sweet Look"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1774",
         "Stock":  0,
@@ -7311,7 +7311,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Yakub"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  152,
         "ItemCode":  "3645",
         "Stock":  7,
@@ -7323,7 +7323,7 @@ var STOCK_DATA = [
         "ItemName":  "Seltos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2062",
         "Stock":  0,
@@ -7335,7 +7335,7 @@ var STOCK_DATA = [
         "ItemName":  "Gf Glorious"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "2939",
         "Stock":  -2,
@@ -7347,7 +7347,7 @@ var STOCK_DATA = [
         "ItemName":  "SV Royal Stag"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2730",
         "Stock":  -3,
@@ -7359,7 +7359,7 @@ var STOCK_DATA = [
         "ItemName":  "Trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1275,
         "ItemCode":  "4463",
         "Stock":  3,
@@ -7371,7 +7371,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROOP NIKHAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1467",
         "Stock":  0,
@@ -7383,7 +7383,7 @@ var STOCK_DATA = [
         "ItemName":  "AARJU BHUMI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1315,
         "ItemCode":  "3811",
         "Stock":  -2,
@@ -7395,7 +7395,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Star Ship"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  306.67,
         "ItemCode":  "1628",
         "Stock":  0,
@@ -7407,7 +7407,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Gangajal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1120,
         "ItemCode":  "2601",
         "Stock":  0,
@@ -7419,7 +7419,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Chahatein"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  237.33,
         "ItemCode":  "1256",
         "Stock":  0,
@@ -7431,7 +7431,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Mithas"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3287",
         "Stock":  -1,
@@ -7443,7 +7443,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Senorita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "3449",
         "Stock":  0,
@@ -7455,7 +7455,7 @@ var STOCK_DATA = [
         "ItemName":  "JT Shabana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "2431",
         "Stock":  0,
@@ -7467,7 +7467,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Aankh Micholi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "1471",
         "Stock":  0,
@@ -7479,7 +7479,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Forever"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4127",
         "Stock":  3,
@@ -7491,7 +7491,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RAJWADI SWEET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1303",
         "Stock":  0,
@@ -7503,7 +7503,7 @@ var STOCK_DATA = [
         "ItemName":  "SCV Shagun"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  824.67,
         "ItemCode":  "2953",
         "Stock":  0,
@@ -7515,7 +7515,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sun Sathiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  34.51,
         "ItemCode":  "1713",
         "Stock":  2395,
@@ -7527,7 +7527,7 @@ var STOCK_DATA = [
         "ItemName":  "SHAWL DHADKAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  375,
         "ItemCode":  "3009",
         "Stock":  6,
@@ -7539,7 +7539,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Dal Pakwan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  584.67,
         "ItemCode":  "2145",
         "Stock":  -3,
@@ -7551,7 +7551,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HAJRAH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1506",
         "Stock":  0,
@@ -7563,7 +7563,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Aadarshini"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "3441",
         "Stock":  -1,
@@ -7575,7 +7575,7 @@ var STOCK_DATA = [
         "ItemName":  "ABC Rutba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "2439",
         "Stock":  0,
@@ -7587,7 +7587,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Mumtaj"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  850,
         "ItemCode":  "2319",
         "Stock":  0,
@@ -7599,7 +7599,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT FALOODA STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  830,
         "ItemCode":  "2008",
         "Stock":  0,
@@ -7611,7 +7611,7 @@ var STOCK_DATA = [
         "ItemName":  "NEVEDHYAM MUNNI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "4021",
         "Stock":  -1,
@@ -7623,7 +7623,7 @@ var STOCK_DATA = [
         "ItemName":  "RR AARTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  40.67,
         "ItemCode":  "3693",
         "Stock":  615,
@@ -7635,7 +7635,7 @@ var STOCK_DATA = [
         "ItemName":  "Aarti Turkish Towel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1000,
         "ItemCode":  "1865",
         "Stock":  0,
@@ -7647,7 +7647,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Milkybar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3223",
         "Stock":  0,
@@ -7659,7 +7659,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Limca"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2412",
         "Stock":  0,
@@ -7671,7 +7671,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Cocktail"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1344.67,
         "ItemCode":  "2651",
         "Stock":  0,
@@ -7683,7 +7683,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shyla"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  355,
         "ItemCode":  "3804",
         "Stock":  -7,
@@ -7695,7 +7695,7 @@ var STOCK_DATA = [
         "ItemName":  "VC ENJOY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  925,
         "ItemCode":  "4380",
         "Stock":  7,
@@ -7707,7 +7707,7 @@ var STOCK_DATA = [
         "ItemName":  "JIMMI CHU 1178"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  620.67,
         "ItemCode":  "1782",
         "Stock":  0,
@@ -7719,7 +7719,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Mango burberry suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "1619",
         "Stock":  0,
@@ -7731,7 +7731,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Gamila"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1310,
         "ItemCode":  "4376",
         "Stock":  3,
@@ -7743,7 +7743,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1395"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "2659",
         "Stock":  0,
@@ -7755,7 +7755,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Zara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625.33,
         "ItemCode":  "1321",
         "Stock":  0,
@@ -7767,7 +7767,7 @@ var STOCK_DATA = [
         "ItemName":  "VT Sallar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1607",
         "Stock":  0,
@@ -7779,7 +7779,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt Zoya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "4179",
         "Stock":  8,
@@ -7791,7 +7791,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA ORGANZA 7 STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1055.33,
         "ItemCode":  "1371",
         "Stock":  0,
@@ -7803,7 +7803,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Table Tennis"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "2491",
         "Stock":  0,
@@ -7815,7 +7815,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Readymade R104"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "4264",
         "Stock":  3,
@@ -7827,7 +7827,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZAFRAANI NOOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215,
         "ItemCode":  "3828",
         "Stock":  24,
@@ -7839,7 +7839,7 @@ var STOCK_DATA = [
         "ItemName":  "Royal Ghamti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4298",
         "Stock":  3,
@@ -7851,7 +7851,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PRIME POINT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2192",
         "Stock":  0,
@@ -7863,7 +7863,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Ziyarat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1815,
         "ItemCode":  "3521",
         "Stock":  0,
@@ -7875,7 +7875,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Readymade 1011"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  670,
         "ItemCode":  "1816",
         "Stock":  0,
@@ -7887,7 +7887,7 @@ var STOCK_DATA = [
         "ItemName":  "GF NenTara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "3022",
         "Stock":  0,
@@ -7899,7 +7899,7 @@ var STOCK_DATA = [
         "ItemName":  "MF Ginger"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3726",
         "Stock":  -1,
@@ -7911,7 +7911,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Fun World"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  815,
         "ItemCode":  "3779",
         "Stock":  3,
@@ -7923,7 +7923,7 @@ var STOCK_DATA = [
         "ItemName":  "N Angara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3505",
         "Stock":  -1,
@@ -7935,7 +7935,7 @@ var STOCK_DATA = [
         "ItemName":  "Print Zarkan Gala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  66.67,
         "ItemCode":  "1714",
         "Stock":  0,
@@ -7947,7 +7947,7 @@ var STOCK_DATA = [
         "ItemName":  "Nagma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1910,
         "ItemCode":  "3523",
         "Stock":  -4,
@@ -7959,7 +7959,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 109"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "2308",
         "Stock":  0,
@@ -7971,7 +7971,7 @@ var STOCK_DATA = [
         "ItemName":  "SF DREEMLAND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  820,
         "ItemCode":  "2558",
         "Stock":  0,
@@ -7983,7 +7983,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Fox Hirva"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  474.67,
         "ItemCode":  "2587",
         "Stock":  0,
@@ -7995,7 +7995,7 @@ var STOCK_DATA = [
         "ItemName":  "Mannat Breathless"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "4085",
         "Stock":  0,
@@ -8007,7 +8007,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA TELEGRAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2341",
         "Stock":  0,
@@ -8019,7 +8019,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3358",
         "Stock":  -3,
@@ -8031,7 +8031,7 @@ var STOCK_DATA = [
         "ItemName":  "Inaya Rajwadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1523",
         "Stock":  0,
@@ -8043,7 +8043,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Misiri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "1546",
         "Stock":  0,
@@ -8055,7 +8055,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Zara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415.33,
         "ItemCode":  "1233",
         "Stock":  0,
@@ -8067,7 +8067,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Jannat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "2081",
         "Stock":  0,
@@ -8079,7 +8079,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Neptune"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685.33,
         "ItemCode":  "1329",
         "Stock":  0,
@@ -8091,7 +8091,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Ishq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "3897",
         "Stock":  2,
@@ -8103,7 +8103,7 @@ var STOCK_DATA = [
         "ItemName":  "OM CHAND KA TUKDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2135",
         "Stock":  469,
@@ -8115,7 +8115,7 @@ var STOCK_DATA = [
         "ItemName":  "SST SURYAJYOTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "4386",
         "Stock":  3,
@@ -8127,7 +8127,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TIKHA TADKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "1263",
         "Stock":  0,
@@ -8139,7 +8139,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Rathore"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2585,
         "ItemCode":  "4305",
         "Stock":  3,
@@ -8151,7 +8151,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHINE STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2875",
         "Stock":  -1,
@@ -8163,7 +8163,7 @@ var STOCK_DATA = [
         "ItemName":  "JS Kanchan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3730",
         "Stock":  -1,
@@ -8175,7 +8175,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Jodha Akbar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1435,
         "ItemCode":  "3578",
         "Stock":  -4,
@@ -8187,7 +8187,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY K 1224"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  240,
         "ItemCode":  "3323",
         "Stock":  -1,
@@ -8199,7 +8199,7 @@ var STOCK_DATA = [
         "ItemName":  "Radhika Firdaus"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "4548",
         "Stock":  3,
@@ -8211,7 +8211,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SNOW ROSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1421,
         "ItemCode":  "4482",
         "Stock":  3,
@@ -8223,7 +8223,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SIZZLE BITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  880,
         "ItemCode":  "4204",
         "Stock":  3,
@@ -8235,7 +8235,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PRIME FIT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2075,
         "ItemCode":  "4098",
         "Stock":  3,
@@ -8247,7 +8247,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Lovemist"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2090",
         "Stock":  0,
@@ -8259,7 +8259,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Pinky"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  970,
         "ItemCode":  "4137",
         "Stock":  -1,
@@ -8271,7 +8271,7 @@ var STOCK_DATA = [
         "ItemName":  "OM GEMINI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  844.67,
         "ItemCode":  "2714",
         "Stock":  1,
@@ -8283,7 +8283,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MIHRAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2343",
         "Stock":  -1,
@@ -8295,7 +8295,7 @@ var STOCK_DATA = [
         "ItemName":  "Frock"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "2544",
         "Stock":  0,
@@ -8307,7 +8307,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Imroz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1452",
         "Stock":  0,
@@ -8319,7 +8319,7 @@ var STOCK_DATA = [
         "ItemName":  "Pehnawa Somiya Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1040,
         "ItemCode":  "4081",
         "Stock":  2,
@@ -8331,7 +8331,7 @@ var STOCK_DATA = [
         "ItemName":  "Rs Satin Same Colour"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1085,
         "ItemCode":  "3363",
         "Stock":  -1,
@@ -8343,7 +8343,7 @@ var STOCK_DATA = [
         "ItemName":  "KBI 6177"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1660,
         "ItemCode":  "1949",
         "Stock":  0,
@@ -8355,7 +8355,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Ruhan Pant"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "3437",
         "Stock":  -1,
@@ -8367,7 +8367,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Zaira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1585,
         "ItemCode":  "4542",
         "Stock":  3,
@@ -8379,7 +8379,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHLL AND THRIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "2804",
         "Stock":  -1,
@@ -8391,7 +8391,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROOP SUNDARI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1346.67,
         "ItemCode":  "1893",
         "Stock":  0,
@@ -8403,7 +8403,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dil Diwana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "2585",
         "Stock":  0,
@@ -8415,7 +8415,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Urfi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1645,
         "ItemCode":  "4537",
         "Stock":  3,
@@ -8427,7 +8427,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIRST LOVE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "3329",
         "Stock":  1,
@@ -8439,7 +8439,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Zainab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "3190",
         "Stock":  0,
@@ -8451,7 +8451,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Bhel Puri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2156.67,
         "ItemCode":  "1941",
         "Stock":  0,
@@ -8463,7 +8463,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony peplum"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2098",
         "Stock":  0,
@@ -8475,7 +8475,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Eva Vanrtara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1030,
         "ItemCode":  "4286",
         "Stock":  3,
@@ -8487,7 +8487,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LOVE MASALA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "3902",
         "Stock":  -1,
@@ -8499,7 +8499,7 @@ var STOCK_DATA = [
         "ItemName":  "SG STRAWBERRY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "3979",
         "Stock":  -1,
@@ -8511,7 +8511,7 @@ var STOCK_DATA = [
         "ItemName":  "SG CLASSIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2419",
         "Stock":  0,
@@ -8523,7 +8523,7 @@ var STOCK_DATA = [
         "ItemName":  "Replacement"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  574.67,
         "ItemCode":  "2152",
         "Stock":  0,
@@ -8535,7 +8535,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Taj Mahal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1740,
         "ItemCode":  "4125",
         "Stock":  -1,
@@ -8547,7 +8547,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY JACKET S93"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1140,
         "ItemCode":  "3134",
         "Stock":  0,
@@ -8559,7 +8559,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Light Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  825,
         "ItemCode":  "4489",
         "Stock":  3,
@@ -8571,7 +8571,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RANG SATRANGI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1853",
         "Stock":  0,
@@ -8583,7 +8583,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Shilpa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1464",
         "Stock":  0,
@@ -8595,7 +8595,7 @@ var STOCK_DATA = [
         "ItemName":  "SOLDIER BHUMI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  317,
         "ItemCode":  "4027",
         "Stock":  -5,
@@ -8607,7 +8607,7 @@ var STOCK_DATA = [
         "ItemName":  "RR BAILEY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3732",
         "Stock":  -1,
@@ -8619,7 +8619,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Sitare"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  205.33,
         "ItemCode":  "1392",
         "Stock":  0,
@@ -8631,7 +8631,7 @@ var STOCK_DATA = [
         "ItemName":  "Agarwal Slub Cotton Vintage Type"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "2951",
         "Stock":  0,
@@ -8643,7 +8643,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Nakoda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "2358",
         "Stock":  0,
@@ -8655,7 +8655,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS Anushka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "3126",
         "Stock":  -1,
@@ -8667,7 +8667,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Twenty Twenty"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1486.67,
         "ItemCode":  "1611",
         "Stock":  0,
@@ -8679,7 +8679,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Arwa Burberry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3312",
         "Stock":  -1,
@@ -8691,7 +8691,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Dream Girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  82,
         "ItemCode":  "2634",
         "Stock":  0,
@@ -8703,7 +8703,7 @@ var STOCK_DATA = [
         "ItemName":  "JUST TRYING 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  616.67,
         "ItemCode":  "2064",
         "Stock":  0,
@@ -8715,7 +8715,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Gf Twelth Pass"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  285,
         "ItemCode":  "3059",
         "Stock":  0,
@@ -8727,7 +8727,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Muskan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2313",
         "Stock":  0,
@@ -8739,7 +8739,7 @@ var STOCK_DATA = [
         "ItemName":  "MT HOT GARMI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465.33,
         "ItemCode":  "1346",
         "Stock":  0,
@@ -8751,7 +8751,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Shararat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "1319",
         "Stock":  0,
@@ -8763,7 +8763,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Basundi Firdous"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  270,
         "ItemCode":  "2186",
         "Stock":  0,
@@ -8775,7 +8775,7 @@ var STOCK_DATA = [
         "ItemName":  "Garima Rashmalai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  810,
         "ItemCode":  "1427",
         "Stock":  0,
@@ -8787,7 +8787,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Santa Cruz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "4518",
         "Stock":  3,
@@ -8799,7 +8799,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RAIN DANCE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  624.67,
         "ItemCode":  "2970",
         "Stock":  0,
@@ -8811,7 +8811,7 @@ var STOCK_DATA = [
         "ItemName":  "MF Super Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4424",
         "Stock":  3,
@@ -8823,7 +8823,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GOLDEN MELODY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1256.67,
         "ItemCode":  "1944",
         "Stock":  0,
@@ -8835,7 +8835,7 @@ var STOCK_DATA = [
         "ItemName":  "SG FLORINA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "4458",
         "Stock":  3,
@@ -8847,7 +8847,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL SWEET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4266",
         "Stock":  3,
@@ -8859,7 +8859,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GOOGLE GEMINI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1373",
         "Stock":  0,
@@ -8871,7 +8871,7 @@ var STOCK_DATA = [
         "ItemName":  "Rice GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2284.67,
         "ItemCode":  "2789",
         "Stock":  0,
@@ -8883,7 +8883,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SAKHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215.33,
         "ItemCode":  "1282",
         "Stock":  0,
@@ -8895,7 +8895,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Mehbuba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3822",
         "Stock":  -1,
@@ -8907,7 +8907,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc High Speed"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  670,
         "ItemCode":  "1818",
         "Stock":  0,
@@ -8919,7 +8919,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Kalyan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1595",
         "Stock":  0,
@@ -8931,7 +8931,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Mastani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "3154",
         "Stock":  -5,
@@ -8943,7 +8943,7 @@ var STOCK_DATA = [
         "ItemName":  "RS Crunchy 4"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3188",
         "Stock":  0,
@@ -8955,7 +8955,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Maira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1610,
         "ItemCode":  "2609",
         "Stock":  0,
@@ -8967,7 +8967,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 1178"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "4188",
         "Stock":  -2,
@@ -8979,7 +8979,7 @@ var STOCK_DATA = [
         "ItemName":  "OM GIRL FIREND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "2781",
         "Stock":  0,
@@ -8991,7 +8991,7 @@ var STOCK_DATA = [
         "ItemName":  "GF JASSI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  624.67,
         "ItemCode":  "2931",
         "Stock":  0,
@@ -9003,7 +9003,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Hirwa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3360",
         "Stock":  3,
@@ -9015,7 +9015,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Red Bull"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2262",
         "Stock":  0,
@@ -9027,7 +9027,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY COTTON PANT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "4322",
         "Stock":  7,
@@ -9039,7 +9039,7 @@ var STOCK_DATA = [
         "ItemName":  "DIVYA KARISHMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  696.67,
         "ItemCode":  "1872",
         "Stock":  0,
@@ -9051,7 +9051,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Firdos Dimpal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "3766",
         "Stock":  2,
@@ -9063,7 +9063,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MINT TWIST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3017",
         "Stock":  -1,
@@ -9075,7 +9075,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Hum Tum"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3848",
         "Stock":  2,
@@ -9087,7 +9087,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ICON WEAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3622",
         "Stock":  -1,
@@ -9099,7 +9099,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 001"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685.33,
         "ItemCode":  "1383",
         "Stock":  0,
@@ -9111,7 +9111,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Raseeda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "2573",
         "Stock":  0,
@@ -9123,7 +9123,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KACHI KALI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475.33,
         "ItemCode":  "2057",
         "Stock":  0,
@@ -9135,7 +9135,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Om Big Boss"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "3674",
         "Stock":  3,
@@ -9147,7 +9147,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Red 1343"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "2251",
         "Stock":  0,
@@ -9159,7 +9159,7 @@ var STOCK_DATA = [
         "ItemName":  "GK KITES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  430,
         "ItemCode":  "4378",
         "Stock":  19,
@@ -9171,7 +9171,7 @@ var STOCK_DATA = [
         "ItemName":  "MASTI RANGAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "1788",
         "Stock":  0,
@@ -9183,7 +9183,7 @@ var STOCK_DATA = [
         "ItemName":  "Rup ki Rani firdous 1\u0027st"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2877",
         "Stock":  0,
@@ -9195,7 +9195,7 @@ var STOCK_DATA = [
         "ItemName":  "JS Vedant"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "2502",
         "Stock":  0,
@@ -9207,7 +9207,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Saheli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "3503",
         "Stock":  6,
@@ -9219,7 +9219,7 @@ var STOCK_DATA = [
         "ItemName":  "Om 786"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  285.33,
         "ItemCode":  "1754",
         "Stock":  0,
@@ -9231,7 +9231,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Strawberry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "3321",
         "Stock":  -4,
@@ -9243,7 +9243,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Black Cobra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2259",
         "Stock":  0,
@@ -9255,7 +9255,7 @@ var STOCK_DATA = [
         "ItemName":  "MUSIC PEPLUM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1545",
         "Stock":  0,
@@ -9267,7 +9267,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh Real Diamond"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "1780",
         "Stock":  0,
@@ -9279,7 +9279,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Feriya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "2653",
         "Stock":  0,
@@ -9291,7 +9291,7 @@ var STOCK_DATA = [
         "ItemName":  "Mt Sunflower"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3371",
         "Stock":  3,
@@ -9303,7 +9303,7 @@ var STOCK_DATA = [
         "ItemName":  "Af Sana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1512",
         "Stock":  0,
@@ -9315,7 +9315,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Manohar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  270,
         "ItemCode":  "1697",
         "Stock":  0,
@@ -9327,7 +9327,7 @@ var STOCK_DATA = [
         "ItemName":  "Boby Jasoos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  335,
         "ItemCode":  "3056",
         "Stock":  -3,
@@ -9339,7 +9339,7 @@ var STOCK_DATA = [
         "ItemName":  "Jayveelon JV Camric"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2140,
         "ItemCode":  "4303",
         "Stock":  -1,
@@ -9351,7 +9351,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GOLDEN LAMHE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465.33,
         "ItemCode":  "1265",
         "Stock":  0,
@@ -9363,7 +9363,7 @@ var STOCK_DATA = [
         "ItemName":  "Om All Out Pak Suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3378",
         "Stock":  0,
@@ -9375,7 +9375,7 @@ var STOCK_DATA = [
         "ItemName":  "YF sharbat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "1605",
         "Stock":  0,
@@ -9387,7 +9387,7 @@ var STOCK_DATA = [
         "ItemName":  "Gadar-2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "2166",
         "Stock":  0,
@@ -9399,7 +9399,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Blockbuster"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1310",
         "Stock":  1,
@@ -9411,7 +9411,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Saanvi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "1495",
         "Stock":  0,
@@ -9423,7 +9423,7 @@ var STOCK_DATA = [
         "ItemName":  "Thar GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2865",
         "Stock":  0,
@@ -9435,7 +9435,7 @@ var STOCK_DATA = [
         "ItemName":  "VC UPDATE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2834",
         "Stock":  -1,
@@ -9447,7 +9447,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JORDAAR JODI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "1751",
         "Stock":  0,
@@ -9459,7 +9459,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Khasbagh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3566",
         "Stock":  -5,
@@ -9471,7 +9471,7 @@ var STOCK_DATA = [
         "ItemName":  "Mf Pum Pum D"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675.33,
         "ItemCode":  "1759",
         "Stock":  0,
@@ -9483,7 +9483,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Classic Fox"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1671",
         "Stock":  0,
@@ -9495,7 +9495,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Zoomer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  940,
         "ItemCode":  "1574",
         "Stock":  0,
@@ -9507,7 +9507,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Anaya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  945,
         "ItemCode":  "3175",
         "Stock":  0,
@@ -9519,7 +9519,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Toyota"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  488,
         "ItemCode":  "2753",
         "Stock":  -1,
@@ -9531,7 +9531,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Fanah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1135,
         "ItemCode":  "3271",
         "Stock":  0,
@@ -9543,7 +9543,7 @@ var STOCK_DATA = [
         "ItemName":  "KBI 6111"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  775,
         "ItemCode":  "3945",
         "Stock":  3,
@@ -9555,7 +9555,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GOLDEN VOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1650,
         "ItemCode":  "3042",
         "Stock":  0,
@@ -9567,7 +9567,7 @@ var STOCK_DATA = [
         "ItemName":  "Niyati"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3688",
         "Stock":  0,
@@ -9579,7 +9579,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NOBLE LIGHT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2709",
         "Stock":  0,
@@ -9591,7 +9591,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MANNARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3382",
         "Stock":  2,
@@ -9603,7 +9603,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Saffron"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  895.33,
         "ItemCode":  "1228",
         "Stock":  0,
@@ -9615,7 +9615,7 @@ var STOCK_DATA = [
         "ItemName":  "Kiana SG-213"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  385,
         "ItemCode":  "3195",
         "Stock":  0,
@@ -9627,7 +9627,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Aaj Tak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "1273",
         "Stock":  0,
@@ -9639,7 +9639,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sharara Mix Design"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "3422",
         "Stock":  0,
@@ -9651,7 +9651,7 @@ var STOCK_DATA = [
         "ItemName":  "Eva Simon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2256",
         "Stock":  0,
@@ -9663,7 +9663,7 @@ var STOCK_DATA = [
         "ItemName":  "DIPKA SAKHI SAHELI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2080,
         "ItemCode":  "4344",
         "Stock":  2,
@@ -9675,7 +9675,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GOLDEN CRUNCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4156",
         "Stock":  3,
@@ -9687,7 +9687,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PURE LEAF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "2677",
         "Stock":  2,
@@ -9699,7 +9699,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TUMSE ISHQ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2599",
         "Stock":  0,
@@ -9711,7 +9711,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Delhi Chat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1614",
         "Stock":  0,
@@ -9723,7 +9723,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Hulchul"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  494.67,
         "ItemCode":  "2977",
         "Stock":  1,
@@ -9735,7 +9735,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Mehbooba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  740,
         "ItemCode":  "1915",
         "Stock":  0,
@@ -9747,7 +9747,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Chennai express"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1134.67,
         "ItemCode":  "2628",
         "Stock":  0,
@@ -9759,7 +9759,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ARSHIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  844.67,
         "ItemCode":  "2117",
         "Stock":  0,
@@ -9771,7 +9771,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DOLPHINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1095,
         "ItemCode":  "3104",
         "Stock":  0,
@@ -9783,7 +9783,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 908A"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  505.33,
         "ItemCode":  "1386",
         "Stock":  0,
@@ -9795,7 +9795,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Ful Zadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  715.33,
         "ItemCode":  "1409",
         "Stock":  0,
@@ -9807,7 +9807,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Signal Hill"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2906",
         "Stock":  0,
@@ -9819,7 +9819,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Ferrari Chivda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  763.33,
         "ItemCode":  "1412",
         "Stock":  0,
@@ -9831,7 +9831,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Eva Belen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1852",
         "Stock":  0,
@@ -9843,7 +9843,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Shringar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1580,
         "ItemCode":  "4005",
         "Stock":  2,
@@ -9855,7 +9855,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GULSANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "3110",
         "Stock":  6,
@@ -9867,7 +9867,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Marry me"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1316.67,
         "ItemCode":  "2359",
         "Stock":  0,
@@ -9879,7 +9879,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pehrava"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  433.33,
         "ItemCode":  "2022",
         "Stock":  0,
@@ -9891,7 +9891,7 @@ var STOCK_DATA = [
         "ItemName":  "HP SUITE 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2859",
         "Stock":  0,
@@ -9903,7 +9903,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD BLACK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515.33,
         "ItemCode":  "1462",
         "Stock":  0,
@@ -9915,7 +9915,7 @@ var STOCK_DATA = [
         "ItemName":  "PAKODI MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  945,
         "ItemCode":  "3655",
         "Stock":  2,
@@ -9927,7 +9927,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RESTART"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  684.67,
         "ItemCode":  "2892",
         "Stock":  0,
@@ -9939,7 +9939,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Dhun"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1094.67,
         "ItemCode":  "2351",
         "Stock":  0,
@@ -9951,7 +9951,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 2681"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3403",
         "Stock":  -1,
@@ -9963,7 +9963,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Pizza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  910,
         "ItemCode":  "2487",
         "Stock":  0,
@@ -9975,7 +9975,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Nexon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "2214",
         "Stock":  0,
@@ -9987,7 +9987,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM PASTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4466",
         "Stock":  3,
@@ -9999,7 +9999,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWAG STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  870,
         "ItemCode":  "2436",
         "Stock":  0,
@@ -10011,7 +10011,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Jivika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1877",
         "Stock":  0,
@@ -10023,7 +10023,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Amar Suhag"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2120",
         "Stock":  0,
@@ -10035,7 +10035,7 @@ var STOCK_DATA = [
         "ItemName":  "KEYONA MAYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1524",
         "Stock":  0,
@@ -10047,7 +10047,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Aaditi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  355,
         "ItemCode":  "3731",
         "Stock":  -1,
@@ -10059,7 +10059,7 @@ var STOCK_DATA = [
         "ItemName":  "Lc Zeenat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "1625",
         "Stock":  0,
@@ -10071,7 +10071,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Roli Moli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1535,
         "ItemCode":  "3216",
         "Stock":  0,
@@ -10083,7 +10083,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mufaza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1710",
         "Stock":  0,
@@ -10095,7 +10095,7 @@ var STOCK_DATA = [
         "ItemName":  "Pinkey SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "1927",
         "Stock":  0,
@@ -10107,7 +10107,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Hip Hop"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  850,
         "ItemCode":  "4250",
         "Stock":  3,
@@ -10119,7 +10119,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SMART POINT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "3295",
         "Stock":  -3,
@@ -10131,7 +10131,7 @@ var STOCK_DATA = [
         "ItemName":  "Paplon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "4033",
         "Stock":  -1,
@@ -10143,7 +10143,7 @@ var STOCK_DATA = [
         "ItemName":  "OM LADO RANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "3739",
         "Stock":  -1,
@@ -10155,7 +10155,7 @@ var STOCK_DATA = [
         "ItemName":  "GK BUGATI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "4235",
         "Stock":  -21,
@@ -10167,7 +10167,7 @@ var STOCK_DATA = [
         "ItemName":  "Saanvi Raftar 2peice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "1399",
         "Stock":  0,
@@ -10179,7 +10179,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Megha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2327",
         "Stock":  0,
@@ -10191,7 +10191,7 @@ var STOCK_DATA = [
         "ItemName":  "MOHIT SABIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3866",
         "Stock":  3,
@@ -10203,7 +10203,7 @@ var STOCK_DATA = [
         "ItemName":  "WHITE 5 PRINT GALA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "1391",
         "Stock":  2,
@@ -10215,7 +10215,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Madhuri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2150,
         "ItemCode":  "2738",
         "Stock":  0,
@@ -10227,7 +10227,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JIZAAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2167",
         "Stock":  0,
@@ -10239,7 +10239,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Bharti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  430,
         "ItemCode":  "3453",
         "Stock":  -1,
@@ -10251,7 +10251,7 @@ var STOCK_DATA = [
         "ItemName":  "JT Al Noor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2085,
         "ItemCode":  "2982",
         "Stock":  0,
@@ -10263,7 +10263,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dhoom Machale"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1335,
         "ItemCode":  "4131",
         "Stock":  3,
@@ -10275,7 +10275,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROCK MASTER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "3769",
         "Stock":  -1,
@@ -10287,7 +10287,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BERRY BRUST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2531",
         "Stock":  0,
@@ -10299,7 +10299,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Humera"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  833.33,
         "ItemCode":  "2011",
         "Stock":  0,
@@ -10311,7 +10311,7 @@ var STOCK_DATA = [
         "ItemName":  "FISH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1545,
         "ItemCode":  "3836",
         "Stock":  -2,
@@ -10323,7 +10323,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 1213 C"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "4185",
         "Stock":  18,
@@ -10335,7 +10335,7 @@ var STOCK_DATA = [
         "ItemName":  "OM DULHAN SAHIBA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "2087",
         "Stock":  0,
@@ -10347,7 +10347,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Madhubala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1517",
         "Stock":  0,
@@ -10359,7 +10359,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Monalisa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2242",
         "Stock":  0,
@@ -10371,7 +10371,7 @@ var STOCK_DATA = [
         "ItemName":  "GF mango bite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1740",
         "Stock":  0,
@@ -10383,7 +10383,7 @@ var STOCK_DATA = [
         "ItemName":  "Good luck GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1376.67,
         "ItemCode":  "1824",
         "Stock":  0,
@@ -10395,7 +10395,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dilwar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1600,
         "ItemCode":  "2786",
         "Stock":  -1,
@@ -10407,7 +10407,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KALI ZULFEIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "3708",
         "Stock":  -1,
@@ -10419,7 +10419,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Fire Fighter"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465.33,
         "ItemCode":  "1336",
         "Stock":  0,
@@ -10431,7 +10431,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Allout Pak Suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  90,
         "ItemCode":  "3538",
         "Stock":  9,
@@ -10443,7 +10443,7 @@ var STOCK_DATA = [
         "ItemName":  "Cotton 2.25 Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "3923",
         "Stock":  -1,
@@ -10455,7 +10455,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY S 72"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2625,
         "ItemCode":  "4061",
         "Stock":  -1,
@@ -10467,7 +10467,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY INDO WESTERN 3"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  554.67,
         "ItemCode":  "2240",
         "Stock":  0,
@@ -10479,7 +10479,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Faridha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2265",
         "Stock":  0,
@@ -10491,7 +10491,7 @@ var STOCK_DATA = [
         "ItemName":  "PEHNAWA SHAGUN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3761",
         "Stock":  -1,
@@ -10503,7 +10503,7 @@ var STOCK_DATA = [
         "ItemName":  "GK MAQBOOL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2539",
         "Stock":  -1,
@@ -10515,7 +10515,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Dal Dhokli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1364.67,
         "ItemCode":  "2280",
         "Stock":  0,
@@ -10527,7 +10527,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GUZARISH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3627",
         "Stock":  -1,
@@ -10539,7 +10539,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 006"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1315,
         "ItemCode":  "4327",
         "Stock":  3,
@@ -10551,7 +10551,7 @@ var STOCK_DATA = [
         "ItemName":  "SG SAHIBA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1140,
         "ItemCode":  "1583",
         "Stock":  0,
@@ -10563,7 +10563,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop Sangam 4 No."
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  285,
         "ItemCode":  "4020",
         "Stock":  -5,
@@ -10575,7 +10575,7 @@ var STOCK_DATA = [
         "ItemName":  "RR AMRUT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2867",
         "Stock":  9,
@@ -10587,7 +10587,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Fatima"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "2035",
         "Stock":  0,
@@ -10599,7 +10599,7 @@ var STOCK_DATA = [
         "ItemName":  "GK ROMIYO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1045.33,
         "ItemCode":  "1359",
         "Stock":  0,
@@ -10611,7 +10611,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rabia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1746",
         "Stock":  0,
@@ -10623,7 +10623,7 @@ var STOCK_DATA = [
         "ItemName":  "Watermelon SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1490,
         "ItemCode":  "3001",
         "Stock":  0,
@@ -10635,7 +10635,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Heart Beat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "1497",
         "Stock":  0,
@@ -10647,7 +10647,7 @@ var STOCK_DATA = [
         "ItemName":  "Salam GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  434.67,
         "ItemCode":  "2660",
         "Stock":  0,
@@ -10659,7 +10659,7 @@ var STOCK_DATA = [
         "ItemName":  "JS Dominos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "2176",
         "Stock":  0,
@@ -10671,7 +10671,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Varnika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  795,
         "ItemCode":  "4244",
         "Stock":  3,
@@ -10683,7 +10683,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HAPPY DENT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "3177",
         "Stock":  -1,
@@ -10695,7 +10695,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Creta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "2058",
         "Stock":  0,
@@ -10707,7 +10707,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Gf Babli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3961",
         "Stock":  -2,
@@ -10719,7 +10719,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZESTY BITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "4038",
         "Stock":  -1,
@@ -10731,7 +10731,7 @@ var STOCK_DATA = [
         "ItemName":  "LC KINZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635.33,
         "ItemCode":  "1340",
         "Stock":  0,
@@ -10743,7 +10743,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Brahmastra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2748",
         "Stock":  0,
@@ -10755,7 +10755,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Gunjan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "3682",
         "Stock":  2,
@@ -10767,7 +10767,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COOLE CAFE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  596.67,
         "ItemCode":  "2216",
         "Stock":  0,
@@ -10779,7 +10779,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT RAS MALAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1055,
         "ItemCode":  "3351",
         "Stock":  0,
@@ -10791,7 +10791,7 @@ var STOCK_DATA = [
         "ItemName":  "Kbi 6100"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1000,
         "ItemCode":  "4558",
         "Stock":  3,
@@ -10803,7 +10803,7 @@ var STOCK_DATA = [
         "ItemName":  "AVNEE 218"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "3277",
         "Stock":  0,
@@ -10815,7 +10815,7 @@ var STOCK_DATA = [
         "ItemName":  "Innaya Bits"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "3605",
         "Stock":  -1,
@@ -10827,7 +10827,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA LAL PARI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1365,
         "ItemCode":  "3912",
         "Stock":  3,
@@ -10839,7 +10839,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Chill Beat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2000,
         "ItemCode":  "1924",
         "Stock":  0,
@@ -10851,7 +10851,7 @@ var STOCK_DATA = [
         "ItemName":  "KC sunflower"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  230,
         "ItemCode":  "2543",
         "Stock":  0,
@@ -10863,7 +10863,7 @@ var STOCK_DATA = [
         "ItemName":  "Yellow Gumnam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  586.67,
         "ItemCode":  "1832",
         "Stock":  0,
@@ -10875,7 +10875,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Rayna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2679",
         "Stock":  0,
@@ -10887,7 +10887,7 @@ var STOCK_DATA = [
         "ItemName":  "MANNAT PIKU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3244",
         "Stock":  -12,
@@ -10899,7 +10899,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Tikhi Mirchi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4472",
         "Stock":  0,
@@ -10911,7 +10911,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BIJLI QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1600,
         "ItemCode":  "1654",
         "Stock":  0,
@@ -10923,7 +10923,7 @@ var STOCK_DATA = [
         "ItemName":  "Nevedhyam Gulabi Farshi sharara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  740,
         "ItemCode":  "1917",
         "Stock":  0,
@@ -10935,7 +10935,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shukrana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  636.67,
         "ItemCode":  "1468",
         "Stock":  0,
@@ -10947,7 +10947,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Hayat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  844.67,
         "ItemCode":  "2115",
         "Stock":  0,
@@ -10959,7 +10959,7 @@ var STOCK_DATA = [
         "ItemName":  "KC IMAGICA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "4177",
         "Stock":  3,
@@ -10971,7 +10971,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RUH E GUL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "3409",
         "Stock":  -2,
@@ -10983,7 +10983,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Chutney Shambhar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1510",
         "Stock":  0,
@@ -10995,7 +10995,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Mishri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2273",
         "Stock":  0,
@@ -11007,7 +11007,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT JARKAN SUIT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "4012",
         "Stock":  1,
@@ -11019,7 +11019,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY S70"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1060,
         "ItemCode":  "3716",
         "Stock":  -1,
@@ -11031,7 +11031,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Golden Gate"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3472",
         "Stock":  0,
@@ -11043,7 +11043,7 @@ var STOCK_DATA = [
         "ItemName":  "Jt Atrangi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "2942",
         "Stock":  -1,
@@ -11055,7 +11055,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kitna Haseen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3302",
         "Stock":  0,
@@ -11067,7 +11067,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT ASHIQUI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445.33,
         "ItemCode":  "1351",
         "Stock":  0,
@@ -11079,7 +11079,7 @@ var STOCK_DATA = [
         "ItemName":  "Innu Batik Masti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  175,
         "ItemCode":  "1992",
         "Stock":  -18,
@@ -11091,7 +11091,7 @@ var STOCK_DATA = [
         "ItemName":  "AMD WORK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  524.67,
         "ItemCode":  "2928",
         "Stock":  4,
@@ -11103,7 +11103,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Hemali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "3401",
         "Stock":  8,
@@ -11115,7 +11115,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Gulabo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3245",
         "Stock":  -2,
@@ -11127,7 +11127,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Ajgar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1104.67,
         "ItemCode":  "2353",
         "Stock":  0,
@@ -11139,7 +11139,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 500"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2671",
         "Stock":  0,
@@ -11151,7 +11151,7 @@ var STOCK_DATA = [
         "ItemName":  "Deposit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1775",
         "Stock":  0,
@@ -11163,7 +11163,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mihar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1536.67,
         "ItemCode":  "1856",
         "Stock":  0,
@@ -11175,7 +11175,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pacific Osian"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1085,
         "ItemCode":  "3880",
         "Stock":  3,
@@ -11187,7 +11187,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM SHEENA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  850,
         "ItemCode":  "2407",
         "Stock":  0,
@@ -11199,7 +11199,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Tamasha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "4536",
         "Stock":  3,
@@ -11211,7 +11211,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Nargis Kali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  304.67,
         "ItemCode":  "2736",
         "Stock":  13,
@@ -11223,7 +11223,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Panparag"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  255,
         "ItemCode":  "4140",
         "Stock":  -8,
@@ -11235,7 +11235,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC NATASHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525,
         "ItemCode":  "3063",
         "Stock":  3,
@@ -11247,7 +11247,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Rebal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1525,
         "ItemCode":  "3218",
         "Stock":  0,
@@ -11259,7 +11259,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sadqay Tumhare"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1450,
         "ItemCode":  "4338",
         "Stock":  3,
@@ -11271,7 +11271,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWEET DREAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2988",
         "Stock":  -1,
@@ -11283,7 +11283,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Reet"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1216.67,
         "ItemCode":  "1618",
         "Stock":  0,
@@ -11295,7 +11295,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Husna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1815,
         "ItemCode":  "1294",
         "Stock":  4,
@@ -11307,7 +11307,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Coding Garara Spl Red"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "2041",
         "Stock":  0,
@@ -11319,7 +11319,7 @@ var STOCK_DATA = [
         "ItemName":  "SF AKRUTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  148,
         "ItemCode":  "4275",
         "Stock":  63,
@@ -11331,7 +11331,7 @@ var STOCK_DATA = [
         "ItemName":  "MALAI ANOTHER 2 PC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  506.67,
         "ItemCode":  "1539",
         "Stock":  0,
@@ -11343,7 +11343,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Sajde"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2069",
         "Stock":  0,
@@ -11355,7 +11355,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Om Seltos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3242",
         "Stock":  5,
@@ -11367,7 +11367,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena Tai Gala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  245,
         "ItemCode":  "3586",
         "Stock":  53,
@@ -11379,7 +11379,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC PRITAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "2183",
         "Stock":  0,
@@ -11391,7 +11391,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Lotus"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2740,
         "ItemCode":  "4426",
         "Stock":  3,
@@ -11403,7 +11403,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BEAUTY SWAG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "2429",
         "Stock":  0,
@@ -11415,7 +11415,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rahmir"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "4168",
         "Stock":  1,
@@ -11427,7 +11427,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RASILA BITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2325",
         "Stock":  0,
@@ -11439,7 +11439,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT FLOWER GIRL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "3737",
         "Stock":  -1,
@@ -11451,7 +11451,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Aag Ka Gola"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "3123",
         "Stock":  -2,
@@ -11463,7 +11463,7 @@ var STOCK_DATA = [
         "ItemName":  "Ss (suny suite) Fivestar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2533",
         "Stock":  0,
@@ -11475,7 +11475,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Priya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  654.67,
         "ItemCode":  "2933",
         "Stock":  0,
@@ -11487,7 +11487,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Cherry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "4415",
         "Stock":  -1,
@@ -11499,7 +11499,7 @@ var STOCK_DATA = [
         "ItemName":  "AF DURANDHAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1040,
         "ItemCode":  "1585",
         "Stock":  0,
@@ -11511,7 +11511,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop Sangam 2 No"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1030,
         "ItemCode":  "4108",
         "Stock":  -1,
@@ -11523,7 +11523,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JAZBA E ISHQ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1451",
         "Stock":  0,
@@ -11535,7 +11535,7 @@ var STOCK_DATA = [
         "ItemName":  "Pehnawa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "1222",
         "Stock":  0,
@@ -11547,7 +11547,7 @@ var STOCK_DATA = [
         "ItemName":  "Golden Pant Trouser Zarkan Work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4407",
         "Stock":  7,
@@ -11559,7 +11559,7 @@ var STOCK_DATA = [
         "ItemName":  "GF AUDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  420.67,
         "ItemCode":  "2703",
         "Stock":  0,
@@ -11571,7 +11571,7 @@ var STOCK_DATA = [
         "ItemName":  "JS MONACO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3359",
         "Stock":  0,
@@ -11583,7 +11583,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena Patch Work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3680",
         "Stock":  3,
@@ -11595,7 +11595,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Coolie"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3886",
         "Stock":  -1,
@@ -11607,7 +11607,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA SINDOOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3625",
         "Stock":  3,
@@ -11619,7 +11619,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 004"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1522",
         "Stock":  0,
@@ -11631,7 +11631,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Jaipriya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2124",
         "Stock":  -1,
@@ -11643,7 +11643,7 @@ var STOCK_DATA = [
         "ItemName":  "LS PARAS MANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "4001",
         "Stock":  3,
@@ -11655,7 +11655,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CREMONA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "1338",
         "Stock":  2,
@@ -11667,7 +11667,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Sharmila"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "3702",
         "Stock":  7,
@@ -11679,7 +11679,7 @@ var STOCK_DATA = [
         "ItemName":  "Mf Patchwork"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1557",
         "Stock":  0,
@@ -11691,7 +11691,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Army Braso"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2600",
         "Stock":  -1,
@@ -11703,7 +11703,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Ameena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1065,
         "ItemCode":  "3144",
         "Stock":  -3,
@@ -11715,7 +11715,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 002"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  408,
         "ItemCode":  "1727",
         "Stock":  0,
@@ -11727,7 +11727,7 @@ var STOCK_DATA = [
         "ItemName":  "Khawaish SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3369",
         "Stock":  -1,
@@ -11739,7 +11739,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Sada Sukhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  795,
         "ItemCode":  "4008",
         "Stock":  3,
@@ -11751,7 +11751,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESI RANGREZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185,
         "ItemCode":  "4065",
         "Stock":  3,
@@ -11763,7 +11763,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CANDY HEART"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2050,
         "ItemCode":  "1948",
         "Stock":  0,
@@ -11775,7 +11775,7 @@ var STOCK_DATA = [
         "ItemName":  "GC Lemon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "3436",
         "Stock":  -1,
@@ -11787,7 +11787,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Dhama Dham"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "2287",
         "Stock":  2,
@@ -11799,7 +11799,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Dil Dariya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2842",
         "Stock":  -1,
@@ -11811,7 +11811,7 @@ var STOCK_DATA = [
         "ItemName":  "DTS AIZAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  836.67,
         "ItemCode":  "1674",
         "Stock":  0,
@@ -11823,7 +11823,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Trendy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "2624",
         "Stock":  0,
@@ -11835,7 +11835,7 @@ var STOCK_DATA = [
         "ItemName":  "MT HAPPY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  476.67,
         "ItemCode":  "2065",
         "Stock":  0,
@@ -11847,7 +11847,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Jf Jalebi Bai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1643.33,
         "ItemCode":  "3158",
         "Stock":  -1,
@@ -11859,7 +11859,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Platina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1194.67,
         "ItemCode":  "2896",
         "Stock":  2,
@@ -11871,7 +11871,7 @@ var STOCK_DATA = [
         "ItemName":  "KC O Diwana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1960,
         "ItemCode":  "4513",
         "Stock":  3,
@@ -11883,7 +11883,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MUNCH BOX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  50,
         "ItemCode":  "3694",
         "Stock":  380,
@@ -11895,7 +11895,7 @@ var STOCK_DATA = [
         "ItemName":  "Priyanka Turkish Towel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  966.67,
         "ItemCode":  "1898",
         "Stock":  0,
@@ -11907,7 +11907,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Almas"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "3328",
         "Stock":  3,
@@ -11919,7 +11919,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Jenny"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  925,
         "ItemCode":  "4484",
         "Stock":  3,
@@ -11931,7 +11931,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BULBUL MAGIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  806.67,
         "ItemCode":  "2757",
         "Stock":  0,
@@ -11943,7 +11943,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Anamika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  840,
         "ItemCode":  "4499",
         "Stock":  2,
@@ -11955,7 +11955,7 @@ var STOCK_DATA = [
         "ItemName":  "WELCOME MANISHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "3508",
         "Stock":  0,
@@ -11967,7 +11967,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Super Six"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  314.67,
         "ItemCode":  "2890",
         "Stock":  0,
@@ -11979,7 +11979,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM Chameli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1870,
         "ItemCode":  "3090",
         "Stock":  1,
@@ -11991,7 +11991,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 02"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  54,
         "ItemCode":  "1720",
         "Stock":  181,
@@ -12003,7 +12003,7 @@ var STOCK_DATA = [
         "ItemName":  "Large Towel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1925,
         "ItemCode":  "4543",
         "Stock":  3,
@@ -12015,7 +12015,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESI HOOD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1205,
         "ItemCode":  "2805",
         "Stock":  3,
@@ -12027,7 +12027,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIRE BOULT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1750,
         "ItemCode":  "1940",
         "Stock":  0,
@@ -12039,7 +12039,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony kaju katri garara 1026"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "2690",
         "Stock":  0,
@@ -12051,7 +12051,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Anuska"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2151",
         "Stock":  0,
@@ -12063,7 +12063,7 @@ var STOCK_DATA = [
         "ItemName":  "PEHNAWA 3 METER SHALWAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  505,
         "ItemCode":  "4133",
         "Stock":  -1,
@@ -12075,7 +12075,7 @@ var STOCK_DATA = [
         "ItemName":  "OM TATA PUNCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  254.67,
         "ItemCode":  "2950",
         "Stock":  0,
@@ -12087,7 +12087,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Help"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215,
         "ItemCode":  "3951",
         "Stock":  -1,
@@ -12099,7 +12099,7 @@ var STOCK_DATA = [
         "ItemName":  "RV PARDES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  396.67,
         "ItemCode":  "1501",
         "Stock":  0,
@@ -12111,7 +12111,7 @@ var STOCK_DATA = [
         "ItemName":  "Priya Pak Suit Dhaga Work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  285,
         "ItemCode":  "4024",
         "Stock":  3,
@@ -12123,7 +12123,7 @@ var STOCK_DATA = [
         "ItemName":  "RR TRUPTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3733",
         "Stock":  -1,
@@ -12135,7 +12135,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Gudiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1650,
         "ItemCode":  "4468",
         "Stock":  3,
@@ -12147,7 +12147,7 @@ var STOCK_DATA = [
         "ItemName":  "GK COSTER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1176.67,
         "ItemCode":  "2367",
         "Stock":  0,
@@ -12159,7 +12159,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Jazari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3600",
         "Stock":  -1,
@@ -12171,7 +12171,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 05"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2692",
         "Stock":  0,
@@ -12183,7 +12183,7 @@ var STOCK_DATA = [
         "ItemName":  "Dastar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  830,
         "ItemCode":  "1424",
         "Stock":  0,
@@ -12195,7 +12195,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Haldi Mehndi Off White"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2159",
         "Stock":  0,
@@ -12207,7 +12207,7 @@ var STOCK_DATA = [
         "ItemName":  "GARMIA GULZAR 6886"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "4050",
         "Stock":  1,
@@ -12219,7 +12219,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BANJARA HILLS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3129",
         "Stock":  0,
@@ -12231,7 +12231,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Kaju Masala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1186.67,
         "ItemCode":  "1739",
         "Stock":  0,
@@ -12243,7 +12243,7 @@ var STOCK_DATA = [
         "ItemName":  "Akasa KC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1314.67,
         "ItemCode":  "2828",
         "Stock":  -1,
@@ -12255,7 +12255,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LAGDI LAHORI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "1345",
         "Stock":  0,
@@ -12267,7 +12267,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Star Shine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3398",
         "Stock":  3,
@@ -12279,7 +12279,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Tehlka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4113",
         "Stock":  0,
@@ -12291,7 +12291,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL KAHWA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  864.67,
         "ItemCode":  "2910",
         "Stock":  0,
@@ -12303,7 +12303,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Sohile"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1952",
         "Stock":  0,
@@ -12315,7 +12315,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Sweet Look"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2312",
         "Stock":  0,
@@ -12327,7 +12327,7 @@ var STOCK_DATA = [
         "ItemName":  "MT ZOHRI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  430,
         "ItemCode":  "2930",
         "Stock":  0,
@@ -12339,7 +12339,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Lalita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4297",
         "Stock":  3,
@@ -12351,7 +12351,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUPER CHARGE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2339",
         "Stock":  0,
@@ -12363,7 +12363,7 @@ var STOCK_DATA = [
         "ItemName":  "SRT Friends"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1220,
         "ItemCode":  "4459",
         "Stock":  3,
@@ -12375,7 +12375,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FULL TASHAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3765",
         "Stock":  2,
@@ -12387,7 +12387,7 @@ var STOCK_DATA = [
         "ItemName":  "GK CBZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  420,
         "ItemCode":  "4269",
         "Stock":  1,
@@ -12399,7 +12399,7 @@ var STOCK_DATA = [
         "ItemName":  "DUA YASHIKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2961",
         "Stock":  0,
@@ -12411,7 +12411,7 @@ var STOCK_DATA = [
         "ItemName":  "OS Aaloo Tikki"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  594.67,
         "ItemCode":  "2969",
         "Stock":  0,
@@ -12423,7 +12423,7 @@ var STOCK_DATA = [
         "ItemName":  "MF IPL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "4089",
         "Stock":  0,
@@ -12435,7 +12435,7 @@ var STOCK_DATA = [
         "ItemName":  "KC AE DIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "2494",
         "Stock":  0,
@@ -12447,7 +12447,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Gumnam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "1879",
         "Stock":  0,
@@ -12459,7 +12459,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Burbury"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  315,
         "ItemCode":  "3464",
         "Stock":  -1,
@@ -12471,7 +12471,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Suhagan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "1536",
         "Stock":  0,
@@ -12483,7 +12483,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Aasin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1478",
         "Stock":  0,
@@ -12495,7 +12495,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mitwa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1635,
         "ItemCode":  "4440",
         "Stock":  30,
@@ -12507,7 +12507,7 @@ var STOCK_DATA = [
         "ItemName":  "RUSSIAN PLAZO MIX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "4189",
         "Stock":  6,
@@ -12519,7 +12519,7 @@ var STOCK_DATA = [
         "ItemName":  "SBT DELHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  353.33,
         "ItemCode":  "1767",
         "Stock":  0,
@@ -12531,7 +12531,7 @@ var STOCK_DATA = [
         "ItemName":  "Malvika Beauty Full"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "2168",
         "Stock":  0,
@@ -12543,7 +12543,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Guddu Ki Darling"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "4261",
         "Stock":  3,
@@ -12555,7 +12555,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIRE QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1194.67,
         "ItemCode":  "2712",
         "Stock":  0,
@@ -12567,7 +12567,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FARZAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3849",
         "Stock":  -1,
@@ -12579,7 +12579,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FLAMINGO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  733.33,
         "ItemCode":  "1871",
         "Stock":  0,
@@ -12591,7 +12591,7 @@ var STOCK_DATA = [
         "ItemName":  "Gf Kusum"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1247",
         "Stock":  0,
@@ -12603,7 +12603,7 @@ var STOCK_DATA = [
         "ItemName":  "HP Heera Jam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1374",
         "Stock":  0,
@@ -12615,7 +12615,7 @@ var STOCK_DATA = [
         "ItemName":  "Nerolac GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2331",
         "Stock":  0,
@@ -12627,7 +12627,7 @@ var STOCK_DATA = [
         "ItemName":  "Agarwal Pure Cotton Dupatta Printed Two"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  100,
         "ItemCode":  "2136",
         "Stock":  -47,
@@ -12639,7 +12639,7 @@ var STOCK_DATA = [
         "ItemName":  "SHAWL 350"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "4154",
         "Stock":  7,
@@ -12651,7 +12651,7 @@ var STOCK_DATA = [
         "ItemName":  "KT JENNY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1645,
         "ItemCode":  "3894",
         "Stock":  -3,
@@ -12663,7 +12663,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CASA CRAFT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2252",
         "Stock":  0,
@@ -12675,7 +12675,7 @@ var STOCK_DATA = [
         "ItemName":  "Jam Cotton Red"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2070,
         "ItemCode":  "3089",
         "Stock":  -1,
@@ -12687,7 +12687,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 01"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "2084",
         "Stock":  0,
@@ -12699,7 +12699,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Nazakat Firdous to Firdous"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  25,
         "ItemCode":  "3756",
         "Stock":  855,
@@ -12711,7 +12711,7 @@ var STOCK_DATA = [
         "ItemName":  "Towel Winner"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  494.67,
         "ItemCode":  "2305",
         "Stock":  0,
@@ -12723,7 +12723,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA CAMRIC AEKTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2026",
         "Stock":  0,
@@ -12735,7 +12735,7 @@ var STOCK_DATA = [
         "ItemName":  "NET GOWN 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "3743",
         "Stock":  -1,
@@ -12747,7 +12747,7 @@ var STOCK_DATA = [
         "ItemName":  "Mt Jannat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  996.67,
         "ItemCode":  "1842",
         "Stock":  0,
@@ -12759,7 +12759,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Puffcorn"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  270,
         "ItemCode":  "1543",
         "Stock":  0,
@@ -12771,7 +12771,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Diamond Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "3592",
         "Stock":  -1,
@@ -12783,7 +12783,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KAJU KISHMISH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "2411",
         "Stock":  0,
@@ -12795,7 +12795,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Flower Bucket"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  695.33,
         "ItemCode":  "1813",
         "Stock":  0,
@@ -12807,7 +12807,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Jannat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1513",
         "Stock":  0,
@@ -12819,7 +12819,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Innova"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1715,
         "ItemCode":  "4451",
         "Stock":  3,
@@ -12831,7 +12831,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SMILEY SLICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "1679",
         "Stock":  0,
@@ -12843,7 +12843,7 @@ var STOCK_DATA = [
         "ItemName":  "Hotstar VT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1980,
         "ItemCode":  "1604",
         "Stock":  0,
@@ -12855,7 +12855,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Raahil"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  495,
         "ItemCode":  "3057",
         "Stock":  0,
@@ -12867,7 +12867,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rasmalai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "4302",
         "Stock":  3,
@@ -12879,7 +12879,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GULAABI KHWAAB"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1266",
         "Stock":  0,
@@ -12891,7 +12891,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Fire Sharmila"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  814.67,
         "ItemCode":  "2593",
         "Stock":  0,
@@ -12903,7 +12903,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Tera Fitoor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "1322",
         "Stock":  0,
@@ -12915,7 +12915,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Ajnabi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3455",
         "Stock":  -2,
@@ -12927,7 +12927,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Mehbooba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3139",
         "Stock":  -1,
@@ -12939,7 +12939,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena Twill"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2547",
         "Stock":  0,
@@ -12951,7 +12951,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Farzanab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1170,
         "ItemCode":  "2759",
         "Stock":  0,
@@ -12963,7 +12963,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 617 READYMADE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545.33,
         "ItemCode":  "1785",
         "Stock":  4,
@@ -12975,7 +12975,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT LASSI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1200,
         "ItemCode":  "4308",
         "Stock":  2,
@@ -12987,7 +12987,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FREE FLOW"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3173",
         "Stock":  0,
@@ -12999,7 +12999,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Jimmy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "4173",
         "Stock":  1,
@@ -13011,7 +13011,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHOCO MITTIES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3901",
         "Stock":  -1,
@@ -13023,7 +13023,7 @@ var STOCK_DATA = [
         "ItemName":  "VC SUNFLOWER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "1286",
         "Stock":  0,
@@ -13035,7 +13035,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Garara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "3852",
         "Stock":  2,
@@ -13047,7 +13047,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GRACEFULL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "4082",
         "Stock":  3,
@@ -13059,7 +13059,7 @@ var STOCK_DATA = [
         "ItemName":  "Jbt Tik Tok"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "2346",
         "Stock":  0,
@@ -13071,7 +13071,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Dreamland"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  90,
         "ItemCode":  "3679",
         "Stock":  23,
@@ -13083,7 +13083,7 @@ var STOCK_DATA = [
         "ItemName":  "Cotton 2.25 Dupatta BLACK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "2985",
         "Stock":  -2,
@@ -13095,7 +13095,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Seltos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "2039",
         "Stock":  0,
@@ -13107,7 +13107,7 @@ var STOCK_DATA = [
         "ItemName":  "GF RAJ DHANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  476.67,
         "ItemCode":  "1977",
         "Stock":  0,
@@ -13119,7 +13119,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Butter Milk"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  860,
         "ItemCode":  "3055",
         "Stock":  -1,
@@ -13131,7 +13131,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Al Minaah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3598",
         "Stock":  -1,
@@ -13143,7 +13143,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 07"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  23,
         "ItemCode":  "2751",
         "Stock":  1842,
@@ -13155,7 +13155,7 @@ var STOCK_DATA = [
         "ItemName":  "SHAWL 100 NO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1370,
         "ItemCode":  "4374",
         "Stock":  7,
@@ -13167,7 +13167,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1450 GLASS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1075,
         "ItemCode":  "4545",
         "Stock":  3,
@@ -13179,7 +13179,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT SHEHNAZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1154.67,
         "ItemCode":  "2800",
         "Stock":  0,
@@ -13191,7 +13191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUROOR TERA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "1305",
         "Stock":  0,
@@ -13203,7 +13203,7 @@ var STOCK_DATA = [
         "ItemName":  "KKU Pritam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2054",
         "Stock":  -1,
@@ -13215,7 +13215,7 @@ var STOCK_DATA = [
         "ItemName":  "SHAWL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1344.67,
         "ItemCode":  "2622",
         "Stock":  0,
@@ -13227,7 +13227,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Face Time"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  466.67,
         "ItemCode":  "2067",
         "Stock":  0,
@@ -13239,7 +13239,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Om Lenskart"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "3228",
         "Stock":  0,
@@ -13251,7 +13251,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Yes Boss"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  254.67,
         "ItemCode":  "2908",
         "Stock":  -1,
@@ -13263,7 +13263,7 @@ var STOCK_DATA = [
         "ItemName":  "Abc Karma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1134.67,
         "ItemCode":  "2894",
         "Stock":  3,
@@ -13275,7 +13275,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ishq Junoon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "3720",
         "Stock":  0,
@@ -13287,7 +13287,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Smart Future"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2157",
         "Stock":  0,
@@ -13299,7 +13299,7 @@ var STOCK_DATA = [
         "ItemName":  "GARMIA GULZAR 8325"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525,
         "ItemCode":  "4139",
         "Stock":  0,
@@ -13311,7 +13311,7 @@ var STOCK_DATA = [
         "ItemName":  "OM ROLEX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3209",
         "Stock":  0,
@@ -13323,7 +13323,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Sunaina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1421,
         "ItemCode":  "4481",
         "Stock":  3,
@@ -13335,7 +13335,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZOOM ZINDAGI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "2185",
         "Stock":  0,
@@ -13347,7 +13347,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Butter"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  810,
         "ItemCode":  "1433",
         "Stock":  0,
@@ -13359,7 +13359,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Shalini"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1070,
         "ItemCode":  "3967",
         "Stock":  3,
@@ -13371,7 +13371,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWITCH ON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3428",
         "Stock":  -1,
@@ -13383,7 +13383,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Jumka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  102.5,
         "ItemCode":  "3642",
         "Stock":  228,
@@ -13395,7 +13395,7 @@ var STOCK_DATA = [
         "ItemName":  "Galaxy Fashion GF Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2290,
         "ItemCode":  "4520",
         "Stock":  3,
@@ -13407,7 +13407,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAHI PASAND HEAVY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1820,
         "ItemCode":  "1942",
         "Stock":  0,
@@ -13419,7 +13419,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Farshi twill net"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "3476",
         "Stock":  0,
@@ -13431,7 +13431,7 @@ var STOCK_DATA = [
         "ItemName":  "Syed Arshiyan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  613.33,
         "ItemCode":  "2161",
         "Stock":  0,
@@ -13443,7 +13443,7 @@ var STOCK_DATA = [
         "ItemName":  "GF LEFT AND RIGHT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "3405",
         "Stock":  -1,
@@ -13455,7 +13455,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1 No X"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  423.33,
         "ItemCode":  "1616",
         "Stock":  -1,
@@ -13467,7 +13467,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Soniya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  494.67,
         "ItemCode":  "2975",
         "Stock":  3,
@@ -13479,7 +13479,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Safina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2085,
         "ItemCode":  "3909",
         "Stock":  1,
@@ -13491,7 +13491,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Sur Sagar (W PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  630,
         "ItemCode":  "4063",
         "Stock":  -1,
@@ -13503,7 +13503,7 @@ var STOCK_DATA = [
         "ItemName":  "GF KING"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "3564",
         "Stock":  -1,
@@ -13515,7 +13515,7 @@ var STOCK_DATA = [
         "ItemName":  "Rainy Days"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  574.67,
         "ItemCode":  "2932",
         "Stock":  0,
@@ -13527,7 +13527,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Amazing"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2140,
         "ItemCode":  "4325",
         "Stock":  3,
@@ -13539,7 +13539,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GIGGLE BOX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3763",
         "Stock":  3,
@@ -13551,7 +13551,7 @@ var STOCK_DATA = [
         "ItemName":  "GK QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1334",
         "Stock":  0,
@@ -13563,7 +13563,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Mashal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1110,
         "ItemCode":  "1908",
         "Stock":  0,
@@ -13575,7 +13575,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Al Habibi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "1623",
         "Stock":  0,
@@ -13587,7 +13587,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Royal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1376",
         "Stock":  0,
@@ -13599,7 +13599,7 @@ var STOCK_DATA = [
         "ItemName":  "Oppo GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2483",
         "Stock":  0,
@@ -13611,7 +13611,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Lady Special"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2342",
         "Stock":  0,
@@ -13623,7 +13623,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Singham"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1295,
         "ItemCode":  "4263",
         "Stock":  1,
@@ -13635,7 +13635,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DIL PASAND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2015,
         "ItemCode":  "4243",
         "Stock":  2,
@@ -13647,7 +13647,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY JIYA 181"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "3834",
         "Stock":  2,
@@ -13659,7 +13659,7 @@ var STOCK_DATA = [
         "ItemName":  "SG AADAB"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1050,
         "ItemCode":  "2958",
         "Stock":  0,
@@ -13671,7 +13671,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 661"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "3116",
         "Stock":  0,
@@ -13683,7 +13683,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Aaina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2254",
         "Stock":  0,
@@ -13695,7 +13695,7 @@ var STOCK_DATA = [
         "ItemName":  "Dipka Magic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2434",
         "Stock":  3,
@@ -13707,7 +13707,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Nazimi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1481",
         "Stock":  0,
@@ -13719,7 +13719,7 @@ var STOCK_DATA = [
         "ItemName":  "Suman Pari Fab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  486.67,
         "ItemCode":  "1937",
         "Stock":  0,
@@ -13731,7 +13731,7 @@ var STOCK_DATA = [
         "ItemName":  "Reyona Maya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2569",
         "Stock":  0,
@@ -13743,7 +13743,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BAHEEJA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1295,
         "ItemCode":  "3933",
         "Stock":  -1,
@@ -13755,7 +13755,7 @@ var STOCK_DATA = [
         "ItemName":  "N TAMANNA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "4183",
         "Stock":  7,
@@ -13767,7 +13767,7 @@ var STOCK_DATA = [
         "ItemName":  "JBT SELFIE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  335,
         "ItemCode":  "3214",
         "Stock":  114,
@@ -13779,7 +13779,7 @@ var STOCK_DATA = [
         "ItemName":  "Shree Ganesh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2267",
         "Stock":  0,
@@ -13791,7 +13791,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT BLACK SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1489",
         "Stock":  0,
@@ -13803,7 +13803,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohini Aafreen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1270,
         "ItemCode":  "2644",
         "Stock":  0,
@@ -13815,7 +13815,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MUBASHERA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4453",
         "Stock":  5,
@@ -13827,7 +13827,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SILENT HIT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3671",
         "Stock":  -15,
@@ -13839,7 +13839,7 @@ var STOCK_DATA = [
         "ItemName":  "Chahat Jaam Mix 02"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  212,
         "ItemCode":  "1279",
         "Stock":  0,
@@ -13851,7 +13851,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Angel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  592.67,
         "ItemCode":  "2647",
         "Stock":  0,
@@ -13863,7 +13863,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Genda Fool"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1990,
         "ItemCode":  "1602",
         "Stock":  0,
@@ -13875,7 +13875,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hollywood style"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465.33,
         "ItemCode":  "1271",
         "Stock":  0,
@@ -13887,7 +13887,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Roop Ki Rani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  384.67,
         "ItemCode":  "2591",
         "Stock":  0,
@@ -13899,7 +13899,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Fruit Cream"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1685,
         "ItemCode":  "3038",
         "Stock":  0,
@@ -13911,7 +13911,7 @@ var STOCK_DATA = [
         "ItemName":  "Aatish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2863",
         "Stock":  -1,
@@ -13923,7 +13923,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KASTURI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  245,
         "ItemCode":  "4346",
         "Stock":  -1,
@@ -13935,7 +13935,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC REHANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "1570",
         "Stock":  0,
@@ -13947,7 +13947,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Lucky"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1016.67,
         "ItemCode":  "1826",
         "Stock":  1,
@@ -13959,7 +13959,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Safiq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "4340",
         "Stock":  3,
@@ -13971,7 +13971,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAHANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1236",
         "Stock":  0,
@@ -13983,7 +13983,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Heer Ranjha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "3012",
         "Stock":  0,
@@ -13995,7 +13995,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Motorola"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1220,
         "ItemCode":  "3847",
         "Stock":  3,
@@ -14007,7 +14007,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWAGSTER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "2162",
         "Stock":  1,
@@ -14019,7 +14019,7 @@ var STOCK_DATA = [
         "ItemName":  "BLACK DRESS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "1673",
         "Stock":  0,
@@ -14031,7 +14031,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Al Habib"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "2016",
         "Stock":  0,
@@ -14043,7 +14043,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT TROUSER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1315,
         "ItemCode":  "4392",
         "Stock":  3,
@@ -14055,7 +14055,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ULTRA LUXURY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1170,
         "ItemCode":  "3374",
         "Stock":  -2,
@@ -14067,7 +14067,7 @@ var STOCK_DATA = [
         "ItemName":  "Jackpot"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  261,
         "ItemCode":  "3706",
         "Stock":  58,
@@ -14079,7 +14079,7 @@ var STOCK_DATA = [
         "ItemName":  "Vimal Fortuner"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1515",
         "Stock":  0,
@@ -14091,7 +14091,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Jagrati"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "3576",
         "Stock":  0,
@@ -14103,7 +14103,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY K 636"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1702",
         "Stock":  0,
@@ -14115,7 +14115,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kulfreeze"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1200,
         "ItemCode":  "4307",
         "Stock":  3,
@@ -14127,7 +14127,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TIME KILLER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3480",
         "Stock":  0,
@@ -14139,7 +14139,7 @@ var STOCK_DATA = [
         "ItemName":  "MOIUSE L"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  274.67,
         "ItemCode":  "2581",
         "Stock":  0,
@@ -14151,7 +14151,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Muslin Suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1763",
         "Stock":  0,
@@ -14163,7 +14163,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Eliza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2029",
         "Stock":  0,
@@ -14175,7 +14175,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY Z GARARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185.33,
         "ItemCode":  "1369",
         "Stock":  0,
@@ -14187,7 +14187,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zanaa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "2577",
         "Stock":  0,
@@ -14199,7 +14199,7 @@ var STOCK_DATA = [
         "ItemName":  "Mt Coper carry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2285,
         "ItemCode":  "3669",
         "Stock":  -2,
@@ -14211,7 +14211,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Jiya 152"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2250,
         "ItemCode":  "2611",
         "Stock":  0,
@@ -14223,7 +14223,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NAAZO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  175,
         "ItemCode":  "4282",
         "Stock":  -10,
@@ -14235,7 +14235,7 @@ var STOCK_DATA = [
         "ItemName":  "ROYAL BRAND KUDI PATIYALA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "3957",
         "Stock":  3,
@@ -14247,7 +14247,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GLOSSY GRACE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1795,
         "ItemCode":  "3052",
         "Stock":  0,
@@ -14259,7 +14259,7 @@ var STOCK_DATA = [
         "ItemName":  "Somnath Gizmo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1483",
         "Stock":  0,
@@ -14271,7 +14271,7 @@ var STOCK_DATA = [
         "ItemName":  "Rekha Pari Fab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "3392",
         "Stock":  0,
@@ -14283,7 +14283,7 @@ var STOCK_DATA = [
         "ItemName":  "Jaam Khathli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1270,
         "ItemCode":  "1269",
         "Stock":  0,
@@ -14295,7 +14295,7 @@ var STOCK_DATA = [
         "ItemName":  "La Pinoz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1140,
         "ItemCode":  "1580",
         "Stock":  0,
@@ -14307,7 +14307,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop Sangam 6 No"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "3853",
         "Stock":  0,
@@ -14319,7 +14319,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STAR CLUSTER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1936",
         "Stock":  0,
@@ -14331,7 +14331,7 @@ var STOCK_DATA = [
         "ItemName":  "Pasta MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1285.33,
         "ItemCode":  "2053",
         "Stock":  0,
@@ -14343,7 +14343,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY CODING SUITE 1011"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3661",
         "Stock":  12,
@@ -14355,7 +14355,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX 01"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "2873",
         "Stock":  -1,
@@ -14367,7 +14367,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Rasberry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1944.67,
         "ItemCode":  "2956",
         "Stock":  0,
@@ -14379,7 +14379,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Net Coding"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "4214",
         "Stock":  2,
@@ -14391,7 +14391,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DISCO FEVER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  950,
         "ItemCode":  "3931",
         "Stock":  -1,
@@ -14403,7 +14403,7 @@ var STOCK_DATA = [
         "ItemName":  "N AMISHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "1692",
         "Stock":  0,
@@ -14415,7 +14415,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Marwadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1116.67,
         "ItemCode":  "2271",
         "Stock":  0,
@@ -14427,7 +14427,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY READY MADE 171"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1645,
         "ItemCode":  "3845",
         "Stock":  3,
@@ -14439,7 +14439,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SLICE TOWN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  624.67,
         "ItemCode":  "2904",
         "Stock":  0,
@@ -14451,7 +14451,7 @@ var STOCK_DATA = [
         "ItemName":  "MF Princess PAK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "2368",
         "Stock":  0,
@@ -14463,7 +14463,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Tum Bin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "4390",
         "Stock":  3,
@@ -14475,7 +14475,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CLASSIC TREND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3288",
         "Stock":  -1,
@@ -14487,7 +14487,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Boss"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  886.67,
         "ItemCode":  "1480",
         "Stock":  0,
@@ -14499,7 +14499,7 @@ var STOCK_DATA = [
         "ItemName":  "Ena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "4094",
         "Stock":  10,
@@ -14511,7 +14511,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA VELVET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  210,
         "ItemCode":  "2489",
         "Stock":  0,
@@ -14523,7 +14523,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Charminar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1275,
         "ItemCode":  "3168",
         "Stock":  0,
@@ -14535,7 +14535,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Trouser Silver"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  190,
         "ItemCode":  "3325",
         "Stock":  0,
@@ -14547,7 +14547,7 @@ var STOCK_DATA = [
         "ItemName":  "Utsav Punjabi Kudi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  494.67,
         "ItemCode":  "2973",
         "Stock":  2,
@@ -14559,7 +14559,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Safa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  613,
         "ItemCode":  "3263",
         "Stock":  -1,
@@ -14571,7 +14571,7 @@ var STOCK_DATA = [
         "ItemName":  "YC Chaya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "3507",
         "Stock":  2,
@@ -14583,7 +14583,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Panipuri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2191",
         "Stock":  0,
@@ -14595,7 +14595,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Karishma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1170,
         "ItemCode":  "1361",
         "Stock":  0,
@@ -14607,7 +14607,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Manwar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "3183",
         "Stock":  -1,
@@ -14619,7 +14619,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Afra Tafri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1683.33,
         "ItemCode":  "2481",
         "Stock":  0,
@@ -14631,7 +14631,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rahat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "2808",
         "Stock":  0,
@@ -14643,7 +14643,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 178 READYMADE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  633.33,
         "ItemCode":  "1640",
         "Stock":  0,
@@ -14655,7 +14655,7 @@ var STOCK_DATA = [
         "ItemName":  "Toofan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "2506",
         "Stock":  0,
@@ -14667,7 +14667,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zuhoor Russian"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "4049",
         "Stock":  3,
@@ -14679,7 +14679,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PIN BALL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "3115",
         "Stock":  -1,
@@ -14691,7 +14691,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Badam Pista"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "2289",
         "Stock":  0,
@@ -14703,7 +14703,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MEERA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  486.67,
         "ItemCode":  "1658",
         "Stock":  0,
@@ -14715,7 +14715,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Alankar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3620",
         "Stock":  -1,
@@ -14727,7 +14727,7 @@ var STOCK_DATA = [
         "ItemName":  "OM VOLKSWAGEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  584.67,
         "ItemCode":  "2840",
         "Stock":  -1,
@@ -14739,7 +14739,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SALWA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1014.67,
         "ItemCode":  "2664",
         "Stock":  0,
@@ -14751,7 +14751,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Farmaish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "4010",
         "Stock":  2,
@@ -14763,7 +14763,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAUSAM MAGIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3201",
         "Stock":  0,
@@ -14775,7 +14775,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Akangsha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "1252",
         "Stock":  0,
@@ -14787,7 +14787,7 @@ var STOCK_DATA = [
         "ItemName":  "Alia Masti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "4053",
         "Stock":  1,
@@ -14799,7 +14799,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FREE START"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1314.67,
         "ItemCode":  "2277",
         "Stock":  0,
@@ -14811,7 +14811,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NAZUK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2100,
         "ItemCode":  "2605",
         "Stock":  0,
@@ -14823,7 +14823,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Nain Matakka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  286.67,
         "ItemCode":  "2141",
         "Stock":  0,
@@ -14835,7 +14835,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC NAQAB"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "4248",
         "Stock":  3,
@@ -14847,7 +14847,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TOP NEWS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  634.67,
         "ItemCode":  "2728",
         "Stock":  -1,
@@ -14859,7 +14859,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT IPO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  565,
         "ItemCode":  "2004",
         "Stock":  120,
@@ -14871,7 +14871,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Cookies"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2307",
         "Stock":  0,
@@ -14883,7 +14883,7 @@ var STOCK_DATA = [
         "ItemName":  "MDV FIROZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  975,
         "ItemCode":  "3784",
         "Stock":  -2,
@@ -14895,7 +14895,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Piku"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  910,
         "ItemCode":  "2402",
         "Stock":  0,
@@ -14907,7 +14907,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Neoxn"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2195,
         "ItemCode":  "4476",
         "Stock":  3,
@@ -14919,7 +14919,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CRUNCY MUNCHY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "4341",
         "Stock":  2,
@@ -14931,7 +14931,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAGIC STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4486",
         "Stock":  3,
@@ -14943,7 +14943,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHILL BERRY SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1146.67,
         "ItemCode":  "1534",
         "Stock":  0,
@@ -14955,7 +14955,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dulari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  592.67,
         "ItemCode":  "2935",
         "Stock":  1,
@@ -14967,7 +14967,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sehnai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  305.33,
         "ItemCode":  "1733",
         "Stock":  0,
@@ -14979,7 +14979,7 @@ var STOCK_DATA = [
         "ItemName":  "Aaj Tak VC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "2770",
         "Stock":  0,
@@ -14991,7 +14991,7 @@ var STOCK_DATA = [
         "ItemName":  "MT SONA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "3346",
         "Stock":  0,
@@ -15003,7 +15003,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Ridhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1386.67,
         "ItemCode":  "1599",
         "Stock":  0,
@@ -15015,7 +15015,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pear"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3670",
         "Stock":  -26,
@@ -15027,7 +15027,7 @@ var STOCK_DATA = [
         "ItemName":  "Chahat Jaam Mix 01"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "1814",
         "Stock":  0,
@@ -15039,7 +15039,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Safari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  416.67,
         "ItemCode":  "2400",
         "Stock":  0,
@@ -15051,7 +15051,7 @@ var STOCK_DATA = [
         "ItemName":  "Svt Sophia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1526.67,
         "ItemCode":  "2365",
         "Stock":  0,
@@ -15063,7 +15063,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mizhgan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  423.33,
         "ItemCode":  "2401",
         "Stock":  -4,
@@ -15075,7 +15075,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Devyani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1374.67,
         "ItemCode":  "2822",
         "Stock":  0,
@@ -15087,7 +15087,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HUZAIRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3082",
         "Stock":  -4,
@@ -15099,7 +15099,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Sandaar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  926.67,
         "ItemCode":  "1899",
         "Stock":  0,
@@ -15111,7 +15111,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Mercedes"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3773",
         "Stock":  2,
@@ -15123,7 +15123,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Maharani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  984.67,
         "ItemCode":  "2848",
         "Stock":  -1,
@@ -15135,7 +15135,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 10"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "3947",
         "Stock":  -1,
@@ -15147,7 +15147,7 @@ var STOCK_DATA = [
         "ItemName":  "SAHIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  63,
         "ItemCode":  "3545",
         "Stock":  1019,
@@ -15159,7 +15159,7 @@ var STOCK_DATA = [
         "ItemName":  "Gsf Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1640,
         "ItemCode":  "2281",
         "Stock":  0,
@@ -15171,7 +15171,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ASHQ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "1591",
         "Stock":  0,
@@ -15183,7 +15183,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Sakira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "1891",
         "Stock":  0,
@@ -15195,7 +15195,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Wise"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1270",
         "Stock":  0,
@@ -15207,7 +15207,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Khawaish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1085,
         "ItemCode":  "4564",
         "Stock":  7,
@@ -15219,7 +15219,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM ZEPTO \u0026 RAPIDO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "3826",
         "Stock":  -1,
@@ -15231,7 +15231,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT ROSHNI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "3156",
         "Stock":  0,
@@ -15243,7 +15243,7 @@ var STOCK_DATA = [
         "ItemName":  "RS Fendy 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "2772",
         "Stock":  0,
@@ -15255,7 +15255,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Anjali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1695,
         "ItemCode":  "4455",
         "Stock":  3,
@@ -15267,7 +15267,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BLUSH SKY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2155",
         "Stock":  0,
@@ -15279,7 +15279,7 @@ var STOCK_DATA = [
         "ItemName":  "GARMIA GULZAR 8313"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2521",
         "Stock":  -2,
@@ -15291,7 +15291,7 @@ var STOCK_DATA = [
         "ItemName":  "RUSSIAN PLAZO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "3373",
         "Stock":  -1,
@@ -15303,7 +15303,7 @@ var STOCK_DATA = [
         "ItemName":  "Sg haye garmi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "1735",
         "Stock":  0,
@@ -15315,7 +15315,7 @@ var STOCK_DATA = [
         "ItemName":  "Shilpa Bhumi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1518",
         "Stock":  0,
@@ -15327,7 +15327,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Perfect Look"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  860,
         "ItemCode":  "1431",
         "Stock":  0,
@@ -15339,7 +15339,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Gulshan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1104.67,
         "ItemCode":  "2372",
         "Stock":  0,
@@ -15351,7 +15351,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 489"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  820,
         "ItemCode":  "3007",
         "Stock":  7,
@@ -15363,7 +15363,7 @@ var STOCK_DATA = [
         "ItemName":  "VT Harshita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "4028",
         "Stock":  3,
@@ -15375,7 +15375,7 @@ var STOCK_DATA = [
         "ItemName":  "VF SILLY SILLY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "3451",
         "Stock":  -2,
@@ -15387,7 +15387,7 @@ var STOCK_DATA = [
         "ItemName":  "JT Allever"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3270",
         "Stock":  0,
@@ -15399,7 +15399,7 @@ var STOCK_DATA = [
         "ItemName":  "Car Advance"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295.33,
         "ItemCode":  "1750",
         "Stock":  0,
@@ -15411,7 +15411,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Rambagh jam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "2774",
         "Stock":  24,
@@ -15423,7 +15423,7 @@ var STOCK_DATA = [
         "ItemName":  "SPARKLE GEORGETTE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "2283",
         "Stock":  0,
@@ -15435,7 +15435,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHANUM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2095,
         "ItemCode":  "4524",
         "Stock":  2,
@@ -15447,7 +15447,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWEET CELEBRATION"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3019",
         "Stock":  -3,
@@ -15459,7 +15459,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Zara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  405.33,
         "ItemCode":  "1439",
         "Stock":  0,
@@ -15471,7 +15471,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh Sheetal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "3617",
         "Stock":  0,
@@ -15483,7 +15483,7 @@ var STOCK_DATA = [
         "ItemName":  "OM KACHI KERI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  344.67,
         "ItemCode":  "2290",
         "Stock":  -1,
@@ -15495,7 +15495,7 @@ var STOCK_DATA = [
         "ItemName":  "MC PUSHPA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1509",
         "Stock":  0,
@@ -15507,7 +15507,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Satluj"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1650,
         "ItemCode":  "3385",
         "Stock":  -2,
@@ -15519,7 +15519,7 @@ var STOCK_DATA = [
         "ItemName":  "KC True love"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  910,
         "ItemCode":  "4121",
         "Stock":  0,
@@ -15531,7 +15531,7 @@ var STOCK_DATA = [
         "ItemName":  "GK PAKISTANI CONTRAST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  486.67,
         "ItemCode":  "2499",
         "Stock":  0,
@@ -15543,7 +15543,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Bipasha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1174.67,
         "ItemCode":  "2846",
         "Stock":  -7,
@@ -15555,7 +15555,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 8"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  434.67,
         "ItemCode":  "2613",
         "Stock":  0,
@@ -15567,7 +15567,7 @@ var STOCK_DATA = [
         "ItemName":  "Black Bery"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  682,
         "ItemCode":  "1411",
         "Stock":  0,
@@ -15579,7 +15579,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Glenfiddich"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  314.67,
         "ItemCode":  "2579",
         "Stock":  0,
@@ -15591,7 +15591,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM Stachu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  666,
         "ItemCode":  "1756",
         "Stock":  0,
@@ -15603,7 +15603,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Apple jam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1306",
         "Stock":  0,
@@ -15615,7 +15615,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Butterfly"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1485",
         "Stock":  0,
@@ -15627,7 +15627,7 @@ var STOCK_DATA = [
         "ItemName":  "Airtel Pari Fab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "1406",
         "Stock":  0,
@@ -15639,7 +15639,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Padmavati"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  865,
         "ItemCode":  "3935",
         "Stock":  -1,
@@ -15651,7 +15651,7 @@ var STOCK_DATA = [
         "ItemName":  "N Nagma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "3798",
         "Stock":  -2,
@@ -15663,7 +15663,7 @@ var STOCK_DATA = [
         "ItemName":  "Om 123"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1050,
         "ItemCode":  "1904",
         "Stock":  0,
@@ -15675,7 +15675,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Lamets"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2048",
         "Stock":  0,
@@ -15687,7 +15687,7 @@ var STOCK_DATA = [
         "ItemName":  "G30"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  613,
         "ItemCode":  "3261",
         "Stock":  -1,
@@ -15699,7 +15699,7 @@ var STOCK_DATA = [
         "ItemName":  "YC March Ending"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  240,
         "ItemCode":  "2954",
         "Stock":  0,
@@ -15711,7 +15711,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC Mallika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1934",
         "Stock":  0,
@@ -15723,7 +15723,7 @@ var STOCK_DATA = [
         "ItemName":  "Panner Handi MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "2571",
         "Stock":  0,
@@ -15735,7 +15735,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BHEEJA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "2686",
         "Stock":  0,
@@ -15747,7 +15747,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY READYMADE 525"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3459",
         "Stock":  0,
@@ -15759,7 +15759,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Katil"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1205,
         "ItemCode":  "3676",
         "Stock":  0,
@@ -15771,7 +15771,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 383"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675,
         "ItemCode":  "1627",
         "Stock":  5,
@@ -15783,7 +15783,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT jannat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  945,
         "ItemCode":  "3269",
         "Stock":  0,
@@ -15795,7 +15795,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Red Bul"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  40,
         "ItemCode":  "1716",
         "Stock":  1773,
@@ -15807,7 +15807,7 @@ var STOCK_DATA = [
         "ItemName":  "Sultan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "2696",
         "Stock":  -1,
@@ -15819,7 +15819,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT CHANDNI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2250,
         "ItemCode":  "4526",
         "Stock":  3,
@@ -15831,7 +15831,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWAD SANGAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2051",
         "Stock":  0,
@@ -15843,7 +15843,7 @@ var STOCK_DATA = [
         "ItemName":  "NANU DRESS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1070,
         "ItemCode":  "2817",
         "Stock":  0,
@@ -15855,7 +15855,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 4"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "4430",
         "Stock":  15,
@@ -15867,7 +15867,7 @@ var STOCK_DATA = [
         "ItemName":  "OM LITE YASMIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1315",
         "Stock":  0,
@@ -15879,7 +15879,7 @@ var STOCK_DATA = [
         "ItemName":  "SCV Designer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "3723",
         "Stock":  3,
@@ -15891,7 +15891,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Cooling Chilled"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "4398",
         "Stock":  2,
@@ -15903,7 +15903,7 @@ var STOCK_DATA = [
         "ItemName":  "OM DARLING"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1525,
         "ItemCode":  "4473",
         "Stock":  3,
@@ -15915,7 +15915,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CRAZY PAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "1396",
         "Stock":  8,
@@ -15927,7 +15927,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Nagma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3085",
         "Stock":  9,
@@ -15939,7 +15939,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Sadabahar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1630,
         "ItemCode":  "4129",
         "Stock":  3,
@@ -15951,7 +15951,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JELLY JOY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "4158",
         "Stock":  3,
@@ -15963,7 +15963,7 @@ var STOCK_DATA = [
         "ItemName":  "KC URBAN STLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  20,
         "ItemCode":  "4506",
         "Stock":  2508,
@@ -15975,7 +15975,7 @@ var STOCK_DATA = [
         "ItemName":  "Rubiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3596",
         "Stock":  -1,
@@ -15987,7 +15987,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 01"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "4313",
         "Stock":  3,
@@ -15999,7 +15999,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHOCO KUNAFA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  444.67,
         "ItemCode":  "2965",
         "Stock":  -2,
@@ -16011,7 +16011,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Google"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  265,
         "ItemCode":  "3590",
         "Stock":  5,
@@ -16023,7 +16023,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Rehana NX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "4178",
         "Stock":  3,
@@ -16035,7 +16035,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RIMJHIM ISHQ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  875.33,
         "ItemCode":  "1875",
         "Stock":  0,
@@ -16047,7 +16047,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Jimmychoo Ranchi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  315,
         "ItemCode":  "3468",
         "Stock":  -2,
@@ -16059,7 +16059,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Love Boy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "3233",
         "Stock":  -1,
@@ -16071,7 +16071,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Hindustan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  733.33,
         "ItemCode":  "1954",
         "Stock":  0,
@@ -16083,7 +16083,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Milk Cake"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1456",
         "Stock":  0,
@@ -16095,7 +16095,7 @@ var STOCK_DATA = [
         "ItemName":  "Jaam Akansha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "2132",
         "Stock":  0,
@@ -16107,7 +16107,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11649"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "2649",
         "Stock":  0,
@@ -16119,7 +16119,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sitamgar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1335,
         "ItemCode":  "4130",
         "Stock":  2,
@@ -16131,7 +16131,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KESAR MAGIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1610,
         "ItemCode":  "3133",
         "Stock":  0,
@@ -16143,7 +16143,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Heavy 4"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2530",
         "Stock":  0,
@@ -16155,7 +16155,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Kiran"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  253.33,
         "ItemCode":  "1258",
         "Stock":  0,
@@ -16167,7 +16167,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Rok Tok"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1064.67,
         "ItemCode":  "3071",
         "Stock":  0,
@@ -16179,7 +16179,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Jacket Cream"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1845,
         "ItemCode":  "3300",
         "Stock":  0,
@@ -16191,7 +16191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Magical"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2237",
         "Stock":  0,
@@ -16203,7 +16203,7 @@ var STOCK_DATA = [
         "ItemName":  "GF udan khatola"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  230,
         "ItemCode":  "1284",
         "Stock":  0,
@@ -16215,7 +16215,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Lata House"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "2275",
         "Stock":  34,
@@ -16227,7 +16227,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Panna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1130,
         "ItemCode":  "2607",
         "Stock":  0,
@@ -16239,7 +16239,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 172"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3203",
         "Stock":  0,
@@ -16251,7 +16251,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Trishika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  55,
         "ItemCode":  "3543",
         "Stock":  29,
@@ -16263,7 +16263,7 @@ var STOCK_DATA = [
         "ItemName":  "HUF Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "3595",
         "Stock":  16,
@@ -16275,7 +16275,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA JHIL MIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1255,
         "ItemCode":  "4328",
         "Stock":  3,
@@ -16287,7 +16287,7 @@ var STOCK_DATA = [
         "ItemName":  "SG KIMORA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  975,
         "ItemCode":  "3786",
         "Stock":  -1,
@@ -16299,7 +16299,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Son Pari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1830",
         "Stock":  -1,
@@ -16311,7 +16311,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Visha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2794",
         "Stock":  0,
@@ -16323,7 +16323,7 @@ var STOCK_DATA = [
         "ItemName":  "GENTS SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3400",
         "Stock":  0,
@@ -16335,7 +16335,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT TVS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3898",
         "Stock":  6,
@@ -16347,7 +16347,7 @@ var STOCK_DATA = [
         "ItemName":  "OM PREM DHAGGA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "3410",
         "Stock":  6,
@@ -16359,7 +16359,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Siyana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "4119",
         "Stock":  2,
@@ -16371,7 +16371,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KAVITA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1655,
         "ItemCode":  "4488",
         "Stock":  3,
@@ -16383,7 +16383,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHLLY WILLY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "1846",
         "Stock":  0,
@@ -16395,7 +16395,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Neptune"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "3813",
         "Stock":  7,
@@ -16407,7 +16407,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Milly"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "2726",
         "Stock":  0,
@@ -16419,7 +16419,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SAUDE BAAZI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4500",
         "Stock":  3,
@@ -16431,7 +16431,7 @@ var STOCK_DATA = [
         "ItemName":  "GF MEERA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185.33,
         "ItemCode":  "1355",
         "Stock":  0,
@@ -16443,7 +16443,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shazahn"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  533.33,
         "ItemCode":  "1958",
         "Stock":  0,
@@ -16455,7 +16455,7 @@ var STOCK_DATA = [
         "ItemName":  "SS Geet"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3426",
         "Stock":  2,
@@ -16467,7 +16467,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Vanilla"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2919",
         "Stock":  0,
@@ -16479,7 +16479,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Jeep Compass"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1110,
         "ItemCode":  "2180",
         "Stock":  0,
@@ -16491,7 +16491,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rabeel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1295,
         "ItemCode":  "3918",
         "Stock":  -1,
@@ -16503,7 +16503,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BLINK SWITCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  735,
         "ItemCode":  "4057",
         "Stock":  0,
@@ -16515,7 +16515,7 @@ var STOCK_DATA = [
         "ItemName":  "GK ISHQ VISQ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3137",
         "Stock":  3,
@@ -16527,7 +16527,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Kinjal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  770,
         "ItemCode":  "2838",
         "Stock":  0,
@@ -16539,7 +16539,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESI LOOK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  760,
         "ItemCode":  "2911",
         "Stock":  -1,
@@ -16551,7 +16551,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Manchali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  266.67,
         "ItemCode":  "1687",
         "Stock":  0,
@@ -16563,7 +16563,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Meghdoot"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  3000,
         "ItemCode":  "4230",
         "Stock":  0,
@@ -16575,7 +16575,7 @@ var STOCK_DATA = [
         "ItemName":  "PLAZA PRINTS Z2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  814.67,
         "ItemCode":  "2541",
         "Stock":  0,
@@ -16587,7 +16587,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mazin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1144.67,
         "ItemCode":  "2823",
         "Stock":  1,
@@ -16599,7 +16599,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RAAH BHULEYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1015,
         "ItemCode":  "3800",
         "Stock":  2,
@@ -16611,7 +16611,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Gulab E Nawabi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1860,
         "ItemCode":  "4510",
         "Stock":  3,
@@ -16623,7 +16623,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWEET NOOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1559",
         "Stock":  0,
@@ -16635,7 +16635,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Vichitra Toofan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "4417",
         "Stock":  -1,
@@ -16647,7 +16647,7 @@ var STOCK_DATA = [
         "ItemName":  "AF GALAXY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1587",
         "Stock":  0,
@@ -16659,7 +16659,7 @@ var STOCK_DATA = [
         "ItemName":  "Vani Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1484.67,
         "ItemCode":  "2550",
         "Stock":  0,
@@ -16671,7 +16671,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MEHRNAAZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1314.67,
         "ItemCode":  "2295",
         "Stock":  2,
@@ -16683,7 +16683,7 @@ var STOCK_DATA = [
         "ItemName":  "KC QURESHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "3310",
         "Stock":  6,
@@ -16695,7 +16695,7 @@ var STOCK_DATA = [
         "ItemName":  "Vas Upasana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "3986",
         "Stock":  -1,
@@ -16707,7 +16707,7 @@ var STOCK_DATA = [
         "ItemName":  "SG ALEENA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1235",
         "Stock":  0,
@@ -16719,7 +16719,7 @@ var STOCK_DATA = [
         "ItemName":  "Vani Prema"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "3362",
         "Stock":  -1,
@@ -16731,7 +16731,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Total Siyappa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "4116",
         "Stock":  4,
@@ -16743,7 +16743,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT ROSE GOLD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "2441",
         "Stock":  0,
@@ -16755,7 +16755,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zayed"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2260",
         "Stock":  0,
@@ -16767,7 +16767,7 @@ var STOCK_DATA = [
         "ItemName":  "MT FIROZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3290",
         "Stock":  1,
@@ -16779,7 +16779,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Nigar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1620",
         "Stock":  0,
@@ -16791,7 +16791,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Ruhana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  584.67,
         "ItemCode":  "2143",
         "Stock":  -1,
@@ -16803,7 +16803,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RANIA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  860,
         "ItemCode":  "1652",
         "Stock":  0,
@@ -16815,7 +16815,7 @@ var STOCK_DATA = [
         "ItemName":  "Nevedhyam Begum"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3447",
         "Stock":  0,
@@ -16827,7 +16827,7 @@ var STOCK_DATA = [
         "ItemName":  "Chicken CD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1085,
         "ItemCode":  "3879",
         "Stock":  -1,
@@ -16839,7 +16839,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM MEMORY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "3591",
         "Stock":  -1,
@@ -16851,7 +16851,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TIC TAC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "4014",
         "Stock":  -1,
@@ -16863,7 +16863,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT PAHELI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4478",
         "Stock":  3,
@@ -16875,7 +16875,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUPER MASALA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  466.67,
         "ItemCode":  "1840",
         "Stock":  0,
@@ -16887,7 +16887,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Boat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1845,
         "ItemCode":  "4242",
         "Stock":  -1,
@@ -16899,7 +16899,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 903 C"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3817",
         "Stock":  -5,
@@ -16911,7 +16911,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt Barsat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  313,
         "ItemCode":  "3558",
         "Stock":  -1,
@@ -16923,7 +16923,7 @@ var STOCK_DATA = [
         "ItemName":  "Jmd Shipra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "1414",
         "Stock":  0,
@@ -16935,7 +16935,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Gurbaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3782",
         "Stock":  -1,
@@ -16947,7 +16947,7 @@ var STOCK_DATA = [
         "ItemName":  "PC WHITE ROSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2006",
         "Stock":  1,
@@ -16959,7 +16959,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Kallakar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4502",
         "Stock":  3,
@@ -16971,7 +16971,7 @@ var STOCK_DATA = [
         "ItemName":  "GF PANJABI KUDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1575,
         "ItemCode":  "2799",
         "Stock":  0,
@@ -16983,7 +16983,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NAKHRE TERE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485.33,
         "ItemCode":  "1220",
         "Stock":  0,
@@ -16995,7 +16995,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Skoda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1176.67,
         "ItemCode":  "1922",
         "Stock":  0,
@@ -17007,7 +17007,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Villagers"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "1357",
         "Stock":  0,
@@ -17019,7 +17019,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hirika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3338",
         "Stock":  5,
@@ -17031,7 +17031,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Good Luck"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "4095",
         "Stock":  0,
@@ -17043,7 +17043,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA VELVET ZARKAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1276.67,
         "ItemCode":  "2478",
         "Stock":  0,
@@ -17055,7 +17055,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Readymade S-02_x_"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  4333.33,
         "ItemCode":  "2223",
         "Stock":  0,
@@ -17067,7 +17067,7 @@ var STOCK_DATA = [
         "ItemName":  "04 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  994.67,
         "ItemCode":  "2181",
         "Stock":  0,
@@ -17079,7 +17079,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rutba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3689",
         "Stock":  2,
@@ -17091,7 +17091,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FARIS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  125,
         "ItemCode":  "3570",
         "Stock":  -3,
@@ -17103,7 +17103,7 @@ var STOCK_DATA = [
         "ItemName":  "Siya Work Scarf"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3379",
         "Stock":  0,
@@ -17115,7 +17115,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Sarvana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "4361",
         "Stock":  8,
@@ -17127,7 +17127,7 @@ var STOCK_DATA = [
         "ItemName":  "JT ZUBEE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  456.67,
         "ItemCode":  "2405",
         "Stock":  0,
@@ -17139,7 +17139,7 @@ var STOCK_DATA = [
         "ItemName":  "Svt Sapno Ki Rani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1750,
         "ItemCode":  "2734",
         "Stock":  -1,
@@ -17151,7 +17151,7 @@ var STOCK_DATA = [
         "ItemName":  "KC O SAJNI RE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  413,
         "ItemCode":  "3342",
         "Stock":  0,
@@ -17163,7 +17163,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 13453"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1526.67,
         "ItemCode":  "1667",
         "Stock":  0,
@@ -17175,7 +17175,7 @@ var STOCK_DATA = [
         "ItemName":  "KC shaheer palazzo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2120,
         "ItemCode":  "3987",
         "Stock":  -1,
@@ -17187,7 +17187,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MASTI RIDE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1863",
         "Stock":  0,
@@ -17199,7 +17199,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Dream Girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "3777",
         "Stock":  2,
@@ -17211,7 +17211,7 @@ var STOCK_DATA = [
         "ItemName":  "OM DOUBLE RUN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  385.33,
         "ItemCode":  "1384",
         "Stock":  0,
@@ -17223,7 +17223,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Royal Enfield"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1075,
         "ItemCode":  "3802",
         "Stock":  2,
@@ -17235,7 +17235,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MAHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1260,
         "ItemCode":  "3024",
         "Stock":  0,
@@ -17247,7 +17247,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kalakand"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1346.67,
         "ItemCode":  "1895",
         "Stock":  0,
@@ -17259,7 +17259,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Tere Bin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1140,
         "ItemCode":  "1582",
         "Stock":  0,
@@ -17271,7 +17271,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop Sangam 3 No."
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "3252",
         "Stock":  -1,
@@ -17283,7 +17283,7 @@ var STOCK_DATA = [
         "ItemName":  "Innaya Gudgudi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2189",
         "Stock":  0,
@@ -17295,7 +17295,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Hemani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4370",
         "Stock":  7,
@@ -17307,7 +17307,7 @@ var STOCK_DATA = [
         "ItemName":  "GF SUI DHAGA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "2776",
         "Stock":  0,
@@ -17319,7 +17319,7 @@ var STOCK_DATA = [
         "ItemName":  "GF DHARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1551",
         "Stock":  0,
@@ -17331,7 +17331,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Avni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  595,
         "ItemCode":  "3632",
         "Stock":  7,
@@ -17343,7 +17343,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT BLUE WHALE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1414.67,
         "ItemCode":  "2888",
         "Stock":  0,
@@ -17355,7 +17355,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Twinkle"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2046",
         "Stock":  0,
@@ -17367,7 +17367,7 @@ var STOCK_DATA = [
         "ItemName":  "JF JALEBI BAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1825,
         "ItemCode":  "3893",
         "Stock":  0,
@@ -17379,7 +17379,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COOLZEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2793",
         "Stock":  0,
@@ -17391,7 +17391,7 @@ var STOCK_DATA = [
         "ItemName":  "Shaheen Aunty"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "2745",
         "Stock":  1,
@@ -17403,7 +17403,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MERI HEERIYE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  23,
         "ItemCode":  "1712",
         "Stock":  -20,
@@ -17415,7 +17415,7 @@ var STOCK_DATA = [
         "ItemName":  "Lamhen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1595,
         "ItemCode":  "3367",
         "Stock":  -3,
@@ -17427,7 +17427,7 @@ var STOCK_DATA = [
         "ItemName":  "Rasgulla"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "4102",
         "Stock":  1,
@@ -17439,7 +17439,7 @@ var STOCK_DATA = [
         "ItemName":  "Sg Kajal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2535",
         "Stock":  0,
@@ -17451,7 +17451,7 @@ var STOCK_DATA = [
         "ItemName":  "Gumnam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "1892",
         "Stock":  0,
@@ -17463,7 +17463,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pakiza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  670,
         "ItemCode":  "1332",
         "Stock":  0,
@@ -17475,7 +17475,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Parrot"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2100",
         "Stock":  0,
@@ -17487,7 +17487,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Badal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2165,
         "ItemCode":  "4115",
         "Stock":  -1,
@@ -17499,7 +17499,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HONEY BITES (WITH PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1695,
         "ItemCode":  "4540",
         "Stock":  3,
@@ -17511,7 +17511,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HASEEN WADI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "1540",
         "Stock":  0,
@@ -17523,7 +17523,7 @@ var STOCK_DATA = [
         "ItemName":  "Dubai Special"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "2421",
         "Stock":  0,
@@ -17535,7 +17535,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Fahar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  245,
         "ItemCode":  "4369",
         "Stock":  15,
@@ -17547,7 +17547,7 @@ var STOCK_DATA = [
         "ItemName":  "KT MEHER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2195,
         "ItemCode":  "4532",
         "Stock":  3,
@@ -17559,7 +17559,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HAPPY RAINBOW"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "4144",
         "Stock":  -1,
@@ -17571,7 +17571,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC MANJU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525,
         "ItemCode":  "3065",
         "Stock":  2,
@@ -17583,7 +17583,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Karnavati"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1791",
         "Stock":  0,
@@ -17595,7 +17595,7 @@ var STOCK_DATA = [
         "ItemName":  "OC Animal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3665",
         "Stock":  7,
@@ -17607,7 +17607,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX 05"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  294.67,
         "ItemCode":  "2948",
         "Stock":  0,
@@ -17619,7 +17619,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Railyatri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1726.67,
         "ItemCode":  "1950",
         "Stock":  0,
@@ -17631,7 +17631,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Rajni Pant"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2963",
         "Stock":  0,
@@ -17643,7 +17643,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Pak Suite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4295",
         "Stock":  3,
@@ -17655,7 +17655,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIRST RAY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "3043",
         "Stock":  0,
@@ -17667,7 +17667,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite RS Fendi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "4216",
         "Stock":  2,
@@ -17679,7 +17679,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GLOW ZONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3120",
         "Stock":  0,
@@ -17691,7 +17691,7 @@ var STOCK_DATA = [
         "ItemName":  "KS Khawahish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  785.33,
         "ItemCode":  "1237",
         "Stock":  0,
@@ -17703,7 +17703,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Tajmahal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  315,
         "ItemCode":  "3466",
         "Stock":  0,
@@ -17715,7 +17715,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Maurya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2094",
         "Stock":  0,
@@ -17727,7 +17727,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Kashfa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  533.33,
         "ItemCode":  "1961",
         "Stock":  0,
@@ -17739,7 +17739,7 @@ var STOCK_DATA = [
         "ItemName":  "SS Binad jam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  414.67,
         "ItemCode":  "2212",
         "Stock":  0,
@@ -17751,7 +17751,7 @@ var STOCK_DATA = [
         "ItemName":  "MN White Bits"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1080,
         "ItemCode":  "3984",
         "Stock":  3,
@@ -17763,7 +17763,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CAFE DILWALE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  833.33,
         "ItemCode":  "2010",
         "Stock":  -1,
@@ -17775,7 +17775,7 @@ var STOCK_DATA = [
         "ItemName":  "NAYRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  18,
         "ItemCode":  "1718",
         "Stock":  0,
@@ -17787,7 +17787,7 @@ var STOCK_DATA = [
         "ItemName":  "Small Chouka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1233.33,
         "ItemCode":  "1769",
         "Stock":  0,
@@ -17799,7 +17799,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Evening"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3185",
         "Stock":  0,
@@ -17811,7 +17811,7 @@ var STOCK_DATA = [
         "ItemName":  "Romaisha Kc"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "2044",
         "Stock":  0,
@@ -17823,7 +17823,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT SARMILA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3256",
         "Stock":  -1,
@@ -17835,7 +17835,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Sahnaaj"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1585,
         "ItemCode":  "4538",
         "Stock":  3,
@@ -17847,7 +17847,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESI SPRINKLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "2747",
         "Stock":  0,
@@ -17859,7 +17859,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TERI CHUNARIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  706.67,
         "ItemCode":  "1910",
         "Stock":  0,
@@ -17871,7 +17871,7 @@ var STOCK_DATA = [
         "ItemName":  "Om white House"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "3327",
         "Stock":  1,
@@ -17883,7 +17883,7 @@ var STOCK_DATA = [
         "ItemName":  "Krushna Pushpa Rajwadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  586.67,
         "ItemCode":  "1553",
         "Stock":  0,
@@ -17895,7 +17895,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Zinfandel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1314.67,
         "ItemCode":  "2278",
         "Stock":  0,
@@ -17907,7 +17907,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FALISHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "3609",
         "Stock":  -1,
@@ -17919,7 +17919,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HUBOOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "3087",
         "Stock":  10,
@@ -17931,7 +17931,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Teekhi Mirch"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  255,
         "ItemCode":  "3005",
         "Stock":  61,
@@ -17943,7 +17943,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Masoom"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  746.67,
         "ItemCode":  "1854",
         "Stock":  0,
@@ -17955,7 +17955,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Hanspriya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3892",
         "Stock":  -2,
@@ -17967,7 +17967,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUNSET BEACH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2290,
         "ItemCode":  "4504",
         "Stock":  2,
@@ -17979,7 +17979,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SAFRON BEAUTY FENDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3815",
         "Stock":  1,
@@ -17991,7 +17991,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Maira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  240,
         "ItemCode":  "2315",
         "Stock":  0,
@@ -18003,7 +18003,7 @@ var STOCK_DATA = [
         "ItemName":  "RUHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3306",
         "Stock":  0,
@@ -18015,7 +18015,7 @@ var STOCK_DATA = [
         "ItemName":  "Malta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2149",
         "Stock":  -1,
@@ -18027,7 +18027,7 @@ var STOCK_DATA = [
         "ItemName":  "Jt Zara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  421,
         "ItemCode":  "4040",
         "Stock":  -1,
@@ -18039,7 +18039,7 @@ var STOCK_DATA = [
         "ItemName":  "LC KAVYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  197,
         "ItemCode":  "4292",
         "Stock":  23,
@@ -18051,7 +18051,7 @@ var STOCK_DATA = [
         "ItemName":  "AHD PC COTTON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2150",
         "Stock":  0,
@@ -18063,7 +18063,7 @@ var STOCK_DATA = [
         "ItemName":  "GEROJET CLOTH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2235,
         "ItemCode":  "4051",
         "Stock":  3,
@@ -18075,7 +18075,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BULLET TRAIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1145,
         "ItemCode":  "3131",
         "Stock":  0,
@@ -18087,7 +18087,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Heavy 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2752",
         "Stock":  0,
@@ -18099,7 +18099,7 @@ var STOCK_DATA = [
         "ItemName":  "PEHNAWA SAMRPAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1165,
         "ItemCode":  "2417",
         "Stock":  -12,
@@ -18111,7 +18111,7 @@ var STOCK_DATA = [
         "ItemName":  "SABEELA TROUSER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "2350",
         "Stock":  0,
@@ -18123,7 +18123,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Suhani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1050,
         "ItemCode":  "4111",
         "Stock":  3,
@@ -18135,7 +18135,7 @@ var STOCK_DATA = [
         "ItemName":  "KC THANDAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "3237",
         "Stock":  -1,
@@ -18147,7 +18147,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Harry Potter"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  813.33,
         "ItemCode":  "1928",
         "Stock":  0,
@@ -18159,7 +18159,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Election"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "3235",
         "Stock":  0,
@@ -18171,7 +18171,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Hukumat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3601",
         "Stock":  -1,
@@ -18183,7 +18183,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 09"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  286.67,
         "ItemCode":  "1685",
         "Stock":  0,
@@ -18195,7 +18195,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Har Pal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2754",
         "Stock":  0,
@@ -18207,7 +18207,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT FERRARI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "4175",
         "Stock":  2,
@@ -18219,7 +18219,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZAHIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "3026",
         "Stock":  0,
@@ -18231,7 +18231,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Cookies"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3875",
         "Stock":  -1,
@@ -18243,7 +18243,7 @@ var STOCK_DATA = [
         "ItemName":  "GK SCION"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "4358",
         "Stock":  -1,
@@ -18255,7 +18255,7 @@ var STOCK_DATA = [
         "ItemName":  "JT ANTIQUE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1695,
         "ItemCode":  "3824",
         "Stock":  -1,
@@ -18267,7 +18267,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Royal Fit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "2089",
         "Stock":  0,
@@ -18279,7 +18279,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Jasmine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3775",
         "Stock":  3,
@@ -18291,7 +18291,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Chunnari Chamke"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "4279",
         "Stock":  -1,
@@ -18303,7 +18303,7 @@ var STOCK_DATA = [
         "ItemName":  "Royal Khushi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  23.5,
         "ItemCode":  "2103",
         "Stock":  3828.6,
@@ -18315,7 +18315,7 @@ var STOCK_DATA = [
         "ItemName":  "PASHMINA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1990,
         "ItemCode":  "3613",
         "Stock":  -1,
@@ -18327,7 +18327,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MUSIC MASTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  537,
         "ItemCode":  "4566",
         "Stock":  -5,
@@ -18339,7 +18339,7 @@ var STOCK_DATA = [
         "ItemName":  "INNAYA ROYAL STAG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1810,
         "ItemCode":  "4202",
         "Stock":  3,
@@ -18351,7 +18351,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 4570"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3599",
         "Stock":  -1,
@@ -18363,7 +18363,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 06"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "1985",
         "Stock":  0,
@@ -18375,7 +18375,7 @@ var STOCK_DATA = [
         "ItemName":  "Butter Paneer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2563",
         "Stock":  -2,
@@ -18387,7 +18387,7 @@ var STOCK_DATA = [
         "ItemName":  "Rayon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "2722",
         "Stock":  0,
@@ -18399,7 +18399,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KINNA SONA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4260",
         "Stock":  0,
@@ -18411,7 +18411,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ISHQ STEPS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "2666",
         "Stock":  0,
@@ -18423,7 +18423,7 @@ var STOCK_DATA = [
         "ItemName":  "Sofia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1245",
         "Stock":  0,
@@ -18435,7 +18435,7 @@ var STOCK_DATA = [
         "ItemName":  "GF City Plus"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1294.67,
         "ItemCode":  "2922",
         "Stock":  0,
@@ -18447,7 +18447,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 2650 Readymade (1)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1695,
         "ItemCode":  "4271",
         "Stock":  3,
@@ -18459,7 +18459,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ELANZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1314.67,
         "ItemCode":  "2279",
         "Stock":  0,
@@ -18471,7 +18471,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DALCHINI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2113",
         "Stock":  0,
@@ -18483,7 +18483,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KRUPALI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1724.67,
         "ItemCode":  "2957",
         "Stock":  0,
@@ -18495,7 +18495,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 3014"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4363",
         "Stock":  1,
@@ -18507,7 +18507,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL MARINA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  6666.67,
         "ItemCode":  "2229",
         "Stock":  0,
@@ -18519,7 +18519,7 @@ var STOCK_DATA = [
         "ItemName":  "10 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  21.5,
         "ItemCode":  "1298",
         "Stock":  3306.15,
@@ -18531,7 +18531,7 @@ var STOCK_DATA = [
         "ItemName":  "BMW Plain"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1704.67,
         "ItemCode":  "2030",
         "Stock":  -2,
@@ -18543,7 +18543,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY KALI PLAZO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3663",
         "Stock":  6,
@@ -18555,7 +18555,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX 03"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "2871",
         "Stock":  -4,
@@ -18567,7 +18567,7 @@ var STOCK_DATA = [
         "ItemName":  "7 Clouds"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "3067",
         "Stock":  0,
@@ -18579,7 +18579,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Oreo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "2802",
         "Stock":  -1,
@@ -18591,7 +18591,7 @@ var STOCK_DATA = [
         "ItemName":  "KC O SAHIBA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  654.67,
         "ItemCode":  "2879",
         "Stock":  -1,
@@ -18603,7 +18603,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Amrita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2583",
         "Stock":  -6,
@@ -18615,7 +18615,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Chandrika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1610,
         "ItemCode":  "1969",
         "Stock":  0,
@@ -18627,7 +18627,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shaitan Garara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  195,
         "ItemCode":  "3574",
         "Stock":  50,
@@ -18639,7 +18639,7 @@ var STOCK_DATA = [
         "ItemName":  "Zara Aheri Suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1869",
         "Stock":  0,
@@ -18651,7 +18651,7 @@ var STOCK_DATA = [
         "ItemName":  "Gf Money Plan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1786.67,
         "ItemCode":  "1568",
         "Stock":  0,
@@ -18663,7 +18663,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Twinkle"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "3100",
         "Stock":  0,
@@ -18675,7 +18675,7 @@ var STOCK_DATA = [
         "ItemName":  "Iznik 1182B"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3344",
         "Stock":  5,
@@ -18687,7 +18687,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hats Off"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3808",
         "Stock":  -2,
@@ -18699,7 +18699,7 @@ var STOCK_DATA = [
         "ItemName":  "PC ROMANCE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  966.67,
         "ItemCode":  "1897",
         "Stock":  0,
@@ -18711,7 +18711,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Tehzib"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3959",
         "Stock":  3,
@@ -18723,7 +18723,7 @@ var STOCK_DATA = [
         "ItemName":  "KC WAFFY ZONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3968",
         "Stock":  -1,
@@ -18735,7 +18735,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DIGITAL LOOK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3170",
         "Stock":  -3,
@@ -18747,7 +18747,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Kudrt"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  416.67,
         "ItemCode":  "2403",
         "Stock":  0,
@@ -18759,7 +18759,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Girl Friend"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1205,
         "ItemCode":  "2806",
         "Stock":  -1,
@@ -18771,7 +18771,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MEGA STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  6666.67,
         "ItemCode":  "2221",
         "Stock":  0,
@@ -18783,7 +18783,7 @@ var STOCK_DATA = [
         "ItemName":  "02 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  850,
         "ItemCode":  "2247",
         "Stock":  -3,
@@ -18795,7 +18795,7 @@ var STOCK_DATA = [
         "ItemName":  "Gadar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2049",
         "Stock":  0,
@@ -18807,7 +18807,7 @@ var STOCK_DATA = [
         "ItemName":  "G35"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "1990",
         "Stock":  -353,
@@ -18819,7 +18819,7 @@ var STOCK_DATA = [
         "ItemName":  "SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1645,
         "ItemCode":  "4541",
         "Stock":  3,
@@ -18831,7 +18831,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STYLE WORLD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1155,
         "ItemCode":  "3963",
         "Stock":  -1,
@@ -18843,7 +18843,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SILVER KEY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "2024",
         "Stock":  0,
@@ -18855,7 +18855,7 @@ var STOCK_DATA = [
         "ItemName":  "VELVET D GOWN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  314.67,
         "ItemCode":  "2578",
         "Stock":  0,
@@ -18867,7 +18867,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM Kitty party"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "1362",
         "Stock":  0,
@@ -18879,7 +18879,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Badshah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "1647",
         "Stock":  0,
@@ -18891,7 +18891,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Aashika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "3978",
         "Stock":  -1,
@@ -18903,7 +18903,7 @@ var STOCK_DATA = [
         "ItemName":  "SG VICTORY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1155,
         "ItemCode":  "2807",
         "Stock":  0,
@@ -18915,7 +18915,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PALKON TALE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  444.67,
         "ItemCode":  "2971",
         "Stock":  0,
@@ -18927,7 +18927,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Libas Cotton"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1030,
         "ItemCode":  "4287",
         "Stock":  3,
@@ -18939,7 +18939,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BLACK ROCK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "1544",
         "Stock":  0,
@@ -18951,7 +18951,7 @@ var STOCK_DATA = [
         "ItemName":  "Gold Chance"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "3266",
         "Stock":  0,
@@ -18963,7 +18963,7 @@ var STOCK_DATA = [
         "ItemName":  "SF (Shriyan Fashion) BABITA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "3502",
         "Stock":  3,
@@ -18975,7 +18975,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Yess Boss"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "4379",
         "Stock":  9,
@@ -18987,7 +18987,7 @@ var STOCK_DATA = [
         "ItemName":  "MASTI REYON KUDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "1935",
         "Stock":  0,
@@ -18999,7 +18999,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Bandhan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1309",
         "Stock":  0,
@@ -19011,7 +19011,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Vanshika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  916.67,
         "ItemCode":  "1789",
         "Stock":  0,
@@ -19023,7 +19023,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Sahira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "1486",
         "Stock":  0,
@@ -19035,7 +19035,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Sunshine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2876",
         "Stock":  -3,
@@ -19047,7 +19047,7 @@ var STOCK_DATA = [
         "ItemName":  "JS Saachi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  456.67,
         "ItemCode":  "1964",
         "Stock":  0,
@@ -19059,7 +19059,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Rangeela Raja"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455,
         "ItemCode":  "3322",
         "Stock":  70,
@@ -19071,7 +19071,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Afreen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1645,
         "ItemCode":  "4549",
         "Stock":  3,
@@ -19083,7 +19083,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BITE TIME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1957",
         "Stock":  0,
@@ -19095,7 +19095,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Sky"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525,
         "ItemCode":  "3238",
         "Stock":  -5,
@@ -19107,7 +19107,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Rangoli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "4318",
         "Stock":  3,
@@ -19119,7 +19119,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SOFT MELODY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1453",
         "Stock":  0,
@@ -19131,7 +19131,7 @@ var STOCK_DATA = [
         "ItemName":  "Pehnawa Shivani Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  555,
         "ItemCode":  "3127",
         "Stock":  0,
@@ -19143,7 +19143,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Sonpari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1810",
         "Stock":  0,
@@ -19155,7 +19155,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Paper work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1395",
         "Stock":  -1,
@@ -19167,7 +19167,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rangeela"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1226.67,
         "ItemCode":  "1664",
         "Stock":  0,
@@ -19179,7 +19179,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shell"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "2980",
         "Stock":  0,
@@ -19191,7 +19191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dosti Yaari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1850",
         "Stock":  0,
@@ -19203,7 +19203,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Jalwa burberry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1365,
         "ItemCode":  "4395",
         "Stock":  3,
@@ -19215,7 +19215,7 @@ var STOCK_DATA = [
         "ItemName":  "GK RUSTAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "3102",
         "Stock":  0,
@@ -19227,7 +19227,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 4321B"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "2190",
         "Stock":  0,
@@ -19239,7 +19239,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Anika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "4099",
         "Stock":  3,
@@ -19251,7 +19251,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Sunset Valley"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  364.67,
         "ItemCode":  "2642",
         "Stock":  0,
@@ -19263,7 +19263,7 @@ var STOCK_DATA = [
         "ItemName":  "KS RANGOLI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3463",
         "Stock":  -1,
@@ -19275,7 +19275,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM Jhumka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  572,
         "ItemCode":  "3887",
         "Stock":  5,
@@ -19287,7 +19287,7 @@ var STOCK_DATA = [
         "ItemName":  "OM KRRISH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2340,
         "ItemCode":  "2979",
         "Stock":  0,
@@ -19299,7 +19299,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Haule Haule"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "4441",
         "Stock":  23,
@@ -19311,7 +19311,7 @@ var STOCK_DATA = [
         "ItemName":  "AST HEENA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "1645",
         "Stock":  0,
@@ -19323,7 +19323,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Rasgulla"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3860",
         "Stock":  -1,
@@ -19335,7 +19335,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JITNI DAFA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1475,
         "ItemCode":  "3820",
         "Stock":  -1,
@@ -19347,7 +19347,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Mirror Magic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1845,
         "ItemCode":  "4160",
         "Stock":  0,
@@ -19359,7 +19359,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RABBANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "4276",
         "Stock":  0,
@@ -19371,7 +19371,7 @@ var STOCK_DATA = [
         "ItemName":  "3 Pcs"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1815,
         "ItemCode":  "3921",
         "Stock":  3,
@@ -19383,7 +19383,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 131"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "4490",
         "Stock":  -3,
@@ -19395,7 +19395,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Sofia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2263",
         "Stock":  0,
@@ -19407,7 +19407,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY KOTI GARARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1050,
         "ItemCode":  "2608",
         "Stock":  -1,
@@ -19419,7 +19419,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 005"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2056.67,
         "ItemCode":  "1661",
         "Stock":  0,
@@ -19431,7 +19431,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Bindiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  55,
         "ItemCode":  "3542",
         "Stock":  47,
@@ -19443,7 +19443,7 @@ var STOCK_DATA = [
         "ItemName":  "GN College Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4329",
         "Stock":  2,
@@ -19455,7 +19455,7 @@ var STOCK_DATA = [
         "ItemName":  "SG GOOD LUCK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  313,
         "ItemCode":  "4321",
         "Stock":  39,
@@ -19467,7 +19467,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD MIX SUIT STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "3767",
         "Stock":  1,
@@ -19479,7 +19479,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHILL BERRY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1064.67,
         "ItemCode":  "2845",
         "Stock":  0,
@@ -19491,7 +19491,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 7"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3202",
         "Stock":  2,
@@ -19503,7 +19503,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Sang Dil"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "3016",
         "Stock":  3,
@@ -19515,7 +19515,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Haseena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "3616",
         "Stock":  0,
@@ -19527,7 +19527,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUPER SONIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "2727",
         "Stock":  0,
@@ -19539,7 +19539,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SAIYAAN SUPERSTAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1847",
         "Stock":  0,
@@ -19551,7 +19551,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Magic Box"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  592.67,
         "ItemCode":  "2936",
         "Stock":  0,
@@ -19563,7 +19563,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Saregama"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "2438",
         "Stock":  0,
@@ -19575,7 +19575,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KGF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1360,
         "ItemCode":  "4330",
         "Stock":  3,
@@ -19587,7 +19587,7 @@ var STOCK_DATA = [
         "ItemName":  "SG SHUBH MANGAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1610,
         "ItemCode":  "3812",
         "Stock":  -1,
@@ -19599,7 +19599,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Mast Toli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  253.33,
         "ItemCode":  "1257",
         "Stock":  0,
@@ -19611,7 +19611,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Deshraaj"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  605,
         "ItemCode":  "3286",
         "Stock":  -1,
@@ -19623,7 +19623,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT LAXMI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1421,
         "ItemCode":  "4483",
         "Stock":  3,
@@ -19635,7 +19635,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DASTAK-E-DIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "4475",
         "Stock":  3,
@@ -19647,7 +19647,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TAJ RAANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1443",
         "Stock":  0,
@@ -19659,7 +19659,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh RDX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "4036",
         "Stock":  -1,
@@ -19671,7 +19671,7 @@ var STOCK_DATA = [
         "ItemName":  "OM DIL MAANGE MORE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  210,
         "ItemCode":  "2371",
         "Stock":  0,
@@ -19683,7 +19683,7 @@ var STOCK_DATA = [
         "ItemName":  "BB Shah Prema"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2090,
         "ItemCode":  "4550",
         "Stock":  3,
@@ -19695,7 +19695,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROLL NATION (PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1435,
         "ItemCode":  "4044",
         "Stock":  -1,
@@ -19707,7 +19707,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 1213 J"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1511",
         "Stock":  0,
@@ -19719,7 +19719,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Madhukan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "3862",
         "Stock":  6,
@@ -19731,7 +19731,7 @@ var STOCK_DATA = [
         "ItemName":  "WHITE 1 ZARKAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2258",
         "Stock":  0,
@@ -19743,7 +19743,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PEPLUM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1335,
         "ItemCode":  "3051",
         "Stock":  0,
@@ -19755,7 +19755,7 @@ var STOCK_DATA = [
         "ItemName":  "Somnath Misha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1426.67,
         "ItemCode":  "1781",
         "Stock":  0,
@@ -19767,7 +19767,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Firooz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2140,
         "ItemCode":  "3675",
         "Stock":  -1,
@@ -19779,7 +19779,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 1550"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  242,
         "ItemCode":  "1264",
         "Stock":  0,
@@ -19791,7 +19791,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Organic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3571",
         "Stock":  0,
@@ -19803,7 +19803,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc 11675"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3458",
         "Stock":  0,
@@ -19815,7 +19815,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Mango"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1736",
         "Stock":  0,
@@ -19827,7 +19827,7 @@ var STOCK_DATA = [
         "ItemName":  "Tycoon KC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2284.67,
         "ItemCode":  "2788",
         "Stock":  0,
@@ -19839,7 +19839,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RABICA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1519",
         "Stock":  0,
@@ -19851,7 +19851,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Devgan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  433.33,
         "ItemCode":  "2017",
         "Stock":  1,
@@ -19863,7 +19863,7 @@ var STOCK_DATA = [
         "ItemName":  "VC NDTV"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1315,
         "ItemCode":  "3829",
         "Stock":  -1,
@@ -19875,7 +19875,7 @@ var STOCK_DATA = [
         "ItemName":  "SG RADHEY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "3155",
         "Stock":  -7,
@@ -19887,7 +19887,7 @@ var STOCK_DATA = [
         "ItemName":  "RS Crunchy 5"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3560",
         "Stock":  -1,
@@ -19899,7 +19899,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11674"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1475,
         "ItemCode":  "3821",
         "Stock":  0,
@@ -19911,7 +19911,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Grand Walk"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1819",
         "Stock":  0,
@@ -19923,7 +19923,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Ruksana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1594",
         "Stock":  0,
@@ -19935,7 +19935,7 @@ var STOCK_DATA = [
         "ItemName":  "Kesar Shiv Text"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "1390",
         "Stock":  0,
@@ -19947,7 +19947,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Habibi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "2522",
         "Stock":  0,
@@ -19959,7 +19959,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZABUKEE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1347",
         "Stock":  0,
@@ -19971,7 +19971,7 @@ var STOCK_DATA = [
         "ItemName":  "Rangoli GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  476.67,
         "ItemCode":  "1633",
         "Stock":  0,
@@ -19983,7 +19983,7 @@ var STOCK_DATA = [
         "ItemName":  "Shakira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  613,
         "ItemCode":  "3264",
         "Stock":  -3,
@@ -19995,7 +19995,7 @@ var STOCK_DATA = [
         "ItemName":  "YC(Yashika Creation) Nimbu Soda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  666,
         "ItemCode":  "1755",
         "Stock":  0,
@@ -20007,7 +20007,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Mengo jam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2572",
         "Stock":  0,
@@ -20019,7 +20019,7 @@ var STOCK_DATA = [
         "ItemName":  "CTN CLOTH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  810,
         "ItemCode":  "3930",
         "Stock":  -1,
@@ -20031,7 +20031,7 @@ var STOCK_DATA = [
         "ItemName":  "N SHALIMAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2056",
         "Stock":  -2,
@@ -20043,7 +20043,7 @@ var STOCK_DATA = [
         "ItemName":  "GARARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  676.67,
         "ItemCode":  "1933",
         "Stock":  0,
@@ -20055,7 +20055,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Hunger"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  865.33,
         "ItemCode":  "1364",
         "Stock":  0,
@@ -20067,7 +20067,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kashfa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3171",
         "Stock":  1,
@@ -20079,7 +20079,7 @@ var STOCK_DATA = [
         "ItemName":  "Pari Fab Rani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2178",
         "Stock":  0,
@@ -20091,7 +20091,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Rabdi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "4253",
         "Stock":  3,
@@ -20103,7 +20103,7 @@ var STOCK_DATA = [
         "ItemName":  "KC POWER QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "2501",
         "Stock":  0,
@@ -20115,7 +20115,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Sakhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2861",
         "Stock":  2,
@@ -20127,7 +20127,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Hungama"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1285,
         "ItemCode":  "4373",
         "Stock":  7,
@@ -20139,7 +20139,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1375 GLASS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1005,
         "ItemCode":  "3934",
         "Stock":  2,
@@ -20151,7 +20151,7 @@ var STOCK_DATA = [
         "ItemName":  "N MENGODOLY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3143",
         "Stock":  0,
@@ -20163,7 +20163,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena Tai Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "1491",
         "Stock":  0,
@@ -20175,7 +20175,7 @@ var STOCK_DATA = [
         "ItemName":  "Jumbo GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1855,
         "ItemCode":  "3673",
         "Stock":  -1,
@@ -20187,7 +20187,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony s 130"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2869",
         "Stock":  -1,
@@ -20199,7 +20199,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD CHALLENGER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "2616",
         "Stock":  0,
@@ -20211,7 +20211,7 @@ var STOCK_DATA = [
         "ItemName":  "JS Kheer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  746.67,
         "ItemCode":  "1500",
         "Stock":  0,
@@ -20223,7 +20223,7 @@ var STOCK_DATA = [
         "ItemName":  "Tansen Garara SF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  735,
         "ItemCode":  "4046",
         "Stock":  1,
@@ -20235,7 +20235,7 @@ var STOCK_DATA = [
         "ItemName":  "GK FIFA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1490,
         "ItemCode":  "2202",
         "Stock":  0,
@@ -20247,7 +20247,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hasina-e-Jahan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  396.67,
         "ItemCode":  "1499",
         "Stock":  0,
@@ -20259,7 +20259,7 @@ var STOCK_DATA = [
         "ItemName":  "Chaka Chak JF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  265,
         "ItemCode":  "1994",
         "Stock":  -1,
@@ -20271,7 +20271,7 @@ var STOCK_DATA = [
         "ItemName":  "AMD Bottom Work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3121",
         "Stock":  0,
@@ -20283,7 +20283,7 @@ var STOCK_DATA = [
         "ItemName":  "Anjumi Jam Tai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  845,
         "ItemCode":  "3407",
         "Stock":  -1,
@@ -20295,7 +20295,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Juhu Beach"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "2902",
         "Stock":  0,
@@ -20307,7 +20307,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Dharmendar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1829",
         "Stock":  0,
@@ -20319,7 +20319,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Namkin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2484",
         "Stock":  0,
@@ -20331,7 +20331,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Baby Girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455.33,
         "ItemCode":  "1466",
         "Stock":  0,
@@ -20343,7 +20343,7 @@ var STOCK_DATA = [
         "ItemName":  "MADHURI OM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1375,
         "ItemCode":  "4560",
         "Stock":  3,
@@ -20355,7 +20355,7 @@ var STOCK_DATA = [
         "ItemName":  "I LOVE YOU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  276.67,
         "ItemCode":  "1560",
         "Stock":  0,
@@ -20367,7 +20367,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Heropanthi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "4443",
         "Stock":  3,
@@ -20379,7 +20379,7 @@ var STOCK_DATA = [
         "ItemName":  "OM DOLPHIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "3582",
         "Stock":  -1,
@@ -20391,7 +20391,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY S 183"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1745",
         "Stock":  0,
@@ -20403,7 +20403,7 @@ var STOCK_DATA = [
         "ItemName":  "Lemon SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1766.67,
         "ItemCode":  "1293",
         "Stock":  -4,
@@ -20415,7 +20415,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Coding Garara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1110,
         "ItemCode":  "2344",
         "Stock":  0,
@@ -20427,7 +20427,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shaista"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  227,
         "ItemCode":  "4285",
         "Stock":  36,
@@ -20439,7 +20439,7 @@ var STOCK_DATA = [
         "ItemName":  "ROYAL BRAND RUMAISHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1966.67,
         "ItemCode":  "1907",
         "Stock":  0,
@@ -20451,7 +20451,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Salt Water"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1145,
         "ItemCode":  "3972",
         "Stock":  -1,
@@ -20463,7 +20463,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ISHQ WAFA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "3857",
         "Stock":  3,
@@ -20475,7 +20475,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZOFRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1643",
         "Stock":  0,
@@ -20487,7 +20487,7 @@ var STOCK_DATA = [
         "ItemName":  "Suro ka saag"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "4068",
         "Stock":  3,
@@ -20499,7 +20499,7 @@ var STOCK_DATA = [
         "ItemName":  "SRT SUPERFAST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2575",
         "Stock":  0,
@@ -20511,7 +20511,7 @@ var STOCK_DATA = [
         "ItemName":  "GF ALL IS WELL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  434.67,
         "ItemCode":  "2509",
         "Stock":  0,
@@ -20523,7 +20523,7 @@ var STOCK_DATA = [
         "ItemName":  "RUCHIKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  615.33,
         "ItemCode":  "1460",
         "Stock":  0,
@@ -20535,7 +20535,7 @@ var STOCK_DATA = [
         "ItemName":  "MUSKAN VT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3903",
         "Stock":  0,
@@ -20547,7 +20547,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA JAM HANIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "3160",
         "Stock":  0,
@@ -20559,7 +20559,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Enfield"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1465",
         "Stock":  0,
@@ -20571,7 +20571,7 @@ var STOCK_DATA = [
         "ItemName":  "NEEL KAMAL BHUMI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1992.5,
         "ItemCode":  "3093",
         "Stock":  -1,
@@ -20583,7 +20583,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 05"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1267",
         "Stock":  0,
@@ -20595,7 +20595,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Sharmila"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "2725",
         "Stock":  0,
@@ -20607,7 +20607,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DIL JANIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1120,
         "ItemCode":  "1765",
         "Stock":  0,
@@ -20619,7 +20619,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pernia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "3080",
         "Stock":  -3,
@@ -20631,7 +20631,7 @@ var STOCK_DATA = [
         "ItemName":  "WELCOME MASTMALAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "4181",
         "Stock":  6,
@@ -20643,7 +20643,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA FOX FLORIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  237,
         "ItemCode":  "4439",
         "Stock":  15,
@@ -20655,7 +20655,7 @@ var STOCK_DATA = [
         "ItemName":  "KT SITARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3204",
         "Stock":  0,
@@ -20667,7 +20667,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Delhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2432",
         "Stock":  0,
@@ -20679,7 +20679,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Lariqa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2269",
         "Stock":  0,
@@ -20691,7 +20691,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY PANEL WORK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1174.67,
         "ItemCode":  "2602",
         "Stock":  0,
@@ -20703,7 +20703,7 @@ var STOCK_DATA = [
         "ItemName":  "KC All in one"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "4124",
         "Stock":  23,
@@ -20715,7 +20715,7 @@ var STOCK_DATA = [
         "ItemName":  "KROSS ZARKAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1460,
         "ItemCode":  "3818",
         "Stock":  -1,
@@ -20727,7 +20727,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Zaika E Mumbai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "2318",
         "Stock":  0,
@@ -20739,7 +20739,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT FALOODA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "1318",
         "Stock":  0,
@@ -20751,7 +20751,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Mastani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  26,
         "ItemCode":  "3516",
         "Stock":  508,
@@ -20763,7 +20763,7 @@ var STOCK_DATA = [
         "ItemName":  "Zari Pashmina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  110,
         "ItemCode":  "3744",
         "Stock":  5,
@@ -20775,7 +20775,7 @@ var STOCK_DATA = [
         "ItemName":  "Kashka Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  230,
         "ItemCode":  "4435",
         "Stock":  7,
@@ -20787,7 +20787,7 @@ var STOCK_DATA = [
         "ItemName":  "KT ASMITA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2986",
         "Stock":  -1,
@@ -20799,7 +20799,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Aaira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  654.67,
         "ItemCode":  "2880",
         "Stock":  0,
@@ -20811,7 +20811,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Barfi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "4530",
         "Stock":  7,
@@ -20823,7 +20823,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAYUR CRUNCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1528",
         "Stock":  0,
@@ -20835,7 +20835,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Gungun"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635.33,
         "ItemCode":  "1330",
         "Stock":  0,
@@ -20847,7 +20847,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Jalebi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4409",
         "Stock":  3,
@@ -20859,7 +20859,7 @@ var STOCK_DATA = [
         "ItemName":  "GF MAJIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "2812",
         "Stock":  -1,
@@ -20871,7 +20871,7 @@ var STOCK_DATA = [
         "ItemName":  "MT ARIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3704",
         "Stock":  -17,
@@ -20883,7 +20883,7 @@ var STOCK_DATA = [
         "ItemName":  "Mf Mirror"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2015",
         "Stock":  0,
@@ -20895,7 +20895,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY GARARA 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  405,
         "ItemCode":  "3142",
         "Stock":  7,
@@ -20907,7 +20907,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena V Neck"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  58,
         "ItemCode":  "1721",
         "Stock":  -2,
@@ -20919,7 +20919,7 @@ var STOCK_DATA = [
         "ItemName":  "Turkish Towel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2215,
         "ItemCode":  "3997",
         "Stock":  -2,
@@ -20931,7 +20931,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZYPPER (PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "1224",
         "Stock":  242,
@@ -20943,7 +20943,7 @@ var STOCK_DATA = [
         "ItemName":  "RRT COTTON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "4401",
         "Stock":  7,
@@ -20955,7 +20955,7 @@ var STOCK_DATA = [
         "ItemName":  "VF MOH MAYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2680",
         "Stock":  3,
@@ -20967,7 +20967,7 @@ var STOCK_DATA = [
         "ItemName":  "MANNAT SUPER FINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "1596",
         "Stock":  0,
@@ -20979,7 +20979,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rashed"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2705",
         "Stock":  0,
@@ -20991,7 +20991,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZAAFIRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2261",
         "Stock":  0,
@@ -21003,7 +21003,7 @@ var STOCK_DATA = [
         "ItemName":  "OM BHEL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  265.33,
         "ItemCode":  "1283",
         "Stock":  0,
@@ -21015,7 +21015,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Door Closer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "1729",
         "Stock":  0,
@@ -21027,7 +21027,7 @@ var STOCK_DATA = [
         "ItemName":  "Shabo SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  45,
         "ItemCode":  "1255",
         "Stock":  0,
@@ -21039,7 +21039,7 @@ var STOCK_DATA = [
         "ItemName":  "Reyon Plain"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1210,
         "ItemCode":  "3074",
         "Stock":  0,
@@ -21051,7 +21051,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Dark Simple"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2780",
         "Stock":  -2,
@@ -21063,7 +21063,7 @@ var STOCK_DATA = [
         "ItemName":  "MALINI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3623",
         "Stock":  -1,
@@ -21075,7 +21075,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 002"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  935,
         "ItemCode":  "4323",
         "Stock":  0,
@@ -21087,7 +21087,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MISS WORLD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2524",
         "Stock":  0,
@@ -21099,7 +21099,7 @@ var STOCK_DATA = [
         "ItemName":  "GK MIX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  31,
         "ItemCode":  "2782",
         "Stock":  -52,
@@ -21111,7 +21111,7 @@ var STOCK_DATA = [
         "ItemName":  "PRINTED DUPATTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "3014",
         "Stock":  0,
@@ -21123,7 +21123,7 @@ var STOCK_DATA = [
         "ItemName":  "MF Apple"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1436",
         "Stock":  0,
@@ -21135,7 +21135,7 @@ var STOCK_DATA = [
         "ItemName":  "New Kajuriya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "3657",
         "Stock":  47,
@@ -21147,7 +21147,7 @@ var STOCK_DATA = [
         "ItemName":  "GF COTTON CHICKEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "1749",
         "Stock":  0,
@@ -21159,7 +21159,7 @@ var STOCK_DATA = [
         "ItemName":  "RS Commando"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2146",
         "Stock":  0,
@@ -21171,7 +21171,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT GULJAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4128",
         "Stock":  1,
@@ -21183,7 +21183,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FOODY MOODY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3315",
         "Stock":  0,
@@ -21195,7 +21195,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Aashiqui"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1460,
         "ItemCode":  "3819",
         "Stock":  -1,
@@ -21207,7 +21207,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Thoda Hatke"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "3608",
         "Stock":  -1,
@@ -21219,7 +21219,7 @@ var STOCK_DATA = [
         "ItemName":  "KC QANDEEL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1343",
         "Stock":  0,
@@ -21231,7 +21231,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Zoya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "4022",
         "Stock":  -1,
@@ -21243,7 +21243,7 @@ var STOCK_DATA = [
         "ItemName":  "RR BANSAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2833",
         "Stock":  -2,
@@ -21255,7 +21255,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FUN BEGINS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  255,
         "ItemCode":  "3814",
         "Stock":  30,
@@ -21267,7 +21267,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Dhamaal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  434.67,
         "ItemCode":  "2314",
         "Stock":  0,
@@ -21279,7 +21279,7 @@ var STOCK_DATA = [
         "ItemName":  "AFSANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3307",
         "Stock":  0,
@@ -21291,7 +21291,7 @@ var STOCK_DATA = [
         "ItemName":  "Sf Sana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "3132",
         "Stock":  0,
@@ -21303,7 +21303,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Heavy 3"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  775,
         "ItemCode":  "3943",
         "Stock":  3,
@@ -21315,7 +21315,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COOL BREEZE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  185.33,
         "ItemCode":  "1741",
         "Stock":  0,
@@ -21327,7 +21327,7 @@ var STOCK_DATA = [
         "ItemName":  "Pushpa Agarwal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1035,
         "ItemCode":  "3150",
         "Stock":  -1,
@@ -21339,7 +21339,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 0005"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  920,
         "ItemCode":  "2298",
         "Stock":  0,
@@ -21351,7 +21351,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ALBEELA RAHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2154.67,
         "ItemCode":  "2851",
         "Stock":  0,
@@ -21363,7 +21363,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY NET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  90,
         "ItemCode":  "2633",
         "Stock":  0,
@@ -21375,7 +21375,7 @@ var STOCK_DATA = [
         "ItemName":  "JUST TRYING SF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3165",
         "Stock":  -3,
@@ -21387,7 +21387,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Khajoor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1026.67,
         "ItemCode":  "1920",
         "Stock":  0,
@@ -21399,7 +21399,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Serana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1457",
         "Stock":  0,
@@ -21411,7 +21411,7 @@ var STOCK_DATA = [
         "ItemName":  "Jaam Simba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2700",
         "Stock":  -2,
@@ -21423,7 +21423,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT CHAHAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675,
         "ItemCode":  "4515",
         "Stock":  3,
@@ -21435,7 +21435,7 @@ var STOCK_DATA = [
         "ItemName":  "KC AVIATOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2947",
         "Stock":  -3,
@@ -21447,7 +21447,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Urmila"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  595,
         "ItemCode":  "2721",
         "Stock":  4,
@@ -21459,7 +21459,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Aarti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  253.33,
         "ItemCode":  "1259",
         "Stock":  0,
@@ -21471,7 +21471,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Chole Kulche"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  494.67,
         "ItemCode":  "2934",
         "Stock":  0,
@@ -21483,7 +21483,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Florence"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2250,
         "ItemCode":  "4477",
         "Stock":  3,
@@ -21495,7 +21495,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BEGUM AURA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  994.67,
         "ItemCode":  "2945",
         "Stock":  2,
@@ -21507,7 +21507,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Suhana Safar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "1404",
         "Stock":  0,
@@ -21519,7 +21519,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Best Luck"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "3922",
         "Stock":  9,
@@ -21531,7 +21531,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY HARI 51 PURSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2274",
         "Stock":  0,
@@ -21543,7 +21543,7 @@ var STOCK_DATA = [
         "ItemName":  "DIVYA SNAPCHAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  133.33,
         "ItemCode":  "3284",
         "Stock":  -35,
@@ -21555,7 +21555,7 @@ var STOCK_DATA = [
         "ItemName":  "Cotton 150 Wala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3639",
         "Stock":  -1,
@@ -21567,7 +21567,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Alina 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "1986",
         "Stock":  0,
@@ -21579,7 +21579,7 @@ var STOCK_DATA = [
         "ItemName":  "VT Drasti Organza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  815,
         "ItemCode":  "3787",
         "Stock":  3,
@@ -21591,7 +21591,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Silicon Vally"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  394.67,
         "ItemCode":  "2778",
         "Stock":  0,
@@ -21603,7 +21603,7 @@ var STOCK_DATA = [
         "ItemName":  "MT PREMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "1538",
         "Stock":  0,
@@ -21615,7 +21615,7 @@ var STOCK_DATA = [
         "ItemName":  "VT Missile"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3823",
         "Stock":  0,
@@ -21627,7 +21627,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Display"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  266.67,
         "ItemCode":  "2415",
         "Stock":  0,
@@ -21639,7 +21639,7 @@ var STOCK_DATA = [
         "ItemName":  "MASTI CHUNRI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215,
         "ItemCode":  "3442",
         "Stock":  -1,
@@ -21651,7 +21651,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Cooking"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1014.67,
         "ItemCode":  "2663",
         "Stock":  0,
@@ -21663,7 +21663,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ek Taara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  426.67,
         "ItemCode":  "1876",
         "Stock":  0,
@@ -21675,7 +21675,7 @@ var STOCK_DATA = [
         "ItemName":  "Disha IPL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  870,
         "ItemCode":  "4019",
         "Stock":  3,
@@ -21687,7 +21687,7 @@ var STOCK_DATA = [
         "ItemName":  "GK BOND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "4080",
         "Stock":  -1,
@@ -21699,7 +21699,7 @@ var STOCK_DATA = [
         "ItemName":  "LC TROUSER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "3585",
         "Stock":  8,
@@ -21711,7 +21711,7 @@ var STOCK_DATA = [
         "ItemName":  "PAYAL Deepkala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  245,
         "ItemCode":  "2760",
         "Stock":  45,
@@ -21723,7 +21723,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC AASMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "3438",
         "Stock":  -1,
@@ -21735,7 +21735,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Sara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1450,
         "ItemCode":  "4375",
         "Stock":  3,
@@ -21747,7 +21747,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1525 TIKTOK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "2408",
         "Stock":  0,
@@ -21759,7 +21759,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Planing"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2121",
         "Stock":  0,
@@ -21771,7 +21771,7 @@ var STOCK_DATA = [
         "ItemName":  "KEYONA AYESHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  724.67,
         "ItemCode":  "2870",
         "Stock":  0,
@@ -21783,7 +21783,7 @@ var STOCK_DATA = [
         "ItemName":  "GF SADAK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325.33,
         "ItemCode":  "1268",
         "Stock":  0,
@@ -21795,7 +21795,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Taroob"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2656",
         "Stock":  0,
@@ -21807,7 +21807,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ishq Deewangi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "3883",
         "Stock":  0,
@@ -21819,7 +21819,7 @@ var STOCK_DATA = [
         "ItemName":  "RR SNOWFALL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1740,
         "ItemCode":  "3575",
         "Stock":  -1,
@@ -21831,7 +21831,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY AR 067"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525,
         "ItemCode":  "3066",
         "Stock":  1,
@@ -21843,7 +21843,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Polo Sport"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  7333.33,
         "ItemCode":  "2228",
         "Stock":  -2,
@@ -21855,7 +21855,7 @@ var STOCK_DATA = [
         "ItemName":  "09 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  216.67,
         "ItemCode":  "1695",
         "Stock":  0,
@@ -21867,7 +21867,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Look wise"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1080,
         "ItemCode":  "1324",
         "Stock":  0,
@@ -21879,7 +21879,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dhak Dhak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3807",
         "Stock":  0,
@@ -21891,7 +21891,7 @@ var STOCK_DATA = [
         "ItemName":  "SG TWIST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "2130",
         "Stock":  0,
@@ -21903,7 +21903,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS BAHAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "1896",
         "Stock":  0,
@@ -21915,7 +21915,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Belimaa white suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1580,
         "ItemCode":  "4203",
         "Stock":  3,
@@ -21927,7 +21927,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 4613"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "4421",
         "Stock":  7,
@@ -21939,7 +21939,7 @@ var STOCK_DATA = [
         "ItemName":  "OM TASKAREE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "1815",
         "Stock":  0,
@@ -21951,7 +21951,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Darshana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "3030",
         "Stock":  -1,
@@ -21963,7 +21963,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bulandiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "4383",
         "Stock":  3,
@@ -21975,7 +21975,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GAPSHAP ZONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "2972",
         "Stock":  -4,
@@ -21987,7 +21987,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Kanya Kumari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "1662",
         "Stock":  0,
@@ -21999,7 +21999,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Masti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4429",
         "Stock":  3,
@@ -22011,7 +22011,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ISHQ NATION"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1134.67,
         "ItemCode":  "2424",
         "Stock":  0,
@@ -22023,7 +22023,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Revella"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3640",
         "Stock":  -4,
@@ -22035,7 +22035,7 @@ var STOCK_DATA = [
         "ItemName":  "Rs Suite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4547",
         "Stock":  3,
@@ -22047,7 +22047,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Manchala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "3060",
         "Stock":  0,
@@ -22059,7 +22059,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Kayamat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "1794",
         "Stock":  0,
@@ -22071,7 +22071,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Twitter"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "4412",
         "Stock":  0,
@@ -22083,7 +22083,7 @@ var STOCK_DATA = [
         "ItemName":  "AF MAUSAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2536",
         "Stock":  0,
@@ -22095,7 +22095,7 @@ var STOCK_DATA = [
         "ItemName":  "GC Bisleri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2213",
         "Stock":  0,
@@ -22107,7 +22107,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Barfi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "3634",
         "Stock":  -2,
@@ -22119,7 +22119,7 @@ var STOCK_DATA = [
         "ItemName":  "VV Eid Mubarak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  733.33,
         "ItemCode":  "1953",
         "Stock":  0,
@@ -22131,7 +22131,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Badam Shek"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1711",
         "Stock":  0,
@@ -22143,7 +22143,7 @@ var STOCK_DATA = [
         "ItemName":  "Ruksana SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "3364",
         "Stock":  -1,
@@ -22155,7 +22155,7 @@ var STOCK_DATA = [
         "ItemName":  "Keyona Rajwadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "2995",
         "Stock":  -2,
@@ -22167,7 +22167,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Coding Suite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "4337",
         "Stock":  3,
@@ -22179,7 +22179,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESI FLEX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1834.67,
         "ItemCode":  "3096",
         "Stock":  0,
@@ -22191,7 +22191,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 08"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2028",
         "Stock":  0,
@@ -22203,7 +22203,7 @@ var STOCK_DATA = [
         "ItemName":  "Self"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "2803",
         "Stock":  1,
@@ -22215,7 +22215,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TAARON KA SAHAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3637",
         "Stock":  -2,
@@ -22227,7 +22227,7 @@ var STOCK_DATA = [
         "ItemName":  "KCKC SUPER COOL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185,
         "ItemCode":  "3668",
         "Stock":  -1,
@@ -22239,7 +22239,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 382 Trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "3506",
         "Stock":  0,
@@ -22251,7 +22251,7 @@ var STOCK_DATA = [
         "ItemName":  "Gf Reshma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2097",
         "Stock":  0,
@@ -22263,7 +22263,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Eva Garlic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "3326",
         "Stock":  0,
@@ -22275,7 +22275,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Happy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  235,
         "ItemCode":  "4147",
         "Stock":  -5,
@@ -22287,7 +22287,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC RUPA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  596.67,
         "ItemCode":  "2045",
         "Stock":  0,
@@ -22299,7 +22299,7 @@ var STOCK_DATA = [
         "ItemName":  "GF UNICORN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2588",
         "Stock":  0,
@@ -22311,7 +22311,7 @@ var STOCK_DATA = [
         "ItemName":  "MANNAT SELFIE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2100,
         "ItemCode":  "2606",
         "Stock":  0,
@@ -22323,7 +22323,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rishteh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  213.33,
         "ItemCode":  "1691",
         "Stock":  0,
@@ -22335,7 +22335,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Porbandar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2836",
         "Stock":  -1,
@@ -22347,7 +22347,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COCKTAIL PARTY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "4069",
         "Stock":  7,
@@ -22359,7 +22359,7 @@ var STOCK_DATA = [
         "ItemName":  "MF GALA KHATLI HEAVY 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  315,
         "ItemCode":  "3461",
         "Stock":  0,
@@ -22371,7 +22371,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Sanam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "4215",
         "Stock":  -2,
@@ -22383,7 +22383,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MASTI ZONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "3240",
         "Stock":  0,
@@ -22395,7 +22395,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Soup"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "3232",
         "Stock":  0,
@@ -22407,7 +22407,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Damru"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625.33,
         "ItemCode":  "1699",
         "Stock":  0,
@@ -22419,7 +22419,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Tehreem"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  170,
         "ItemCode":  "3644",
         "Stock":  1,
@@ -22431,7 +22431,7 @@ var STOCK_DATA = [
         "ItemName":  "Vimal Olive"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2990",
         "Stock":  0,
@@ -22443,7 +22443,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Milk Shake"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1238",
         "Stock":  0,
@@ -22455,7 +22455,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Liza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "3469",
         "Stock":  0,
@@ -22467,7 +22467,7 @@ var STOCK_DATA = [
         "ItemName":  "SG The Gazal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "1441",
         "Stock":  0,
@@ -22479,7 +22479,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh Dream"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "2809",
         "Stock":  0,
@@ -22491,7 +22491,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MEGHALI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2348",
         "Stock":  0,
@@ -22503,7 +22503,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Mahi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2095",
         "Stock":  0,
@@ -22515,7 +22515,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Yusra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  317,
         "ItemCode":  "4023",
         "Stock":  3,
@@ -22527,7 +22527,7 @@ var STOCK_DATA = [
         "ItemName":  "RR SNEHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  325,
         "ItemCode":  "3324",
         "Stock":  2,
@@ -22539,7 +22539,7 @@ var STOCK_DATA = [
         "ItemName":  "Radhika Hemshree"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3182",
         "Stock":  -1,
@@ -22551,7 +22551,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mushaira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  5600,
         "ItemCode":  "2234",
         "Stock":  0,
@@ -22563,7 +22563,7 @@ var STOCK_DATA = [
         "ItemName":  "15 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2620",
         "Stock":  7,
@@ -22575,7 +22575,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT ROSY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2065,
         "ItemCode":  "4289",
         "Stock":  3,
@@ -22587,7 +22587,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIRE RUNNER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "2505",
         "Stock":  0,
@@ -22599,7 +22599,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Neha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1750,
         "ItemCode":  "3048",
         "Stock":  0,
@@ -22611,7 +22611,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Patang"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "4312",
         "Stock":  3,
@@ -22623,7 +22623,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LONDON CAKE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "3084",
         "Stock":  0,
@@ -22635,7 +22635,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Do Pati"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  323,
         "ItemCode":  "3008",
         "Stock":  20,
@@ -22647,7 +22647,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Mentos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  266.67,
         "ItemCode":  "2631",
         "Stock":  0,
@@ -22659,7 +22659,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD LEXUS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  780,
         "ItemCode":  "1349",
         "Stock":  0,
@@ -22671,7 +22671,7 @@ var STOCK_DATA = [
         "ItemName":  "Zorro Eva GF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3868",
         "Stock":  -1,
@@ -22683,7 +22683,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT SHABANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "2316",
         "Stock":  0,
@@ -22695,7 +22695,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SENSEX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1341",
         "Stock":  0,
@@ -22707,7 +22707,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Dipti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2009",
         "Stock":  -1,
@@ -22719,7 +22719,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS SILKY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  836.67,
         "ItemCode":  "2144",
         "Stock":  0,
@@ -22731,7 +22731,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RIZWANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2140,
         "ItemCode":  "4126",
         "Stock":  -1,
@@ -22743,7 +22743,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY HEER 1556"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3210",
         "Stock":  0,
@@ -22755,7 +22755,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Neem Rose"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1815,
         "ItemCode":  "4052",
         "Stock":  3,
@@ -22767,7 +22767,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL MARK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3125",
         "Stock":  0,
@@ -22779,7 +22779,7 @@ var STOCK_DATA = [
         "ItemName":  "Kusun Golden"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "1955",
         "Stock":  0,
@@ -22791,7 +22791,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Mam Saab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  444.67,
         "ItemCode":  "2966",
         "Stock":  0,
@@ -22803,7 +22803,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Shaheena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1700",
         "Stock":  -1,
@@ -22815,7 +22815,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shahina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  576.67,
         "ItemCode":  "2061",
         "Stock":  0,
@@ -22827,7 +22827,7 @@ var STOCK_DATA = [
         "ItemName":  "Gf Sona hi Sona"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "4517",
         "Stock":  3,
@@ -22839,7 +22839,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BAARISH BEATS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1230,
         "ItemCode":  "3178",
         "Stock":  0,
@@ -22851,7 +22851,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Slice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2528",
         "Stock":  0,
@@ -22863,7 +22863,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Sneha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2085,
         "ItemCode":  "2964",
         "Stock":  0,
@@ -22875,7 +22875,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Seher"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415.33,
         "ItemCode":  "1459",
         "Stock":  0,
@@ -22887,7 +22887,7 @@ var STOCK_DATA = [
         "ItemName":  "SWEETY MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "3741",
         "Stock":  0,
@@ -22899,7 +22899,7 @@ var STOCK_DATA = [
         "ItemName":  "Mt Samara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "3504",
         "Stock":  0,
@@ -22911,7 +22911,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rayon Print Black"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "1686",
         "Stock":  0,
@@ -22923,7 +22923,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Sona Chandi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1085,
         "ItemCode":  "3876",
         "Stock":  12,
@@ -22935,7 +22935,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM POUND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "4565",
         "Stock":  -5,
@@ -22947,7 +22947,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA SWISS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2771",
         "Stock":  -1,
@@ -22959,7 +22959,7 @@ var STOCK_DATA = [
         "ItemName":  "MT ZHIL MIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1186.67,
         "ItemCode":  "1902",
         "Stock":  0,
@@ -22971,7 +22971,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Akasa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "3023",
         "Stock":  -1,
@@ -22983,7 +22983,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rasgulla"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "2779",
         "Stock":  0,
@@ -22995,7 +22995,7 @@ var STOCK_DATA = [
         "ItemName":  "MAN MOHIT MMT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1040,
         "ItemCode":  "3805",
         "Stock":  17,
@@ -23007,7 +23007,7 @@ var STOCK_DATA = [
         "ItemName":  "RS JORGET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  287,
         "ItemCode":  "4150",
         "Stock":  3,
@@ -23019,7 +23019,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC GOLDY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4201",
         "Stock":  3,
@@ -23031,7 +23031,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 4565"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  870,
         "ItemCode":  "3778",
         "Stock":  -1,
@@ -23043,7 +23043,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Ajuba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1817",
         "Stock":  0,
@@ -23055,7 +23055,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Dyana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "1251",
         "Stock":  0,
@@ -23067,7 +23067,7 @@ var STOCK_DATA = [
         "ItemName":  "Aliya Masti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3018",
         "Stock":  -1,
@@ -23079,7 +23079,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Saloni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "3614",
         "Stock":  3,
@@ -23091,7 +23091,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GEMINI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1590",
         "Stock":  0,
@@ -23103,7 +23103,7 @@ var STOCK_DATA = [
         "ItemName":  "Akanksha Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "4172",
         "Stock":  0,
@@ -23115,7 +23115,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TRENDY STYLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1378",
         "Stock":  0,
@@ -23127,7 +23127,7 @@ var STOCK_DATA = [
         "ItemName":  "Britannia GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1465,
         "ItemCode":  "4265",
         "Stock":  1,
@@ -23139,7 +23139,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HUL CHAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1025,
         "ItemCode":  "3827",
         "Stock":  1,
@@ -23151,7 +23151,7 @@ var STOCK_DATA = [
         "ItemName":  "SG THE SECRET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  634.67,
         "ItemCode":  "2118",
         "Stock":  0,
@@ -23163,7 +23163,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11669"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3434",
         "Stock":  2,
@@ -23175,7 +23175,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Dull Sentun"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1600,
         "ItemCode":  "2785",
         "Stock":  0,
@@ -23187,7 +23187,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LONG DRIVE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "1592",
         "Stock":  0,
@@ -23199,7 +23199,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Shakira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1405,
         "ItemCode":  "3577",
         "Stock":  0,
@@ -23211,7 +23211,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY S 165"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275.33,
         "ItemCode":  "1690",
         "Stock":  0,
@@ -23223,7 +23223,7 @@ var STOCK_DATA = [
         "ItemName":  "RR danger zone"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  584.67,
         "ItemCode":  "3068",
         "Stock":  0,
@@ -23235,7 +23235,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Ahuja"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  210,
         "ItemCode":  "1262",
         "Stock":  0,
@@ -23247,7 +23247,7 @@ var STOCK_DATA = [
         "ItemName":  "RR White Cream"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "1397",
         "Stock":  0,
@@ -23259,7 +23259,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Veena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1966",
         "Stock":  0,
@@ -23271,7 +23271,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Zomato"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1435,
         "ItemCode":  "3470",
         "Stock":  0,
@@ -23283,7 +23283,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Heavy Sleeves"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "2576",
         "Stock":  0,
@@ -23295,7 +23295,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Sheetal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "2742",
         "Stock":  0,
@@ -23307,7 +23307,7 @@ var STOCK_DATA = [
         "ItemName":  "OM ANANDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "2801",
         "Stock":  -1,
@@ -23319,7 +23319,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KAHANI SUNO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1295,
         "ItemCode":  "4306",
         "Stock":  2,
@@ -23331,7 +23331,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SOFT SHINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  284.67,
         "ItemCode":  "2874",
         "Stock":  -5,
@@ -23343,7 +23343,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Litti Chokha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "1410",
         "Stock":  0,
@@ -23355,7 +23355,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Imperial"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "3607",
         "Stock":  10,
@@ -23367,7 +23367,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS DHAMAKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "3107",
         "Stock":  0,
@@ -23379,7 +23379,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 4213C"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1130,
         "ItemCode":  "1675",
         "Stock":  0,
@@ -23391,7 +23391,7 @@ var STOCK_DATA = [
         "ItemName":  "SG khwaab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1635,
         "ItemCode":  "4209",
         "Stock":  3,
@@ -23403,7 +23403,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PEANUT CRUNCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2899",
         "Stock":  0,
@@ -23415,7 +23415,7 @@ var STOCK_DATA = [
         "ItemName":  "Campus"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1075,
         "ItemCode":  "3677",
         "Stock":  17,
@@ -23427,7 +23427,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt Russian Plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1308",
         "Stock":  0,
@@ -23439,7 +23439,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Zara Hatke"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1200,
         "ItemCode":  "4389",
         "Stock":  3,
@@ -23451,7 +23451,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FINGERPRINT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  255,
         "ItemCode":  "4381",
         "Stock":  7,
@@ -23463,7 +23463,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC NOOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  314.67,
         "ItemCode":  "2580",
         "Stock":  0,
@@ -23475,7 +23475,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM Mrf"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  620.67,
         "ItemCode":  "1783",
         "Stock":  0,
@@ -23487,7 +23487,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Apple Burberry suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  576.67,
         "ItemCode":  "1505",
         "Stock":  0,
@@ -23499,7 +23499,7 @@ var STOCK_DATA = [
         "ItemName":  "Sadhna Makke Di Roti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1326.67,
         "ItemCode":  "2363",
         "Stock":  0,
@@ -23511,7 +23511,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Fazail"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  4000,
         "ItemCode":  "2225",
         "Stock":  0,
@@ -23523,7 +23523,7 @@ var STOCK_DATA = [
         "ItemName":  "06 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "1564",
         "Stock":  0,
@@ -23535,7 +23535,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh PC Rani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2032",
         "Stock":  0,
@@ -23547,7 +23547,7 @@ var STOCK_DATA = [
         "ItemName":  "Satin Cloth"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "2769",
         "Stock":  0,
@@ -23559,7 +23559,7 @@ var STOCK_DATA = [
         "ItemName":  "NS DEVRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  315,
         "ItemCode":  "3448",
         "Stock":  -1,
@@ -23571,7 +23571,7 @@ var STOCK_DATA = [
         "ItemName":  "JT Titli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "1793",
         "Stock":  0,
@@ -23583,7 +23583,7 @@ var STOCK_DATA = [
         "ItemName":  "Neelmani RR Ding Dong"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "1472",
         "Stock":  0,
@@ -23595,7 +23595,7 @@ var STOCK_DATA = [
         "ItemName":  "GF White Rose"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  965,
         "ItemCode":  "3966",
         "Stock":  2,
@@ -23607,7 +23607,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NON STOP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1065.33,
         "ItemCode":  "1219",
         "Stock":  0,
@@ -23619,7 +23619,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rochas"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2055,
         "ItemCode":  "3417",
         "Stock":  0,
@@ -23631,7 +23631,7 @@ var STOCK_DATA = [
         "ItemName":  "Alina Jacket 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3049",
         "Stock":  0,
@@ -23643,7 +23643,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Band Baaja"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "2105",
         "Stock":  -1,
@@ -23655,7 +23655,7 @@ var STOCK_DATA = [
         "ItemName":  "JT ANKITA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  245,
         "ItemCode":  "2857",
         "Stock":  16,
@@ -23667,7 +23667,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC AKSHARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1194.67,
         "ItemCode":  "2824",
         "Stock":  -1,
@@ -23679,7 +23679,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DIL KE ISHARE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  810,
         "ItemCode":  "1428",
         "Stock":  0,
@@ -23691,7 +23691,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Titanic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1080,
         "ItemCode":  "2292",
         "Stock":  0,
@@ -23703,7 +23703,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HAWAIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2160,
         "ItemCode":  "3033",
         "Stock":  0,
@@ -23715,7 +23715,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dil Befikre"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "1882",
         "Stock":  0,
@@ -23727,7 +23727,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop sangam white dhaga zarkan work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "4562",
         "Stock":  3,
@@ -23739,7 +23739,7 @@ var STOCK_DATA = [
         "ItemName":  "LAST TIME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "3167",
         "Stock":  6,
@@ -23751,7 +23751,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Dream Girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1165,
         "ItemCode":  "3348",
         "Stock":  0,
@@ -23763,7 +23763,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Malta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3317",
         "Stock":  -3,
@@ -23775,7 +23775,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Ruchika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "3259",
         "Stock":  0,
@@ -23787,7 +23787,7 @@ var STOCK_DATA = [
         "ItemName":  "PAPLON WITH TROUSER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1046.67,
         "ItemCode":  "1923",
         "Stock":  0,
@@ -23799,7 +23799,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Razia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "4299",
         "Stock":  -1,
@@ -23811,7 +23811,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SKY ROCKET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625.33,
         "ItemCode":  "1701",
         "Stock":  0,
@@ -23823,7 +23823,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Tasheen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  210,
         "ItemCode":  "2490",
         "Stock":  0,
@@ -23835,7 +23835,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Masala Papad"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  930,
         "ItemCode":  "1873",
         "Stock":  0,
@@ -23847,7 +23847,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Simmer Angel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2250,
         "ItemCode":  "4521",
         "Stock":  3,
@@ -23859,7 +23859,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BLOOM ROSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  328,
         "ItemCode":  "3725",
         "Stock":  7,
@@ -23871,7 +23871,7 @@ var STOCK_DATA = [
         "ItemName":  "Ahd Chiffon Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1430,
         "ItemCode":  "4212",
         "Stock":  2,
@@ -23883,7 +23883,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LUCKY BRAND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1372",
         "Stock":  0,
@@ -23895,7 +23895,7 @@ var STOCK_DATA = [
         "ItemName":  "Swift GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1450",
         "Stock":  0,
@@ -23907,7 +23907,7 @@ var STOCK_DATA = [
         "ItemName":  "Pehnawa Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185,
         "ItemCode":  "3991",
         "Stock":  2,
@@ -23919,7 +23919,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COOLE BERY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1307",
         "Stock":  0,
@@ -23931,7 +23931,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Gudiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1133.33,
         "ItemCode":  "1988",
         "Stock":  0,
@@ -23943,7 +23943,7 @@ var STOCK_DATA = [
         "ItemName":  "Nevedhyam Kesar Frock F/B Work Best"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  976.67,
         "ItemCode":  "1930",
         "Stock":  0,
@@ -23955,7 +23955,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Watermelon juice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3667",
         "Stock":  -1,
@@ -23967,7 +23967,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX 07"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2100,
         "ItemCode":  "2882",
         "Stock":  0,
@@ -23979,7 +23979,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Blue Bell"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "4367",
         "Stock":  9,
@@ -23991,7 +23991,7 @@ var STOCK_DATA = [
         "ItemName":  "GF SANVI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1450,
         "ItemCode":  "4291",
         "Stock":  2,
@@ -24003,7 +24003,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAGNET BALL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  325,
         "ItemCode":  "3198",
         "Stock":  0,
@@ -24015,7 +24015,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Saniya Pol"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2024.67,
         "ItemCode":  "2333",
         "Stock":  0,
@@ -24027,7 +24027,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZOHRA JABEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "1974",
         "Stock":  0,
@@ -24039,7 +24039,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ablah Plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "3332",
         "Stock":  6,
@@ -24051,7 +24051,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rolex"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455,
         "ItemCode":  "3980",
         "Stock":  6,
@@ -24063,7 +24063,7 @@ var STOCK_DATA = [
         "ItemName":  "JBT TIGER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "3432",
         "Stock":  -1,
@@ -24075,7 +24075,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Sayri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "4149",
         "Stock":  6,
@@ -24087,7 +24087,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC LIPSTIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1050,
         "ItemCode":  "4000",
         "Stock":  3,
@@ -24099,7 +24099,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MINTY WAVE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4197",
         "Stock":  3,
@@ -24111,7 +24111,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 3841"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "2309",
         "Stock":  0,
@@ -24123,7 +24123,7 @@ var STOCK_DATA = [
         "ItemName":  "SF DOLFIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "2959",
         "Stock":  0,
@@ -24135,7 +24135,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Coding"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "4246",
         "Stock":  3,
@@ -24147,7 +24147,7 @@ var STOCK_DATA = [
         "ItemName":  "KC EXPRESS POINT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  495.33,
         "ItemCode":  "1250",
         "Stock":  0,
@@ -24159,7 +24159,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Jaam Mix Suit (72x2p)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "3375",
         "Stock":  -2,
@@ -24171,7 +24171,7 @@ var STOCK_DATA = [
         "ItemName":  "Rr Bablu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2301",
         "Stock":  0,
@@ -24183,7 +24183,7 @@ var STOCK_DATA = [
         "ItemName":  "GK MADHUMATI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "1353",
         "Stock":  0,
@@ -24195,7 +24195,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ferika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1945,
         "ItemCode":  "3889",
         "Stock":  -1,
@@ -24207,7 +24207,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY CRUNCHY130"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "3714",
         "Stock":  2,
@@ -24219,7 +24219,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Someone Special"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  664.67,
         "ItemCode":  "2694",
         "Stock":  0,
@@ -24231,7 +24231,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT PALLAVI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2150,
         "ItemCode":  "4030",
         "Stock":  -1,
@@ -24243,7 +24243,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BRIDAL DRESS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "3308",
         "Stock":  1,
@@ -24255,7 +24255,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Poshak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2086.67,
         "ItemCode":  "1447",
         "Stock":  0,
@@ -24267,7 +24267,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Net Lacha Light Colour Chart"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  830,
         "ItemCode":  "3003",
         "Stock":  0,
@@ -24279,7 +24279,7 @@ var STOCK_DATA = [
         "ItemName":  "Gadar Pent"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  844.67,
         "ItemCode":  "2123",
         "Stock":  0,
@@ -24291,7 +24291,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GLOBE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "2720",
         "Stock":  0,
@@ -24303,7 +24303,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY READYMADE 005"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "3635",
         "Stock":  -9,
@@ -24315,7 +24315,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA ZUBEIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2465,
         "ItemCode":  "3094",
         "Stock":  0,
@@ -24327,7 +24327,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 06"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  815.33,
         "ItemCode":  "1326",
         "Stock":  0,
@@ -24339,7 +24339,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Royalty"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  355,
         "ItemCode":  "3881",
         "Stock":  -1,
@@ -24351,7 +24351,7 @@ var STOCK_DATA = [
         "ItemName":  "RR SANJU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  620,
         "ItemCode":  "2002",
         "Stock":  0,
@@ -24363,7 +24363,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Twelth Pass"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1120,
         "ItemCode":  "1911",
         "Stock":  0,
@@ -24375,7 +24375,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Momos"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455,
         "ItemCode":  "1527",
         "Stock":  -1,
@@ -24387,7 +24387,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Gun Gun"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1924.67,
         "ItemCode":  "2978",
         "Stock":  0,
@@ -24399,7 +24399,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Romaisha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  364.67,
         "ItemCode":  "1249",
         "Stock":  0,
@@ -24411,7 +24411,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DHANA DHAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1126.67,
         "ItemCode":  "1804",
         "Stock":  -1,
@@ -24423,7 +24423,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Duracell"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  925,
         "ItemCode":  "4491",
         "Stock":  1,
@@ -24435,7 +24435,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BAKED COOKIES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  860,
         "ItemCode":  "2999",
         "Stock":  0,
@@ -24447,7 +24447,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Fida"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1534.67,
         "ItemCode":  "2553",
         "Stock":  -1,
@@ -24459,7 +24459,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shirin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1241",
         "Stock":  0,
@@ -24471,7 +24471,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Luxury"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "3698",
         "Stock":  9,
@@ -24483,7 +24483,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Jaadugar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  420.67,
         "ItemCode":  "2246",
         "Stock":  0,
@@ -24495,7 +24495,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Aaliya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1435,
         "ItemCode":  "4354",
         "Stock":  2,
@@ -24507,7 +24507,7 @@ var STOCK_DATA = [
         "ItemName":  "RUS D CUT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3690",
         "Stock":  1,
@@ -24519,7 +24519,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BRILLIANT (W PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1834",
         "Stock":  0,
@@ -24531,7 +24531,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Sujata"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2673",
         "Stock":  0,
@@ -24543,7 +24543,7 @@ var STOCK_DATA = [
         "ItemName":  "VC IPHONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1940,
         "ItemCode":  "3797",
         "Stock":  -1,
@@ -24555,7 +24555,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Poppy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "4112",
         "Stock":  23,
@@ -24567,7 +24567,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS DIKSHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  844.67,
         "ItemCode":  "2715",
         "Stock":  -6,
@@ -24579,7 +24579,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SALSABILA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "4342",
         "Stock":  3,
@@ -24591,7 +24591,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PUZZLE KING"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2250,
         "ItemCode":  "4447",
         "Stock":  3,
@@ -24603,7 +24603,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SPICE PALACE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1656",
         "Stock":  0,
@@ -24615,7 +24615,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rajbhog"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "3304",
         "Stock":  -2,
@@ -24627,7 +24627,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Alfiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "1532",
         "Stock":  0,
@@ -24639,7 +24639,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Pakeeza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1354.67,
         "ItemCode":  "2926",
         "Stock":  0,
@@ -24651,7 +24651,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony B19 Readymade (6)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  263.33,
         "ItemCode":  "1681",
         "Stock":  0,
@@ -24663,7 +24663,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Jiim"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "4118",
         "Stock":  -1,
@@ -24675,7 +24675,7 @@ var STOCK_DATA = [
         "ItemName":  "OM SANGAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  335,
         "ItemCode":  "2855",
         "Stock":  -1,
@@ -24687,7 +24687,7 @@ var STOCK_DATA = [
         "ItemName":  "MT AAJA RE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "3396",
         "Stock":  0,
@@ -24699,7 +24699,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Lotus"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1095.33,
         "ItemCode":  "1426",
         "Stock":  0,
@@ -24711,7 +24711,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Iconic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "3611",
         "Stock":  3,
@@ -24723,7 +24723,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BEST VOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2110,
         "ItemCode":  "4519",
         "Stock":  3,
@@ -24735,7 +24735,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROAD TRIP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  148,
         "ItemCode":  "4239",
         "Stock":  15,
@@ -24747,7 +24747,7 @@ var STOCK_DATA = [
         "ItemName":  "RAFTAR ATST 2 PCS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "1630",
         "Stock":  0,
@@ -24759,7 +24759,7 @@ var STOCK_DATA = [
         "ItemName":  "Prinkha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  574.67,
         "ItemCode":  "2153",
         "Stock":  0,
@@ -24771,7 +24771,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Char Minar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3953",
         "Stock":  3,
@@ -24783,7 +24783,7 @@ var STOCK_DATA = [
         "ItemName":  "Mf Gala Zarkan Gala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  405,
         "ItemCode":  "3319",
         "Stock":  0,
@@ -24795,7 +24795,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Malai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3275",
         "Stock":  -1,
@@ -24807,7 +24807,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena Gala Patch Work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1970,
         "ItemCode":  "4511",
         "Stock":  3,
@@ -24819,7 +24819,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZEENAT GLOW"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "1787",
         "Stock":  0,
@@ -24831,7 +24831,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Veeda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "2063",
         "Stock":  0,
@@ -24843,7 +24843,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Gf Rochak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1875,
         "ItemCode":  "4493",
         "Stock":  3,
@@ -24855,7 +24855,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DREAM TONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "3619",
         "Stock":  0,
@@ -24867,7 +24867,7 @@ var STOCK_DATA = [
         "ItemName":  "OM AIR AISA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  70,
         "ItemCode":  "3646",
         "Stock":  18,
@@ -24879,7 +24879,7 @@ var STOCK_DATA = [
         "ItemName":  "Dorinier"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2036.67,
         "ItemCode":  "2370",
         "Stock":  -1,
@@ -24891,7 +24891,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Khwabdeeda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "3282",
         "Stock":  0,
@@ -24903,7 +24903,7 @@ var STOCK_DATA = [
         "ItemName":  "Rs Suite Uk1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1144.67,
         "ItemCode":  "2826",
         "Stock":  -1,
@@ -24915,7 +24915,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BLOCKBUSTER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2551",
         "Stock":  -1,
@@ -24927,7 +24927,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Daawat e ishq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1970,
         "ItemCode":  "2520",
         "Stock":  0,
@@ -24939,7 +24939,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Husn Pari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "1562",
         "Stock":  0,
@@ -24951,7 +24951,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Rambha Fish Pant Trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4462",
         "Stock":  4,
@@ -24963,7 +24963,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CLASSY TASHAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2819",
         "Stock":  0,
@@ -24975,7 +24975,7 @@ var STOCK_DATA = [
         "ItemName":  "SARI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "2597",
         "Stock":  0,
@@ -24987,7 +24987,7 @@ var STOCK_DATA = [
         "ItemName":  "Classic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1624.67,
         "ItemCode":  "2698",
         "Stock":  -3,
@@ -24999,7 +24999,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RASINA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1629",
         "Stock":  0,
@@ -25011,7 +25011,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt pahal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "2938",
         "Stock":  0,
@@ -25023,7 +25023,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Kripa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  846.67,
         "ItemCode":  "1621",
         "Stock":  0,
@@ -25035,7 +25035,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Harlyn"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1425,
         "ItemCode":  "3841",
         "Stock":  -1,
@@ -25047,7 +25047,7 @@ var STOCK_DATA = [
         "ItemName":  "GK AADHYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1385,
         "ItemCode":  "3941",
         "Stock":  2,
@@ -25059,7 +25059,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MONSOON VALLEY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  252,
         "ItemCode":  "4436",
         "Stock":  7,
@@ -25071,7 +25071,7 @@ var STOCK_DATA = [
         "ItemName":  "KT KASAUTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2562",
         "Stock":  0,
@@ -25083,7 +25083,7 @@ var STOCK_DATA = [
         "ItemName":  "Shivram Suite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "1549",
         "Stock":  0,
@@ -25095,7 +25095,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Rashida"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  885.33,
         "ItemCode":  "1422",
         "Stock":  0,
@@ -25107,7 +25107,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Kiana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  322,
         "ItemCode":  "4026",
         "Stock":  -1,
@@ -25119,7 +25119,7 @@ var STOCK_DATA = [
         "ItemName":  "RR GULBAHAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1507",
         "Stock":  0,
@@ -25131,7 +25131,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Inaya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1133.33,
         "ItemCode":  "1906",
         "Stock":  0,
@@ -25143,7 +25143,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Eimaan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  824.67,
         "ItemCode":  "2952",
         "Stock":  0,
@@ -25155,7 +25155,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Love Mashup"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  590,
         "ItemCode":  "3279",
         "Stock":  0,
@@ -25167,7 +25167,7 @@ var STOCK_DATA = [
         "ItemName":  "Innaya Mongra Chinon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "3939",
         "Stock":  0,
@@ -25179,7 +25179,7 @@ var STOCK_DATA = [
         "ItemName":  "Pc Jackpot"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1233.33,
         "ItemCode":  "2361",
         "Stock":  0,
@@ -25191,7 +25191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Istabraq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  316.67,
         "ItemCode":  "1593",
         "Stock":  0,
@@ -25203,7 +25203,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Rudraksh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2300,
         "ItemCode":  "4231",
         "Stock":  1,
@@ -25215,7 +25215,7 @@ var STOCK_DATA = [
         "ItemName":  "PLAZA PRINTS PLAZO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1916.67,
         "ItemCode":  "1963",
         "Stock":  0,
@@ -25227,7 +25227,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Khakra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3457",
         "Stock":  0,
@@ -25239,7 +25239,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Gulkad"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685.33,
         "ItemCode":  "1381",
         "Stock":  0,
@@ -25251,7 +25251,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Tum Bin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  684.67,
         "ItemCode":  "2913",
         "Stock":  -2,
@@ -25263,7 +25263,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Sufiyna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425.33,
         "ItemCode":  "1449",
         "Stock":  0,
@@ -25275,7 +25275,7 @@ var STOCK_DATA = [
         "ItemName":  "Pehnawa Madhumati"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3742",
         "Stock":  -2,
@@ -25287,7 +25287,7 @@ var STOCK_DATA = [
         "ItemName":  "Mt Kashmiri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  980,
         "ItemCode":  "1606",
         "Stock":  0,
@@ -25299,7 +25299,7 @@ var STOCK_DATA = [
         "ItemName":  "Sonpari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1835,
         "ItemCode":  "3350",
         "Stock":  0,
@@ -25311,7 +25311,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kimaya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1990,
         "ItemCode":  "4508",
         "Stock":  3,
@@ -25323,7 +25323,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL MEETHAS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685.33,
         "ItemCode":  "1328",
         "Stock":  0,
@@ -25335,7 +25335,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Bagban"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "3896",
         "Stock":  -1,
@@ -25347,7 +25347,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SEVEN COLOUR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2200",
         "Stock":  0,
@@ -25359,7 +25359,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Ras Malai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "2134",
         "Stock":  0,
@@ -25371,7 +25371,7 @@ var STOCK_DATA = [
         "ItemName":  "SKS KRACKJACK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "4387",
         "Stock":  3,
@@ -25383,7 +25383,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CITY CART"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "1983",
         "Stock":  0,
@@ -25395,7 +25395,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Juhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1677",
         "Stock":  0,
@@ -25407,7 +25407,7 @@ var STOCK_DATA = [
         "ItemName":  "CM palazzo MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1285,
         "ItemCode":  "4384",
         "Stock":  0,
@@ -25419,7 +25419,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CRAZY GIRL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275.33,
         "ItemCode":  "1689",
         "Stock":  0,
@@ -25431,7 +25431,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Nakshtra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1260,
         "ItemCode":  "4087",
         "Stock":  4,
@@ -25443,7 +25443,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY GANESH 04"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  592.67,
         "ItemCode":  "2652",
         "Stock":  0,
@@ -25455,7 +25455,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kastiyan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2085,
         "ItemCode":  "3999",
         "Stock":  0,
@@ -25467,7 +25467,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MARTON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  975,
         "ItemCode":  "3780",
         "Stock":  2,
@@ -25479,7 +25479,7 @@ var STOCK_DATA = [
         "ItemName":  "N Kinza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  414.67,
         "ItemCode":  "2510",
         "Stock":  0,
@@ -25491,7 +25491,7 @@ var STOCK_DATA = [
         "ItemName":  "DTS RUKSHAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1600,
         "ItemCode":  "3135",
         "Stock":  0,
@@ -25503,7 +25503,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Net 02"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  664.67,
         "ItemCode":  "2915",
         "Stock":  -2,
@@ -25515,7 +25515,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Kashmiri Queen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2413",
         "Stock":  -1,
@@ -25527,7 +25527,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT PARIDHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1811",
         "Stock":  0,
@@ -25539,7 +25539,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Toffy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1145,
         "ItemCode":  "3971",
         "Stock":  2,
@@ -25551,7 +25551,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHINE LINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "1232",
         "Stock":  0,
@@ -25563,7 +25563,7 @@ var STOCK_DATA = [
         "ItemName":  "Firdous To Firdous"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2285",
         "Stock":  0,
@@ -25575,7 +25575,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT BHARATI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  504.67,
         "ItemCode":  "2303",
         "Stock":  0,
@@ -25587,7 +25587,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT DOVE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "4320",
         "Stock":  2,
@@ -25599,7 +25599,7 @@ var STOCK_DATA = [
         "ItemName":  "TATA CD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1344.67,
         "ItemCode":  "2717",
         "Stock":  0,
@@ -25611,7 +25611,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MITHAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2589",
         "Stock":  -1,
@@ -25623,7 +25623,7 @@ var STOCK_DATA = [
         "ItemName":  "Mannat Rang Mahal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  633.33,
         "ItemCode":  "2082",
         "Stock":  0,
@@ -25635,7 +25635,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Barfi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1806",
         "Stock":  0,
@@ -25647,7 +25647,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Sangita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "3692",
         "Stock":  -1,
@@ -25659,7 +25659,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT AMUL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4352",
         "Stock":  4,
@@ -25671,7 +25671,7 @@ var STOCK_DATA = [
         "ItemName":  "GF GOWN SHADED"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455,
         "ItemCode":  "4067",
         "Stock":  -3,
@@ -25683,7 +25683,7 @@ var STOCK_DATA = [
         "ItemName":  "MF GALA KHATLI HEAVY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4114",
         "Stock":  -1,
@@ -25695,7 +25695,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TERRY TOUCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1301",
         "Stock":  0,
@@ -25707,7 +25707,7 @@ var STOCK_DATA = [
         "ItemName":  "SCV Rangoli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1484.67,
         "ItemCode":  "2443",
         "Stock":  0,
@@ -25719,7 +25719,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Missam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  375,
         "ItemCode":  "3754",
         "Stock":  38,
@@ -25731,7 +25731,7 @@ var STOCK_DATA = [
         "ItemName":  "Rayon Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1120,
         "ItemCode":  "2619",
         "Stock":  0,
@@ -25743,7 +25743,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAHIYAA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "3788",
         "Stock":  3,
@@ -25755,7 +25755,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Sona Mihar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1650,
         "ItemCode":  "4397",
         "Stock":  3,
@@ -25767,7 +25767,7 @@ var STOCK_DATA = [
         "ItemName":  "GK KUNDAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  776.67,
         "ItemCode":  "1848",
         "Stock":  0,
@@ -25779,7 +25779,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS Nancy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2290,
         "ItemCode":  "4096",
         "Stock":  -1,
@@ -25791,7 +25791,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NOOR E SULTANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "2584",
         "Stock":  0,
@@ -25803,7 +25803,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Tarana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  115,
         "ItemCode":  "1715",
         "Stock":  0,
@@ -25815,7 +25815,7 @@ var STOCK_DATA = [
         "ItemName":  "Hira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1750,
         "ItemCode":  "3522",
         "Stock":  -2,
@@ -25827,7 +25827,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Neelkanth Plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1637",
         "Stock":  0,
@@ -25839,7 +25839,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Havmor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1344.67,
         "ItemCode":  "2707",
         "Stock":  0,
@@ -25851,7 +25851,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIRST CHOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  860,
         "ItemCode":  "4339",
         "Stock":  3,
@@ -25863,7 +25863,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FLAVOR HUB"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  4125,
         "ItemCode":  "4059",
         "Stock":  1,
@@ -25875,7 +25875,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY INDO WESTERN 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  5995,
         "ItemCode":  "4225",
         "Stock":  -1,
@@ -25887,7 +25887,7 @@ var STOCK_DATA = [
         "ItemName":  "LACHA ABHIVADAN SUNSHINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  345,
         "ItemCode":  "3916",
         "Stock":  13,
@@ -25899,7 +25899,7 @@ var STOCK_DATA = [
         "ItemName":  "MN IPHONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "2766",
         "Stock":  3,
@@ -25911,7 +25911,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Mahima"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1375,
         "ItemCode":  "4403",
         "Stock":  3,
@@ -25923,7 +25923,7 @@ var STOCK_DATA = [
         "ItemName":  "VF BEST CHOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "3721",
         "Stock":  1,
@@ -25935,7 +25935,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Costa Waterfall"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  840,
         "ItemCode":  "2917",
         "Stock":  0,
@@ -25947,7 +25947,7 @@ var STOCK_DATA = [
         "ItemName":  "Aarohi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1395,
         "ItemCode":  "3995",
         "Stock":  1,
@@ -25959,7 +25959,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DESI DABANGG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2682",
         "Stock":  0,
@@ -25971,7 +25971,7 @@ var STOCK_DATA = [
         "ItemName":  "MANNAT AAJ KAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  895.33,
         "ItemCode":  "1226",
         "Stock":  0,
@@ -25983,7 +25983,7 @@ var STOCK_DATA = [
         "ItemName":  "Kiana SG-202"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2526",
         "Stock":  0,
@@ -25995,7 +25995,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Nusrat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2337",
         "Stock":  0,
@@ -26007,7 +26007,7 @@ var STOCK_DATA = [
         "ItemName":  "GK MAHARAJ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "2013",
         "Stock":  0,
@@ -26019,7 +26019,7 @@ var STOCK_DATA = [
         "ItemName":  "VS ORGENZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  645,
         "ItemCode":  "3621",
         "Stock":  1,
@@ -26031,7 +26031,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PARDESIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1589",
         "Stock":  0,
@@ -26043,7 +26043,7 @@ var STOCK_DATA = [
         "ItemName":  "Madhumati Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "4104",
         "Stock":  -1,
@@ -26055,7 +26055,7 @@ var STOCK_DATA = [
         "ItemName":  "CRUNCHY BITS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  78,
         "ItemCode":  "1723",
         "Stock":  -11,
@@ -26067,7 +26067,7 @@ var STOCK_DATA = [
         "ItemName":  "VIP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "4252",
         "Stock":  1,
@@ -26079,7 +26079,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STAR DOLLS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2625",
         "Stock":  0,
@@ -26091,7 +26091,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Winter"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  780,
         "ItemCode":  "1350",
         "Stock":  0,
@@ -26103,7 +26103,7 @@ var STOCK_DATA = [
         "ItemName":  "Sagina Eva GF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  328,
         "ItemCode":  "3388",
         "Stock":  -27,
@@ -26115,7 +26115,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Lower circuit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2050,
         "ItemCode":  "1705",
         "Stock":  0,
@@ -26127,7 +26127,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Fabis"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  850,
         "ItemCode":  "4251",
         "Stock":  3,
@@ -26139,7 +26139,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MELODY BLOOM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4470",
         "Stock":  3,
@@ -26151,7 +26151,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KILLER VIBE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "1650",
         "Stock":  0,
@@ -26163,7 +26163,7 @@ var STOCK_DATA = [
         "ItemName":  "Nevedhyam Apurva"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1534.67,
         "ItemCode":  "2554",
         "Stock":  0,
@@ -26175,7 +26175,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Safnaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3273",
         "Stock":  -3,
@@ -26187,7 +26187,7 @@ var STOCK_DATA = [
         "ItemName":  "Innaya Super 30"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4556",
         "Stock":  3,
@@ -26199,7 +26199,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL ROAST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3292",
         "Stock":  -1,
@@ -26211,7 +26211,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Chhabili"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3955",
         "Stock":  -4,
@@ -26223,7 +26223,7 @@ var STOCK_DATA = [
         "ItemName":  "MF WD GALA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "3855",
         "Stock":  1,
@@ -26235,7 +26235,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LOADED NACHOS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4195",
         "Stock":  3,
@@ -26247,7 +26247,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 4302"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  533.33,
         "ItemCode":  "1931",
         "Stock":  0,
@@ -26259,7 +26259,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Doodh Malai"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1025.33,
         "ItemCode":  "1366",
         "Stock":  0,
@@ -26271,7 +26271,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Nizwa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "4240",
         "Stock":  11,
@@ -26283,7 +26283,7 @@ var STOCK_DATA = [
         "ItemName":  "REYON SUIT 3 pcs"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "3719",
         "Stock":  -1,
@@ -26295,7 +26295,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Super Protect"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  705,
         "ItemCode":  "3926",
         "Stock":  -1,
@@ -26307,7 +26307,7 @@ var STOCK_DATA = [
         "ItemName":  "N SARKHEDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "2204",
         "Stock":  0,
@@ -26319,7 +26319,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Pushpa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2994",
         "Stock":  0,
@@ -26331,7 +26331,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Yahoo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  636.67,
         "ItemCode":  "1493",
         "Stock":  0,
@@ -26343,7 +26343,7 @@ var STOCK_DATA = [
         "ItemName":  "Tata GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1445",
         "Stock":  0,
@@ -26355,7 +26355,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Aarju"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "4062",
         "Stock":  -1,
@@ -26367,7 +26367,7 @@ var STOCK_DATA = [
         "ItemName":  "JBT WHITE PARI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "1939",
         "Stock":  0,
@@ -26379,7 +26379,7 @@ var STOCK_DATA = [
         "ItemName":  "Anamika GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1635",
         "Stock":  0,
@@ -26391,7 +26391,7 @@ var STOCK_DATA = [
         "ItemName":  "Ice Pop"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "3224",
         "Stock":  0,
@@ -26403,7 +26403,7 @@ var STOCK_DATA = [
         "ItemName":  "MS Kasturi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "1753",
         "Stock":  0,
@@ -26415,7 +26415,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Anaar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  646.67,
         "ItemCode":  "1434",
         "Stock":  0,
@@ -26427,7 +26427,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Mohabbate"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2101",
         "Stock":  0,
@@ -26439,7 +26439,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Imare"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  230,
         "ItemCode":  "3746",
         "Stock":  5,
@@ -26451,7 +26451,7 @@ var STOCK_DATA = [
         "ItemName":  "Al Minah Xl Maknah"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "4433",
         "Stock":  3,
@@ -26463,7 +26463,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SMART CHOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1335,
         "ItemCode":  "3037",
         "Stock":  0,
@@ -26475,7 +26475,7 @@ var STOCK_DATA = [
         "ItemName":  "Sajan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  430,
         "ItemCode":  "3864",
         "Stock":  3,
@@ -26487,7 +26487,7 @@ var STOCK_DATA = [
         "ItemName":  "WHITE 3 LAKHNAVI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4555",
         "Stock":  3,
@@ -26499,7 +26499,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SOLO STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  434.67,
         "ItemCode":  "2641",
         "Stock":  0,
@@ -26511,7 +26511,7 @@ var STOCK_DATA = [
         "ItemName":  "INDIGO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "1526",
         "Stock":  0,
@@ -26523,7 +26523,7 @@ var STOCK_DATA = [
         "ItemName":  "PPT Hinal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1579",
         "Stock":  0,
@@ -26535,7 +26535,7 @@ var STOCK_DATA = [
         "ItemName":  "GAA Jaam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  200,
         "ItemCode":  "2515",
         "Stock":  93,
@@ -26547,7 +26547,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT PALKHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  670,
         "ItemCode":  "1393",
         "Stock":  0,
@@ -26559,7 +26559,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Angoori"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2765",
         "Stock":  -2,
@@ -26571,7 +26571,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MAYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215.33,
         "ItemCode":  "1276",
         "Stock":  0,
@@ -26583,7 +26583,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Shamita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  335,
         "ItemCode":  "3450",
         "Stock":  -1,
@@ -26595,7 +26595,7 @@ var STOCK_DATA = [
         "ItemName":  "JT Belaa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1740,
         "ItemCode":  "3045",
         "Stock":  0,
@@ -26607,7 +26607,7 @@ var STOCK_DATA = [
         "ItemName":  "Somnath Ferrari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "3361",
         "Stock":  0,
@@ -26619,7 +26619,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Baby Jhon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1130,
         "ItemCode":  "3108",
         "Stock":  0,
@@ -26631,7 +26631,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 1240D"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1426.67,
         "ItemCode":  "1821",
         "Stock":  0,
@@ -26643,7 +26643,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Reebok"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2512",
         "Stock":  0,
@@ -26655,7 +26655,7 @@ var STOCK_DATA = [
         "ItemName":  "GK JOKER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1965",
         "Stock":  0,
@@ -26667,7 +26667,7 @@ var STOCK_DATA = [
         "ItemName":  "OM sofiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2140,
         "ItemCode":  "4164",
         "Stock":  0,
@@ -26679,7 +26679,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAHI MITHAAS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2109",
         "Stock":  0,
@@ -26691,7 +26691,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT LATA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  574.67,
         "ItemCode":  "2187",
         "Stock":  0,
@@ -26703,7 +26703,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Center Fresh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "4316",
         "Stock":  3,
@@ -26715,7 +26715,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LUCKY STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1340,
         "ItemCode":  "2886",
         "Stock":  0,
@@ -26727,7 +26727,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Savera"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1581",
         "Stock":  0,
@@ -26739,7 +26739,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop Sangam 5 No."
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1635,
         "ItemCode":  "4210",
         "Stock":  -2,
@@ -26751,7 +26751,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWISS ROLL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1515,
         "ItemCode":  "3076",
         "Stock":  0,
@@ -26763,7 +26763,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sherbat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3629",
         "Stock":  -1,
@@ -26775,7 +26775,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 008"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  325,
         "ItemCode":  "3658",
         "Stock":  8,
@@ -26787,7 +26787,7 @@ var STOCK_DATA = [
         "ItemName":  "PRIYA JV READY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2210",
         "Stock":  0,
@@ -26799,7 +26799,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Aaj Tak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1778",
         "Stock":  0,
@@ -26811,7 +26811,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Al Mizhar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1040,
         "ItemCode":  "2818",
         "Stock":  0,
@@ -26823,7 +26823,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 5"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "3194",
         "Stock":  0,
@@ -26835,7 +26835,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Golden"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  336.67,
         "ItemCode":  "2077",
         "Stock":  0,
@@ -26847,7 +26847,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite RR Guide"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "3148",
         "Stock":  -1,
@@ -26859,7 +26859,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 006"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3330",
         "Stock":  2,
@@ -26871,7 +26871,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Tara Sitara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  513.33,
         "ItemCode":  "2104",
         "Stock":  0,
@@ -26883,7 +26883,7 @@ var STOCK_DATA = [
         "ItemName":  "GK CIPRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "2238",
         "Stock":  0,
@@ -26895,7 +26895,7 @@ var STOCK_DATA = [
         "ItemName":  "GF kaju"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  645,
         "ItemCode":  "3630",
         "Stock":  1,
@@ -26907,7 +26907,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MANWA LAGE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2732",
         "Stock":  -1,
@@ -26919,7 +26919,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hooriya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1782.5,
         "ItemCode":  "3091",
         "Stock":  0,
@@ -26931,7 +26931,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 03"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3206",
         "Stock":  0,
@@ -26943,7 +26943,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Safron"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "4371",
         "Stock":  15,
@@ -26955,7 +26955,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1250 FLUTE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1295,
         "ItemCode":  "3413",
         "Stock":  -1,
@@ -26967,7 +26967,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Summer Camp"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "1289",
         "Stock":  0,
@@ -26979,7 +26979,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Pant Jorjet Light Colour Chart"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "4073",
         "Stock":  1,
@@ -26991,7 +26991,7 @@ var STOCK_DATA = [
         "ItemName":  "GF GAYTRI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "2199",
         "Stock":  0,
@@ -27003,7 +27003,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Kuwet"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1450,
         "ItemCode":  "3795",
         "Stock":  1,
@@ -27015,7 +27015,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COOKIE CRAZE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "2903",
         "Stock":  0,
@@ -27027,7 +27027,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Sanam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  416.67,
         "ItemCode":  "2079",
         "Stock":  0,
@@ -27039,7 +27039,7 @@ var STOCK_DATA = [
         "ItemName":  "PPT Joker"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  820,
         "ItemCode":  "3146",
         "Stock":  -1,
@@ -27051,7 +27051,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 008"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2290,
         "ItemCode":  "4293",
         "Stock":  -2,
@@ -27063,7 +27063,7 @@ var STOCK_DATA = [
         "ItemName":  "KC REGAL BLOOM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "3420",
         "Stock":  -1,
@@ -27075,7 +27075,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Poker"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2566",
         "Stock":  0,
@@ -27087,7 +27087,7 @@ var STOCK_DATA = [
         "ItemName":  "LOVE CREATION APRIL FOOL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  586.67,
         "ItemCode":  "1555",
         "Stock":  0,
@@ -27099,7 +27099,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Zinda Dil"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  5333.33,
         "ItemCode":  "2232",
         "Stock":  0,
@@ -27111,7 +27111,7 @@ var STOCK_DATA = [
         "ItemName":  "13 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  4700,
         "ItemCode":  "4060",
         "Stock":  1,
@@ -27123,7 +27123,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY INDO WESTERN 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3119",
         "Stock":  0,
@@ -27135,7 +27135,7 @@ var STOCK_DATA = [
         "ItemName":  "KS Zareen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  408,
         "ItemCode":  "1725",
         "Stock":  0,
@@ -27147,7 +27147,7 @@ var STOCK_DATA = [
         "ItemName":  "Valentine SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "3334",
         "Stock":  6,
@@ -27159,7 +27159,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Hanny Banny"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "1703",
         "Stock":  0,
@@ -27171,7 +27171,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pasta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "2042",
         "Stock":  0,
@@ -27183,7 +27183,7 @@ var STOCK_DATA = [
         "ItemName":  "GF CHINGARI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1990,
         "ItemCode":  "4071",
         "Stock":  1,
@@ -27195,7 +27195,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HAPPY POINT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "3061",
         "Stock":  0,
@@ -27207,7 +27207,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Indigo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3652",
         "Stock":  101,
@@ -27219,7 +27219,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "4365",
         "Stock":  2,
@@ -27231,7 +27231,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MALKIYAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1515,
         "ItemCode":  "3078",
         "Stock":  1,
@@ -27243,7 +27243,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Peppermint"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "1474",
         "Stock":  0,
@@ -27255,7 +27255,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Vichitra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1284.67,
         "ItemCode":  "2884",
         "Stock":  -1,
@@ -27267,7 +27267,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Safari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "3111",
         "Stock":  0,
@@ -27279,7 +27279,7 @@ var STOCK_DATA = [
         "ItemName":  "VAS Saloni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1426.67,
         "ItemCode":  "1772",
         "Stock":  0,
@@ -27291,7 +27291,7 @@ var STOCK_DATA = [
         "ItemName":  "KC hasiba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "3411",
         "Stock":  4,
@@ -27303,7 +27303,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zivana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "3890",
         "Stock":  6,
@@ -27315,7 +27315,7 @@ var STOCK_DATA = [
         "ItemName":  "HASINA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2206",
         "Stock":  0,
@@ -27327,7 +27327,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Red Rose"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  954.67,
         "ItemCode":  "2426",
         "Stock":  -2,
@@ -27339,7 +27339,7 @@ var STOCK_DATA = [
         "ItemName":  "KC AlRaso"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  16,
         "ItemCode":  "2498",
         "Stock":  0,
@@ -27351,7 +27351,7 @@ var STOCK_DATA = [
         "ItemName":  "Royal Punjabi Cut"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  555.33,
         "ItemCode":  "1402",
         "Stock":  0,
@@ -27363,7 +27363,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Anmol"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "3222",
         "Stock":  3,
@@ -27375,7 +27375,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Dilkhush"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "1926",
         "Stock":  0,
@@ -27387,7 +27387,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shimi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2255,
         "ItemCode":  "4042",
         "Stock":  0,
@@ -27399,7 +27399,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY JIYA 9093 (WITH PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1734.67,
         "ItemCode":  "2684",
         "Stock":  0,
@@ -27411,7 +27411,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY GHARARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  205,
         "ItemCode":  "3750",
         "Stock":  5,
@@ -27423,7 +27423,7 @@ var STOCK_DATA = [
         "ItemName":  "Kashmira XL Makhna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4495",
         "Stock":  3,
@@ -27435,7 +27435,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MEHAR LOOK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  324.67,
         "ItemCode":  "2658",
         "Stock":  0,
@@ -27447,7 +27447,7 @@ var STOCK_DATA = [
         "ItemName":  "Chikni Chameli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  420.67,
         "ItemCode":  "2701",
         "Stock":  0,
@@ -27459,7 +27459,7 @@ var STOCK_DATA = [
         "ItemName":  "JS MAHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2669",
         "Stock":  -5,
@@ -27471,7 +27471,7 @@ var STOCK_DATA = [
         "ItemName":  "Scarf"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3993",
         "Stock":  3,
@@ -27483,7 +27483,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ANGEL BERRY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "3932",
         "Stock":  0,
@@ -27495,7 +27495,7 @@ var STOCK_DATA = [
         "ItemName":  "N LAFEEZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "3192",
         "Stock":  -3,
@@ -27507,7 +27507,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Kalki"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2335",
         "Stock":  0,
@@ -27519,7 +27519,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DUR E FISHAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  266.67,
         "ItemCode":  "1683",
         "Stock":  0,
@@ -27531,7 +27531,7 @@ var STOCK_DATA = [
         "ItemName":  "RR God father"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2992",
         "Stock":  -1,
@@ -27543,7 +27543,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Mapping"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1365,
         "ItemCode":  "3914",
         "Stock":  3,
@@ -27555,7 +27555,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MELODY MIX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1375,
         "ItemCode":  "4405",
         "Stock":  7,
@@ -27567,7 +27567,7 @@ var STOCK_DATA = [
         "ItemName":  "VF I LOVE YOU"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3727",
         "Stock":  2,
@@ -27579,7 +27579,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Best Wishes"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2700,
         "ItemCode":  "4227",
         "Stock":  0,
@@ -27591,7 +27591,7 @@ var STOCK_DATA = [
         "ItemName":  "PLAZA PRINT PAPLON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1126.67,
         "ItemCode":  "1838",
         "Stock":  0,
@@ -27603,7 +27603,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 9XM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "1996",
         "Stock":  0,
@@ -27615,7 +27615,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Rock Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "4567",
         "Stock":  -4,
@@ -27627,7 +27627,7 @@ var STOCK_DATA = [
         "ItemName":  "INNAYA GOOGLEPAY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  466.67,
         "ItemCode":  "1649",
         "Stock":  0,
@@ -27639,7 +27639,7 @@ var STOCK_DATA = [
         "ItemName":  "Shruti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "2713",
         "Stock":  0,
@@ -27651,7 +27651,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Sitara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  326.67,
         "ItemCode":  "2496",
         "Stock":  0,
@@ -27663,7 +27663,7 @@ var STOCK_DATA = [
         "ItemName":  "GT Sanam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "2675",
         "Stock":  2,
@@ -27675,7 +27675,7 @@ var STOCK_DATA = [
         "ItemName":  "MT TOTAL DHAMAAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1160,
         "ItemCode":  "3106",
         "Stock":  0,
@@ -27687,7 +27687,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 4278C"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455,
         "ItemCode":  "3946",
         "Stock":  2,
@@ -27699,7 +27699,7 @@ var STOCK_DATA = [
         "ItemName":  "SBT DHAMAKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685.33,
         "ItemCode":  "1243",
         "Stock":  0,
@@ -27711,7 +27711,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Kantra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2244",
         "Stock":  0,
@@ -27723,7 +27723,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT sun shine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  745,
         "ItemCode":  "4237",
         "Stock":  -2,
@@ -27735,7 +27735,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JUST WATCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2365,
         "ItemCode":  "4162",
         "Stock":  2,
@@ -27747,7 +27747,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BITEZON (With Purse)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "4357",
         "Stock":  0,
@@ -27759,7 +27759,7 @@ var STOCK_DATA = [
         "ItemName":  "JT MARIGOLD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1836",
         "Stock":  0,
@@ -27771,7 +27771,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Dream"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "2018",
         "Stock":  0,
@@ -27783,7 +27783,7 @@ var STOCK_DATA = [
         "ItemName":  "JAAM ZARKAN SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "2172",
         "Stock":  0,
@@ -27795,7 +27795,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MUSHEER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1315,
         "ItemCode":  "4259",
         "Stock":  3,
@@ -27807,7 +27807,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SNAPPER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2768",
         "Stock":  0,
@@ -27819,7 +27819,7 @@ var STOCK_DATA = [
         "ItemName":  "MT SATRANGI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1274.67,
         "ItemCode":  "2924",
         "Stock":  -1,
@@ -27831,7 +27831,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 1295 Readymade (4)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "4445",
         "Stock":  13,
@@ -27843,7 +27843,7 @@ var STOCK_DATA = [
         "ItemName":  "SG GHAZAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  426.67,
         "ItemCode":  "1641",
         "Stock":  0,
@@ -27855,7 +27855,7 @@ var STOCK_DATA = [
         "ItemName":  "Tufan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1156.67,
         "ItemCode":  "1802",
         "Stock":  0,
@@ -27867,7 +27867,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Everyday"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "4497",
         "Stock":  3,
@@ -27879,7 +27879,7 @@ var STOCK_DATA = [
         "ItemName":  "JLF APPLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1885,
         "ItemCode":  "3712",
         "Stock":  0,
@@ -27891,7 +27891,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Winter Sky"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "3357",
         "Stock":  -1,
@@ -27903,7 +27903,7 @@ var STOCK_DATA = [
         "ItemName":  "Jaam Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "1888",
         "Stock":  0,
@@ -27915,7 +27915,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shifali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1683.33,
         "ItemCode":  "2482",
         "Stock":  0,
@@ -27927,7 +27927,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zenika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "3748",
         "Stock":  5,
@@ -27939,7 +27939,7 @@ var STOCK_DATA = [
         "ItemName":  "Al Minah Heavy XL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "4431",
         "Stock":  3,
@@ -27951,7 +27951,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ULFAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  170,
         "ItemCode":  "2909",
         "Stock":  35,
@@ -27963,7 +27963,7 @@ var STOCK_DATA = [
         "ItemName":  "Snapchat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1705,
         "ItemCode":  "1296",
         "Stock":  -2,
@@ -27975,7 +27975,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Coding Garara New Design"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3964",
         "Stock":  2,
@@ -27987,7 +27987,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SNACK SAAZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "4002",
         "Stock":  -1,
@@ -27999,7 +27999,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT RASGULLA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1986.67,
         "ItemCode":  "1970",
         "Stock":  0,
@@ -28011,7 +28011,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hollywood Hungama"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "2356",
         "Stock":  0,
@@ -28023,7 +28023,7 @@ var STOCK_DATA = [
         "ItemName":  "MAS Roshni"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  8666.67,
         "ItemCode":  "2227",
         "Stock":  -1,
@@ -28035,7 +28035,7 @@ var STOCK_DATA = [
         "ItemName":  "08 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  232,
         "ItemCode":  "3588",
         "Stock":  0,
@@ -28047,7 +28047,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC SARGAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "3687",
         "Stock":  -1,
@@ -28059,7 +28059,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BEST NAME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  890,
         "ItemCode":  "4314",
         "Stock":  3,
@@ -28071,7 +28071,7 @@ var STOCK_DATA = [
         "ItemName":  "KC LUKY CHARM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1260,
         "ItemCode":  "3028",
         "Stock":  -1,
@@ -28083,7 +28083,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rasna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  985,
         "ItemCode":  "3554",
         "Stock":  -1,
@@ -28095,7 +28095,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Teri Chunnari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  342,
         "ItemCode":  "2107",
         "Stock":  60,
@@ -28107,7 +28107,7 @@ var STOCK_DATA = [
         "ItemName":  "Madhav CS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  760,
         "ItemCode":  "2555",
         "Stock":  0,
@@ -28119,7 +28119,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Star Jorjat Stree"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1255,
         "ItemCode":  "4557",
         "Stock":  2,
@@ -28131,7 +28131,7 @@ var STOCK_DATA = [
         "ItemName":  "AVNEE 253"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1566",
         "Stock":  0,
@@ -28143,7 +28143,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rajwadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  270,
         "ItemCode":  "2142",
         "Stock":  0,
@@ -28155,7 +28155,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC JASMINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "4420",
         "Stock":  -1,
@@ -28167,7 +28167,7 @@ var STOCK_DATA = [
         "ItemName":  "DEEPIKA RIMZIM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2160,
         "ItemCode":  "3031",
         "Stock":  0,
@@ -28179,7 +28179,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Samah Gulabi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3874",
         "Stock":  -1,
@@ -28191,7 +28191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SPRITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1425,
         "ItemCode":  "3840",
         "Stock":  -1,
@@ -28203,7 +28203,7 @@ var STOCK_DATA = [
         "ItemName":  "GK AKARSH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1488",
         "Stock":  0,
@@ -28215,7 +28215,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohini Palak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1340,
         "ItemCode":  "2878",
         "Stock":  0,
@@ -28227,7 +28227,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Zil Mil"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "2582",
         "Stock":  0,
@@ -28239,7 +28239,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Kaju"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1120,
         "ItemCode":  "1764",
         "Stock":  0,
@@ -28251,7 +28251,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pop up"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1990,
         "ItemCode":  "4507",
         "Stock":  3,
@@ -28263,7 +28263,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAHI PASAND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  433.33,
         "ItemCode":  "2047",
         "Stock":  0,
@@ -28275,7 +28275,7 @@ var STOCK_DATA = [
         "ItemName":  "G55"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  826.67,
         "ItemCode":  "1622",
         "Stock":  0,
@@ -28287,7 +28287,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Johnnie Walker"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3257",
         "Stock":  0,
@@ -28299,7 +28299,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Rajkumari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1990,
         "ItemCode":  "4132",
         "Stock":  2,
@@ -28311,7 +28311,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY D 71"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "4531",
         "Stock":  7,
@@ -28323,7 +28323,7 @@ var STOCK_DATA = [
         "ItemName":  "CRZY RASHMIKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  53.33,
         "ItemCode":  "3186",
         "Stock":  -2,
@@ -28335,7 +28335,7 @@ var STOCK_DATA = [
         "ItemName":  "Ctn Meter Cloth"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3958",
         "Stock":  3,
@@ -28347,7 +28347,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HAPPY LIFE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1508",
         "Stock":  0,
@@ -28359,7 +28359,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Shalu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1962",
         "Stock":  0,
@@ -28371,7 +28371,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Genius"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  212,
         "ItemCode":  "1281",
         "Stock":  0,
@@ -28383,7 +28383,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Varsha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "2479",
         "Stock":  0,
@@ -28395,7 +28395,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ibrar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  3666.67,
         "ItemCode":  "2222",
         "Stock":  0,
@@ -28407,7 +28407,7 @@ var STOCK_DATA = [
         "ItemName":  "03 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3320",
         "Stock":  3,
@@ -28419,7 +28419,7 @@ var STOCK_DATA = [
         "ItemName":  "SF 5 Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "3871",
         "Stock":  4,
@@ -28431,7 +28431,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KANIKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1504.67,
         "ItemCode":  "2170",
         "Stock":  0,
@@ -28443,7 +28443,7 @@ var STOCK_DATA = [
         "ItemName":  "KC AZFAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3456",
         "Stock":  0,
@@ -28455,7 +28455,7 @@ var STOCK_DATA = [
         "ItemName":  "Vc Sarbati"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3662",
         "Stock":  7,
@@ -28467,7 +28467,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX 02"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4362",
         "Stock":  1,
@@ -28479,7 +28479,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NAAL NACHNA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  434.67,
         "ItemCode":  "2962",
         "Stock":  0,
@@ -28491,7 +28491,7 @@ var STOCK_DATA = [
         "ItemName":  "OS Kangana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1790,
         "ItemCode":  "4294",
         "Stock":  3,
@@ -28503,7 +28503,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SKY RISE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2338",
         "Stock":  0,
@@ -28515,7 +28515,7 @@ var STOCK_DATA = [
         "ItemName":  "GF JHALAK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1960,
         "ItemCode":  "4219",
         "Stock":  1,
@@ -28527,7 +28527,7 @@ var STOCK_DATA = [
         "ItemName":  "One Peice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "1859",
         "Stock":  0,
@@ -28539,7 +28539,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Pant Trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1610",
         "Stock":  0,
@@ -28551,7 +28551,7 @@ var STOCK_DATA = [
         "ItemName":  "One Plus VT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "1878",
         "Stock":  0,
@@ -28563,7 +28563,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Paytm"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  315,
         "ItemCode":  "3465",
         "Stock":  0,
@@ -28575,7 +28575,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Aparna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1430,
         "ItemCode":  "4211",
         "Stock":  -1,
@@ -28587,7 +28587,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GABRU FIRE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "3985",
         "Stock":  -1,
@@ -28599,7 +28599,7 @@ var STOCK_DATA = [
         "ItemName":  "SG CRYSTAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2900",
         "Stock":  0,
@@ -28611,7 +28611,7 @@ var STOCK_DATA = [
         "ItemName":  "MIX Kajal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1951",
         "Stock":  0,
@@ -28623,7 +28623,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Farida"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1552",
         "Stock":  0,
@@ -28635,7 +28635,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Arani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  374.67,
         "ItemCode":  "2920",
         "Stock":  0,
@@ -28647,7 +28647,7 @@ var STOCK_DATA = [
         "ItemName":  "White Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1520,
         "ItemCode":  "1292",
         "Stock":  0,
@@ -28659,7 +28659,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Garara Heavy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1766",
         "Stock":  0,
@@ -28671,7 +28671,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Moorpich"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "3331",
         "Stock":  -1,
@@ -28683,7 +28683,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Raymond"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2169",
         "Stock":  0,
@@ -28695,7 +28695,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hazim"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "2960",
         "Stock":  0,
@@ -28707,7 +28707,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 587"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1545,
         "ItemCode":  "3846",
         "Stock":  3,
@@ -28719,7 +28719,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHILL UP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  413,
         "ItemCode":  "3339",
         "Stock":  0,
@@ -28731,7 +28731,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 13454"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1870",
         "Stock":  0,
@@ -28743,7 +28743,7 @@ var STOCK_DATA = [
         "ItemName":  "Gf Bale Bale"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "4539",
         "Stock":  3,
@@ -28755,7 +28755,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL ATLANTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1375",
         "Stock":  0,
@@ -28767,7 +28767,7 @@ var STOCK_DATA = [
         "ItemName":  "Reno GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "2366",
         "Stock":  0,
@@ -28779,7 +28779,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Monera"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1114.67,
         "ItemCode":  "2716",
         "Stock":  0,
@@ -28791,7 +28791,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY READYMADE 172"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  726.67,
         "ItemCode":  "1839",
         "Stock":  -1,
@@ -28803,7 +28803,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Glamour"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "2667",
         "Stock":  0,
@@ -28815,7 +28815,7 @@ var STOCK_DATA = [
         "ItemName":  "KK Kohinoor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "1653",
         "Stock":  0,
@@ -28827,7 +28827,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Traditional"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2302",
         "Stock":  0,
@@ -28839,7 +28839,7 @@ var STOCK_DATA = [
         "ItemName":  "MT COPPER CARRY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  990,
         "ItemCode":  "1423",
         "Stock":  0,
@@ -28851,7 +28851,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Taal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1924.67,
         "ItemCode":  "2843",
         "Stock":  0,
@@ -28863,7 +28863,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHEESECAKE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  730,
         "ItemCode":  "4351",
         "Stock":  2,
@@ -28875,7 +28875,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZARAFINA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  436.67,
         "ItemCode":  "1861",
         "Stock":  0,
@@ -28887,7 +28887,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Dream Girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1531",
         "Stock":  0,
@@ -28899,7 +28899,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Ice Cream"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  430,
         "ItemCode":  "2929",
         "Stock":  0,
@@ -28911,7 +28911,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Babita"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2284",
         "Stock":  -2,
@@ -28923,7 +28923,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT brezza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1050,
         "ItemCode":  "1841",
         "Stock":  0,
@@ -28935,7 +28935,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHANCHAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "4503",
         "Stock":  7,
@@ -28947,7 +28947,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT GOLD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "3755",
         "Stock":  11,
@@ -28959,7 +28959,7 @@ var STOCK_DATA = [
         "ItemName":  "Khatli work"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1155.33,
         "ItemCode":  "1356",
         "Stock":  0,
@@ -28971,7 +28971,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Alice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "2007",
         "Stock":  0,
@@ -28983,7 +28983,7 @@ var STOCK_DATA = [
         "ItemName":  "OM KALA KRUTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4097",
         "Stock":  3,
@@ -28995,7 +28995,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Crispy Corner"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  925,
         "ItemCode":  "4485",
         "Stock":  3,
@@ -29007,7 +29007,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWEET SPAROOW"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "1849",
         "Stock":  0,
@@ -29019,7 +29019,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Apple Burberry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  485,
         "ItemCode":  "3717",
         "Stock":  -1,
@@ -29031,7 +29031,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Emoji"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  655,
         "ItemCode":  "4117",
         "Stock":  2,
@@ -29043,7 +29043,7 @@ var STOCK_DATA = [
         "ItemName":  "SG JASSI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1630,
         "ItemCode":  "2442",
         "Stock":  -1,
@@ -29055,7 +29055,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ziyam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3303",
         "Stock":  0,
@@ -29067,7 +29067,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Red Bull"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "4301",
         "Stock":  3,
@@ -29079,7 +29079,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIRE PATIYAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1035,
         "ItemCode":  "3153",
         "Stock":  0,
@@ -29091,7 +29091,7 @@ var STOCK_DATA = [
         "ItemName":  "RS Crunchy 3"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675.33,
         "ItemCode":  "1757",
         "Stock":  0,
@@ -29103,7 +29103,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Mahima firdous"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1260,
         "ItemCode":  "3027",
         "Stock":  -3,
@@ -29115,7 +29115,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rooh Afza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2395,
         "ItemCode":  "4221",
         "Stock":  -1,
@@ -29127,7 +29127,7 @@ var STOCK_DATA = [
         "ItemName":  "LACHA ABHIVADAN AUSTROLIAN GIRL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "1561",
         "Stock":  0,
@@ -29139,7 +29139,7 @@ var STOCK_DATA = [
         "ItemName":  "Lotus Shiv Tex"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2090,
         "ItemCode":  "1894",
         "Stock":  0,
@@ -29151,7 +29151,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Performance"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1430,
         "ItemCode":  "4561",
         "Stock":  3,
@@ -29163,7 +29163,7 @@ var STOCK_DATA = [
         "ItemName":  "MOH MAYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1430,
         "ItemCode":  "1569",
         "Stock":  0,
@@ -29175,7 +29175,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Meghna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "3345",
         "Stock":  -1,
@@ -29187,7 +29187,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Curve"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "2821",
         "Stock":  0,
@@ -29199,7 +29199,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ISHQ MEETHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2537",
         "Stock":  0,
@@ -29211,7 +29211,7 @@ var STOCK_DATA = [
         "ItemName":  "GC Kamna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "2480",
         "Stock":  0,
@@ -29223,7 +29223,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Gazir"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3370",
         "Stock":  0,
@@ -29235,7 +29235,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome She girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2129",
         "Stock":  0,
@@ -29247,7 +29247,7 @@ var STOCK_DATA = [
         "ItemName":  "VC WHITE HOUSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1831",
         "Stock":  0,
@@ -29259,7 +29259,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Cobra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635.33,
         "ItemCode":  "1244",
         "Stock":  0,
@@ -29271,7 +29271,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Janam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "3618",
         "Stock":  -2,
@@ -29283,7 +29283,7 @@ var STOCK_DATA = [
         "ItemName":  "OM RAMKUDI JHAMKUDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "4176",
         "Stock":  3,
@@ -29295,7 +29295,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GULRANIG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "1738",
         "Stock":  0,
@@ -29307,7 +29307,7 @@ var STOCK_DATA = [
         "ItemName":  "Fifa GF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1344.67,
         "ItemCode":  "2829",
         "Stock":  0,
@@ -29319,7 +29319,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FACETIME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  55,
         "ItemCode":  "3695",
         "Stock":  203,
@@ -29331,7 +29331,7 @@ var STOCK_DATA = [
         "ItemName":  "Shawl Priya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "4359",
         "Stock":  -1,
@@ -29343,7 +29343,7 @@ var STOCK_DATA = [
         "ItemName":  "JT NIGAAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1744",
         "Stock":  0,
@@ -29355,7 +29355,7 @@ var STOCK_DATA = [
         "ItemName":  "Madhubala SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1170,
         "ItemCode":  "1360",
         "Stock":  0,
@@ -29367,7 +29367,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mannar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "2830",
         "Stock":  1,
@@ -29379,7 +29379,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NAIN LADAVA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  406.67,
         "ItemCode":  "1960",
         "Stock":  0,
@@ -29391,7 +29391,7 @@ var STOCK_DATA = [
         "ItemName":  "Gold Remove"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1000,
         "ItemCode":  "2364",
         "Stock":  0,
@@ -29403,7 +29403,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dilchaspi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  596.67,
         "ItemCode":  "1502",
         "Stock":  0,
@@ -29415,7 +29415,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Balma Garara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1916.67,
         "ItemCode":  "1967",
         "Stock":  0,
@@ -29427,7 +29427,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mysore Masala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "3424",
         "Stock":  5,
@@ -29439,7 +29439,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Swiggy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  430,
         "ItemCode":  "3454",
         "Stock":  -1,
@@ -29451,7 +29451,7 @@ var STOCK_DATA = [
         "ItemName":  "JT Gulmohar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1482",
         "Stock":  0,
@@ -29463,7 +29463,7 @@ var STOCK_DATA = [
         "ItemName":  "Meera Pari Fab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  593.33,
         "ItemCode":  "2872",
         "Stock":  0,
@@ -29475,7 +29475,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "4048",
         "Stock":  -1,
@@ -29487,7 +29487,7 @@ var STOCK_DATA = [
         "ItemName":  "GK KYRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "3391",
         "Stock":  -3,
@@ -29499,7 +29499,7 @@ var STOCK_DATA = [
         "ItemName":  "Jaam Ctn Suite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "4025",
         "Stock":  -1,
@@ -29511,7 +29511,7 @@ var STOCK_DATA = [
         "ItemName":  "RR PANCHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2085,
         "ItemCode":  "3910",
         "Stock":  -1,
@@ -29523,7 +29523,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Dosti Fm"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  394.67,
         "ItemCode":  "2773",
         "Stock":  -1,
@@ -29535,7 +29535,7 @@ var STOCK_DATA = [
         "ItemName":  "Star Georgette"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  830,
         "ItemCode":  "1425",
         "Stock":  0,
@@ -29547,7 +29547,7 @@ var STOCK_DATA = [
         "ItemName":  "SG 751 C"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1124.67,
         "ItemCode":  "2849",
         "Stock":  -2,
@@ -29559,7 +29559,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 11"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  450,
         "ItemCode":  "2066",
         "Stock":  0,
@@ -29571,7 +29571,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Jf Millennium"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  975,
         "ItemCode":  "3159",
         "Stock":  0,
@@ -29583,7 +29583,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Indori Bhel"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "3151",
         "Stock":  0,
@@ -29595,7 +29595,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 003"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675.33,
         "ItemCode":  "1732",
         "Stock":  0,
@@ -29607,7 +29607,7 @@ var STOCK_DATA = [
         "ItemName":  "Instagram Om"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "3347",
         "Stock":  0,
@@ -29619,7 +29619,7 @@ var STOCK_DATA = [
         "ItemName":  "OM My Love"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1920,
         "ItemCode":  "3612",
         "Stock":  -1,
@@ -29631,7 +29631,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MUMBAI SAGA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2158",
         "Stock":  0,
@@ -29643,7 +29643,7 @@ var STOCK_DATA = [
         "ItemName":  "GARMIA GULZAR 8338"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "1598",
         "Stock":  0,
@@ -29655,7 +29655,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ainaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  690,
         "ItemCode":  "3837",
         "Stock":  -1,
@@ -29667,7 +29667,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GOLDEN CUP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "4070",
         "Stock":  3,
@@ -29679,7 +29679,7 @@ var STOCK_DATA = [
         "ItemName":  "PAWNI JACKPOT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2507",
         "Stock":  0,
@@ -29691,7 +29691,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KOYAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1233.33,
         "ItemCode":  "1768",
         "Stock":  0,
@@ -29703,7 +29703,7 @@ var STOCK_DATA = [
         "ItemName":  "KC steps"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3762",
         "Stock":  3,
@@ -29715,7 +29715,7 @@ var STOCK_DATA = [
         "ItemName":  "GK RUN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1370,
         "ItemCode":  "4262",
         "Stock":  0,
@@ -29727,7 +29727,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DJ MASTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2276",
         "Stock":  0,
@@ -29739,7 +29739,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Mumtaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "4217",
         "Stock":  -1,
@@ -29751,7 +29751,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAST MAULA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  208.67,
         "ItemCode":  "1693",
         "Stock":  0,
@@ -29763,7 +29763,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Shyama"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585.33,
         "ItemCode":  "1377",
         "Stock":  0,
@@ -29775,7 +29775,7 @@ var STOCK_DATA = [
         "ItemName":  "BMW GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1160,
         "ItemCode":  "3283",
         "Stock":  0,
@@ -29787,7 +29787,7 @@ var STOCK_DATA = [
         "ItemName":  "Vf Jackpot"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  720,
         "ItemCode":  "3844",
         "Stock":  3,
@@ -29799,7 +29799,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CRYSTILE BREEZE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  446.67,
         "ItemCode":  "1624",
         "Stock":  0,
@@ -29811,7 +29811,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Parvat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1986.67,
         "ItemCode":  "1968",
         "Stock":  0,
@@ -29823,7 +29823,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Paneer Dhosa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3710",
         "Stock":  -2,
@@ -29835,7 +29835,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Blue Whale"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1014.67,
         "ItemCode":  "2618",
         "Stock":  -1,
@@ -29847,7 +29847,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Humdum"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "4110",
         "Stock":  3,
@@ -29859,7 +29859,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FAME BERRY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1186.67,
         "ItemCode":  "1901",
         "Stock":  0,
@@ -29871,7 +29871,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Vistara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1570,
         "ItemCode":  "1909",
         "Stock":  0,
@@ -29883,7 +29883,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Dillruba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  613,
         "ItemCode":  "3262",
         "Stock":  0,
@@ -29895,7 +29895,7 @@ var STOCK_DATA = [
         "ItemName":  "YC Nafisa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1405",
         "Stock":  0,
@@ -29907,7 +29907,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Tiffany"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  227,
         "ItemCode":  "4283",
         "Stock":  55,
@@ -29919,7 +29919,7 @@ var STOCK_DATA = [
         "ItemName":  "ROYAL BRAND HASEENA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  285,
         "ItemCode":  "4152",
         "Stock":  3,
@@ -29931,7 +29931,7 @@ var STOCK_DATA = [
         "ItemName":  "KT TITENIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2245,
         "ItemCode":  "3184",
         "Stock":  0,
@@ -29943,7 +29943,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BlackBerry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1970,
         "ItemCode":  "4512",
         "Stock":  3,
@@ -29955,7 +29955,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BANNO BEAUTY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  20,
         "ItemCode":  "4505",
         "Stock":  1251.5,
@@ -29967,7 +29967,7 @@ var STOCK_DATA = [
         "ItemName":  "Bani Thani rubiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2253",
         "Stock":  0,
@@ -29979,7 +29979,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Humraaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4241",
         "Stock":  3,
@@ -29991,7 +29991,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 565 Rangoli (WITH PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635.33,
         "ItemCode":  "1812",
         "Stock":  0,
@@ -30003,7 +30003,7 @@ var STOCK_DATA = [
         "ItemName":  "GF All in One"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "1316",
         "Stock":  0,
@@ -30015,7 +30015,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Wonderful"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  680,
         "ItemCode":  "3138",
         "Stock":  0,
@@ -30027,7 +30027,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Exotic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2005",
         "Stock":  0,
@@ -30039,7 +30039,7 @@ var STOCK_DATA = [
         "ItemName":  "Firebolt"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1145.33,
         "ItemCode":  "1290",
         "Stock":  0,
@@ -30051,7 +30051,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Suit Jorjet Heavy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1186.67,
         "ItemCode":  "1843",
         "Stock":  0,
@@ -30063,7 +30063,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Berries"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "4157",
         "Stock":  2,
@@ -30075,7 +30075,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BAJAJ FLEXI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3816",
         "Stock":  3,
@@ -30087,7 +30087,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Black Tea"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1735,
         "ItemCode":  "3305",
         "Stock":  0,
@@ -30099,7 +30099,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mohra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  326.67,
         "ItemCode":  "2495",
         "Stock":  0,
@@ -30111,7 +30111,7 @@ var STOCK_DATA = [
         "ItemName":  "GT Noorie"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1990,
         "ItemCode":  "1603",
         "Stock":  0,
@@ -30123,7 +30123,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hungama"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  533.33,
         "ItemCode":  "1959",
         "Stock":  0,
@@ -30135,7 +30135,7 @@ var STOCK_DATA = [
         "ItemName":  "SS Somyad"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1175,
         "ItemCode":  "2193",
         "Stock":  -2,
@@ -30147,7 +30147,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Fiza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2416",
         "Stock":  0,
@@ -30159,7 +30159,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Bank"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "4393",
         "Stock":  3,
@@ -30171,7 +30171,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DHOL DHAMAKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "1684",
         "Stock":  0,
@@ -30183,7 +30183,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Superfast Express"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "2131",
         "Stock":  0,
@@ -30195,7 +30195,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11647"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  535,
         "ItemCode":  "3336",
         "Stock":  -4,
@@ -30207,7 +30207,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Aaina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1678",
         "Stock":  0,
@@ -30219,7 +30219,7 @@ var STOCK_DATA = [
         "ItemName":  "Protain MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  474.67,
         "ItemCode":  "2741",
         "Stock":  0,
@@ -30231,7 +30231,7 @@ var STOCK_DATA = [
         "ItemName":  "OM CHIKKI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  950,
         "ItemCode":  "2918",
         "Stock":  0,
@@ -30243,7 +30243,7 @@ var STOCK_DATA = [
         "ItemName":  "Crazy Bite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  770,
         "ItemCode":  "2841",
         "Stock":  0,
@@ -30255,7 +30255,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PYAAR KE PAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475,
         "ItemCode":  "3276",
         "Stock":  0,
@@ -30267,7 +30267,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena Tai Dw"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  814.67,
         "ItemCode":  "2604",
         "Stock":  0,
@@ -30279,7 +30279,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rasm O Riwaaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  215,
         "ItemCode":  "3950",
         "Stock":  -1,
@@ -30291,7 +30291,7 @@ var STOCK_DATA = [
         "ItemName":  "RV VISTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3140",
         "Stock":  0,
@@ -30303,7 +30303,7 @@ var STOCK_DATA = [
         "ItemName":  "Meena 02 White"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "2286",
         "Stock":  0,
@@ -30315,7 +30315,7 @@ var STOCK_DATA = [
         "ItemName":  "DF SAKHI SAHELI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  790,
         "ItemCode":  "2559",
         "Stock":  0,
@@ -30327,7 +30327,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Fox Tulsi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3649",
         "Stock":  27,
@@ -30339,7 +30339,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Tajima"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  444.67,
         "ItemCode":  "2897",
         "Stock":  1,
@@ -30351,7 +30351,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Angur Juice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1624.67,
         "ItemCode":  "2574",
         "Stock":  0,
@@ -30363,7 +30363,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Musical Chair"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  23.5,
         "ItemCode":  "1253",
         "Stock":  0,
@@ -30375,7 +30375,7 @@ var STOCK_DATA = [
         "ItemName":  "Baby Silk Lump"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  676.67,
         "ItemCode":  "1866",
         "Stock":  -1,
@@ -30387,7 +30387,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Suger"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "4122",
         "Stock":  9,
@@ -30399,7 +30399,7 @@ var STOCK_DATA = [
         "ItemName":  "KROSS MOTI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3200",
         "Stock":  0,
@@ -30411,7 +30411,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Citizen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  325,
         "ItemCode":  "3650",
         "Stock":  -8,
@@ -30423,7 +30423,7 @@ var STOCK_DATA = [
         "ItemName":  "Deepak Sona Chandi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1515,
         "ItemCode":  "3757",
         "Stock":  -1,
@@ -30435,7 +30435,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Mastana Dil"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1250,
         "ItemCode":  "2304",
         "Stock":  0,
@@ -30447,7 +30447,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY READYMADE 2692"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  975,
         "ItemCode":  "3785",
         "Stock":  1,
@@ -30459,7 +30459,7 @@ var STOCK_DATA = [
         "ItemName":  "GK ABHIMAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1030,
         "ItemCode":  "4106",
         "Stock":  1,
@@ -30471,7 +30471,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc black magic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3965",
         "Stock":  2,
@@ -30483,7 +30483,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DAIJAAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "2723",
         "Stock":  0,
@@ -30495,7 +30495,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ISHQ DI BAAJIYAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  454.67,
         "ItemCode":  "2756",
         "Stock":  0,
@@ -30507,7 +30507,7 @@ var STOCK_DATA = [
         "ItemName":  "MT GULDASTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1655,
         "ItemCode":  "4487",
         "Stock":  3,
@@ -30519,7 +30519,7 @@ var STOCK_DATA = [
         "ItemName":  "KC OPEN SKY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  496.67,
         "ItemCode":  "1537",
         "Stock":  0,
@@ -30531,7 +30531,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Roop ki Rani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1374.67,
         "ItemCode":  "2430",
         "Stock":  0,
@@ -30543,7 +30543,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Azmeen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  975,
         "ItemCode":  "4039",
         "Stock":  -1,
@@ -30555,7 +30555,7 @@ var STOCK_DATA = [
         "ItemName":  "GK WHITE HOUSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  630,
         "ItemCode":  "2914",
         "Stock":  0,
@@ -30567,7 +30567,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Rukmani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "3949",
         "Stock":  -1,
@@ -30579,7 +30579,7 @@ var STOCK_DATA = [
         "ItemName":  "RV SPARK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1194.67,
         "ItemCode":  "2708",
         "Stock":  0,
@@ -30591,7 +30591,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAZNEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "3998",
         "Stock":  0,
@@ -30603,7 +30603,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROCKET RIDER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  895.33,
         "ItemCode":  "1229",
         "Stock":  0,
@@ -30615,7 +30615,7 @@ var STOCK_DATA = [
         "ItemName":  "Kiana SG-226"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1545,
         "ItemCode":  "4043",
         "Stock":  -1,
@@ -30627,7 +30627,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY K 1224 C"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  794.67,
         "ItemCode":  "2542",
         "Stock":  0,
@@ -30639,7 +30639,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Anusheh"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2529",
         "Stock":  -2,
@@ -30651,7 +30651,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Rumana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  286.67,
         "ItemCode":  "1688",
         "Stock":  0,
@@ -30663,7 +30663,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Aarju"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  284.67,
         "ItemCode":  "3006",
         "Stock":  5,
@@ -30675,7 +30675,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Litti Choka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "1925",
         "Stock":  0,
@@ -30687,7 +30687,7 @@ var STOCK_DATA = [
         "ItemName":  "Kavita EID SPECIAL Burberry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "4109",
         "Stock":  3,
@@ -30699,7 +30699,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JUSTIFY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "3193",
         "Stock":  0,
@@ -30711,7 +30711,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Nylon Khaman"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1708",
         "Stock":  0,
@@ -30723,7 +30723,7 @@ var STOCK_DATA = [
         "ItemName":  "Sweety SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1556",
         "Stock":  0,
@@ -30735,7 +30735,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Nagina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3520",
         "Stock":  -3,
@@ -30747,7 +30747,7 @@ var STOCK_DATA = [
         "ItemName":  "Readymade 273"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "4414",
         "Stock":  3,
@@ -30759,7 +30759,7 @@ var STOCK_DATA = [
         "ItemName":  "AF NEW MOONLIGH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3681",
         "Stock":  -1,
@@ -30771,7 +30771,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MASALA FRIES"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1460,
         "ItemCode":  "3915",
         "Stock":  0,
@@ -30783,7 +30783,7 @@ var STOCK_DATA = [
         "ItemName":  "KC POWER BOOM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2215",
         "Stock":  0,
@@ -30795,7 +30795,7 @@ var STOCK_DATA = [
         "ItemName":  "GK ZIYAFAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1221",
         "Stock":  0,
@@ -30807,7 +30807,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Popcorn"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4406",
         "Stock":  3,
@@ -30819,7 +30819,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM DIL RUBA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2000,
         "ItemCode":  "4226",
         "Stock":  0,
@@ -30831,7 +30831,7 @@ var STOCK_DATA = [
         "ItemName":  "PLAZA PRINT WINC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2177",
         "Stock":  0,
@@ -30843,7 +30843,7 @@ var STOCK_DATA = [
         "ItemName":  "Gulzar Rayon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  795,
         "ItemCode":  "4245",
         "Stock":  3,
@@ -30855,7 +30855,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWEET TASTE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "1394",
         "Stock":  0,
@@ -30867,7 +30867,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Suraj Mukhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "1413",
         "Stock":  0,
@@ -30879,7 +30879,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Miller"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "4399",
         "Stock":  3,
@@ -30891,7 +30891,7 @@ var STOCK_DATA = [
         "ItemName":  "GF SHADED HEAVY GOWN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  595,
         "ItemCode":  "3789",
         "Stock":  6,
@@ -30903,7 +30903,7 @@ var STOCK_DATA = [
         "ItemName":  "Snt Janu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "4013",
         "Stock":  -1,
@@ -30915,7 +30915,7 @@ var STOCK_DATA = [
         "ItemName":  "OM JOLLY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1070,
         "ItemCode":  "3715",
         "Stock":  -1,
@@ -30927,7 +30927,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Rainbow Cake"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1484.67,
         "ItemCode":  "2444",
         "Stock":  0,
@@ -30939,7 +30939,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Urooz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4196",
         "Stock":  3,
@@ -30951,7 +30951,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 3839"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "3301",
         "Stock":  0,
@@ -30963,7 +30963,7 @@ var STOCK_DATA = [
         "ItemName":  "ALINA 4"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2428",
         "Stock":  0,
@@ -30975,7 +30975,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Nizaal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  210,
         "ItemCode":  "1747",
         "Stock":  0,
@@ -30987,7 +30987,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Resort"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575.33,
         "ItemCode":  "1448",
         "Stock":  0,
@@ -30999,7 +30999,7 @@ var STOCK_DATA = [
         "ItemName":  "Vani Studio Jam Cotton Garara Sharara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1240,
         "ItemCode":  "3781",
         "Stock":  1,
@@ -31011,7 +31011,7 @@ var STOCK_DATA = [
         "ItemName":  "N Highway"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "1636",
         "Stock":  0,
@@ -31023,7 +31023,7 @@ var STOCK_DATA = [
         "ItemName":  "Ice Cub"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "3423",
         "Stock":  0,
@@ -31035,7 +31035,7 @@ var STOCK_DATA = [
         "ItemName":  "Eva Vanrtara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3278",
         "Stock":  0,
@@ -31047,7 +31047,7 @@ var STOCK_DATA = [
         "ItemName":  "Innaya Rajwadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  31,
         "ItemCode":  "1719",
         "Stock":  71,
@@ -31059,7 +31059,7 @@ var STOCK_DATA = [
         "ItemName":  "Towel Medium"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "2001",
         "Stock":  0,
@@ -31071,7 +31071,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Cotton Suite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  740,
         "ItemCode":  "4501",
         "Stock":  2,
@@ -31083,7 +31083,7 @@ var STOCK_DATA = [
         "ItemName":  "GF PREM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  636.67,
         "ItemCode":  "1494",
         "Stock":  0,
@@ -31095,7 +31095,7 @@ var STOCK_DATA = [
         "ItemName":  "Samundar GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "3309",
         "Stock":  -1,
@@ -31107,7 +31107,7 @@ var STOCK_DATA = [
         "ItemName":  "Rr Alveera"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1045.33,
         "ItemCode":  "1358",
         "Stock":  0,
@@ -31119,7 +31119,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rabhya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "3701",
         "Stock":  -1,
@@ -31131,7 +31131,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT HAWA MAHEL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "4427",
         "Stock":  7,
@@ -31143,7 +31143,7 @@ var STOCK_DATA = [
         "ItemName":  "DEEPIKA RIM JHIM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "2687",
         "Stock":  0,
@@ -31155,7 +31155,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Aizaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3248",
         "Stock":  3,
@@ -31167,7 +31167,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Hany Bany"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415,
         "ItemCode":  "3867",
         "Stock":  -1,
@@ -31179,7 +31179,7 @@ var STOCK_DATA = [
         "ItemName":  "GK TOSHIBA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  242,
         "ItemCode":  "1260",
         "Stock":  0,
@@ -31191,7 +31191,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Phataka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  994.67,
         "ItemCode":  "2182",
         "Stock":  0,
@@ -31203,7 +31203,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Deewanapan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3341",
         "Stock":  -3,
@@ -31215,7 +31215,7 @@ var STOCK_DATA = [
         "ItemName":  "SS Oreo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "1889",
         "Stock":  0,
@@ -31227,7 +31227,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Avantika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "1857",
         "Stock":  0,
@@ -31239,7 +31239,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Paytm"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3294",
         "Stock":  0,
@@ -31251,7 +31251,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Panipuri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "3660",
         "Stock":  3,
@@ -31263,7 +31263,7 @@ var STOCK_DATA = [
         "ItemName":  "GK MEESHO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  3810.67,
         "ItemCode":  "2737",
         "Stock":  -2,
@@ -31275,7 +31275,7 @@ var STOCK_DATA = [
         "ItemName":  "LACHA RAJWADI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "1387",
         "Stock":  0,
@@ -31287,7 +31287,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Sia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1620,
         "ItemCode":  "2440",
         "Stock":  0,
@@ -31299,7 +31299,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Azizi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2106",
         "Stock":  -2,
@@ -31311,7 +31311,7 @@ var STOCK_DATA = [
         "ItemName":  "Old Balance"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  654.67,
         "ItemCode":  "2907",
         "Stock":  -1,
@@ -31323,7 +31323,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Jam Galaxy"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2085,
         "ItemCode":  "4163",
         "Stock":  1,
@@ -31335,7 +31335,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUR SAGAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2163",
         "Stock":  0,
@@ -31347,7 +31347,7 @@ var STOCK_DATA = [
         "ItemName":  "MIX SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1960,
         "ItemCode":  "3386",
         "Stock":  -2,
@@ -31359,7 +31359,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Funny Moments"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "3032",
         "Stock":  -2,
@@ -31371,7 +31371,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Chand ka Tukda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  833.33,
         "ItemCode":  "1881",
         "Stock":  0,
@@ -31383,7 +31383,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Haldi Mehndi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  265,
         "ItemCode":  "3587",
         "Stock":  -16,
@@ -31395,7 +31395,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Guzarish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455.33,
         "ItemCode":  "1731",
         "Stock":  0,
@@ -31407,7 +31407,7 @@ var STOCK_DATA = [
         "ItemName":  "Lovely SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1200,
         "ItemCode":  "4274",
         "Stock":  3,
@@ -31419,7 +31419,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NOOR E ZAREEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625.33,
         "ItemCode":  "1230",
         "Stock":  0,
@@ -31431,7 +31431,7 @@ var STOCK_DATA = [
         "ItemName":  "Five Star Sweet Choice Pakistani Suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1225,
         "ItemCode":  "4535",
         "Stock":  3,
@@ -31443,7 +31443,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CRISPY POPCORN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685,
         "ItemCode":  "4101",
         "Stock":  -1,
@@ -31455,7 +31455,7 @@ var STOCK_DATA = [
         "ItemName":  "SG MEESHO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1216.67,
         "ItemCode":  "1617",
         "Stock":  0,
@@ -31467,7 +31467,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hussna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1515,
         "ItemCode":  "3079",
         "Stock":  -1,
@@ -31479,7 +31479,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Black Cherry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3624",
         "Stock":  -1,
@@ -31491,7 +31491,7 @@ var STOCK_DATA = [
         "ItemName":  "MF 003"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1065,
         "ItemCode":  "3145",
         "Stock":  -1,
@@ -31503,7 +31503,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 001"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  100,
         "ItemCode":  "1724",
         "Stock":  0,
@@ -31515,7 +31515,7 @@ var STOCK_DATA = [
         "ItemName":  "Durga"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3335",
         "Stock":  6,
@@ -31527,7 +31527,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Dhoom Dhadaka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  424.67,
         "ItemCode":  "2538",
         "Stock":  0,
@@ -31539,7 +31539,7 @@ var STOCK_DATA = [
         "ItemName":  "GC Priyagold"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2567",
         "Stock":  0,
@@ -31551,7 +31551,7 @@ var STOCK_DATA = [
         "ItemName":  "Love Creation Charminar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "2078",
         "Stock":  0,
@@ -31563,7 +31563,7 @@ var STOCK_DATA = [
         "ItemName":  "K.K.U Air India"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1915,
         "ItemCode":  "3418",
         "Stock":  -1,
@@ -31575,7 +31575,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Light Up"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  285,
         "ItemCode":  "3236",
         "Stock":  0,
@@ -31587,7 +31587,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Lal Batti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "2740",
         "Stock":  0,
@@ -31599,7 +31599,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MAREEZ E ISHQ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  416.67,
         "ItemCode":  "2406",
         "Stock":  0,
@@ -31611,7 +31611,7 @@ var STOCK_DATA = [
         "ItemName":  "Svt Simran"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  6000,
         "ItemCode":  "2226",
         "Stock":  -1,
@@ -31623,7 +31623,7 @@ var STOCK_DATA = [
         "ItemName":  "07 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1145.33,
         "ItemCode":  "1295",
         "Stock":  0,
@@ -31635,7 +31635,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Suit Jorjet"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  535,
         "ItemCode":  "4366",
         "Stock":  3,
@@ -31647,7 +31647,7 @@ var STOCK_DATA = [
         "ItemName":  "RI ALISHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1845,
         "ItemCode":  "3349",
         "Stock":  0,
@@ -31659,7 +31659,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Favourite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2043",
         "Stock":  0,
@@ -31671,7 +31671,7 @@ var STOCK_DATA = [
         "ItemName":  "GF PINEAPPLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "1792",
         "Stock":  0,
@@ -31683,7 +31683,7 @@ var STOCK_DATA = [
         "ItemName":  "Bharti Om"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3666",
         "Stock":  4,
@@ -31695,7 +31695,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX 06"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1310,
         "ItemCode":  "2883",
         "Stock":  0,
@@ -31707,7 +31707,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Aney"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "1400",
         "Stock":  -7,
@@ -31719,7 +31719,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Sona"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2332",
         "Stock":  0,
@@ -31731,7 +31731,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BARZAKH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2744",
         "Stock":  0,
@@ -31743,7 +31743,7 @@ var STOCK_DATA = [
         "ItemName":  "VC WWE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  408,
         "ItemCode":  "1726",
         "Stock":  0,
@@ -31755,7 +31755,7 @@ var STOCK_DATA = [
         "ItemName":  "Anika SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  886.67,
         "ItemCode":  "1479",
         "Stock":  0,
@@ -31767,7 +31767,7 @@ var STOCK_DATA = [
         "ItemName":  "Eena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1474.67,
         "ItemCode":  "2889",
         "Stock":  0,
@@ -31779,7 +31779,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Gulbahar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3199",
         "Stock":  6,
@@ -31791,7 +31791,7 @@ var STOCK_DATA = [
         "ItemName":  "Yash Cotton Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1550,
         "ItemCode":  "4296",
         "Stock":  3,
@@ -31803,7 +31803,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUNSHINE SMILE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "3230",
         "Stock":  3,
@@ -31815,7 +31815,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Mahek"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3191",
         "Stock":  0,
@@ -31827,7 +31827,7 @@ var STOCK_DATA = [
         "ItemName":  "MF Shahnaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  145,
         "ItemCode":  "4088",
         "Stock":  68,
@@ -31839,7 +31839,7 @@ var STOCK_DATA = [
         "ItemName":  "RITU 2 PCS MALAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2198",
         "Stock":  0,
@@ -31851,7 +31851,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Chilly"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1558",
         "Stock":  0,
@@ -31863,7 +31863,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Toofan Mail"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3376",
         "Stock":  2,
@@ -31875,7 +31875,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Wonder girl"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "2561",
         "Stock":  0,
@@ -31887,7 +31887,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Jaam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2340",
         "Stock":  -37,
@@ -31899,7 +31899,7 @@ var STOCK_DATA = [
         "ItemName":  "Blouse"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1174.67,
         "ItemCode":  "2881",
         "Stock":  0,
@@ -31911,7 +31911,7 @@ var STOCK_DATA = [
         "ItemName":  "MSM Messi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "4368",
         "Stock":  2,
@@ -31923,7 +31923,7 @@ var STOCK_DATA = [
         "ItemName":  "GF ROCK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2195,
         "ItemCode":  "4533",
         "Stock":  3,
@@ -31935,7 +31935,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL FLEX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "1975",
         "Stock":  0,
@@ -31947,7 +31947,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Adiva plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  595,
         "ItemCode":  "3333",
         "Stock":  3,
@@ -31959,7 +31959,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rado"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1798",
         "Stock":  2,
@@ -31971,7 +31971,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT unity"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2065,
         "ItemCode":  "4290",
         "Stock":  3,
@@ -31983,7 +31983,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SMART KEY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3255",
         "Stock":  3,
@@ -31995,7 +31995,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Sonikudi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  446.67,
         "ItemCode":  "1609",
         "Stock":  0,
@@ -32007,7 +32007,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Rayon to Rayon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1425,
         "ItemCode":  "4400",
         "Stock":  3,
@@ -32019,7 +32019,7 @@ var STOCK_DATA = [
         "ItemName":  "VF MAHARANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  960,
         "ItemCode":  "1323",
         "Stock":  0,
@@ -32031,7 +32031,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zehreen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  325,
         "ItemCode":  "3136",
         "Stock":  0,
@@ -32043,7 +32043,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Chola"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  405.33,
         "ItemCode":  "1442",
         "Stock":  0,
@@ -32055,7 +32055,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh White House"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3353",
         "Stock":  -2,
@@ -32067,7 +32067,7 @@ var STOCK_DATA = [
         "ItemName":  "Alina 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3913",
         "Stock":  2,
@@ -32079,7 +32079,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Rock Trex"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  630,
         "ItemCode":  "3783",
         "Stock":  2,
@@ -32091,7 +32091,7 @@ var STOCK_DATA = [
         "ItemName":  "OM ONLINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  516.67,
         "ItemCode":  "1520",
         "Stock":  0,
@@ -32103,7 +32103,7 @@ var STOCK_DATA = [
         "ItemName":  "Varnika Sahiba"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  270,
         "ItemCode":  "2137",
         "Stock":  5,
@@ -32115,7 +32115,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC HEER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1226.67,
         "ItemCode":  "1665",
         "Stock":  0,
@@ -32127,7 +32127,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bidipta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  665,
         "ItemCode":  "3229",
         "Stock":  -2,
@@ -32139,7 +32139,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Selfie"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "3604",
         "Stock":  -2,
@@ -32151,7 +32151,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA HIRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "4471",
         "Stock":  3,
@@ -32163,7 +32163,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RED HEART"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "3724",
         "Stock":  5,
@@ -32175,7 +32175,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Jannat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "4213",
         "Stock":  3,
@@ -32187,7 +32187,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GOLDEN BEATS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  420.67,
         "ItemCode":  "2702",
         "Stock":  0,
@@ -32199,7 +32199,7 @@ var STOCK_DATA = [
         "ItemName":  "JS CRYSTAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1160,
         "ItemCode":  "1576",
         "Stock":  0,
@@ -32211,7 +32211,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Sara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "1223",
         "Stock":  21,
@@ -32223,7 +32223,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Kalash"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1335,
         "ItemCode":  "4054",
         "Stock":  3,
@@ -32235,7 +32235,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHERRY MERRY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  980,
         "ItemCode":  "2310",
         "Stock":  0,
@@ -32247,7 +32247,7 @@ var STOCK_DATA = [
         "ItemName":  "OM IPL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675,
         "ItemCode":  "3221",
         "Stock":  -1,
@@ -32259,7 +32259,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Kajal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  594.67,
         "ItemCode":  "2968",
         "Stock":  -1,
@@ -32271,7 +32271,7 @@ var STOCK_DATA = [
         "ItemName":  "MF Audi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1355,
         "ItemCode":  "4310",
         "Stock":  3,
@@ -32283,7 +32283,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HONEY BAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2497",
         "Stock":  0,
@@ -32295,7 +32295,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bridal Queen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "3664",
         "Stock":  2,
@@ -32307,7 +32307,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA MIX 04"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "4090",
         "Stock":  2,
@@ -32319,7 +32319,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Rava Dosa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  844.67,
         "ItemCode":  "2116",
         "Stock":  0,
@@ -32331,7 +32331,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MALAK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "4161",
         "Stock":  0,
@@ -32343,7 +32343,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROYAL PATOLA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2024.67,
         "ItemCode":  "2678",
         "Stock":  0,
@@ -32355,7 +32355,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KHWABEEDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1807",
         "Stock":  0,
@@ -32367,7 +32367,7 @@ var STOCK_DATA = [
         "ItemName":  "GK lovasa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  795,
         "ItemCode":  "4492",
         "Stock":  3,
@@ -32379,7 +32379,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SELFIE MODE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3025",
         "Stock":  -1,
@@ -32391,7 +32391,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bit Coin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1085,
         "ItemCode":  "3878",
         "Stock":  2,
@@ -32403,7 +32403,7 @@ var STOCK_DATA = [
         "ItemName":  "SSM GEORGETTE KIRAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1034.67,
         "ItemCode":  "2293",
         "Stock":  0,
@@ -32415,7 +32415,7 @@ var STOCK_DATA = [
         "ItemName":  "KC AZBAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1160,
         "ItemCode":  "3105",
         "Stock":  0,
@@ -32427,7 +32427,7 @@ var STOCK_DATA = [
         "ItemName":  "Spari 4277D"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  505.33,
         "ItemCode":  "1385",
         "Stock":  0,
@@ -32439,7 +32439,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Ful Jadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1075,
         "ItemCode":  "3803",
         "Stock":  3,
@@ -32451,7 +32451,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT KOYAL PLAZO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2097.5,
         "ItemCode":  "3095",
         "Stock":  0,
@@ -32463,7 +32463,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 07"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1064.67,
         "ItemCode":  "2927",
         "Stock":  0,
@@ -32475,7 +32475,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Readymade (7)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2195,
         "ItemCode":  "4446",
         "Stock":  3,
@@ -32487,7 +32487,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TASTE TOWN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1045,
         "ItemCode":  "3830",
         "Stock":  -1,
@@ -32499,7 +32499,7 @@ var STOCK_DATA = [
         "ItemName":  "SG DESTINY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "1991",
         "Stock":  0,
@@ -32511,7 +32511,7 @@ var STOCK_DATA = [
         "ItemName":  "COTTON SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "1533",
         "Stock":  0,
@@ -32523,7 +32523,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Masakali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2000,
         "ItemCode":  "3770",
         "Stock":  -1,
@@ -32535,7 +32535,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BLACK ICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  736.67,
         "ItemCode":  "1833",
         "Stock":  0,
@@ -32547,7 +32547,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Zalima"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475.33,
         "ItemCode":  "1246",
         "Stock":  0,
@@ -32559,7 +32559,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT 3 Patti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  626.67,
         "ItemCode":  "1655",
         "Stock":  0,
@@ -32571,7 +32571,7 @@ var STOCK_DATA = [
         "ItemName":  "HP Hira Dola 2nd suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3870",
         "Stock":  -1,
@@ -32583,7 +32583,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SANDESH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "2976",
         "Stock":  1,
@@ -32595,7 +32595,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Sifarish"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "2570",
         "Stock":  0,
@@ -32607,7 +32607,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAWARMA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2045,
         "ItemCode":  "4534",
         "Stock":  3,
@@ -32619,7 +32619,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHASHNI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "2404",
         "Stock":  0,
@@ -32631,7 +32631,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Hatim"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1210,
         "ItemCode":  "4120",
         "Stock":  1,
@@ -32643,7 +32643,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHEEZY PLANET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2220,
         "ItemCode":  "4425",
         "Stock":  3,
@@ -32655,7 +32655,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SMILE SHOULE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  413,
         "ItemCode":  "3343",
         "Stock":  0,
@@ -32667,7 +32667,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 13456"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2035,
         "ItemCode":  "3416",
         "Stock":  -2,
@@ -32679,7 +32679,7 @@ var STOCK_DATA = [
         "ItemName":  "Alina Jack 2"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "4103",
         "Stock":  -1,
@@ -32691,7 +32691,7 @@ var STOCK_DATA = [
         "ItemName":  "Alplain Bigboss"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "3062",
         "Stock":  4,
@@ -32703,7 +32703,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Bulbul"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  4000,
         "ItemCode":  "2224",
         "Stock":  -1,
@@ -32715,7 +32715,7 @@ var STOCK_DATA = [
         "ItemName":  "05 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1547",
         "Stock":  0,
@@ -32727,7 +32727,7 @@ var STOCK_DATA = [
         "ItemName":  "Om American Pride Pak Suit"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325.33,
         "ItemCode":  "1218",
         "Stock":  0,
@@ -32739,7 +32739,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Taufeer"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1030,
         "ItemCode":  "4105",
         "Stock":  3,
@@ -32751,7 +32751,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Google Pay"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1810,
         "ItemCode":  "2854",
         "Stock":  0,
@@ -32763,7 +32763,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY 122"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "4422",
         "Stock":  3,
@@ -32775,7 +32775,7 @@ var STOCK_DATA = [
         "ItemName":  "JBT JAM JAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  896.67,
         "ItemCode":  "1862",
         "Stock":  0,
@@ -32787,7 +32787,7 @@ var STOCK_DATA = [
         "ItemName":  "Gadar pant trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1150,
         "ItemCode":  "1563",
         "Stock":  0,
@@ -32799,7 +32799,7 @@ var STOCK_DATA = [
         "ItemName":  "Gk Inayat Fish Pant Trouser"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3776",
         "Stock":  3,
@@ -32811,7 +32811,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Comedy Circle"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1230,
         "ItemCode":  "3179",
         "Stock":  0,
@@ -32823,7 +32823,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Heena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "4563",
         "Stock":  3,
@@ -32835,7 +32835,7 @@ var STOCK_DATA = [
         "ItemName":  "RANGEELA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1625,
         "ItemCode":  "4207",
         "Stock":  1,
@@ -32847,7 +32847,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BERRY FIZZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "4169",
         "Stock":  0,
@@ -32859,7 +32859,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BLESSING"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1034.67,
         "ItemCode":  "2777",
         "Stock":  0,
@@ -32871,7 +32871,7 @@ var STOCK_DATA = [
         "ItemName":  "RS FANCY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1230,
         "ItemCode":  "1883",
         "Stock":  0,
@@ -32883,7 +32883,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Audi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515.33,
         "ItemCode":  "1461",
         "Stock":  0,
@@ -32895,7 +32895,7 @@ var STOCK_DATA = [
         "ItemName":  "PAKHODI MT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "3656",
         "Stock":  -1,
@@ -32907,7 +32907,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HYBRID"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "2891",
         "Stock":  0,
@@ -32919,7 +32919,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Atoot Rishta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  640,
         "ItemCode":  "1548",
         "Stock":  0,
@@ -32931,7 +32931,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Rasheeda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  406.67,
         "ItemCode":  "2500",
         "Stock":  0,
@@ -32943,7 +32943,7 @@ var STOCK_DATA = [
         "ItemName":  "PF Tiger"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  730,
         "ItemCode":  "3942",
         "Stock":  1,
@@ -32955,7 +32955,7 @@ var STOCK_DATA = [
         "ItemName":  "KC YEH RISHTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2166.67,
         "ItemCode":  "2075",
         "Stock":  0,
@@ -32967,7 +32967,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Faabis"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3872",
         "Stock":  2,
@@ -32979,7 +32979,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MILKY WAY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1810,
         "ItemCode":  "2921",
         "Stock":  0,
@@ -32991,7 +32991,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 1805 (2)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "4523",
         "Stock":  3,
@@ -33003,7 +33003,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RANG CRUNCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1726.67,
         "ItemCode":  "1918",
         "Stock":  0,
@@ -33015,7 +33015,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Zara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  355,
         "ItemCode":  "3196",
         "Stock":  -3,
@@ -33027,7 +33027,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Saniya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "4015",
         "Stock":  2,
@@ -33039,7 +33039,7 @@ var STOCK_DATA = [
         "ItemName":  "CHITRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1970,
         "ItemCode":  "4006",
         "Stock":  0,
@@ -33051,7 +33051,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SAROOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "2560",
         "Stock":  0,
@@ -33063,7 +33063,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Firdos Patang"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1400,
         "ItemCode":  "2943",
         "Stock":  -1,
@@ -33075,7 +33075,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shaam Mastani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  706.67,
         "ItemCode":  "1470",
         "Stock":  0,
@@ -33087,7 +33087,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Nikhar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  833.33,
         "ItemCode":  "1998",
         "Stock":  0,
@@ -33099,7 +33099,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Big Boss"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1290,
         "ItemCode":  "1886",
         "Stock":  0,
@@ -33111,7 +33111,7 @@ var STOCK_DATA = [
         "ItemName":  "KC jaafar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1766.67,
         "ItemCode":  "2052",
         "Stock":  0,
@@ -33123,7 +33123,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY GARARA 2001"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "1993",
         "Stock":  0,
@@ -33135,7 +33135,7 @@ var STOCK_DATA = [
         "ItemName":  "AMD Plain"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1075.33,
         "ItemCode":  "1217",
         "Stock":  0,
@@ -33147,7 +33147,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Genelia"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3446",
         "Stock":  0,
@@ -33159,7 +33159,7 @@ var STOCK_DATA = [
         "ItemName":  "Lakhnavi Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1360,
         "ItemCode":  "2352",
         "Stock":  0,
@@ -33171,7 +33171,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 26800"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3809",
         "Stock":  -2,
@@ -33183,7 +33183,7 @@ var STOCK_DATA = [
         "ItemName":  "MF JAAM KHULLI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1360,
         "ItemCode":  "3070",
         "Stock":  0,
@@ -33195,7 +33195,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony White"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  396.67,
         "ItemCode":  "1868",
         "Stock":  0,
@@ -33207,7 +33207,7 @@ var STOCK_DATA = [
         "ItemName":  "Gf Babli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3220",
         "Stock":  0,
@@ -33219,7 +33219,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Sehr"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  380,
         "ItemCode":  "2250",
         "Stock":  0,
@@ -33231,7 +33231,7 @@ var STOCK_DATA = [
         "ItemName":  "OM White London"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "2328",
         "Stock":  0,
@@ -33243,7 +33243,7 @@ var STOCK_DATA = [
         "ItemName":  "BHUMI BAZIGAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "2654",
         "Stock":  -5,
@@ -33255,7 +33255,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Banjara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2688",
         "Stock":  0,
@@ -33267,7 +33267,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ALMIR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "1668",
         "Stock":  0,
@@ -33279,7 +33279,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pawri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  840,
         "ItemCode":  "4205",
         "Stock":  0,
@@ -33291,7 +33291,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RAJWADI STYLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2945,
         "ItemCode":  "4223",
         "Stock":  -1,
@@ -33303,7 +33303,7 @@ var STOCK_DATA = [
         "ItemName":  "LACHA ABHIVADAN LIMBAYAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  825,
         "ItemCode":  "3944",
         "Stock":  0,
@@ -33315,7 +33315,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SOFT ROSE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "1469",
         "Stock":  0,
@@ -33327,7 +33327,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Setu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  740,
         "ItemCode":  "2114",
         "Stock":  0,
@@ -33339,7 +33339,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JAZIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "1987",
         "Stock":  0,
@@ -33351,7 +33351,7 @@ var STOCK_DATA = [
         "ItemName":  "JF weekend"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1995,
         "ItemCode":  "3408",
         "Stock":  -1,
@@ -33363,7 +33363,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dashing"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "1776",
         "Stock":  3,
@@ -33375,7 +33375,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Jupiter"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "2197",
         "Stock":  0,
@@ -33387,7 +33387,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Ishq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  313,
         "ItemCode":  "4278",
         "Stock":  2,
@@ -33399,7 +33399,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD MIX SUIT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "4423",
         "Stock":  -1,
@@ -33411,7 +33411,7 @@ var STOCK_DATA = [
         "ItemName":  "JBT GOLD CITY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "4134",
         "Stock":  16,
@@ -33423,7 +33423,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT SONIA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "3801",
         "Stock":  3,
@@ -33435,7 +33435,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Pinnaple Punch"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  20,
         "ItemCode":  "1707",
         "Stock":  4510,
@@ -33447,7 +33447,7 @@ var STOCK_DATA = [
         "ItemName":  "Activa Astar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "3774",
         "Stock":  3,
@@ -33459,7 +33459,7 @@ var STOCK_DATA = [
         "ItemName":  "Om Nautanki"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2150,
         "ItemCode":  "4029",
         "Stock":  -1,
@@ -33471,7 +33471,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MEHKA DIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  306.67,
         "ItemCode":  "2138",
         "Stock":  0,
@@ -33483,7 +33483,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC ASHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1335,
         "ItemCode":  "3703",
         "Stock":  -1,
@@ -33495,7 +33495,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Portfolio"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  595,
         "ItemCode":  "4449",
         "Stock":  6,
@@ -33507,7 +33507,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JAAM SILK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "1709",
         "Stock":  0,
@@ -33519,7 +33519,7 @@ var STOCK_DATA = [
         "ItemName":  "Nazrana SNT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2076.67,
         "ItemCode":  "2369",
         "Stock":  0,
@@ -33531,7 +33531,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shararat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  675,
         "ItemCode":  "2798",
         "Stock":  0,
@@ -33543,7 +33543,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JHALAK DIKHLAJA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  835,
         "ItemCode":  "3833",
         "Stock":  1,
@@ -33555,7 +33555,7 @@ var STOCK_DATA = [
         "ItemName":  "SG HALDI RASAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3189",
         "Stock":  -1,
@@ -33567,7 +33567,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Kaira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "3683",
         "Stock":  2,
@@ -33579,7 +33579,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NAZARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415,
         "ItemCode":  "4416",
         "Stock":  -1,
@@ -33591,7 +33591,7 @@ var STOCK_DATA = [
         "ItemName":  "AF NEW RAJBHOG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1040,
         "ItemCode":  "1584",
         "Stock":  0,
@@ -33603,7 +33603,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop Sangam 01 No"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2532",
         "Stock":  0,
@@ -33615,7 +33615,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Karina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1225,
         "ItemCode":  "4199",
         "Stock":  1,
@@ -33627,7 +33627,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 1099"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  280,
         "ItemCode":  "1339",
         "Stock":  0,
@@ -33639,7 +33639,7 @@ var STOCK_DATA = [
         "ItemName":  "KKU World Cup"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1060,
         "ItemCode":  "1905",
         "Stock":  0,
@@ -33651,7 +33651,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Martial"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "1401",
         "Stock":  2,
@@ -33663,7 +33663,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Mona"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  255,
         "ItemCode":  "3791",
         "Stock":  -2,
@@ -33675,7 +33675,7 @@ var STOCK_DATA = [
         "ItemName":  "Kkc Gulnaaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  624.67,
         "ItemCode":  "2125",
         "Stock":  0,
@@ -33687,7 +33687,7 @@ var STOCK_DATA = [
         "ItemName":  "SG TIGER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "4333",
         "Stock":  -5,
@@ -33699,7 +33699,7 @@ var STOCK_DATA = [
         "ItemName":  "AUDI CLOTH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3799",
         "Stock":  3,
@@ -33711,7 +33711,7 @@ var STOCK_DATA = [
         "ItemName":  "OM MAX FRESH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "4255",
         "Stock":  7,
@@ -33723,7 +33723,7 @@ var STOCK_DATA = [
         "ItemName":  "MT DIPEEKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "3859",
         "Stock":  2,
@@ -33735,7 +33735,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CLASSIC MUSIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  383.33,
         "ItemCode":  "1304",
         "Stock":  0,
@@ -33747,7 +33747,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Jumari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415,
         "ItemCode":  "4086",
         "Stock":  1,
@@ -33759,7 +33759,7 @@ var STOCK_DATA = [
         "ItemName":  "Vas Aakruti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "2866",
         "Stock":  0,
@@ -33771,7 +33771,7 @@ var STOCK_DATA = [
         "ItemName":  "OM DOLLAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  425,
         "ItemCode":  "3440",
         "Stock":  0,
@@ -33783,7 +33783,7 @@ var STOCK_DATA = [
         "ItemName":  "SS Rajwadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2034",
         "Stock":  0,
@@ -33795,7 +33795,7 @@ var STOCK_DATA = [
         "ItemName":  "G 35"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3960",
         "Stock":  1,
@@ -33807,7 +33807,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FLAME BERRY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1740,
         "ItemCode":  "1573",
         "Stock":  0,
@@ -33819,7 +33819,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Fine"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "1496",
         "Stock":  0,
@@ -33831,7 +33831,7 @@ var STOCK_DATA = [
         "ItemName":  "Kohinoor GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "1884",
         "Stock":  0,
@@ -33843,7 +33843,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Cock Studio"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  815,
         "ItemCode":  "3843",
         "Stock":  3,
@@ -33855,7 +33855,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SPARKON"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1560,
         "ItemCode":  "4553",
         "Stock":  3,
@@ -33867,7 +33867,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CAFE MEHFIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  975,
         "ItemCode":  "3161",
         "Stock":  -1,
@@ -33879,7 +33879,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Orange Juice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1280,
         "ItemCode":  "2594",
         "Stock":  0,
@@ -33891,7 +33891,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Jhalak Asherfi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2784",
         "Stock":  0,
@@ -33903,7 +33903,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Sahenaaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  285.33,
         "ItemCode":  "1274",
         "Stock":  0,
@@ -33915,7 +33915,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Fire Bolt"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "3425",
         "Stock":  -1,
@@ -33927,7 +33927,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Amazon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3563",
         "Stock":  -1,
@@ -33939,7 +33939,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11672"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "1420",
         "Stock":  0,
@@ -33951,7 +33951,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Lurex"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2080,
         "ItemCode":  "4343",
         "Stock":  2,
@@ -33963,7 +33963,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BEAT BLAST"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1376.67,
         "ItemCode":  "1823",
         "Stock":  0,
@@ -33975,7 +33975,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Aanvi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2837",
         "Stock":  0,
@@ -33987,7 +33987,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DIL DHADAKNE DO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1390,
         "ItemCode":  "3035",
         "Stock":  0,
@@ -33999,7 +33999,7 @@ var STOCK_DATA = [
         "ItemName":  "Elios"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185.33,
         "ItemCode":  "1415",
         "Stock":  0,
@@ -34011,7 +34011,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bekarar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1750,
         "ItemCode":  "3047",
         "Stock":  -1,
@@ -34023,7 +34023,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Tasmina"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  445,
         "ItemCode":  "3169",
         "Stock":  0,
@@ -34035,7 +34035,7 @@ var STOCK_DATA = [
         "ItemName":  "Print Gala KI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1094.67,
         "ItemCode":  "2418",
         "Stock":  0,
@@ -34047,7 +34047,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY READYMADE 2681"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  995,
         "ItemCode":  "3969",
         "Stock":  -1,
@@ -34059,7 +34059,7 @@ var STOCK_DATA = [
         "ItemName":  "KC WAFFLE WORLD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "2831",
         "Stock":  0,
@@ -34071,7 +34071,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT SHAKIRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "4249",
         "Stock":  0,
@@ -34083,7 +34083,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SECRET CODE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2941",
         "Stock":  0,
@@ -34095,7 +34095,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Qawwali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "3956",
         "Stock":  -1,
@@ -34107,7 +34107,7 @@ var STOCK_DATA = [
         "ItemName":  "VC SAMARIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "3313",
         "Stock":  1,
@@ -34119,7 +34119,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Salma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1195,
         "ItemCode":  "3962",
         "Stock":  -1,
@@ -34131,7 +34131,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWEET HEART"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  220,
         "ItemCode":  "3444",
         "Stock":  -1,
@@ -34143,7 +34143,7 @@ var STOCK_DATA = [
         "ItemName":  "RV Future India"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "1900",
         "Stock":  0,
@@ -34155,7 +34155,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Mahala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  546.67,
         "ItemCode":  "1845",
         "Stock":  0,
@@ -34167,7 +34167,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Chameli"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  790,
         "ItemCode":  "4017",
         "Stock":  2,
@@ -34179,7 +34179,7 @@ var STOCK_DATA = [
         "ItemName":  "SG GOLD COIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1700,
         "ItemCode":  "4479",
         "Stock":  3,
@@ -34191,7 +34191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC NEXA STYLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  756.67,
         "ItemCode":  "1651",
         "Stock":  0,
@@ -34203,7 +34203,7 @@ var STOCK_DATA = [
         "ItemName":  "Nevedhyam Anaya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1417",
         "Stock":  0,
@@ -34215,7 +34215,7 @@ var STOCK_DATA = [
         "ItemName":  "Chhabra Welcome"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "3004",
         "Stock":  0,
@@ -34227,7 +34227,7 @@ var STOCK_DATA = [
         "ItemName":  "Innu Batik"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2148",
         "Stock":  -44.25,
@@ -34239,7 +34239,7 @@ var STOCK_DATA = [
         "ItemName":  "CHIKNA KAPDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "2557",
         "Stock":  0,
@@ -34251,7 +34251,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Fox Kajal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1134.67,
         "ItemCode":  "2839",
         "Stock":  -1,
@@ -34263,7 +34263,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GORA MUKHDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  340,
         "ItemCode":  "3606",
         "Stock":  0,
@@ -34275,7 +34275,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA QUEEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "1921",
         "Stock":  0,
@@ -34287,7 +34287,7 @@ var STOCK_DATA = [
         "ItemName":  "PPT Nazakat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1185.33,
         "ItemCode":  "1354",
         "Stock":  0,
@@ -34299,7 +34299,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shazahan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "3163",
         "Stock":  0,
@@ -34311,7 +34311,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Candy Bite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "1571",
         "Stock":  0,
@@ -34323,7 +34323,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Anu"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1120,
         "ItemCode":  "4460",
         "Stock":  3,
@@ -34335,7 +34335,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GRILL STONE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  596.67,
         "ItemCode":  "2036",
         "Stock":  0,
@@ -34347,7 +34347,7 @@ var STOCK_DATA = [
         "ItemName":  "GF AARDHYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2120,
         "ItemCode":  "4272",
         "Stock":  2,
@@ -34359,7 +34359,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PYARI NAZAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "2174",
         "Stock":  0,
@@ -34371,7 +34371,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC KAJU ANJEER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2188",
         "Stock":  0,
@@ -34383,7 +34383,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Fuljhadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "4167",
         "Stock":  0,
@@ -34395,7 +34395,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FIZZY POP"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  750,
         "ItemCode":  "3772",
         "Stock":  -1,
@@ -34407,7 +34407,7 @@ var STOCK_DATA = [
         "ItemName":  "Om New Look"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  935,
         "ItemCode":  "2195",
         "Stock":  1,
@@ -34419,7 +34419,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Cutie Pie"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435,
         "ItemCode":  "1389",
         "Stock":  -2,
@@ -34431,7 +34431,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Anandi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0.67,
         "ItemCode":  "2492",
         "Stock":  0,
@@ -34443,7 +34443,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shabiyat"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1075,
         "ItemCode":  "3021",
         "Stock":  0,
@@ -34455,7 +34455,7 @@ var STOCK_DATA = [
         "ItemName":  "Spice Garara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1860",
         "Stock":  0,
@@ -34467,7 +34467,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Renuka garara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "4174",
         "Stock":  1,
@@ -34479,7 +34479,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SHAMILA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1970,
         "ItemCode":  "1912",
         "Stock":  0,
@@ -34491,7 +34491,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kirtan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  416.67,
         "ItemCode":  "1984",
         "Stock":  0,
@@ -34503,7 +34503,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Rang Rasiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  780,
         "ItemCode":  "3113",
         "Stock":  0,
@@ -34515,7 +34515,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Jessica"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1270,
         "ItemCode":  "1978",
         "Stock":  0,
@@ -34527,7 +34527,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Shahnawaz"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "2949",
         "Stock":  0,
@@ -34539,7 +34539,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Ok"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  566.67,
         "ItemCode":  "2160",
         "Stock":  0,
@@ -34551,7 +34551,7 @@ var STOCK_DATA = [
         "ItemName":  "SST zCTN SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1424.67,
         "ItemCode":  "2665",
         "Stock":  0,
@@ -34563,7 +34563,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Roop Mastana"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  585,
         "ItemCode":  "4092",
         "Stock":  2,
@@ -34575,7 +34575,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Mehraan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3247",
         "Stock":  10,
@@ -34587,7 +34587,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Shandar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1324.67,
         "ItemCode":  "2923",
         "Stock":  0,
@@ -34599,7 +34599,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 632 Readymade (3)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1926.67,
         "ItemCode":  "1659",
         "Stock":  0,
@@ -34611,7 +34611,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Sandwich"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1350,
         "ItemCode":  "1476",
         "Stock":  0,
@@ -34623,7 +34623,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Zaafir"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "2112",
         "Stock":  0,
@@ -34635,7 +34635,7 @@ var STOCK_DATA = [
         "ItemName":  "VC JIYA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "1929",
         "Stock":  0,
@@ -34647,7 +34647,7 @@ var STOCK_DATA = [
         "ItemName":  "Rum Zum kala ghoda"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  250,
         "ItemCode":  "4145",
         "Stock":  3,
@@ -34659,7 +34659,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC RIVA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  395,
         "ItemCode":  "3260",
         "Stock":  7,
@@ -34671,7 +34671,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Preeti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1105.33,
         "ItemCode":  "1291",
         "Stock":  0,
@@ -34683,7 +34683,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Pant Jorjet"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  840,
         "ItemCode":  "3793",
         "Stock":  -2,
@@ -34695,7 +34695,7 @@ var STOCK_DATA = [
         "ItemName":  "N Hippi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "1530",
         "Stock":  0,
@@ -34707,7 +34707,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Kohinoor"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  534.67,
         "ItemCode":  "2127",
         "Stock":  0,
@@ -34719,7 +34719,7 @@ var STOCK_DATA = [
         "ItemName":  "SG SUMMER CHOICE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  635,
         "ItemCode":  "3631",
         "Stock":  3,
@@ -34731,7 +34731,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Zanzar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1490,
         "ItemCode":  "2203",
         "Stock":  0,
@@ -34743,7 +34743,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Hamdard"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  442.67,
         "ItemCode":  "2534",
         "Stock":  0,
@@ -34755,7 +34755,7 @@ var STOCK_DATA = [
         "ItemName":  "LC Sargam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  656.67,
         "ItemCode":  "2099",
         "Stock":  0,
@@ -34767,7 +34767,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite KC Eva Simon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3885",
         "Stock":  -1,
@@ -34779,7 +34779,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA CHINON SUNAYNA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  925.33,
         "ItemCode":  "1796",
         "Stock":  0,
@@ -34791,7 +34791,7 @@ var STOCK_DATA = [
         "ItemName":  "Roop sangam white dhaga zarkan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  610,
         "ItemCode":  "1790",
         "Stock":  0,
@@ -34803,7 +34803,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT mango burberry"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  40,
         "ItemCode":  "1299",
         "Stock":  0,
@@ -34815,7 +34815,7 @@ var STOCK_DATA = [
         "ItemName":  "Cotton Dupatta Pure Printed"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1590,
         "ItemCode":  "2743",
         "Stock":  -1,
@@ -34827,7 +34827,7 @@ var STOCK_DATA = [
         "ItemName":  "KC JAANE JANA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  443,
         "ItemCode":  "3226",
         "Stock":  0,
@@ -34839,7 +34839,7 @@ var STOCK_DATA = [
         "ItemName":  "Sofiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "3081",
         "Stock":  8,
@@ -34851,7 +34851,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Khajur"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1374.67,
         "ItemCode":  "2422",
         "Stock":  -1,
@@ -34863,7 +34863,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Kayan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "1403",
         "Stock":  0,
@@ -34875,7 +34875,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Charminar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1295,
         "ItemCode":  "4335",
         "Stock":  3,
@@ -34887,7 +34887,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GAPPE SHAPPE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1572.5,
         "ItemCode":  "3098",
         "Stock":  5,
@@ -34899,7 +34899,7 @@ var STOCK_DATA = [
         "ItemName":  "Heavy Zara 10"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2385,
         "ItemCode":  "4193",
         "Stock":  1,
@@ -34911,7 +34911,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HEER MAHEL (WITH PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685.33,
         "ItemCode":  "1333",
         "Stock":  0,
@@ -34923,7 +34923,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Joker"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525,
         "ItemCode":  "3064",
         "Stock":  3,
@@ -34935,7 +34935,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Spark"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "4056",
         "Stock":  2,
@@ -34947,7 +34947,7 @@ var STOCK_DATA = [
         "ItemName":  "GK DEV-D"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  218,
         "ItemCode":  "2564",
         "Stock":  122,
@@ -34959,7 +34959,7 @@ var STOCK_DATA = [
         "ItemName":  "SRT SATMOLA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3925",
         "Stock":  -1,
@@ -34971,7 +34971,7 @@ var STOCK_DATA = [
         "ItemName":  "N HOPE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1080,
         "ItemCode":  "2296",
         "Stock":  0,
@@ -34983,7 +34983,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MUQABIL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1715,
         "ItemCode":  "3919",
         "Stock":  3,
@@ -34995,7 +34995,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BROWN BREAD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  536.67,
         "ItemCode":  "2080",
         "Stock":  0,
@@ -35007,7 +35007,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SG Summer Choice"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3685",
         "Stock":  -1,
@@ -35019,7 +35019,7 @@ var STOCK_DATA = [
         "ItemName":  "KC HUNTER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1325,
         "ItemCode":  "3911",
         "Stock":  -1,
@@ -35031,7 +35031,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Sonic Boom"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  600,
         "ItemCode":  "4349",
         "Stock":  3,
@@ -35043,7 +35043,7 @@ var STOCK_DATA = [
         "ItemName":  "Gna Panta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "3427",
         "Stock":  3,
@@ -35055,7 +35055,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Afreen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  440,
         "ItemCode":  "1743",
         "Stock":  -1,
@@ -35067,7 +35067,7 @@ var STOCK_DATA = [
         "ItemName":  "Usha GF"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  372,
         "ItemCode":  "3556",
         "Stock":  4,
@@ -35079,7 +35079,7 @@ var STOCK_DATA = [
         "ItemName":  "Jmd Shehzada"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3366",
         "Stock":  3,
@@ -35091,7 +35091,7 @@ var STOCK_DATA = [
         "ItemName":  "Sg ice cool"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "4319",
         "Stock":  9,
@@ -35103,7 +35103,7 @@ var STOCK_DATA = [
         "ItemName":  "OM SHATABDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  625,
         "ItemCode":  "4418",
         "Stock":  1,
@@ -35115,7 +35115,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT PANKHUDI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  994.67,
         "ItemCode":  "2719",
         "Stock":  0,
@@ -35127,7 +35127,7 @@ var STOCK_DATA = [
         "ItemName":  "KC KALEEREIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2300,
         "ItemCode":  "2746",
         "Stock":  0,
@@ -35139,7 +35139,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TERA WADA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  730,
         "ItemCode":  "4350",
         "Stock":  3,
@@ -35151,7 +35151,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Zohairaa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2711",
         "Stock":  0,
@@ -35163,7 +35163,7 @@ var STOCK_DATA = [
         "ItemName":  "KC TAARAA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1234",
         "Stock":  0,
@@ -35175,7 +35175,7 @@ var STOCK_DATA = [
         "ItemName":  "Vani Surya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  510,
         "ItemCode":  "1808",
         "Stock":  0,
@@ -35187,7 +35187,7 @@ var STOCK_DATA = [
         "ItemName":  "GK matuki"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1476.67,
         "ItemCode":  "1586",
         "Stock":  0,
@@ -35199,7 +35199,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Enam"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  235,
         "ItemCode":  "4141",
         "Stock":  -1,
@@ -35211,7 +35211,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC GOL MOL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  414.67,
         "ItemCode":  "2211",
         "Stock":  0,
@@ -35223,7 +35223,7 @@ var STOCK_DATA = [
         "ItemName":  "MN Black Bits"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "3851",
         "Stock":  3,
@@ -35235,7 +35235,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MANGO MASTANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  435.33,
         "ItemCode":  "1734",
         "Stock":  0,
@@ -35247,7 +35247,7 @@ var STOCK_DATA = [
         "ItemName":  "JF MAAZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  46.67,
         "ItemCode":  "2668",
         "Stock":  -98,
@@ -35259,7 +35259,7 @@ var STOCK_DATA = [
         "ItemName":  "DUPATTA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  595.33,
         "ItemCode":  "1432",
         "Stock":  0,
@@ -35271,7 +35271,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Jashna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  833.33,
         "ItemCode":  "2019",
         "Stock":  -1,
@@ -35283,7 +35283,7 @@ var STOCK_DATA = [
         "ItemName":  "SONY JAM COTTON SUITE 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  466.67,
         "ItemCode":  "2068",
         "Stock":  0,
@@ -35295,7 +35295,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Om Verna"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1171.33,
         "ItemCode":  "3157",
         "Stock":  0,
@@ -35307,7 +35307,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rabdi Jalebi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2324",
         "Stock":  0,
@@ -35319,7 +35319,7 @@ var STOCK_DATA = [
         "ItemName":  "BHUMI PALAK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  525.33,
         "ItemCode":  "1761",
         "Stock":  3,
@@ -35331,7 +35331,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT lemon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  260,
         "ItemCode":  "4032",
         "Stock":  25,
@@ -35343,7 +35343,7 @@ var STOCK_DATA = [
         "ItemName":  "OG GALAXY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2156",
         "Stock":  0,
@@ -35355,7 +35355,7 @@ var STOCK_DATA = [
         "ItemName":  "GARMIA GULZAR 8381"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "4138",
         "Stock":  -1,
@@ -35367,7 +35367,7 @@ var STOCK_DATA = [
         "ItemName":  "MT AKANSHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  334.67,
         "ItemCode":  "2586",
         "Stock":  0,
@@ -35379,7 +35379,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Variety"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  225,
         "ItemCode":  "3906",
         "Stock":  4,
@@ -35391,7 +35391,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC INDIAN CURRENCY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  396.67,
         "ItemCode":  "2071",
         "Stock":  0,
@@ -35403,7 +35403,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Disha IPL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  520,
         "ItemCode":  "1615",
         "Stock":  0,
@@ -35415,7 +35415,7 @@ var STOCK_DATA = [
         "ItemName":  "Devika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1495,
         "ItemCode":  "4170",
         "Stock":  3,
@@ -35427,7 +35427,7 @@ var STOCK_DATA = [
         "ItemName":  "KC COLOURFUL BIRD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  370,
         "ItemCode":  "2288",
         "Stock":  0,
@@ -35439,7 +35439,7 @@ var STOCK_DATA = [
         "ItemName":  "DF MAGIC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "2629",
         "Stock":  -1,
@@ -35451,7 +35451,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD ACHIEVER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  495,
         "ItemCode":  "4527",
         "Stock":  7,
@@ -35463,7 +35463,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHAMAK CHALO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1034.67,
         "ItemCode":  "2847",
         "Stock":  0,
@@ -35475,7 +35475,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 9"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2621",
         "Stock":  -2,
@@ -35487,7 +35487,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Rose"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1070,
         "ItemCode":  "2816",
         "Stock":  0,
@@ -35499,7 +35499,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 3"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1535,
         "ItemCode":  "4009",
         "Stock":  3,
@@ -35511,7 +35511,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MOIVE OFFER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1194.67,
         "ItemCode":  "2895",
         "Stock":  -1,
@@ -35523,7 +35523,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Gurnazar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1090,
         "ItemCode":  "1903",
         "Stock":  0,
@@ -35535,7 +35535,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Lubena"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "2695",
         "Stock":  0,
@@ -35547,7 +35547,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT NAMRATA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  496.67,
         "ItemCode":  "1626",
         "Stock":  0,
@@ -35559,7 +35559,7 @@ var STOCK_DATA = [
         "ItemName":  "JF Chandani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2437",
         "Stock":  0,
@@ -35571,7 +35571,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Dil Se"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1700,
         "ItemCode":  "2955",
         "Stock":  0,
@@ -35583,7 +35583,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony 1011"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "4031",
         "Stock":  3,
@@ -35595,7 +35595,7 @@ var STOCK_DATA = [
         "ItemName":  "LC DIAMOND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1421,
         "ItemCode":  "4480",
         "Stock":  3,
@@ -35607,7 +35607,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ISHQ MOHABBAT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2264",
         "Stock":  0,
@@ -35619,7 +35619,7 @@ var STOCK_DATA = [
         "ItemName":  "KASMIRI DHAGA WORK PEPLUM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  530,
         "ItemCode":  "1484",
         "Stock":  0,
@@ -35631,7 +35631,7 @@ var STOCK_DATA = [
         "ItemName":  "Polo Pari Fab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  465,
         "ItemCode":  "3268",
         "Stock":  -1,
@@ -35643,7 +35643,7 @@ var STOCK_DATA = [
         "ItemName":  "White Pari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1535,
         "ItemCode":  "3219",
         "Stock":  0,
@@ -35655,7 +35655,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Parle Magic"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3633",
         "Stock":  0,
@@ -35667,7 +35667,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Dolphin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  326.67,
         "ItemCode":  "2060",
         "Stock":  0,
@@ -35679,7 +35679,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite VC NDTV"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  875,
         "ItemCode":  "3927",
         "Stock":  -1,
@@ -35691,7 +35691,7 @@ var STOCK_DATA = [
         "ItemName":  "N NOORANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "2373",
         "Stock":  0,
@@ -35703,7 +35703,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Anupama"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  870,
         "ItemCode":  "3736",
         "Stock":  -1,
@@ -35715,7 +35715,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Nisha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  745,
         "ItemCode":  "4236",
         "Stock":  1,
@@ -35727,7 +35727,7 @@ var STOCK_DATA = [
         "ItemName":  "KC MASTER CARD"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  390,
         "ItemCode":  "3452",
         "Stock":  0,
@@ -35739,7 +35739,7 @@ var STOCK_DATA = [
         "ItemName":  "JT Pakeeza"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  686.67,
         "ItemCode":  "2070",
         "Stock":  0,
@@ -35751,7 +35751,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite Gk Pichkari"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "3211",
         "Stock":  -2,
@@ -35763,7 +35763,7 @@ var STOCK_DATA = [
         "ItemName":  "Inaya Suite"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1845,
         "ItemCode":  "4465",
         "Stock":  3,
@@ -35775,7 +35775,7 @@ var STOCK_DATA = [
         "ItemName":  "GK SANTOOR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  770,
         "ItemCode":  "2835",
         "Stock":  0,
@@ -35787,7 +35787,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUNHARE PAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1235,
         "ItemCode":  "3393",
         "Stock":  0,
@@ -35799,7 +35799,7 @@ var STOCK_DATA = [
         "ItemName":  "KASMIRI TROUSER"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "3954",
         "Stock":  -1,
@@ -35811,7 +35811,7 @@ var STOCK_DATA = [
         "ItemName":  "MF TAI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2300",
         "Stock":  0,
@@ -35823,7 +35823,7 @@ var STOCK_DATA = [
         "ItemName":  "GF SEJAL"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  310,
         "ItemCode":  "3234",
         "Stock":  1,
@@ -35835,7 +35835,7 @@ var STOCK_DATA = [
         "ItemName":  "Rr Gola"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2255",
         "Stock":  0,
@@ -35847,7 +35847,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT PC PRINT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "2133",
         "Stock":  0,
@@ -35859,7 +35859,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11641"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1980,
         "ItemCode":  "1601",
         "Stock":  0,
@@ -35871,7 +35871,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Faabis"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2340,
         "ItemCode":  "2984",
         "Stock":  0,
@@ -35883,7 +35883,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Rangeen"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  300,
         "ItemCode":  "2590",
         "Stock":  0,
@@ -35895,7 +35895,7 @@ var STOCK_DATA = [
         "ItemName":  "Roman Silk Goodluck"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1314",
         "Stock":  0,
@@ -35907,7 +35907,7 @@ var STOCK_DATA = [
         "ItemName":  "VS Varnika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "3891",
         "Stock":  1,
@@ -35919,7 +35919,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RANGOONI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "3567",
         "Stock":  -9,
@@ -35931,7 +35931,7 @@ var STOCK_DATA = [
         "ItemName":  "Mf Khulli Print"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "4151",
         "Stock":  3,
@@ -35943,7 +35943,7 @@ var STOCK_DATA = [
         "ItemName":  "VIC JHUMKA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1490,
         "ItemCode":  "4200",
         "Stock":  -1,
@@ -35955,7 +35955,7 @@ var STOCK_DATA = [
         "ItemName":  "SBC 4227"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1685,
         "ItemCode":  "3039",
         "Stock":  -4,
@@ -35967,7 +35967,7 @@ var STOCK_DATA = [
         "ItemName":  "Amazon"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1960,
         "ItemCode":  "4454",
         "Stock":  3,
@@ -35979,7 +35979,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PERL TOUCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1100,
         "ItemCode":  "1672",
         "Stock":  0,
@@ -35991,7 +35991,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Habibi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  315,
         "ItemCode":  "3467",
         "Stock":  0,
@@ -36003,7 +36003,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Amala"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1126.67,
         "ItemCode":  "1827",
         "Stock":  0,
@@ -36015,7 +36015,7 @@ var STOCK_DATA = [
         "ItemName":  "KC News paper"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1220,
         "ItemCode":  "2445",
         "Stock":  0,
@@ -36027,7 +36027,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Sehraa"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  580,
         "ItemCode":  "1380",
         "Stock":  0,
@@ -36039,7 +36039,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Hetal"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  205.33,
         "ItemCode":  "1278",
         "Stock":  0,
@@ -36051,7 +36051,7 @@ var STOCK_DATA = [
         "ItemName":  "Desai Charmi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  384.67,
         "ItemCode":  "2646",
         "Stock":  0,
@@ -36063,7 +36063,7 @@ var STOCK_DATA = [
         "ItemName":  "KS PRINCESS"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "1646",
         "Stock":  0,
@@ -36075,7 +36075,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Sunehri"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  320,
         "ItemCode":  "2414",
         "Stock":  -17,
@@ -36087,7 +36087,7 @@ var STOCK_DATA = [
         "ItemName":  "Masti Zara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1460,
         "ItemCode":  "4391",
         "Stock":  3,
@@ -36099,7 +36099,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FLYING RANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "3058",
         "Stock":  0,
@@ -36111,7 +36111,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Max"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1440,
         "ItemCode":  "4382",
         "Stock":  3,
@@ -36123,7 +36123,7 @@ var STOCK_DATA = [
         "ItemName":  "KC CHILL TIME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "1535",
         "Stock":  0,
@@ -36135,7 +36135,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Rashmika"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  560,
         "ItemCode":  "1490",
         "Stock":  0,
@@ -36147,7 +36147,7 @@ var STOCK_DATA = [
         "ItemName":  "Jambo GK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "2513",
         "Stock":  0,
@@ -36159,7 +36159,7 @@ var STOCK_DATA = [
         "ItemName":  "GK SONET"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1125,
         "ItemCode":  "3615",
         "Stock":  2,
@@ -36171,7 +36171,7 @@ var STOCK_DATA = [
         "ItemName":  "KC AMROzIA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "2758",
         "Stock":  -1,
@@ -36183,7 +36183,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT GULAB JAMUN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1385.33,
         "ItemCode":  "1287",
         "Stock":  0,
@@ -36195,7 +36195,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Pant"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  257,
         "ItemCode":  "4079",
         "Stock":  6,
@@ -36207,7 +36207,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC FIDA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  365,
         "ItemCode":  "3208",
         "Stock":  0,
@@ -36219,7 +36219,7 @@ var STOCK_DATA = [
         "ItemName":  "YF Fashion Store"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "1770",
         "Stock":  0,
@@ -36231,7 +36231,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Quality"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  414.67,
         "ItemCode":  "2236",
         "Stock":  0,
@@ -36243,7 +36243,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Shefali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  375.33,
         "ItemCode":  "1418",
         "Stock":  0,
@@ -36255,7 +36255,7 @@ var STOCK_DATA = [
         "ItemName":  "Chhabra Super Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1220,
         "ItemCode":  "4464",
         "Stock":  3,
@@ -36267,7 +36267,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ZOYA BEGUM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1845,
         "ItemCode":  "4159",
         "Stock":  1,
@@ -36279,7 +36279,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ART GALLERY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  4333.33,
         "ItemCode":  "2230",
         "Stock":  0,
@@ -36291,7 +36291,7 @@ var STOCK_DATA = [
         "ItemName":  "11 LACHA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2140,
         "ItemCode":  "4304",
         "Stock":  3,
@@ -36303,7 +36303,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SUHANE LAMHE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  20,
         "ItemCode":  "3751",
         "Stock":  26,
@@ -36315,7 +36315,7 @@ var STOCK_DATA = [
         "ItemName":  "Headcap"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3086",
         "Stock":  11,
@@ -36327,7 +36327,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Pardesi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "3759",
         "Stock":  -1,
@@ -36339,7 +36339,7 @@ var STOCK_DATA = [
         "ItemName":  "GK AMRUT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "2306",
         "Stock":  0,
@@ -36351,7 +36351,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA SUHANI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  500,
         "ItemCode":  "2021",
         "Stock":  0,
@@ -36363,7 +36363,7 @@ var STOCK_DATA = [
         "ItemName":  "HP SUITE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  415,
         "ItemCode":  "3899",
         "Stock":  -1,
@@ -36375,7 +36375,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA JAM GEETA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1485,
         "ItemCode":  "4546",
         "Stock":  3,
@@ -36387,7 +36387,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc saahi gulshan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545.33,
         "ItemCode":  "1784",
         "Stock":  0,
@@ -36399,7 +36399,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT jam print with gala stone"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1374.67,
         "ItemCode":  "2612",
         "Stock":  0,
@@ -36411,7 +36411,7 @@ var STOCK_DATA = [
         "ItemName":  "KC White Mogra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "1631",
         "Stock":  0,
@@ -36423,7 +36423,7 @@ var STOCK_DATA = [
         "ItemName":  "SVT Priyanka"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2100,
         "ItemCode":  "1947",
         "Stock":  0,
@@ -36435,7 +36435,7 @@ var STOCK_DATA = [
         "ItemName":  "GC Haier"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1094.67,
         "ItemCode":  "2814",
         "Stock":  0,
@@ -36447,7 +36447,7 @@ var STOCK_DATA = [
         "ItemName":  "RS 1"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  410,
         "ItemCode":  "2073",
         "Stock":  0,
@@ -36459,7 +36459,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Shakira"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1156.67,
         "ItemCode":  "1803",
         "Stock":  0,
@@ -36471,7 +36471,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Cello"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  575,
         "ItemCode":  "3117",
         "Stock":  -1,
@@ -36483,7 +36483,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Stree"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2290,
         "ItemCode":  "4525",
         "Stock":  3,
@@ -36495,7 +36495,7 @@ var STOCK_DATA = [
         "ItemName":  "KC BADSHAHI STYLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  604.67,
         "ItemCode":  "2322",
         "Stock":  0,
@@ -36507,7 +36507,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT MANGO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "1973",
         "Stock":  0,
@@ -36519,7 +36519,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Aida Plazo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  480,
         "ItemCode":  "1438",
         "Stock":  0,
@@ -36531,7 +36531,7 @@ var STOCK_DATA = [
         "ItemName":  "Mukesh Pakistani"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  470,
         "ItemCode":  "2905",
         "Stock":  0,
@@ -36543,7 +36543,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Rewadi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  455,
         "ItemCode":  "3258",
         "Stock":  1,
@@ -36555,7 +36555,7 @@ var STOCK_DATA = [
         "ItemName":  "Bhumi Super Star"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  570,
         "ItemCode":  "3402",
         "Stock":  2,
@@ -36567,7 +36567,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Karishma"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1360,
         "ItemCode":  "3072",
         "Stock":  0,
@@ -36579,7 +36579,7 @@ var STOCK_DATA = [
         "ItemName":  "Sony Dark Sharara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  305.33,
         "ItemCode":  "1463",
         "Stock":  0,
@@ -36591,7 +36591,7 @@ var STOCK_DATA = [
         "ItemName":  "SUPER DUPER SVT"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  230,
         "ItemCode":  "1285",
         "Stock":  0,
@@ -36603,7 +36603,7 @@ var STOCK_DATA = [
         "ItemName":  "RR Mind Game"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  710,
         "ItemCode":  "3977",
         "Stock":  -1,
@@ -36615,7 +36615,7 @@ var STOCK_DATA = [
         "ItemName":  "Sg Make in India"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  865.33,
         "ItemCode":  "1370",
         "Stock":  0,
@@ -36627,7 +36627,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Ancher"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "2050",
         "Stock":  0,
@@ -36639,7 +36639,7 @@ var STOCK_DATA = [
         "ItemName":  "GF RAMBO"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2627",
         "Stock":  0,
@@ -36651,7 +36651,7 @@ var STOCK_DATA = [
         "ItemName":  "OM YouTube"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  545,
         "ItemCode":  "3904",
         "Stock":  -1,
@@ -36663,7 +36663,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT LOTTERY"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  515,
         "ItemCode":  "3654",
         "Stock":  -1,
@@ -36675,7 +36675,7 @@ var STOCK_DATA = [
         "ItemName":  "WHITE CHICKEN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  630,
         "ItemCode":  "2893",
         "Stock":  0,
@@ -36687,7 +36687,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Super Deluxe"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  976.67,
         "ItemCode":  "1916",
         "Stock":  0,
@@ -36699,7 +36699,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Chand"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1226.67,
         "ItemCode":  "1666",
         "Stock":  0,
@@ -36711,7 +36711,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Aldeenar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  355,
         "ItemCode":  "2000",
         "Stock":  -1,
@@ -36723,7 +36723,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT APPLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2989",
         "Stock":  1,
@@ -36735,7 +36735,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD Dal Lake"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1750,
         "ItemCode":  "2735",
         "Stock":  -1,
@@ -36747,7 +36747,7 @@ var STOCK_DATA = [
         "ItemName":  "KC O MAAHI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "1771",
         "Stock":  0,
@@ -36759,7 +36759,7 @@ var STOCK_DATA = [
         "ItemName":  "KC mention"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1639",
         "Stock":  0,
@@ -36771,7 +36771,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Surajmukhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  660,
         "ItemCode":  "1331",
         "Stock":  0,
@@ -36783,7 +36783,7 @@ var STOCK_DATA = [
         "ItemName":  "GF Royal Enfield"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1524.67,
         "ItemCode":  "2697",
         "Stock":  0,
@@ -36795,7 +36795,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PEHLI NAZAR"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1982",
         "Stock":  0,
@@ -36807,7 +36807,7 @@ var STOCK_DATA = [
         "ItemName":  "Mohit Shabbo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  700,
         "ItemCode":  "2503",
         "Stock":  0,
@@ -36819,7 +36819,7 @@ var STOCK_DATA = [
         "ItemName":  "SF Sathiya"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  404.67,
         "ItemCode":  "2614",
         "Stock":  0,
@@ -36831,7 +36831,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Jhalak"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2450,
         "ItemCode":  "4191",
         "Stock":  3,
@@ -36843,7 +36843,7 @@ var STOCK_DATA = [
         "ItemName":  "KC GARHANA (WITH PURSE)"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2500,
         "ItemCode":  "4229",
         "Stock":  0,
@@ -36855,7 +36855,7 @@ var STOCK_DATA = [
         "ItemName":  "PLAZA PRINTS ZANDOSI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2154",
         "Stock":  0,
@@ -36867,7 +36867,7 @@ var STOCK_DATA = [
         "ItemName":  "GARMIA GULZAR 8443"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  495,
         "ItemCode":  "4136",
         "Stock":  8,
@@ -36879,7 +36879,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT ROMANCE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1960,
         "ItemCode":  "3384",
         "Stock":  -2,
@@ -36891,7 +36891,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc cornetto"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  555,
         "ItemCode":  "3243",
         "Stock":  8,
@@ -36903,7 +36903,7 @@ var STOCK_DATA = [
         "ItemName":  "Welcome Hello Baby"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1345,
         "ItemCode":  "2650",
         "Stock":  1,
@@ -36915,7 +36915,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Likely"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1950,
         "ItemCode":  "2981",
         "Stock":  -1,
@@ -36927,7 +36927,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Next Level"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1300,
         "ItemCode":  "3929",
         "Stock":  3,
@@ -36939,7 +36939,7 @@ var STOCK_DATA = [
         "ItemName":  "N NAYSA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  400,
         "ItemCode":  "2320",
         "Stock":  0,
@@ -36951,7 +36951,7 @@ var STOCK_DATA = [
         "ItemName":  "MN NAWABI PAN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  295,
         "ItemCode":  "3734",
         "Stock":  -1,
@@ -36963,7 +36963,7 @@ var STOCK_DATA = [
         "ItemName":  "Rc Nayra"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  685.33,
         "ItemCode":  "1320",
         "Stock":  0,
@@ -36975,7 +36975,7 @@ var STOCK_DATA = [
         "ItemName":  "VT Anokhi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  464.67,
         "ItemCode":  "2208",
         "Stock":  0,
@@ -36987,7 +36987,7 @@ var STOCK_DATA = [
         "ItemName":  "MT Paytm"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3291",
         "Stock":  -1,
@@ -36999,7 +36999,7 @@ var STOCK_DATA = [
         "ItemName":  "OM Lucky"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  210,
         "ItemCode":  "2488",
         "Stock":  0,
@@ -37011,7 +37011,7 @@ var STOCK_DATA = [
         "ItemName":  "Raas Villas Mission India"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  550,
         "ItemCode":  "2787",
         "Stock":  0,
@@ -37023,7 +37023,7 @@ var STOCK_DATA = [
         "ItemName":  "KC DILARA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1282,
         "ItemCode":  "3709",
         "Stock":  -1,
@@ -37035,7 +37035,7 @@ var STOCK_DATA = [
         "ItemName":  "Kc Dolphin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "2139",
         "Stock":  0,
@@ -37047,7 +37047,7 @@ var STOCK_DATA = [
         "ItemName":  "KKC KASHMIRA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  940,
         "ItemCode":  "3831",
         "Stock":  1,
@@ -37059,7 +37059,7 @@ var STOCK_DATA = [
         "ItemName":  "SG JALWA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1376.67,
         "ItemCode":  "1825",
         "Stock":  0,
@@ -37071,7 +37071,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Dilawar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  460,
         "ItemCode":  "1312",
         "Stock":  0,
@@ -37083,7 +37083,7 @@ var STOCK_DATA = [
         "ItemName":  "VS Monisha"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  275,
         "ItemCode":  "3561",
         "Stock":  0,
@@ -37095,7 +37095,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 11671"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  413,
         "ItemCode":  "3340",
         "Stock":  0,
@@ -37107,7 +37107,7 @@ var STOCK_DATA = [
         "ItemName":  "KC 13455"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  2490,
         "ItemCode":  "4456",
         "Stock":  3,
@@ -37119,7 +37119,7 @@ var STOCK_DATA = [
         "ItemName":  "KC STYLEZA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  740,
         "ItemCode":  "1874",
         "Stock":  0,
@@ -37131,7 +37131,7 @@ var STOCK_DATA = [
         "ItemName":  "GNA Fox Ganga"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  514.67,
         "ItemCode":  "2648",
         "Stock":  6,
@@ -37143,7 +37143,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Gulab"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  345,
         "ItemCode":  "4187",
         "Stock":  10,
@@ -37155,7 +37155,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT PP DIAMOND"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  605.33,
         "ItemCode":  "1407",
         "Stock":  0,
@@ -37167,7 +37167,7 @@ var STOCK_DATA = [
         "ItemName":  "GK Preeti"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1575,
         "ItemCode":  "4331",
         "Stock":  3,
@@ -37179,7 +37179,7 @@ var STOCK_DATA = [
         "ItemName":  "SG SELFIE TIME"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  900,
         "ItemCode":  "1368",
         "Stock":  0,
@@ -37191,7 +37191,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Fulzar"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  350,
         "ItemCode":  "1337",
         "Stock":  0,
@@ -37203,7 +37203,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Fire"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  90,
         "ItemCode":  "3539",
         "Stock":  42,
@@ -37215,7 +37215,7 @@ var STOCK_DATA = [
         "ItemName":  "Tikli Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  375,
         "ItemCode":  "4186",
         "Stock":  9,
@@ -37227,7 +37227,7 @@ var STOCK_DATA = [
         "ItemName":  "OM YASMIN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  674.67,
         "ItemCode":  "3011",
         "Stock":  3,
@@ -37239,7 +37239,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Vivo"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1420,
         "ItemCode":  "3768",
         "Stock":  2,
@@ -37251,7 +37251,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SWAG E STYLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  484.67,
         "ItemCode":  "2165",
         "Stock":  0,
@@ -37263,7 +37263,7 @@ var STOCK_DATA = [
         "ItemName":  "SNT Ishq"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1380,
         "ItemCode":  "4257",
         "Stock":  3,
@@ -37275,7 +37275,7 @@ var STOCK_DATA = [
         "ItemName":  "KC FILMI SWAG"
     },
     {
-        "LastSync":  "2026-03-16 13:49:52",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  720,
         "ItemCode":  "3839",
         "Stock":  -1,
@@ -37287,7 +37287,7 @@ var STOCK_DATA = [
         "ItemName":  "KC RIVER LINE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1900,
         "ItemCode":  "4551",
         "Stock":  3,
@@ -37299,7 +37299,7 @@ var STOCK_DATA = [
         "ItemName":  "KC PRETTY STYLE"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1160,
         "ItemCode":  "1575",
         "Stock":  0,
@@ -37311,7 +37311,7 @@ var STOCK_DATA = [
         "ItemName":  "Music Fashion"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  252,
         "ItemCode":  "4437",
         "Stock":  23,
@@ -37323,7 +37323,7 @@ var STOCK_DATA = [
         "ItemName":  "KT KRISHNA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  475.33,
         "ItemCode":  "2059",
         "Stock":  -1,
@@ -37335,7 +37335,7 @@ var STOCK_DATA = [
         "ItemName":  "Suite SNT Anjali"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  360,
         "ItemCode":  "2596",
         "Stock":  0,
@@ -37347,7 +37347,7 @@ var STOCK_DATA = [
         "ItemName":  "VC Ragbi"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1010,
         "ItemCode":  "1612",
         "Stock":  0,
@@ -37359,7 +37359,7 @@ var STOCK_DATA = [
         "ItemName":  "Mission Balochistan"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1580,
         "ItemCode":  "4004",
         "Stock":  3,
@@ -37371,7 +37371,7 @@ var STOCK_DATA = [
         "ItemName":  "KC ROOP RANGILA"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  31.5,
         "ItemCode":  "1300",
         "Stock":  1390,
@@ -37383,7 +37383,7 @@ var STOCK_DATA = [
         "ItemName":  "Aheri Dupatta"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  305.33,
         "ItemCode":  "1541",
         "Stock":  0,
@@ -37395,7 +37395,7 @@ var STOCK_DATA = [
         "ItemName":  "Muskan VC"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1500,
         "ItemCode":  "2023",
         "Stock":  0,
@@ -37407,7 +37407,7 @@ var STOCK_DATA = [
         "ItemName":  "SAHELI JORJET GOWN"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  540,
         "ItemCode":  "2511",
         "Stock":  0,
@@ -37419,7 +37419,7 @@ var STOCK_DATA = [
         "ItemName":  "GK KASAM"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1515,
         "ItemCode":  "3050",
         "Stock":  0,
@@ -37431,7 +37431,7 @@ var STOCK_DATA = [
         "ItemName":  "Somnath Dimple"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  290,
         "ItemCode":  "4153",
         "Stock":  -1,
@@ -37443,7 +37443,7 @@ var STOCK_DATA = [
         "ItemName":  "KT SONIX"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  330,
         "ItemCode":  "1272",
         "Stock":  0,
@@ -37455,7 +37455,7 @@ var STOCK_DATA = [
         "ItemName":  "KKU Tim Tim"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  650,
         "ItemCode":  "1302",
         "Stock":  0,
@@ -37467,7 +37467,7 @@ var STOCK_DATA = [
         "ItemName":  "SCV Banjara"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1540,
         "ItemCode":  "1880",
         "Stock":  0,
@@ -37479,7 +37479,7 @@ var STOCK_DATA = [
         "ItemName":  "SG Zubin"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2257",
         "Stock":  0,
@@ -37491,7 +37491,7 @@ var STOCK_DATA = [
         "ItemName":  "GARIMA SHEHNAZ"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1695,
         "ItemCode":  "4345",
         "Stock":  3,
@@ -37503,7 +37503,7 @@ var STOCK_DATA = [
         "ItemName":  "KC SPICY CRUNCH"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  312.67,
         "ItemCode":  "2864",
         "Stock":  0,
@@ -37515,7 +37515,7 @@ var STOCK_DATA = [
         "ItemName":  "JMD BLACK JACK"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  0,
         "ItemCode":  "2519",
         "Stock":  0,
@@ -37527,7 +37527,7 @@ var STOCK_DATA = [
         "ItemName":  "LIZZI BIZZI"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1470,
         "ItemCode":  "3176",
         "Stock":  0,
@@ -37539,7 +37539,7 @@ var STOCK_DATA = [
         "ItemName":  "KC Bolero"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  105,
         "ItemCode":  "3569",
         "Stock":  -23,
@@ -37551,7 +37551,7 @@ var STOCK_DATA = [
         "ItemName":  "Siya Scarf"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  1170,
         "ItemCode":  "4559",
         "Stock":  3,
@@ -37563,7 +37563,7 @@ var STOCK_DATA = [
         "ItemName":  "AVNEE 251"
     },
     {
-        "LastSync":  "2026-03-16 13:49:53",
+        "LastSync":  "2026-03-16 13:51:28",
         "Item_Purchase_Price":  490,
         "ItemCode":  "3597",
         "Stock":  -1,
