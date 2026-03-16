@@ -9,22 +9,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "WELCOME BEGAM JAAN",
         "stock":  -3,
-        "barcode":  "002257",
-        "sale":  650,
-        "mrp":  727.5,
+        "group":  "S",
         "wholesale":  485,
-        "group":  "S"
+        "mrp":  727.5,
+        "name":  "WELCOME BEGAM JAAN",
+        "barcode":  "002257",
+        "sale":  650
     },
     {
-        "name":  "KC EASY FIT",
         "stock":  4,
-        "barcode":  "0002933",
-        "sale":  2400,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC EASY FIT",
+        "barcode":  "0002933",
+        "sale":  2400
     },
     {
         "name":  "Sony Burberry pant trouser",
@@ -81,13 +81,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT DIVYA",
         "stock":  4,
-        "barcode":  "0002651",
-        "sale":  550,
-        "mrp":  631.5,
+        "group":  "S",
         "wholesale":  421,
-        "group":  "S"
+        "mrp":  631.5,
+        "name":  "MT DIVYA",
+        "barcode":  "0002651",
+        "sale":  550
     },
     {
         "name":  "KC JELLY BLISS",
@@ -99,22 +99,22 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC EK TARFA",
         "stock":  4,
-        "barcode":  "0002829",
-        "sale":  2000,
-        "mrp":  2257.5,
+        "group":  "S",
         "wholesale":  1505,
-        "group":  "S"
+        "mrp":  2257.5,
+        "name":  "KC EK TARFA",
+        "barcode":  "0002829",
+        "sale":  2000
     },
     {
-        "name":  "RAYON MIRROR",
         "stock":  32,
-        "barcode":  "0002583",
-        "sale":  500,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "RAYON MIRROR",
+        "barcode":  "0002583",
+        "sale":  500
     },
     {
         "name":  "KC Blue City",
@@ -135,22 +135,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT SAKINA",
         "stock":  -1,
-        "barcode":  "001542",
-        "sale":  550,
-        "mrp":  615,
+        "group":  "S",
         "wholesale":  410,
-        "group":  "S"
+        "mrp":  615,
+        "name":  "MT SAKINA",
+        "barcode":  "001542",
+        "sale":  550
     },
     {
-        "name":  "KC MILLIONAIR",
         "stock":  4,
-        "barcode":  "0003122",
-        "sale":  1850,
-        "mrp":  2340,
+        "group":  "T",
         "wholesale":  1560,
-        "group":  "T"
+        "mrp":  2340,
+        "name":  "KC MILLIONAIR",
+        "barcode":  "0003122",
+        "sale":  1850
     },
     {
         "name":  "Music Chocolate",
@@ -162,13 +162,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Towel Small",
         "stock":  813,
-        "barcode":  "001170",
-        "sale":  25,
-        "mrp":  30,
+        "group":  "General",
         "wholesale":  18,
-        "group":  "General"
+        "mrp":  30,
+        "name":  "Towel Small",
+        "barcode":  "001170",
+        "sale":  25
     },
     {
         "name":  "MAS Isha",
@@ -189,13 +189,13 @@ var STOCK_DATA = [
         "group":  "L"
     },
     {
-        "name":  "SG SUNSHINE",
         "stock":  1,
-        "barcode":  "0002596",
-        "sale":  900,
-        "mrp":  1020,
+        "group":  "S",
         "wholesale":  680,
-        "group":  "S"
+        "mrp":  1020,
+        "name":  "SG SUNSHINE",
+        "barcode":  "0002596",
+        "sale":  900
     },
     {
         "name":  "KC Faaiz",
@@ -252,13 +252,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "KC BINDAS SWAG",
         "stock":  4,
-        "barcode":  "0003020",
-        "sale":  2100,
-        "mrp":  2685,
+        "group":  "P",
         "wholesale":  1790,
-        "group":  "P"
+        "mrp":  2685,
+        "name":  "KC BINDAS SWAG",
+        "barcode":  "0003020",
+        "sale":  2100
     },
     {
         "name":  "KC FASHION ROCK",
@@ -270,22 +270,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SSM KISMISH",
         "stock":  3,
-        "barcode":  "0002465",
-        "sale":  1450,
-        "mrp":  1627.5,
+        "group":  "G",
         "wholesale":  1085,
-        "group":  "G"
+        "mrp":  1627.5,
+        "name":  "SSM KISMISH",
+        "barcode":  "0002465",
+        "sale":  1450
     },
     {
-        "name":  "SG HOUSEFULL",
         "stock":  2,
-        "barcode":  "0002395",
-        "sale":  900,
-        "mrp":  1020,
+        "group":  "CS",
         "wholesale":  680,
-        "group":  "CS"
+        "mrp":  1020,
+        "name":  "SG HOUSEFULL",
+        "barcode":  "0002395",
+        "sale":  900
     },
     {
         "name":  "JMD Cadbury",
@@ -432,13 +432,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC GULFARA BEGUM",
         "stock":  4,
-        "barcode":  "0002845",
-        "sale":  1600,
-        "mrp":  1800,
+        "group":  "S",
         "wholesale":  1200,
-        "group":  "S"
+        "mrp":  1800,
+        "name":  "KC GULFARA BEGUM",
+        "barcode":  "0002845",
+        "sale":  1600
     },
     {
         "name":  "KC 11667",
@@ -459,31 +459,31 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC NOOR E GuLAAB",
         "stock":  3,
-        "barcode":  "0002444",
-        "sale":  1800,
-        "mrp":  2317.5,
+        "group":  "OS",
         "wholesale":  1545,
-        "group":  "OS"
+        "mrp":  2317.5,
+        "name":  "KC NOOR E GuLAAB",
+        "barcode":  "0002444",
+        "sale":  1800
     },
     {
-        "name":  "OM PANEER ANGARA",
         "stock":  4,
-        "barcode":  "0002979",
-        "sale":  1050,
-        "mrp":  1312.5,
+        "group":  "S",
         "wholesale":  875,
-        "group":  "S"
+        "mrp":  1312.5,
+        "name":  "OM PANEER ANGARA",
+        "barcode":  "0002979",
+        "sale":  1050
     },
     {
-        "name":  "KC Rich Chocolate",
         "stock":  2,
-        "barcode":  "0002383",
-        "sale":  1800,
-        "mrp":  2175,
+        "group":  "T",
         "wholesale":  1450,
-        "group":  "T"
+        "mrp":  2175,
+        "name":  "KC Rich Chocolate",
+        "barcode":  "0002383",
+        "sale":  1800
     },
     {
         "name":  "SONY 1325",
@@ -504,13 +504,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Selfie",
         "stock":  2,
-        "barcode":  "001981",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "S",
         "wholesale":  400,
-        "group":  "S"
+        "mrp":  600,
+        "name":  "KC Selfie",
+        "barcode":  "001981",
+        "sale":  550
     },
     {
         "name":  "Sg Summer Time",
@@ -522,13 +522,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC SHAHI ROOP",
         "stock":  2,
-        "barcode":  "0003064",
-        "sale":  2300,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "KC SHAHI ROOP",
+        "barcode":  "0003064",
+        "sale":  2300
     },
     {
         "name":  "KC Robo Car",
@@ -540,13 +540,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC PARTY PATAKA",
         "stock":  4,
-        "barcode":  "0002831",
-        "sale":  1850,
-        "mrp":  2070,
+        "group":  "S",
         "wholesale":  1380,
-        "group":  "S"
+        "mrp":  2070,
+        "name":  "KC PARTY PATAKA",
+        "barcode":  "0002831",
+        "sale":  1850
     },
     {
         "name":  "KC PIYA ALBELA",
@@ -567,13 +567,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VIC MARGI",
         "stock":  1,
-        "barcode":  "0002722",
-        "sale":  350,
-        "mrp":  375,
+        "group":  "CS",
         "wholesale":  250,
-        "group":  "CS"
+        "mrp":  375,
+        "name":  "VIC MARGI",
+        "barcode":  "0002722",
+        "sale":  350
     },
     {
         "name":  "DTS ASIFFA",
@@ -612,13 +612,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Om Almora",
         "stock":  4,
-        "barcode":  "001925",
-        "sale":  900,
-        "mrp":  997.5,
+        "group":  "S",
         "wholesale":  665,
-        "group":  "S"
+        "mrp":  997.5,
+        "name":  "Om Almora",
+        "barcode":  "001925",
+        "sale":  900
     },
     {
         "name":  "Om Orchid",
@@ -630,22 +630,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MF MIX",
         "stock":  62,
-        "barcode":  "002235",
-        "sale":  550,
-        "mrp":  607.5,
+        "group":  "CS",
         "wholesale":  405,
-        "group":  "CS"
+        "mrp":  607.5,
+        "name":  "MF MIX",
+        "barcode":  "002235",
+        "sale":  550
     },
     {
-        "name":  "VV VIMMA",
         "stock":  18,
-        "barcode":  "0002903",
-        "sale":  370,
-        "mrp":  480,
+        "group":  "CC",
         "wholesale":  320,
-        "group":  "CC"
+        "mrp":  480,
+        "name":  "VV VIMMA",
+        "barcode":  "0002903",
+        "sale":  370
     },
     {
         "name":  "OM PRATIGNA",
@@ -666,13 +666,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RR BLACK BUNNY",
         "stock":  -1,
-        "barcode":  "0002470",
-        "sale":  470,
-        "mrp":  555,
+        "group":  "CS",
         "wholesale":  370,
-        "group":  "CS"
+        "mrp":  555,
+        "name":  "RR BLACK BUNNY",
+        "barcode":  "0002470",
+        "sale":  470
     },
     {
         "name":  "SNT Shikara",
@@ -684,13 +684,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Jmd Mehbooba",
         "stock":  3,
-        "barcode":  "002164",
-        "sale":  400,
-        "mrp":  469.5,
+        "group":  "CS",
         "wholesale":  313,
-        "group":  "CS"
+        "mrp":  469.5,
+        "name":  "Jmd Mehbooba",
+        "barcode":  "002164",
+        "sale":  400
     },
     {
         "name":  "Kc Big screen",
@@ -747,13 +747,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Vanilla",
         "stock":  4,
-        "barcode":  "002016",
-        "sale":  449,
-        "mrp":  607.5,
+        "group":  "S",
         "wholesale":  345,
-        "group":  "S"
+        "mrp":  607.5,
+        "name":  "SNT Vanilla",
+        "barcode":  "002016",
+        "sale":  449
     },
     {
         "name":  "ARNIMA 1302",
@@ -810,13 +810,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "YF Mango Raas",
         "stock":  -1,
-        "barcode":  "002071",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "YF Mango Raas",
+        "barcode":  "002071",
+        "sale":  550
     },
     {
         "name":  "Barsaat diksha",
@@ -828,13 +828,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MN ALU PUDI",
         "stock":  2,
-        "barcode":  "0002987",
-        "sale":  600,
-        "mrp":  712.5,
+        "group":  "S",
         "wholesale":  475,
-        "group":  "S"
+        "mrp":  712.5,
+        "name":  "MN ALU PUDI",
+        "barcode":  "0002987",
+        "sale":  600
     },
     {
         "name":  "KC Passbook",
@@ -891,22 +891,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY S 30",
         "stock":  1,
-        "barcode":  "002186",
-        "sale":  1600,
-        "mrp":  1875,
+        "group":  "T",
         "wholesale":  1250,
-        "group":  "T"
+        "mrp":  1875,
+        "name":  "SONY S 30",
+        "barcode":  "002186",
+        "sale":  1600
     },
     {
-        "name":  "SNT Mannat",
         "stock":  10,
-        "barcode":  "001248",
-        "sale":  600,
-        "mrp":  832,
+        "group":  "S",
         "wholesale":  554.67,
-        "group":  "S"
+        "mrp":  832,
+        "name":  "SNT Mannat",
+        "barcode":  "001248",
+        "sale":  600
     },
     {
         "name":  "JF Supriya",
@@ -963,22 +963,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RV Anti Virus",
         "stock":  -1,
-        "barcode":  "002127",
-        "sale":  300,
-        "mrp":  337.5,
+        "group":  "CS",
         "wholesale":  225,
-        "group":  "CS"
+        "mrp":  337.5,
+        "name":  "RV Anti Virus",
+        "barcode":  "002127",
+        "sale":  300
     },
     {
-        "name":  "OM Dhamal Masti",
         "stock":  4,
-        "barcode":  "002089",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "OM Dhamal Masti",
+        "barcode":  "002089",
+        "sale":  600
     },
     {
         "name":  "KC Nighat",
@@ -1026,13 +1026,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FLORY BAND",
         "stock":  4,
-        "barcode":  "0002953",
-        "sale":  1600,
-        "mrp":  1800,
+        "group":  "S",
         "wholesale":  1200,
-        "group":  "S"
+        "mrp":  1800,
+        "name":  "KC FLORY BAND",
+        "barcode":  "0002953",
+        "sale":  1600
     },
     {
         "name":  "GF NOVELTY",
@@ -1044,13 +1044,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FLY ZONE",
         "stock":  4,
-        "barcode":  "0003082",
-        "sale":  2300,
-        "mrp":  3528,
+        "group":  "P",
         "wholesale":  1960,
-        "group":  "P"
+        "mrp":  3528,
+        "name":  "KC FLY ZONE",
+        "barcode":  "0003082",
+        "sale":  2300
     },
     {
         "name":  "KC MAIN LADAVA",
@@ -1062,22 +1062,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Rozy Chandramukhi kala chashma",
         "stock":  112,
-        "barcode":  "002205",
-        "sale":  350,
-        "mrp":  457.5,
+        "group":  "CC",
         "wholesale":  305,
-        "group":  "CC"
+        "mrp":  457.5,
+        "name":  "Rozy Chandramukhi kala chashma",
+        "barcode":  "002205",
+        "sale":  350
     },
     {
-        "name":  "Kc Ishq Express",
         "stock":  4,
-        "barcode":  "002172",
-        "sale":  1000,
-        "mrp":  1113,
+        "group":  "T",
         "wholesale":  742,
-        "group":  "T"
+        "mrp":  1113,
+        "name":  "Kc Ishq Express",
+        "barcode":  "002172",
+        "sale":  1000
     },
     {
         "name":  "VAS Dil Se",
@@ -1107,13 +1107,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM SALI SAHIBA",
         "stock":  16,
-        "barcode":  "0002760",
-        "sale":  500,
-        "mrp":  570,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  570,
+        "name":  "OM SALI SAHIBA",
+        "barcode":  "0002760",
+        "sale":  500
     },
     {
         "name":  "MT ALIA",
@@ -1170,58 +1170,58 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SUPER ME",
         "stock":  2,
-        "barcode":  "0002731",
-        "sale":  1900,
-        "mrp":  2272.5,
+        "group":  "S",
         "wholesale":  1515,
-        "group":  "S"
+        "mrp":  2272.5,
+        "name":  "KC SUPER ME",
+        "barcode":  "0002731",
+        "sale":  1900
     },
     {
-        "name":  "KC SWEETORA",
         "stock":  2,
-        "barcode":  "0002747",
-        "sale":  1800,
-        "mrp":  2242,
+        "group":  "T",
         "wholesale":  1495,
-        "group":  "T"
+        "mrp":  2242,
+        "name":  "KC SWEETORA",
+        "barcode":  "0002747",
+        "sale":  1800
     },
     {
-        "name":  "Royal Ghamti",
         "stock":  25,
-        "barcode":  "0002416",
-        "sale":  250,
-        "mrp":  322.5,
+        "group":  "CC",
         "wholesale":  215,
-        "group":  "CC"
+        "mrp":  322.5,
+        "name":  "Royal Ghamti",
+        "barcode":  "0002416",
+        "sale":  250
     },
     {
-        "name":  "KC PRIME POINT",
         "stock":  4,
-        "barcode":  "0002867",
-        "sale":  1850,
-        "mrp":  2085,
+        "group":  "S",
         "wholesale":  1390,
-        "group":  "S"
+        "mrp":  2085,
+        "name":  "KC PRIME POINT",
+        "barcode":  "0002867",
+        "sale":  1850
     },
     {
-        "name":  "GNA ORGANZA 7 STAR",
         "stock":  10,
-        "barcode":  "0002755",
-        "sale":  650,
-        "mrp":  742.5,
+        "group":  "OS",
         "wholesale":  475,
-        "group":  "OS"
+        "mrp":  742.5,
+        "name":  "GNA ORGANZA 7 STAR",
+        "barcode":  "0002755",
+        "sale":  650
     },
     {
-        "name":  "Kingfisher",
         "stock":  75,
-        "barcode":  "000749",
-        "sale":  80,
-        "mrp":  90,
+        "group":  "S",
         "wholesale":  60,
-        "group":  "S"
+        "mrp":  90,
+        "name":  "Kingfisher",
+        "barcode":  "000749",
+        "sale":  80
     },
     {
         "name":  "KC ZAIKA E SHAHI",
@@ -1233,13 +1233,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC ZAFRAANI NOOR",
         "stock":  4,
-        "barcode":  "0002837",
-        "sale":  1550,
-        "mrp":  1792.5,
+        "group":  "T",
         "wholesale":  1195,
-        "group":  "T"
+        "mrp":  1792.5,
+        "name":  "KC ZAFRAANI NOOR",
+        "barcode":  "0002837",
+        "sale":  1550
     },
     {
         "name":  "KC firoz",
@@ -1251,22 +1251,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Bindiya Chamke",
         "stock":  -1,
-        "barcode":  "001636",
-        "sale":  800,
-        "mrp":  889,
+        "group":  "S",
         "wholesale":  592.67,
-        "group":  "S"
+        "mrp":  889,
+        "name":  "KC Bindiya Chamke",
+        "barcode":  "001636",
+        "sale":  800
     },
     {
-        "name":  "KC SWAG PAL",
         "stock":  4,
-        "barcode":  "0003042",
-        "sale":  1800,
-        "mrp":  2227.5,
+        "group":  "S",
         "wholesale":  1485,
-        "group":  "S"
+        "mrp":  2227.5,
+        "name":  "KC SWAG PAL",
+        "barcode":  "0003042",
+        "sale":  1800
     },
     {
         "name":  "GF Pepsi",
@@ -1296,13 +1296,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK RUTU",
         "stock":  4,
-        "barcode":  "0002598",
-        "sale":  1150,
-        "mrp":  1305,
+        "group":  "S",
         "wholesale":  870,
-        "group":  "S"
+        "mrp":  1305,
+        "name":  "GK RUTU",
+        "barcode":  "0002598",
+        "sale":  1150
     },
     {
         "name":  "SR 02 CRUNCHY",
@@ -1314,13 +1314,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "METER CLOTH",
         "stock":  -97,
-        "barcode":  "000821",
-        "sale":  30,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "METER CLOTH",
+        "barcode":  "000821",
+        "sale":  30
     },
     {
         "name":  "KC HAPPY CONE",
@@ -1341,13 +1341,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "GK COMMANDO",
         "stock":  1,
-        "barcode":  "002349",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "S",
         "wholesale":  550,
-        "group":  "S"
+        "mrp":  825,
+        "name":  "GK COMMANDO",
+        "barcode":  "002349",
+        "sale":  750
     },
     {
         "name":  "GF VOLVO",
@@ -1359,13 +1359,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT Aizaz Yellow",
         "stock":  1,
-        "barcode":  "002119",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "S",
         "wholesale":  400,
-        "group":  "S"
+        "mrp":  600,
+        "name":  "MT Aizaz Yellow",
+        "barcode":  "002119",
+        "sale":  550
     },
     {
         "name":  "GF Kathakali",
@@ -1404,13 +1404,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DESERT STAR",
         "stock":  4,
-        "barcode":  "0002956",
-        "sale":  1550,
-        "mrp":  1762.5,
+        "group":  "S",
         "wholesale":  1175,
-        "group":  "S"
+        "mrp":  1762.5,
+        "name":  "KC DESERT STAR",
+        "barcode":  "0002956",
+        "sale":  1550
     },
     {
         "name":  "RR Answer",
@@ -1422,22 +1422,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VIC SUPRIYA",
         "stock":  4,
-        "barcode":  "0002724",
-        "sale":  400,
-        "mrp":  435,
+        "group":  "CS",
         "wholesale":  290,
-        "group":  "CS"
+        "mrp":  435,
+        "name":  "VIC SUPRIYA",
+        "barcode":  "0002724",
+        "sale":  400
     },
     {
-        "name":  "SONY GANESH 01",
         "stock":  1,
-        "barcode":  "0002770",
-        "sale":  1550,
-        "mrp":  1965,
+        "group":  "T",
         "wholesale":  1310,
-        "group":  "T"
+        "mrp":  1965,
+        "name":  "SONY GANESH 01",
+        "barcode":  "0002770",
+        "sale":  1550
     },
     {
         "name":  "Suite KC Zaafira",
@@ -1458,13 +1458,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC FIZZORA",
         "stock":  4,
-        "barcode":  "0002905",
-        "sale":  1650,
-        "mrp":  1830,
+        "group":  "S",
         "wholesale":  1220,
-        "group":  "S"
+        "mrp":  1830,
+        "name":  "KC FIZZORA",
+        "barcode":  "0002905",
+        "sale":  1650
     },
     {
         "name":  "Heavy Zara 09",
@@ -1476,22 +1476,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC FARIDA",
         "stock":  4,
-        "barcode":  "000492",
-        "sale":  1500,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC FARIDA",
+        "barcode":  "000492",
+        "sale":  1500
     },
     {
-        "name":  "KC CHAT CHASKA",
         "stock":  4,
-        "barcode":  "0002996",
-        "sale":  1830,
-        "mrp":  2025,
+        "group":  "T",
         "wholesale":  1350,
-        "group":  "T"
+        "mrp":  2025,
+        "name":  "KC CHAT CHASKA",
+        "barcode":  "0002996",
+        "sale":  1830
     },
     {
         "name":  "SNT ZAREEN",
@@ -1503,22 +1503,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Hidaya",
         "stock":  4,
-        "barcode":  "000523",
-        "sale":  1200,
-        "mrp":  1492,
+        "group":  "S",
         "wholesale":  994.67,
-        "group":  "S"
+        "mrp":  1492,
+        "name":  "KC Hidaya",
+        "barcode":  "000523",
+        "sale":  1200
     },
     {
-        "name":  "SNT Cherry",
         "stock":  -4,
-        "barcode":  "001203",
-        "sale":  499,
-        "mrp":  727,
+        "group":  "S",
         "wholesale":  484.67,
-        "group":  "S"
+        "mrp":  727,
+        "name":  "SNT Cherry",
+        "barcode":  "001203",
+        "sale":  499
     },
     {
         "name":  "KC ZANzAR QUEEN",
@@ -1620,22 +1620,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT DIWALI DHAMAKA",
         "stock":  12,
-        "barcode":  "002287",
-        "sale":  550,
-        "mrp":  615,
+        "group":  "S",
         "wholesale":  410,
-        "group":  "S"
+        "mrp":  615,
+        "name":  "SNT DIWALI DHAMAKA",
+        "barcode":  "002287",
+        "sale":  550
     },
     {
-        "name":  "SNT Nokia",
         "stock":  1,
-        "barcode":  "001747",
-        "sale":  750,
-        "mrp":  1012,
+        "group":  "S",
         "wholesale":  674.67,
-        "group":  "S"
+        "mrp":  1012,
+        "name":  "SNT Nokia",
+        "barcode":  "001747",
+        "sale":  750
     },
     {
         "name":  "SONY 273",
@@ -1647,31 +1647,31 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "SG LOTUS",
         "stock":  10,
-        "barcode":  "002296",
-        "sale":  650,
-        "mrp":  937.5,
+        "group":  "CS",
         "wholesale":  600,
-        "group":  "CS"
+        "mrp":  937.5,
+        "name":  "SG LOTUS",
+        "barcode":  "002296",
+        "sale":  650
     },
     {
-        "name":  "GF RUSIDA",
         "stock":  29,
-        "barcode":  "0002924",
-        "sale":  1850,
-        "mrp":  2452.5,
+        "group":  "P",
         "wholesale":  1635,
-        "group":  "P"
+        "mrp":  2452.5,
+        "name":  "GF RUSIDA",
+        "barcode":  "0002924",
+        "sale":  1850
     },
     {
-        "name":  "GARIMA devi",
         "stock":  14,
-        "barcode":  "002290",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "GARIMA devi",
+        "barcode":  "002290",
+        "sale":  550
     },
     {
         "name":  "Sg Kohinoor",
@@ -1728,22 +1728,22 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "VIC GITANJALI",
         "stock":  4,
-        "barcode":  "0002719",
-        "sale":  340,
-        "mrp":  375,
+        "group":  "CS",
         "wholesale":  250,
-        "group":  "CS"
+        "mrp":  375,
+        "name":  "VIC GITANJALI",
+        "barcode":  "0002719",
+        "sale":  340
     },
     {
-        "name":  "KC SHAHI BITES",
         "stock":  4,
-        "barcode":  "0002476",
-        "sale":  1450,
-        "mrp":  1747.5,
+        "group":  "S",
         "wholesale":  1165,
-        "group":  "S"
+        "mrp":  1747.5,
+        "name":  "KC SHAHI BITES",
+        "barcode":  "0002476",
+        "sale":  1450
     },
     {
         "name":  "GANESHJI GUZAARISH",
@@ -1782,13 +1782,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT BEGUM",
         "stock":  4,
-        "barcode":  "0003066",
-        "sale":  700,
-        "mrp":  862.5,
+        "group":  "S",
         "wholesale":  575,
-        "group":  "S"
+        "mrp":  862.5,
+        "name":  "SNT BEGUM",
+        "barcode":  "0003066",
+        "sale":  700
     },
     {
         "name":  "KC Sufinama",
@@ -1818,13 +1818,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 6",
         "stock":  4,
-        "barcode":  "001547",
-        "sale":  1500,
-        "mrp":  1642,
+        "group":  "S",
         "wholesale":  1094.67,
-        "group":  "S"
+        "mrp":  1642,
+        "name":  "RS 6",
+        "barcode":  "001547",
+        "sale":  1500
     },
     {
         "name":  "RUBI RUBI",
@@ -1845,13 +1845,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BRIGHT FLOWER",
         "stock":  3,
-        "barcode":  "0002569",
-        "sale":  1750,
-        "mrp":  2242.5,
+        "group":  "S",
         "wholesale":  1495,
-        "group":  "S"
+        "mrp":  2242.5,
+        "name":  "KC BRIGHT FLOWER",
+        "barcode":  "0002569",
+        "sale":  1750
     },
     {
         "name":  "SG Masha Allah",
@@ -1872,31 +1872,31 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GF JILANI",
         "stock":  4,
-        "barcode":  "0002976",
-        "sale":  900,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GF JILANI",
+        "barcode":  "0002976",
+        "sale":  900
     },
     {
-        "name":  "Music Gulabo",
         "stock":  4,
-        "barcode":  "000890",
-        "sale":  850,
-        "mrp":  940,
+        "group":  "S",
         "wholesale":  626.67,
-        "group":  "S"
+        "mrp":  940,
+        "name":  "Music Gulabo",
+        "barcode":  "000890",
+        "sale":  850
     },
     {
-        "name":  "PLAZO PRINT DFILL TAIL PAPLON",
         "stock":  2,
-        "barcode":  "0002802",
-        "sale":  5000,
-        "mrp":  5100,
+        "group":  "P",
         "wholesale":  3400,
-        "group":  "P"
+        "mrp":  5100,
+        "name":  "PLAZO PRINT DFILL TAIL PAPLON",
+        "barcode":  "0002802",
+        "sale":  5000
     },
     {
         "name":  "Kc Rewards",
@@ -1926,13 +1926,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 2",
         "stock":  1,
-        "barcode":  "001515",
-        "sale":  1500,
-        "mrp":  1642,
+        "group":  "S",
         "wholesale":  1094.67,
-        "group":  "S"
+        "mrp":  1642,
+        "name":  "RS 2",
+        "barcode":  "001515",
+        "sale":  1500
     },
     {
         "name":  "Pehnawa Monika Print",
@@ -1962,13 +1962,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK TIMBER",
         "stock":  8,
-        "barcode":  "0002655",
-        "sale":  800,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GK TIMBER",
+        "barcode":  "0002655",
+        "sale":  800
     },
     {
         "name":  "YF Prem Palki",
@@ -1980,22 +1980,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC REWA",
         "stock":  1,
-        "barcode":  "001376",
-        "sale":  700,
-        "mrp":  985,
+        "group":  "S",
         "wholesale":  656.67,
-        "group":  "S"
+        "mrp":  985,
+        "name":  "KC REWA",
+        "barcode":  "001376",
+        "sale":  700
     },
     {
-        "name":  "KKC WORLD CURRENCY",
         "stock":  14,
-        "barcode":  "0002493",
-        "sale":  320,
-        "mrp":  322.5,
+        "group":  "CC",
         "wholesale":  215,
-        "group":  "CC"
+        "mrp":  322.5,
+        "name":  "KKC WORLD CURRENCY",
+        "barcode":  "0002493",
+        "sale":  320
     },
     {
         "name":  "Suite Wax Batik Bandni Rayon",
@@ -2016,22 +2016,22 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "KC INSTA QUEEN",
         "stock":  4,
-        "barcode":  "0003090",
-        "sale":  2450,
-        "mrp":  3771,
+        "group":  "P",
         "wholesale":  2095,
-        "group":  "P"
+        "mrp":  3771,
+        "name":  "KC INSTA QUEEN",
+        "barcode":  "0003090",
+        "sale":  2450
     },
     {
-        "name":  "SONY 565",
         "stock":  -2,
-        "barcode":  "0002614",
-        "sale":  2600,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "SONY 565",
+        "barcode":  "0002614",
+        "sale":  2600
     },
     {
         "name":  "OM Mahi",
@@ -2052,13 +2052,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BOOM BOX",
         "stock":  3,
-        "barcode":  "0002766",
-        "sale":  2600,
-        "mrp":  3292.5,
+        "group":  "P",
         "wholesale":  2195,
-        "group":  "P"
+        "mrp":  3292.5,
+        "name":  "KC BOOM BOX",
+        "barcode":  "0002766",
+        "sale":  2600
     },
     {
         "name":  "Cross Pattern Plazo",
@@ -2142,22 +2142,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ZAIKA E GULAB",
         "stock":  4,
-        "barcode":  "0002438",
-        "sale":  1700,
-        "mrp":  2100,
+        "group":  "OS",
         "wholesale":  1400,
-        "group":  "OS"
+        "mrp":  2100,
+        "name":  "KC ZAIKA E GULAB",
+        "barcode":  "0002438",
+        "sale":  1700
     },
     {
-        "name":  "SNT Tarana",
         "stock":  1,
-        "barcode":  "001750",
-        "sale":  499,
-        "mrp":  712.5,
+        "group":  "S",
         "wholesale":  475,
-        "group":  "S"
+        "mrp":  712.5,
+        "name":  "SNT Tarana",
+        "barcode":  "001750",
+        "sale":  499
     },
     {
         "name":  "Sg lazy lamhe",
@@ -2178,22 +2178,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "MANNAT SHOHRAT",
         "stock":  1,
-        "barcode":  "000802",
-        "sale":  499,
-        "mrp":  697,
+        "group":  "S",
         "wholesale":  464.67,
-        "group":  "S"
+        "mrp":  697,
+        "name":  "MANNAT SHOHRAT",
+        "barcode":  "000802",
+        "sale":  499
     },
     {
-        "name":  "OM JORJET",
         "stock":  20,
-        "barcode":  "0002711",
-        "sale":  480,
-        "mrp":  540,
+        "group":  "S",
         "wholesale":  360,
-        "group":  "S"
+        "mrp":  540,
+        "name":  "OM JORJET",
+        "barcode":  "0002711",
+        "sale":  480
     },
     {
         "name":  "YELLOW SUITE",
@@ -2250,13 +2250,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FOIL BALL",
         "stock":  4,
-        "barcode":  "002329",
-        "sale":  1600,
-        "mrp":  1792.5,
+        "group":  "T",
         "wholesale":  1195,
-        "group":  "T"
+        "mrp":  1792.5,
+        "name":  "KC FOIL BALL",
+        "barcode":  "002329",
+        "sale":  1600
     },
     {
         "name":  "Kc Gulbahar Grace",
@@ -2331,31 +2331,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF aafreen",
         "stock":  -1,
-        "barcode":  "000135",
-        "sale":  800,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "GF aafreen",
+        "barcode":  "000135",
+        "sale":  800
     },
     {
-        "name":  "GK BIRD",
         "stock":  4,
-        "barcode":  "0002964",
-        "sale":  1600,
-        "mrp":  2047.5,
+        "group":  "P",
         "wholesale":  1365,
-        "group":  "P"
+        "mrp":  2047.5,
+        "name":  "GK BIRD",
+        "barcode":  "0002964",
+        "sale":  1600
     },
     {
-        "name":  "SNT Star",
         "stock":  2,
-        "barcode":  "001280",
-        "sale":  550,
-        "mrp":  727,
+        "group":  "S",
         "wholesale":  484.67,
-        "group":  "S"
+        "mrp":  727,
+        "name":  "SNT Star",
+        "barcode":  "001280",
+        "sale":  550
     },
     {
         "name":  "KC BEETE LAMHE",
@@ -2367,13 +2367,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC QUEEN CHOICE",
         "stock":  4,
-        "barcode":  "0003077",
-        "sale":  2250,
-        "mrp":  3348,
+        "group":  "P",
         "wholesale":  1860,
-        "group":  "P"
+        "mrp":  3348,
+        "name":  "KC QUEEN CHOICE",
+        "barcode":  "0003077",
+        "sale":  2250
     },
     {
         "name":  "Suite SNT Pinkey",
@@ -2385,13 +2385,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VC Ajanta",
         "stock":  1,
-        "barcode":  "001941",
-        "sale":  400,
-        "mrp":  480,
+        "group":  "CD",
         "wholesale":  320,
-        "group":  "CD"
+        "mrp":  480,
+        "name":  "VC Ajanta",
+        "barcode":  "001941",
+        "sale":  400
     },
     {
         "name":  "KC Malamaal Weekly",
@@ -2412,22 +2412,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Begumjaan",
         "stock":  3,
-        "barcode":  "002149",
-        "sale":  700,
-        "mrp":  802.5,
+        "group":  "S",
         "wholesale":  535,
-        "group":  "S"
+        "mrp":  802.5,
+        "name":  "Welcome Begumjaan",
+        "barcode":  "002149",
+        "sale":  700
     },
     {
-        "name":  "KC DESI VIBES",
         "stock":  4,
-        "barcode":  "0002857",
-        "sale":  1350,
-        "mrp":  1545,
+        "group":  "S",
         "wholesale":  1030,
-        "group":  "S"
+        "mrp":  1545,
+        "name":  "KC DESI VIBES",
+        "barcode":  "0002857",
+        "sale":  1350
     },
     {
         "name":  "SF Navrangi",
@@ -2439,13 +2439,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Baadshaho",
         "stock":  1,
-        "barcode":  "000436",
-        "sale":  650,
-        "mrp":  765,
+        "group":  "CS",
         "wholesale":  510,
-        "group":  "CS"
+        "mrp":  765,
+        "name":  "KC Baadshaho",
+        "barcode":  "000436",
+        "sale":  650
     },
     {
         "name":  "ANOKHI",
@@ -2457,13 +2457,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DAILY FASHION",
         "stock":  4,
-        "barcode":  "0003025",
-        "sale":  2250,
-        "mrp":  2940,
+        "group":  "P",
         "wholesale":  1960,
-        "group":  "P"
+        "mrp":  2940,
+        "name":  "KC DAILY FASHION",
+        "barcode":  "0003025",
+        "sale":  2250
     },
     {
         "name":  "SVT Gopi",
@@ -2484,13 +2484,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Lotus",
         "stock":  5,
-        "barcode":  "001780",
-        "sale":  750,
-        "mrp":  832.5,
+        "group":  "S",
         "wholesale":  555,
-        "group":  "S"
+        "mrp":  832.5,
+        "name":  "Welcome Lotus",
+        "barcode":  "001780",
+        "sale":  750
     },
     {
         "name":  "KC Ishq Vishq",
@@ -2547,13 +2547,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MANNIKA",
         "stock":  4,
-        "barcode":  "0003002",
-        "sale":  1220,
-        "mrp":  1350,
+        "group":  "S",
         "wholesale":  900,
-        "group":  "S"
+        "mrp":  1350,
+        "name":  "KC MANNIKA",
+        "barcode":  "0003002",
+        "sale":  1220
     },
     {
         "name":  "Varnika Ramsha",
@@ -2574,31 +2574,31 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Malai 2 Pcs",
         "stock":  14,
-        "barcode":  "002344",
-        "sale":  199,
-        "mrp":  232.5,
+        "group":  "CS",
         "wholesale":  154,
-        "group":  "CS"
+        "mrp":  232.5,
+        "name":  "Malai 2 Pcs",
+        "barcode":  "002344",
+        "sale":  199
     },
     {
-        "name":  "Alina 1",
         "stock":  -4,
-        "barcode":  "002040",
-        "sale":  2600,
-        "mrp":  2925,
+        "group":  "T",
         "wholesale":  1950,
-        "group":  "T"
+        "mrp":  2925,
+        "name":  "Alina 1",
+        "barcode":  "002040",
+        "sale":  2600
     },
     {
-        "name":  "KC NOODLE NATION",
         "stock":  1,
-        "barcode":  "0002587",
-        "sale":  1050,
-        "mrp":  1192.5,
+        "group":  "S",
         "wholesale":  795,
-        "group":  "S"
+        "mrp":  1192.5,
+        "name":  "KC NOODLE NATION",
+        "barcode":  "0002587",
+        "sale":  1050
     },
     {
         "name":  "KC Dosti Yari",
@@ -2619,13 +2619,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Mf Gala Print",
         "stock":  1,
-        "barcode":  "002174",
-        "sale":  500,
-        "mrp":  652.5,
+        "group":  "CS",
         "wholesale":  435,
-        "group":  "CS"
+        "mrp":  652.5,
+        "name":  "Mf Gala Print",
+        "barcode":  "002174",
+        "sale":  500
     },
     {
         "name":  "SNT Ziya",
@@ -2691,31 +2691,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Rukshana",
         "stock":  4,
-        "barcode":  "001270",
-        "sale":  600,
-        "mrp":  810,
+        "group":  "S",
         "wholesale":  540,
-        "group":  "S"
+        "mrp":  810,
+        "name":  "SNT Rukshana",
+        "barcode":  "001270",
+        "sale":  600
     },
     {
-        "name":  "Garima Rani",
         "stock":  1,
-        "barcode":  "002198",
-        "sale":  500,
-        "mrp":  540,
+        "group":  "CS",
         "wholesale":  360,
-        "group":  "CS"
+        "mrp":  540,
+        "name":  "Garima Rani",
+        "barcode":  "002198",
+        "sale":  500
     },
     {
-        "name":  "KC MINT MAX",
         "stock":  4,
-        "barcode":  "0002880",
-        "sale":  2000,
-        "mrp":  2325,
+        "group":  "S",
         "wholesale":  1550,
-        "group":  "S"
+        "mrp":  2325,
+        "name":  "KC MINT MAX",
+        "barcode":  "0002880",
+        "sale":  2000
     },
     {
         "name":  "KC BEST CHOICE",
@@ -2763,22 +2763,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "JBT TITAN",
         "stock":  8,
-        "barcode":  "0002653",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "JBT TITAN",
+        "barcode":  "0002653",
+        "sale":  600
     },
     {
-        "name":  "VAS Firoti",
         "stock":  1,
-        "barcode":  "001816",
-        "sale":  750,
-        "mrp":  847.5,
+        "group":  "S",
         "wholesale":  565,
-        "group":  "S"
+        "mrp":  847.5,
+        "name":  "VAS Firoti",
+        "barcode":  "001816",
+        "sale":  750
     },
     {
         "name":  "Punjabi Lassi",
@@ -2790,13 +2790,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MN Rail Neer",
         "stock":  3,
-        "barcode":  "001888",
-        "sale":  450,
-        "mrp":  637.5,
+        "group":  "S",
         "wholesale":  425,
-        "group":  "S"
+        "mrp":  637.5,
+        "name":  "MN Rail Neer",
+        "barcode":  "001888",
+        "sale":  450
     },
     {
         "name":  "RS 009",
@@ -2817,22 +2817,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "FIRDOS METER",
         "stock":  72,
-        "barcode":  "002249",
-        "sale":  50,
-        "mrp":  57,
+        "group":  "S",
         "wholesale":  38,
-        "group":  "S"
+        "mrp":  57,
+        "name":  "FIRDOS METER",
+        "barcode":  "002249",
+        "sale":  50
     },
     {
-        "name":  "MSM Hit Men",
         "stock":  3,
-        "barcode":  "001610",
-        "sale":  1550,
-        "mrp":  2092,
+        "group":  "S",
         "wholesale":  1394.67,
-        "group":  "S"
+        "mrp":  2092,
+        "name":  "MSM Hit Men",
+        "barcode":  "001610",
+        "sale":  1550
     },
     {
         "name":  "Om Nagin",
@@ -2853,13 +2853,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MOON BEAT",
         "stock":  4,
-        "barcode":  "0003120",
-        "sale":  2280,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC MOON BEAT",
+        "barcode":  "0003120",
+        "sale":  2280
     },
     {
         "name":  "NA Jam Pooja",
@@ -2880,31 +2880,31 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "JT IMLI",
         "stock":  2,
-        "barcode":  "0002929",
-        "sale":  550,
-        "mrp":  660,
+        "group":  "CC",
         "wholesale":  440,
-        "group":  "CC"
+        "mrp":  660,
+        "name":  "JT IMLI",
+        "barcode":  "0002929",
+        "sale":  550
     },
     {
-        "name":  "Alina 3",
         "stock":  -1,
-        "barcode":  "002042",
-        "sale":  2700,
-        "mrp":  2992.5,
+        "group":  "T",
         "wholesale":  1995,
-        "group":  "T"
+        "mrp":  2992.5,
+        "name":  "Alina 3",
+        "barcode":  "002042",
+        "sale":  2700
     },
     {
-        "name":  "KC FULL MASTI",
         "stock":  1,
-        "barcode":  "0002869",
-        "sale":  1800,
-        "mrp":  2032.5,
+        "group":  "S",
         "wholesale":  1355,
-        "group":  "S"
+        "mrp":  2032.5,
+        "name":  "KC FULL MASTI",
+        "barcode":  "0002869",
+        "sale":  1800
     },
     {
         "name":  "GF Mustari",
@@ -2916,13 +2916,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Chahat Jaam Mix",
         "stock":  158,
-        "barcode":  "002247",
-        "sale":  350,
-        "mrp":  412.5,
+        "group":  "CS",
         "wholesale":  275,
-        "group":  "CS"
+        "mrp":  412.5,
+        "name":  "Chahat Jaam Mix",
+        "barcode":  "002247",
+        "sale":  350
     },
     {
         "name":  "MAS Ruhi-2",
@@ -2961,31 +2961,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MANNAT NAZAKAT",
         "stock":  1,
-        "barcode":  "000798",
-        "sale":  499,
-        "mrp":  697,
+        "group":  "S",
         "wholesale":  464.67,
-        "group":  "S"
+        "mrp":  697,
+        "name":  "MANNAT NAZAKAT",
+        "barcode":  "000798",
+        "sale":  499
     },
     {
-        "name":  "SONY S 91",
         "stock":  5,
-        "barcode":  "0002615",
-        "sale":  1550,
-        "mrp":  1965,
+        "group":  "T",
         "wholesale":  1310,
-        "group":  "T"
+        "mrp":  1965,
+        "name":  "SONY S 91",
+        "barcode":  "0002615",
+        "sale":  1550
     },
     {
-        "name":  "Priyanka",
         "stock":  1,
-        "barcode":  "001740",
-        "sale":  2100,
-        "mrp":  2355,
+        "group":  "S",
         "wholesale":  1570,
-        "group":  "S"
+        "mrp":  2355,
+        "name":  "Priyanka",
+        "barcode":  "001740",
+        "sale":  2100
     },
     {
         "name":  "GF Zarina",
@@ -3015,13 +3015,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK DHISOOM",
         "stock":  1,
-        "barcode":  "0002627",
-        "sale":  850,
-        "mrp":  952.5,
+        "group":  "S",
         "wholesale":  635,
-        "group":  "S"
+        "mrp":  952.5,
+        "name":  "GK DHISOOM",
+        "barcode":  "0002627",
+        "sale":  850
     },
     {
         "name":  "SONY CREAMY TROUSER",
@@ -3033,22 +3033,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Kc Pocket Full",
         "stock":  1,
-        "barcode":  "002319",
-        "sale":  1900,
-        "mrp":  2385,
+        "group":  "P",
         "wholesale":  1590,
-        "group":  "P"
+        "mrp":  2385,
+        "name":  "Kc Pocket Full",
+        "barcode":  "002319",
+        "sale":  1900
     },
     {
-        "name":  "LACHA ABHIVADAN ISHANI",
         "stock":  1,
-        "barcode":  "0002796",
-        "sale":  3650,
-        "mrp":  4042.5,
+        "group":  "L",
         "wholesale":  2695,
-        "group":  "L"
+        "mrp":  4042.5,
+        "name":  "LACHA ABHIVADAN ISHANI",
+        "barcode":  "0002796",
+        "sale":  3650
     },
     {
         "name":  "KC Zemana",
@@ -3078,13 +3078,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC STYLE QUEEN",
         "stock":  4,
-        "barcode":  "0003018",
-        "sale":  2750,
-        "mrp":  3577.5,
+        "group":  "P",
         "wholesale":  2385,
-        "group":  "P"
+        "mrp":  3577.5,
+        "name":  "KC STYLE QUEEN",
+        "barcode":  "0003018",
+        "sale":  2750
     },
     {
         "name":  "Rapid Pro MT",
@@ -3096,13 +3096,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Gulaboo",
         "stock":  1,
-        "barcode":  "001945",
-        "sale":  700,
-        "mrp":  772.5,
+        "group":  "S",
         "wholesale":  515,
-        "group":  "S"
+        "mrp":  772.5,
+        "name":  "Welcome Gulaboo",
+        "barcode":  "001945",
+        "sale":  700
     },
     {
         "name":  "Royal Pouch Packing",
@@ -3132,31 +3132,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PAWAN KILAR",
         "stock":  8,
-        "barcode":  "0002654",
-        "sale":  700,
-        "mrp":  810,
+        "group":  "S",
         "wholesale":  540,
-        "group":  "S"
+        "mrp":  810,
+        "name":  "PAWAN KILAR",
+        "barcode":  "0002654",
+        "sale":  700
     },
     {
-        "name":  "Vc big boss",
         "stock":  10,
-        "barcode":  "002065",
-        "sale":  400,
-        "mrp":  480,
+        "group":  "CD",
         "wholesale":  320,
-        "group":  "CD"
+        "mrp":  480,
+        "name":  "Vc big boss",
+        "barcode":  "002065",
+        "sale":  400
     },
     {
-        "name":  "HH 1501",
         "stock":  4,
-        "barcode":  "0003096",
-        "sale":  1550,
-        "mrp":  2295,
+        "group":  "T",
         "wholesale":  1275,
-        "group":  "T"
+        "mrp":  2295,
+        "name":  "HH 1501",
+        "barcode":  "0003096",
+        "sale":  1550
     },
     {
         "name":  "KC Lime Juice",
@@ -3186,13 +3186,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF RESHAM",
         "stock":  8,
-        "barcode":  "0003016",
-        "sale":  800,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GF RESHAM",
+        "barcode":  "0003016",
+        "sale":  800
     },
     {
         "name":  "Sarso ka sach",
@@ -3204,13 +3204,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Lakhnavi Dhaga Work",
         "stock":  5,
-        "barcode":  "001970",
-        "sale":  550,
-        "mrp":  607.5,
+        "group":  "S",
         "wholesale":  405,
-        "group":  "S"
+        "mrp":  607.5,
+        "name":  "Lakhnavi Dhaga Work",
+        "barcode":  "001970",
+        "sale":  550
     },
     {
         "name":  "KC Sonic",
@@ -3222,13 +3222,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC PIZZA FUNDA",
         "stock":  4,
-        "barcode":  "0003062",
-        "sale":  2200,
-        "mrp":  2752.5,
+        "group":  "P",
         "wholesale":  1835,
-        "group":  "P"
+        "mrp":  2752.5,
+        "name":  "KC PIZZA FUNDA",
+        "barcode":  "0003062",
+        "sale":  2200
     },
     {
         "name":  "KC COFEE COOL",
@@ -3267,40 +3267,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FULL EPISODE",
         "stock":  8,
-        "barcode":  "002211",
-        "sale":  1400,
-        "mrp":  1792.5,
+        "group":  "S",
         "wholesale":  1195,
-        "group":  "S"
+        "mrp":  1792.5,
+        "name":  "KC FULL EPISODE",
+        "barcode":  "002211",
+        "sale":  1400
     },
     {
-        "name":  "SG LAADO",
         "stock":  3,
-        "barcode":  "0002420",
-        "sale":  1250,
-        "mrp":  1527.5,
+        "group":  "G",
         "wholesale":  1025,
-        "group":  "G"
+        "mrp":  1527.5,
+        "name":  "SG LAADO",
+        "barcode":  "0002420",
+        "sale":  1250
     },
     {
-        "name":  "Mt Jasmine",
         "stock":  4,
-        "barcode":  "002332",
-        "sale":  800,
-        "mrp":  907.5,
+        "group":  "S",
         "wholesale":  605,
-        "group":  "S"
+        "mrp":  907.5,
+        "name":  "Mt Jasmine",
+        "barcode":  "002332",
+        "sale":  800
     },
     {
-        "name":  "KC Muhsin",
         "stock":  1,
-        "barcode":  "000604",
-        "sale":  2050,
-        "mrp":  2250,
+        "group":  "T",
         "wholesale":  1500,
-        "group":  "T"
+        "mrp":  2250,
+        "name":  "KC Muhsin",
+        "barcode":  "000604",
+        "sale":  2050
     },
     {
         "name":  "OM TITAN",
@@ -3321,31 +3321,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SBC 4358",
         "stock":  4,
-        "barcode":  "0002774",
-        "sale":  1800,
-        "mrp":  2070,
+        "group":  "T",
         "wholesale":  1380,
-        "group":  "T"
+        "mrp":  2070,
+        "name":  "SBC 4358",
+        "barcode":  "0002774",
+        "sale":  1800
     },
     {
-        "name":  "OM Mojito",
         "stock":  1,
-        "barcode":  "001433",
-        "sale":  600,
-        "mrp":  667.5,
+        "group":  "S",
         "wholesale":  445,
-        "group":  "S"
+        "mrp":  667.5,
+        "name":  "OM Mojito",
+        "barcode":  "001433",
+        "sale":  600
     },
     {
-        "name":  "N Lovely",
         "stock":  1,
-        "barcode":  "0002381",
-        "sale":  1150,
-        "mrp":  1275,
+        "group":  "T",
         "wholesale":  850,
-        "group":  "T"
+        "mrp":  1275,
+        "name":  "N Lovely",
+        "barcode":  "0002381",
+        "sale":  1150
     },
     {
         "name":  "KC Koka",
@@ -3357,13 +3357,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY ARVIND 068",
         "stock":  4,
-        "barcode":  "0002446",
-        "sale":  2000,
-        "mrp":  2542.5,
+        "group":  "P",
         "wholesale":  1695,
-        "group":  "P"
+        "mrp":  2542.5,
+        "name":  "SONY ARVIND 068",
+        "barcode":  "0002446",
+        "sale":  2000
     },
     {
         "name":  "GK Vipul",
@@ -3384,13 +3384,13 @@ var STOCK_DATA = [
         "group":  "Gown"
     },
     {
-        "name":  "GF Bawaal",
         "stock":  3,
-        "barcode":  "000149",
-        "sale":  900,
-        "mrp":  1050,
+        "group":  "S",
         "wholesale":  700,
-        "group":  "S"
+        "mrp":  1050,
+        "name":  "GF Bawaal",
+        "barcode":  "000149",
+        "sale":  900
     },
     {
         "name":  "KC Taimur",
@@ -3411,13 +3411,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CARAMEL CRUNCH",
         "stock":  4,
-        "barcode":  "0002962",
-        "sale":  1200,
-        "mrp":  1335,
+        "group":  "S",
         "wholesale":  890,
-        "group":  "S"
+        "mrp":  1335,
+        "name":  "KC CARAMEL CRUNCH",
+        "barcode":  "0002962",
+        "sale":  1200
     },
     {
         "name":  "Spari 4334B",
@@ -3438,13 +3438,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA MAAZA",
         "stock":  4,
-        "barcode":  "0002917",
-        "sale":  800,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "GNA MAAZA",
+        "barcode":  "0002917",
+        "sale":  800
     },
     {
         "name":  "Vani Sanjoli",
@@ -3456,22 +3456,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Snt July",
         "stock":  3,
-        "barcode":  "002064",
-        "sale":  500,
-        "mrp":  637.5,
+        "group":  "S",
         "wholesale":  345,
-        "group":  "S"
+        "mrp":  637.5,
+        "name":  "Snt July",
+        "barcode":  "002064",
+        "sale":  500
     },
     {
-        "name":  "LIBAS KIDS",
         "stock":  -63,
-        "barcode":  "000781",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "General",
         "wholesale":  0,
-        "group":  "General"
+        "mrp":  0,
+        "name":  "LIBAS KIDS",
+        "barcode":  "000781",
+        "sale":  0
     },
     {
         "name":  "Al Minah XL Sada",
@@ -3483,13 +3483,13 @@ var STOCK_DATA = [
         "group":  "Makhna"
     },
     {
-        "name":  "KC WAFA NOOR (PURSE)",
         "stock":  4,
-        "barcode":  "0003000",
-        "sale":  2680,
-        "mrp":  2977.5,
+        "group":  "G",
         "wholesale":  1985,
-        "group":  "G"
+        "mrp":  2977.5,
+        "name":  "KC WAFA NOOR (PURSE)",
+        "barcode":  "0003000",
+        "sale":  2680
     },
     {
         "name":  "KC KHUSHIYAN TERI",
@@ -3510,22 +3510,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Vas Avni",
         "stock":  6,
-        "barcode":  "002018",
-        "sale":  550,
-        "mrp":  637.5,
+        "group":  "CD",
         "wholesale":  425,
-        "group":  "CD"
+        "mrp":  637.5,
+        "name":  "Vas Avni",
+        "barcode":  "002018",
+        "sale":  550
     },
     {
-        "name":  "KC MAX POWER",
         "stock":  4,
-        "barcode":  "0002886",
-        "sale":  1200,
-        "mrp":  1335,
+        "group":  "S",
         "wholesale":  890,
-        "group":  "S"
+        "mrp":  1335,
+        "name":  "KC MAX POWER",
+        "barcode":  "0002886",
+        "sale":  1200
     },
     {
         "name":  "SONY 009",
@@ -3555,13 +3555,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "HH 1463",
         "stock":  4,
-        "barcode":  "0003097",
-        "sale":  1580,
-        "mrp":  2367,
+        "group":  "T",
         "wholesale":  1315,
-        "group":  "T"
+        "mrp":  2367,
+        "name":  "HH 1463",
+        "barcode":  "0003097",
+        "sale":  1580
     },
     {
         "name":  "PUBLIC DEMAND",
@@ -3591,22 +3591,22 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC Hero Hindustani",
         "stock":  1,
-        "barcode":  "001719",
-        "sale":  2900,
-        "mrp":  3225,
+        "group":  "P",
         "wholesale":  2150,
-        "group":  "P"
+        "mrp":  3225,
+        "name":  "KC Hero Hindustani",
+        "barcode":  "001719",
+        "sale":  2900
     },
     {
-        "name":  "KC MISS UNIVERSE",
         "stock":  1,
-        "barcode":  "002283",
-        "sale":  1550,
-        "mrp":  1987.5,
+        "group":  "T",
         "wholesale":  1325,
-        "group":  "T"
+        "mrp":  1987.5,
+        "name":  "KC MISS UNIVERSE",
+        "barcode":  "002283",
+        "sale":  1550
     },
     {
         "name":  "GF Apney",
@@ -3627,13 +3627,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "WHITE 2 TAI",
         "stock":  13,
-        "barcode":  "0002451",
-        "sale":  550,
-        "mrp":  630,
+        "group":  "CS",
         "wholesale":  420,
-        "group":  "CS"
+        "mrp":  630,
+        "name":  "WHITE 2 TAI",
+        "barcode":  "0002451",
+        "sale":  550
     },
     {
         "name":  "KC Table Tennis",
@@ -3654,13 +3654,13 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "RS 004",
         "stock":  -11,
-        "barcode":  "001844",
-        "sale":  1600,
-        "mrp":  1762.5,
+        "group":  "S",
         "wholesale":  1175,
-        "group":  "S"
+        "mrp":  1762.5,
+        "name":  "RS 004",
+        "barcode":  "001844",
+        "sale":  1600
     },
     {
         "name":  "KOMAL",
@@ -3690,13 +3690,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "ROYAL BRAND QUEEN",
         "stock":  48,
-        "barcode":  "0002853",
-        "sale":  300,
-        "mrp":  340.5,
+        "group":  "CC",
         "wholesale":  227,
-        "group":  "CC"
+        "mrp":  340.5,
+        "name":  "ROYAL BRAND QUEEN",
+        "barcode":  "0002853",
+        "sale":  300
     },
     {
         "name":  "KC Muzahira",
@@ -3717,13 +3717,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Kc Kubera",
         "stock":  1,
-        "barcode":  "002318",
-        "sale":  1600,
-        "mrp":  17925,
+        "group":  "T",
         "wholesale":  1195,
-        "group":  "T"
+        "mrp":  17925,
+        "name":  "Kc Kubera",
+        "barcode":  "002318",
+        "sale":  1600
     },
     {
         "name":  "JS MANALI",
@@ -3735,22 +3735,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Sony Gown",
         "stock":  -9,
-        "barcode":  "001318",
-        "sale":  3350,
-        "mrp":  3600,
+        "group":  "G",
         "wholesale":  2400,
-        "group":  "G"
+        "mrp":  3600,
+        "name":  "Sony Gown",
+        "barcode":  "001318",
+        "sale":  3350
     },
     {
-        "name":  "GNA Jitendar",
         "stock":  -1,
-        "barcode":  "001591",
-        "sale":  650,
-        "mrp":  870,
+        "group":  "S",
         "wholesale":  580,
-        "group":  "S"
+        "mrp":  870,
+        "name":  "GNA Jitendar",
+        "barcode":  "001591",
+        "sale":  650
     },
     {
         "name":  "Crunchy 0001",
@@ -3762,22 +3762,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC PURE GOLD",
         "stock":  4,
-        "barcode":  "0002568",
-        "sale":  1950,
-        "mrp":  2317.5,
+        "group":  "S",
         "wholesale":  1545,
-        "group":  "S"
+        "mrp":  2317.5,
+        "name":  "KC PURE GOLD",
+        "barcode":  "0002568",
+        "sale":  1950
     },
     {
-        "name":  "SNT BHAVIKA",
         "stock":  8,
-        "barcode":  "0003112",
-        "sale":  750,
-        "mrp":  937.5,
+        "group":  "S",
         "wholesale":  625,
-        "group":  "S"
+        "mrp":  937.5,
+        "name":  "SNT BHAVIKA",
+        "barcode":  "0003112",
+        "sale":  750
     },
     {
         "name":  "Fire SNT",
@@ -3798,13 +3798,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "G50",
         "stock":  1,
-        "barcode":  "000112",
-        "sale":  500,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "G50",
+        "barcode":  "000112",
+        "sale":  500
     },
     {
         "name":  "MN Lassi",
@@ -3825,13 +3825,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RICH BERRIES",
         "stock":  2,
-        "barcode":  "0002557",
-        "sale":  1150,
-        "mrp":  1387.5,
+        "group":  "S",
         "wholesale":  925,
-        "group":  "S"
+        "mrp":  1387.5,
+        "name":  "KC RICH BERRIES",
+        "barcode":  "0002557",
+        "sale":  1150
     },
     {
         "name":  "Vc Playstore",
@@ -3843,13 +3843,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC PIZOOKIE",
         "stock":  4,
-        "barcode":  "0002878",
-        "sale":  1850,
-        "mrp":  2070,
+        "group":  "S",
         "wholesale":  1380,
-        "group":  "S"
+        "mrp":  2070,
+        "name":  "KC PIZOOKIE",
+        "barcode":  "0002878",
+        "sale":  1850
     },
     {
         "name":  "SAHELI SHARARA",
@@ -3870,22 +3870,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MORNING TUNE",
         "stock":  4,
-        "barcode":  "0002884",
-        "sale":  1200,
-        "mrp":  1335,
+        "group":  "S",
         "wholesale":  890,
-        "group":  "S"
+        "mrp":  1335,
+        "name":  "KC MORNING TUNE",
+        "barcode":  "0002884",
+        "sale":  1200
     },
     {
-        "name":  "SS JAAM MIX biscuits",
         "stock":  23,
-        "barcode":  "0002511",
-        "sale":  500,
-        "mrp":  495,
+        "group":  "CS",
         "wholesale":  330,
-        "group":  "CS"
+        "mrp":  495,
+        "name":  "SS JAAM MIX biscuits",
+        "barcode":  "0002511",
+        "sale":  500
     },
     {
         "name":  "Music Gunjan",
@@ -3897,22 +3897,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "MT Skena",
         "stock":  2,
-        "barcode":  "001821",
-        "sale":  550,
-        "mrp":  637.5,
+        "group":  "S",
         "wholesale":  425,
-        "group":  "S"
+        "mrp":  637.5,
+        "name":  "MT Skena",
+        "barcode":  "001821",
+        "sale":  550
     },
     {
-        "name":  "Kkc Qayamat NX",
         "stock":  1,
-        "barcode":  "002192",
-        "sale":  380,
-        "mrp":  420,
+        "group":  "CC",
         "wholesale":  280,
-        "group":  "CC"
+        "mrp":  420,
+        "name":  "Kkc Qayamat NX",
+        "barcode":  "002192",
+        "sale":  380
     },
     {
         "name":  "GK Torento",
@@ -3942,13 +3942,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "01 LACHA",
         "stock":  13,
-        "barcode":  "000001",
-        "sale":  2500,
-        "mrp":  3775,
+        "group":  "F",
         "wholesale":  1550,
-        "group":  "F"
+        "mrp":  3775,
+        "name":  "01 LACHA",
+        "barcode":  "000001",
+        "sale":  2500
     },
     {
         "name":  "GF Green city",
@@ -3969,13 +3969,13 @@ var STOCK_DATA = [
         "group":  "K"
     },
     {
-        "name":  "SNT Janvi",
         "stock":  12,
-        "barcode":  "001229",
-        "sale":  600,
-        "mrp":  848,
+        "group":  "S",
         "wholesale":  565.33,
-        "group":  "S"
+        "mrp":  848,
+        "name":  "SNT Janvi",
+        "barcode":  "001229",
+        "sale":  600
     },
     {
         "name":  "KC Wynk",
@@ -3996,13 +3996,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KF RAYON TOP",
         "stock":  2,
-        "barcode":  "0002532",
-        "sale":  350,
-        "mrp":  405,
+        "group":  "CS",
         "wholesale":  270,
-        "group":  "CS"
+        "mrp":  405,
+        "name":  "KF RAYON TOP",
+        "barcode":  "0002532",
+        "sale":  350
     },
     {
         "name":  "KC Taqdeer",
@@ -4032,13 +4032,13 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "KC MADRAS CAFE",
         "stock":  2,
-        "barcode":  "0002426",
-        "sale":  2250,
-        "mrp":  3052.5,
+        "group":  "P",
         "wholesale":  2035,
-        "group":  "P"
+        "mrp":  3052.5,
+        "name":  "KC MADRAS CAFE",
+        "barcode":  "0002426",
+        "sale":  2250
     },
     {
         "name":  "CRAZY COLOURS",
@@ -4059,22 +4059,22 @@ var STOCK_DATA = [
         "group":  "K"
     },
     {
-        "name":  "Lc Soniya",
         "stock":  6,
-        "barcode":  "0002660",
-        "sale":  750,
-        "mrp":  947.5,
+        "group":  "S",
         "wholesale":  565,
-        "group":  "S"
+        "mrp":  947.5,
+        "name":  "Lc Soniya",
+        "barcode":  "0002660",
+        "sale":  750
     },
     {
-        "name":  "GNA GORJET",
         "stock":  12,
-        "barcode":  "0003010",
-        "sale":  630,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "GNA GORJET",
+        "barcode":  "0003010",
+        "sale":  630
     },
     {
         "name":  "SNT Twinkle",
@@ -4131,13 +4131,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM Roshni",
         "stock":  6,
-        "barcode":  "001985",
-        "sale":  550,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "OM Roshni",
+        "barcode":  "001985",
+        "sale":  550
     },
     {
         "name":  "MF 007",
@@ -4149,31 +4149,31 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC CRAZY BOUNCE",
         "stock":  4,
-        "barcode":  "0002893",
-        "sale":  3000,
-        "mrp":  3975,
+        "group":  "FARSI",
         "wholesale":  2650,
-        "group":  "FARSI"
+        "mrp":  3975,
+        "name":  "KC CRAZY BOUNCE",
+        "barcode":  "0002893",
+        "sale":  3000
     },
     {
-        "name":  "Snt Baarat",
         "stock":  3,
-        "barcode":  "0002524",
-        "sale":  700,
-        "mrp":  855,
+        "group":  "S",
         "wholesale":  570,
-        "group":  "S"
+        "mrp":  855,
+        "name":  "Snt Baarat",
+        "barcode":  "0002524",
+        "sale":  700
     },
     {
-        "name":  "GK IIFA",
         "stock":  4,
-        "barcode":  "002350",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "GK IIFA",
+        "barcode":  "002350",
+        "sale":  650
     },
     {
         "name":  "MOONLIGHT YELLOW",
@@ -4185,13 +4185,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT HEENA",
         "stock":  4,
-        "barcode":  "001221",
-        "sale":  650,
-        "mrp":  810,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  810,
+        "name":  "SNT HEENA",
+        "barcode":  "001221",
+        "sale":  650
     },
     {
         "name":  "Anusha",
@@ -4203,31 +4203,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MAS BMW",
         "stock":  10,
-        "barcode":  "0002699",
-        "sale":  700,
-        "mrp":  975,
+        "group":  "S",
         "wholesale":  650,
-        "group":  "S"
+        "mrp":  975,
+        "name":  "MAS BMW",
+        "barcode":  "0002699",
+        "sale":  700
     },
     {
-        "name":  "Plain Kapda Mix Light Colour Chart",
         "stock":  -388,
-        "barcode":  "001003",
-        "sale":  30,
-        "mrp":  19.5,
+        "group":  "S",
         "wholesale":  13,
-        "group":  "S"
+        "mrp":  19.5,
+        "name":  "Plain Kapda Mix Light Colour Chart",
+        "barcode":  "001003",
+        "sale":  30
     },
     {
-        "name":  "GNA FOX DHAKA",
         "stock":  5,
-        "barcode":  "0002756",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "S",
         "wholesale":  550,
-        "group":  "S"
+        "mrp":  825,
+        "name":  "GNA FOX DHAKA",
+        "barcode":  "0002756",
+        "sale":  750
     },
     {
         "name":  "INNU BELLA",
@@ -4239,13 +4239,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROWDY RAJA",
         "stock":  4,
-        "barcode":  "0003029",
-        "sale":  2190,
-        "mrp":  2625,
+        "group":  "P",
         "wholesale":  1750,
-        "group":  "P"
+        "mrp":  2625,
+        "name":  "KC ROWDY RAJA",
+        "barcode":  "0003029",
+        "sale":  2190
     },
     {
         "name":  "KC Shaima",
@@ -4257,13 +4257,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT MONALISA",
         "stock":  2,
-        "barcode":  "001254",
-        "sale":  550,
-        "mrp":  772,
+        "group":  "S",
         "wholesale":  514.67,
-        "group":  "S"
+        "mrp":  772,
+        "name":  "SNT MONALISA",
+        "barcode":  "001254",
+        "sale":  550
     },
     {
         "name":  "SONY 101 READYMADE",
@@ -4284,22 +4284,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "JBT SIMRAN",
         "stock":  4,
-        "barcode":  "0002758",
-        "sale":  600,
-        "mrp":  675,
+        "group":  "S",
         "wholesale":  450,
-        "group":  "S"
+        "mrp":  675,
+        "name":  "JBT SIMRAN",
+        "barcode":  "0002758",
+        "sale":  600
     },
     {
-        "name":  "YF Varsha Devi",
         "stock":  -12,
-        "barcode":  "001905",
-        "sale":  500,
-        "mrp":  547.5,
+        "group":  "S",
         "wholesale":  365,
-        "group":  "S"
+        "mrp":  547.5,
+        "name":  "YF Varsha Devi",
+        "barcode":  "001905",
+        "sale":  500
     },
     {
         "name":  "OM Verna",
@@ -4329,22 +4329,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Chahat Jaam Mix 03",
         "stock":  -6,
-        "barcode":  "002270",
-        "sale":  450,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  275,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "Chahat Jaam Mix 03",
+        "barcode":  "002270",
+        "sale":  450
     },
     {
-        "name":  "RS 1295 MOSS",
         "stock":  12,
-        "barcode":  "0002941",
-        "sale":  1600,
-        "mrp":  1792.5,
+        "group":  "S",
         "wholesale":  1195,
-        "group":  "S"
+        "mrp":  1792.5,
+        "name":  "RS 1295 MOSS",
+        "barcode":  "0002941",
+        "sale":  1600
     },
     {
         "name":  "KC Mango Dolly",
@@ -4356,13 +4356,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VF LAST TIME",
         "stock":  8,
-        "barcode":  "0002970",
-        "sale":  1600,
-        "mrp":  2047.5,
+        "group":  "T",
         "wholesale":  1265,
-        "group":  "T"
+        "mrp":  2047.5,
+        "name":  "VF LAST TIME",
+        "barcode":  "0002970",
+        "sale":  1600
     },
     {
         "name":  "Roman White Star",
@@ -4446,13 +4446,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "YF Bislerry",
         "stock":  1,
-        "barcode":  "002069",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "YF Bislerry",
+        "barcode":  "002069",
+        "sale":  550
     },
     {
         "name":  "MT SALMA",
@@ -4464,13 +4464,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Ahd Reyon Dupatta",
         "stock":  2,
-        "barcode":  "002289",
-        "sale":  550,
-        "mrp":  592.5,
+        "group":  "CS",
         "wholesale":  395,
-        "group":  "CS"
+        "mrp":  592.5,
+        "name":  "Ahd Reyon Dupatta",
+        "barcode":  "002289",
+        "sale":  550
     },
     {
         "name":  "SONY PLAZO",
@@ -4491,13 +4491,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KT SAPNA",
         "stock":  5,
-        "barcode":  "0002718",
-        "sale":  330,
-        "mrp":  361.5,
+        "group":  "CS",
         "wholesale":  241,
-        "group":  "CS"
+        "mrp":  361.5,
+        "name":  "KT SAPNA",
+        "barcode":  "0002718",
+        "sale":  330
     },
     {
         "name":  "SNT Variety",
@@ -4509,13 +4509,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "YF jeevan Dhara",
         "stock":  -3,
-        "barcode":  "002070",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "YF jeevan Dhara",
+        "barcode":  "002070",
+        "sale":  550
     },
     {
         "name":  "JMD VIMOCHAN",
@@ -4590,31 +4590,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Chaiya Chaiya",
         "stock":  2,
-        "barcode":  "001712",
-        "sale":  2400,
-        "mrp":  2685,
+        "group":  "T",
         "wholesale":  1790,
-        "group":  "T"
+        "mrp":  2685,
+        "name":  "KC Chaiya Chaiya",
+        "barcode":  "001712",
+        "sale":  2400
     },
     {
-        "name":  "Cotton 2.25 Dupatta WHITE",
         "stock":  13,
-        "barcode":  "002274",
-        "sale":  120,
-        "mrp":  127,
+        "group":  "Dupatta",
         "wholesale":  90,
-        "group":  "Dupatta"
+        "mrp":  127,
+        "name":  "Cotton 2.25 Dupatta WHITE",
+        "barcode":  "002274",
+        "sale":  120
     },
     {
-        "name":  "KC PATIYALA QUEEN FARSI",
         "stock":  2,
-        "barcode":  "0002842",
-        "sale":  2999,
-        "mrp":  3975,
+        "group":  "FARSI",
         "wholesale":  2650,
-        "group":  "FARSI"
+        "mrp":  3975,
+        "name":  "KC PATIYALA QUEEN FARSI",
+        "barcode":  "0002842",
+        "sale":  2999
     },
     {
         "name":  "KC Zulfein",
@@ -4626,13 +4626,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Masti Prem Leela",
         "stock":  13,
-        "barcode":  "002195",
-        "sale":  370,
-        "mrp":  487.5,
+        "group":  "CC",
         "wholesale":  325,
-        "group":  "CC"
+        "mrp":  487.5,
+        "name":  "Masti Prem Leela",
+        "barcode":  "002195",
+        "sale":  370
     },
     {
         "name":  "GNA Ranchi jam",
@@ -4653,13 +4653,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FUSION BITE",
         "stock":  4,
-        "barcode":  "0002820",
-        "sale":  900,
-        "mrp":  1020,
+        "group":  "CS",
         "wholesale":  680,
-        "group":  "CS"
+        "mrp":  1020,
+        "name":  "KC FUSION BITE",
+        "barcode":  "0002820",
+        "sale":  900
     },
     {
         "name":  "KC Orient",
@@ -4671,22 +4671,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM Khushnasib",
         "stock":  3,
-        "barcode":  "002123",
-        "sale":  600,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  390,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "OM Khushnasib",
+        "barcode":  "002123",
+        "sale":  600
     },
     {
-        "name":  "Om Khushbu",
         "stock":  1,
-        "barcode":  "002078",
-        "sale":  600,
-        "mrp":  780,
+        "group":  "S",
         "wholesale":  520,
-        "group":  "S"
+        "mrp":  780,
+        "name":  "Om Khushbu",
+        "barcode":  "002078",
+        "sale":  600
     },
     {
         "name":  "SG MashaAllah",
@@ -4707,13 +4707,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Bhagya Laxmi Alfino",
         "stock":  2,
-        "barcode":  "002052",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "Bhagya Laxmi Alfino",
+        "barcode":  "002052",
+        "sale":  550
     },
     {
         "name":  "Kiana SG-221",
@@ -4725,13 +4725,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kkc Panchi",
         "stock":  -10,
-        "barcode":  "000758",
-        "sale":  450,
-        "mrp":  510,
+        "group":  "CC",
         "wholesale":  340,
-        "group":  "CC"
+        "mrp":  510,
+        "name":  "Kkc Panchi",
+        "barcode":  "000758",
+        "sale":  450
     },
     {
         "name":  "OLKA",
@@ -4761,58 +4761,58 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT SANDWICH",
         "stock":  4,
-        "barcode":  "001572",
-        "sale":  700,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "SNT SANDWICH",
+        "barcode":  "001572",
+        "sale":  700
     },
     {
-        "name":  "GNA MIRINDA",
         "stock":  4,
-        "barcode":  "0002916",
-        "sale":  800,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "GNA MIRINDA",
+        "barcode":  "0002916",
+        "sale":  800
     },
     {
-        "name":  "KC CRYSTAL WEAVE",
         "stock":  2,
-        "barcode":  "0002782",
-        "sale":  1150,
-        "mrp":  1320,
+        "group":  "CS",
         "wholesale":  880,
-        "group":  "CS"
+        "mrp":  1320,
+        "name":  "KC CRYSTAL WEAVE",
+        "barcode":  "0002782",
+        "sale":  1150
     },
     {
-        "name":  "Lacha",
         "stock":  -17,
-        "barcode":  "000766",
-        "sale":  27800,
-        "mrp":  15000,
+        "group":  "L",
         "wholesale":  0,
-        "group":  "L"
+        "mrp":  15000,
+        "name":  "Lacha",
+        "barcode":  "000766",
+        "sale":  27800
     },
     {
-        "name":  "KC SHAHI ANGOOR",
         "stock":  4,
-        "barcode":  "0002741",
-        "sale":  1650,
-        "mrp":  2130,
+        "group":  "S",
         "wholesale":  1420,
-        "group":  "S"
+        "mrp":  2130,
+        "name":  "KC SHAHI ANGOOR",
+        "barcode":  "0002741",
+        "sale":  1650
     },
     {
-        "name":  "MT Shifa",
         "stock":  4,
-        "barcode":  "001690",
-        "sale":  650,
-        "mrp":  727,
+        "group":  "S",
         "wholesale":  484.67,
-        "group":  "S"
+        "mrp":  727,
+        "name":  "MT Shifa",
+        "barcode":  "001690",
+        "sale":  650
     },
     {
         "name":  "Sanjoli",
@@ -4842,13 +4842,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Gadar",
         "stock":  -2,
-        "barcode":  "000115",
-        "sale":  1150,
-        "mrp":  1275,
+        "group":  "T",
         "wholesale":  850,
-        "group":  "T"
+        "mrp":  1275,
+        "name":  "Gadar",
+        "barcode":  "000115",
+        "sale":  1150
     },
     {
         "name":  "GNA Jam Galaxy",
@@ -4860,13 +4860,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Xxx",
         "stock":  -3,
-        "barcode":  "001939",
-        "sale":  550,
-        "mrp":  772.5,
+        "group":  "S",
         "wholesale":  515,
-        "group":  "S"
+        "mrp":  772.5,
+        "name":  "SNT Xxx",
+        "barcode":  "001939",
+        "sale":  550
     },
     {
         "name":  "RS 2 No X",
@@ -4896,22 +4896,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Outlook",
         "stock":  1,
-        "barcode":  "0002385",
-        "sale":  2450,
-        "mrp":  2737.5,
+        "group":  "P",
         "wholesale":  1825,
-        "group":  "P"
+        "mrp":  2737.5,
+        "name":  "KC Outlook",
+        "barcode":  "0002385",
+        "sale":  2450
     },
     {
-        "name":  "VT Sunrise",
         "stock":  -3,
-        "barcode":  "001943",
-        "sale":  850,
-        "mrp":  975,
+        "group":  "S",
         "wholesale":  650,
-        "group":  "S"
+        "mrp":  975,
+        "name":  "VT Sunrise",
+        "barcode":  "001943",
+        "sale":  850
     },
     {
         "name":  "GK Gabgubai",
@@ -4968,22 +4968,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "INSTAGRAM JIMMY CHUU",
         "stock":  49,
-        "barcode":  "0003012",
-        "sale":  1100,
-        "mrp":  1350,
+        "group":  "P",
         "wholesale":  900,
-        "group":  "P"
+        "mrp":  1350,
+        "name":  "INSTAGRAM JIMMY CHUU",
+        "barcode":  "0003012",
+        "sale":  1100
     },
     {
-        "name":  "OM Fuwara",
         "stock":  3,
-        "barcode":  "000943",
-        "sale":  600,
-        "mrp":  645,
+        "group":  "S",
         "wholesale":  390,
-        "group":  "S"
+        "mrp":  645,
+        "name":  "OM Fuwara",
+        "barcode":  "000943",
+        "sale":  600
     },
     {
         "name":  "VC PAKISTANI WHITE HOUSE",
@@ -4995,13 +4995,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Baazigar",
         "stock":  2,
-        "barcode":  "002093",
-        "sale":  700,
-        "mrp":  952.5,
+        "group":  "S",
         "wholesale":  635,
-        "group":  "S"
+        "mrp":  952.5,
+        "name":  "SNT Baazigar",
+        "barcode":  "002093",
+        "sale":  700
     },
     {
         "name":  "KC ZARKA",
@@ -5022,13 +5022,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ZOOM FASHION",
         "stock":  4,
-        "barcode":  "0002840",
-        "sale":  3000,
-        "mrp":  3877.5,
+        "group":  "FARSI",
         "wholesale":  2585,
-        "group":  "FARSI"
+        "mrp":  3877.5,
+        "name":  "KC ZOOM FASHION",
+        "barcode":  "0002840",
+        "sale":  3000
     },
     {
         "name":  "GK Prime",
@@ -5067,22 +5067,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM SONA BABU",
         "stock":  4,
-        "barcode":  "0002978",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "OM SONA BABU",
+        "barcode":  "0002978",
+        "sale":  700
     },
     {
-        "name":  "OM Burj Khalifa",
         "stock":  3,
-        "barcode":  "001811",
-        "sale":  650,
-        "mrp":  862.5,
+        "group":  "S",
         "wholesale":  575,
-        "group":  "S"
+        "mrp":  862.5,
+        "name":  "OM Burj Khalifa",
+        "barcode":  "001811",
+        "sale":  650
     },
     {
         "name":  "Om Race",
@@ -5121,13 +5121,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KT JANNAT",
         "stock":  24,
-        "barcode":  "0003006",
-        "sale":  320,
-        "mrp":  345,
+        "group":  "S",
         "wholesale":  230,
-        "group":  "S"
+        "mrp":  345,
+        "name":  "KT JANNAT",
+        "barcode":  "0003006",
+        "sale":  320
     },
     {
         "name":  "KC STYLISH BEAUTY, FARSHI",
@@ -5148,22 +5148,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Taaziir",
         "stock":  2,
-        "barcode":  "0002668",
-        "sale":  850,
-        "mrp":  877.5,
+        "group":  "CS",
         "wholesale":  585,
-        "group":  "CS"
+        "mrp":  877.5,
+        "name":  "Kc Taaziir",
+        "barcode":  "0002668",
+        "sale":  850
     },
     {
-        "name":  "WHITE 4 PRINT GALA",
         "stock":  4,
-        "barcode":  "0002453",
-        "sale":  400,
-        "mrp":  667.5,
+        "group":  "CS",
         "wholesale":  445,
-        "group":  "CS"
+        "mrp":  667.5,
+        "name":  "WHITE 4 PRINT GALA",
+        "barcode":  "0002453",
+        "sale":  400
     },
     {
         "name":  "GK Aaghyat",
@@ -5175,13 +5175,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Camric Duptta",
         "stock":  -2,
-        "barcode":  "002339",
-        "sale":  150,
-        "mrp":  165,
+        "group":  "Dupatta",
         "wholesale":  110,
-        "group":  "Dupatta"
+        "mrp":  165,
+        "name":  "Camric Duptta",
+        "barcode":  "002339",
+        "sale":  150
     },
     {
         "name":  "KC Sher",
@@ -5193,31 +5193,31 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "SNT Aditi",
         "stock":  11,
-        "barcode":  "001178",
-        "sale":  800,
-        "mrp":  915,
+        "group":  "S",
         "wholesale":  610,
-        "group":  "S"
+        "mrp":  915,
+        "name":  "SNT Aditi",
+        "barcode":  "001178",
+        "sale":  800
     },
     {
-        "name":  "GNA FIRDOS MIX",
         "stock":  8,
-        "barcode":  "0003035",
-        "sale":  600,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "GNA FIRDOS MIX",
+        "barcode":  "0003035",
+        "sale":  600
     },
     {
-        "name":  "Libas Garments",
         "stock":  -10,
-        "barcode":  "000780",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "Libas Garments",
+        "barcode":  "000780",
+        "sale":  0
     },
     {
         "name":  "KC Kenzo",
@@ -5238,49 +5238,49 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Handkerchief",
         "stock":  -149,
-        "barcode":  "000330",
-        "sale":  10,
-        "mrp":  16,
+        "group":  "General",
         "wholesale":  9,
-        "group":  "General"
+        "mrp":  16,
+        "name":  "Handkerchief",
+        "barcode":  "000330",
+        "sale":  10
     },
     {
-        "name":  "VF SURPRICE",
         "stock":  8,
-        "barcode":  "0002972",
-        "sale":  1800,
-        "mrp":  2137.5,
+        "group":  "P",
         "wholesale":  1425,
-        "group":  "P"
+        "mrp":  2137.5,
+        "name":  "VF SURPRICE",
+        "barcode":  "0002972",
+        "sale":  1800
     },
     {
-        "name":  "MT YUSRA",
         "stock":  1,
-        "barcode":  "001513",
-        "sale":  650,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "MT YUSRA",
+        "barcode":  "001513",
+        "sale":  650
     },
     {
-        "name":  "LC Samayra",
         "stock":  1,
-        "barcode":  "000776",
-        "sale":  600,
-        "mrp":  664,
+        "group":  "S",
         "wholesale":  442.67,
-        "group":  "S"
+        "mrp":  664,
+        "name":  "LC Samayra",
+        "barcode":  "000776",
+        "sale":  600
     },
     {
-        "name":  "PLAZO 1",
         "stock":  -3,
-        "barcode":  "001004",
-        "sale":  1750,
-        "mrp":  2572.5,
+        "group":  "General",
         "wholesale":  1715,
-        "group":  "General"
+        "mrp":  2572.5,
+        "name":  "PLAZO 1",
+        "barcode":  "001004",
+        "sale":  1750
     },
     {
         "name":  "SVT BLACKMAIL",
@@ -5301,13 +5301,13 @@ var STOCK_DATA = [
         "group":  "CD"
     },
     {
-        "name":  "KC REST BOX",
         "stock":  3,
-        "barcode":  "0002504",
-        "sale":  1700,
-        "mrp":  2175,
+        "group":  "T",
         "wholesale":  1450,
-        "group":  "T"
+        "mrp":  2175,
+        "name":  "KC REST BOX",
+        "barcode":  "0002504",
+        "sale":  1700
     },
     {
         "name":  "GF Anokhi",
@@ -5355,13 +5355,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC EASY LOOK",
         "stock":  4,
-        "barcode":  "0002895",
-        "sale":  2650,
-        "mrp":  3135,
+        "group":  "P",
         "wholesale":  2090,
-        "group":  "P"
+        "mrp":  3135,
+        "name":  "KC EASY LOOK",
+        "barcode":  "0002895",
+        "sale":  2650
     },
     {
         "name":  "RS 007",
@@ -5472,31 +5472,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Ganga Jamuna",
         "stock":  4,
-        "barcode":  "001879",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Ganga Jamuna",
+        "barcode":  "001879",
+        "sale":  700
     },
     {
-        "name":  "Rrt High",
         "stock":  -1,
-        "barcode":  "0002536",
-        "sale":  500,
-        "mrp":  680,
+        "group":  "CS",
         "wholesale":  0,
-        "group":  "CS"
+        "mrp":  680,
+        "name":  "Rrt High",
+        "barcode":  "0002536",
+        "sale":  500
     },
     {
-        "name":  "KC STREET FOOD",
         "stock":  4,
-        "barcode":  "0003084",
-        "sale":  800,
-        "mrp":  1215,
+        "group":  "S",
         "wholesale":  675,
-        "group":  "S"
+        "mrp":  1215,
+        "name":  "KC STREET FOOD",
+        "barcode":  "0003084",
+        "sale":  800
     },
     {
         "name":  "SF ZAMZAM",
@@ -5517,31 +5517,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SHAWL DHADKAN",
         "stock":  2399,
-        "barcode":  "000090",
-        "sale":  50,
-        "mrp":  55,
+        "group":  "General",
         "wholesale":  34.51,
-        "group":  "General"
+        "mrp":  55,
+        "name":  "SHAWL DHADKAN",
+        "barcode":  "000090",
+        "sale":  50
     },
     {
-        "name":  "MN Dal Pakwan",
         "stock":  11,
-        "barcode":  "001736",
-        "sale":  399,
-        "mrp":  562.5,
+        "group":  "S",
         "wholesale":  375,
-        "group":  "S"
+        "mrp":  562.5,
+        "name":  "MN Dal Pakwan",
+        "barcode":  "001736",
+        "sale":  399
     },
     {
-        "name":  "KC HAJRAH",
         "stock":  -2,
-        "barcode":  "000516",
-        "sale":  700,
-        "mrp":  877,
+        "group":  "S",
         "wholesale":  584.67,
-        "group":  "S"
+        "mrp":  877,
+        "name":  "KC HAJRAH",
+        "barcode":  "000516",
+        "sale":  700
     },
     {
         "name":  "VAS Mirzapur",
@@ -5553,13 +5553,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT MADHAVI",
         "stock":  4,
-        "barcode":  "0002811",
-        "sale":  850,
-        "mrp":  967.5,
+        "group":  "S",
         "wholesale":  645,
-        "group":  "S"
+        "mrp":  967.5,
+        "name":  "SNT MADHAVI",
+        "barcode":  "0002811",
+        "sale":  850
     },
     {
         "name":  "Mohit Saheli",
@@ -5589,13 +5589,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Seltos",
         "stock":  8,
-        "barcode":  "002244",
-        "sale":  250,
-        "mrp":  431,
+        "group":  "Gents",
         "wholesale":  152,
-        "group":  "Gents"
+        "mrp":  431,
+        "name":  "Seltos",
+        "barcode":  "002244",
+        "sale":  250
     },
     {
         "name":  "Gf Glorious",
@@ -5607,40 +5607,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KKC SEHNAAZ",
         "stock":  7,
-        "barcode":  "0002645",
-        "sale":  300,
-        "mrp":  352.5,
+        "group":  "CS",
         "wholesale":  235,
-        "group":  "CS"
+        "mrp":  352.5,
+        "name":  "KKC SEHNAAZ",
+        "barcode":  "0002645",
+        "sale":  300
     },
     {
-        "name":  "KC SPECIAL SOUL",
         "stock":  4,
-        "barcode":  "0002567",
-        "sale":  1900,
-        "mrp":  2242.5,
+        "group":  "S",
         "wholesale":  1495,
-        "group":  "S"
+        "mrp":  2242.5,
+        "name":  "KC SPECIAL SOUL",
+        "barcode":  "0002567",
+        "sale":  1900
     },
     {
-        "name":  "KC Sab Khushnuma",
         "stock":  1,
-        "barcode":  "002117",
-        "sale":  2550,
-        "mrp":  2842.5,
+        "group":  "P",
         "wholesale":  1895,
-        "group":  "P"
+        "mrp":  2842.5,
+        "name":  "KC Sab Khushnuma",
+        "barcode":  "002117",
+        "sale":  2550
     },
     {
-        "name":  "KC NOORALI",
         "stock":  1,
-        "barcode":  "001537",
-        "sale":  1150,
-        "mrp":  1282,
+        "group":  "S",
         "wholesale":  854.67,
-        "group":  "S"
+        "mrp":  1282,
+        "name":  "KC NOORALI",
+        "barcode":  "001537",
+        "sale":  1150
     },
     {
         "name":  "RV BIJLEE",
@@ -5661,13 +5661,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DIL E GULZAR",
         "stock":  -3,
-        "barcode":  "000467",
-        "sale":  1700,
-        "mrp":  2332,
+        "group":  "T",
         "wholesale":  1554.67,
-        "group":  "T"
+        "mrp":  2332,
+        "name":  "KC DIL E GULZAR",
+        "barcode":  "000467",
+        "sale":  1700
     },
     {
         "name":  "Ss Melody",
@@ -5715,22 +5715,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Trouser",
         "stock":  -3,
-        "barcode":  "001439",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "T",
         "wholesale":  0,
-        "group":  "T"
+        "mrp":  0,
+        "name":  "Trouser",
+        "barcode":  "001439",
+        "sale":  0
     },
     {
-        "name":  "KC ROOP NIKHAR",
         "stock":  4,
-        "barcode":  "0003031",
-        "sale":  1600,
-        "mrp":  1912.5,
+        "group":  "S",
         "wholesale":  1275,
-        "group":  "S"
+        "mrp":  1912.5,
+        "name":  "KC ROOP NIKHAR",
+        "barcode":  "0003031",
+        "sale":  1600
     },
     {
         "name":  "JT Shabana",
@@ -5751,13 +5751,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Red Bull",
         "stock":  7,
-        "barcode":  "002050",
-        "sale":  650,
-        "mrp":  855,
+        "group":  "S",
         "wholesale":  570,
-        "group":  "S"
+        "mrp":  855,
+        "name":  "SNT Red Bull",
+        "barcode":  "002050",
+        "sale":  650
     },
     {
         "name":  "SONY COTTON PANT",
@@ -5778,22 +5778,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM Senorita",
         "stock":  1,
-        "barcode":  "001986",
-        "sale":  499,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "OM Senorita",
+        "barcode":  "001986",
+        "sale":  499
     },
     {
-        "name":  "KC SIZZLE BITE",
         "stock":  4,
-        "barcode":  "0003050",
-        "sale":  1700,
-        "mrp":  2131.5,
+        "group":  "T",
         "wholesale":  1421,
-        "group":  "T"
+        "mrp":  2131.5,
+        "name":  "KC SIZZLE BITE",
+        "barcode":  "0003050",
+        "sale":  1700
     },
     {
         "name":  "SV Royal Stag",
@@ -5832,13 +5832,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC RAJWADI SWEET",
         "stock":  4,
-        "barcode":  "0002703",
-        "sale":  2200,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC RAJWADI SWEET",
+        "barcode":  "0002703",
+        "sale":  2200
     },
     {
         "name":  "SCV Shagun",
@@ -5868,13 +5868,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Star Ship",
         "stock":  -2,
-        "barcode":  "0002399",
-        "sale":  1750,
-        "mrp":  1972.5,
+        "group":  "T",
         "wholesale":  1315,
-        "group":  "T"
+        "mrp":  1972.5,
+        "name":  "Kc Star Ship",
+        "barcode":  "0002399",
+        "sale":  1750
     },
     {
         "name":  "JMD Gangajal",
@@ -5958,13 +5958,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Limca",
         "stock":  5,
-        "barcode":  "001938",
-        "sale":  650,
-        "mrp":  855,
+        "group":  "S",
         "wholesale":  570,
-        "group":  "S"
+        "mrp":  855,
+        "name":  "SNT Limca",
+        "barcode":  "001938",
+        "sale":  650
     },
     {
         "name":  "SF Cocktail",
@@ -5976,22 +5976,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SST SURYAJYOTI",
         "stock":  476,
-        "barcode":  "001357",
-        "sale":  370,
-        "mrp":  502.5,
+        "group":  "CC",
         "wholesale":  340,
-        "group":  "CC"
+        "mrp":  502.5,
+        "name":  "SST SURYAJYOTI",
+        "barcode":  "001357",
+        "sale":  370
     },
     {
-        "name":  "KC TIKHA TADKA",
         "stock":  4,
-        "barcode":  "0002954",
-        "sale":  1800,
-        "mrp":  2160,
+        "group":  "S",
         "wholesale":  1440,
-        "group":  "S"
+        "mrp":  2160,
+        "name":  "KC TIKHA TADKA",
+        "barcode":  "0002954",
+        "sale":  1800
     },
     {
         "name":  "RR Rathore",
@@ -6021,22 +6021,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 1395",
         "stock":  4,
-        "barcode":  "0002945",
-        "sale":  1750,
-        "mrp":  1965,
+        "group":  "S",
         "wholesale":  1310,
-        "group":  "S"
+        "mrp":  1965,
+        "name":  "RS 1395",
+        "barcode":  "0002945",
+        "sale":  1750
     },
     {
-        "name":  "JIMMI CHU 1178",
         "stock":  10,
-        "barcode":  "0002948",
-        "sale":  1100,
-        "mrp":  1387.5,
+        "group":  "T",
         "wholesale":  925,
-        "group":  "T"
+        "mrp":  1387.5,
+        "name":  "JIMMI CHU 1178",
+        "barcode":  "0002948",
+        "sale":  1100
     },
     {
         "name":  "Om Louis",
@@ -6057,13 +6057,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "N Angara",
         "stock":  4,
-        "barcode":  "002368",
-        "sale":  1100,
-        "mrp":  1222.5,
+        "group":  "T",
         "wholesale":  815,
-        "group":  "T"
+        "mrp":  1222.5,
+        "name":  "N Angara",
+        "barcode":  "002368",
+        "sale":  1100
     },
     {
         "name":  "Sony Readymade R104",
@@ -6102,13 +6102,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VC ENJOY",
         "stock":  -6,
-        "barcode":  "0002393",
-        "sale":  480,
-        "mrp":  532.5,
+        "group":  "S",
         "wholesale":  355,
-        "group":  "S"
+        "mrp":  532.5,
+        "name":  "VC ENJOY",
+        "barcode":  "0002393",
+        "sale":  480
     },
     {
         "name":  "LC SAMSUNG",
@@ -6129,13 +6129,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Sony Readymade 1011",
         "stock":  1,
-        "barcode":  "002156",
-        "sale":  2450,
-        "mrp":  2722.5,
+        "group":  "G",
         "wholesale":  1815,
-        "group":  "G"
+        "mrp":  2722.5,
+        "name":  "Sony Readymade 1011",
+        "barcode":  "002156",
+        "sale":  2450
     },
     {
         "name":  "GF NenTara",
@@ -6183,13 +6183,13 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "Sony 109",
         "stock":  -2,
-        "barcode":  "002154",
-        "sale":  2550,
-        "mrp":  2865,
+        "group":  "G",
         "wholesale":  1910,
-        "group":  "G"
+        "mrp":  2865,
+        "name":  "Sony 109",
+        "barcode":  "002154",
+        "sale":  2550
     },
     {
         "name":  "Varnika Misiri",
@@ -6201,13 +6201,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Aarti Turkish Towel",
         "stock":  617,
-        "barcode":  "002288",
-        "sale":  60,
-        "mrp":  61,
+        "group":  "General",
         "wholesale":  40.67,
-        "group":  "General"
+        "mrp":  61,
+        "name":  "Aarti Turkish Towel",
+        "barcode":  "002288",
+        "sale":  60
     },
     {
         "name":  "SF Alina",
@@ -6219,22 +6219,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MALAI COTTON",
         "stock":  9,
-        "barcode":  "0002922",
-        "sale":  550,
-        "mrp":  631.5,
+        "group":  "S",
         "wholesale":  421,
-        "group":  "S"
+        "mrp":  631.5,
+        "name":  "MALAI COTTON",
+        "barcode":  "0002922",
+        "sale":  550
     },
     {
-        "name":  "GNA TELEGRAM",
         "stock":  1,
-        "barcode":  "0002662",
-        "sale":  850,
-        "mrp":  937.5,
+        "group":  "S",
         "wholesale":  625,
-        "group":  "S"
+        "mrp":  937.5,
+        "name":  "GNA TELEGRAM",
+        "barcode":  "0002662",
+        "sale":  850
     },
     {
         "name":  "KC Sara",
@@ -6246,22 +6246,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Inaya Rajwadi",
         "stock":  -3,
-        "barcode":  "002043",
-        "sale":  700,
-        "mrp":  765,
+        "group":  "CS",
         "wholesale":  510,
-        "group":  "CS"
+        "mrp":  765,
+        "name":  "Inaya Rajwadi",
+        "barcode":  "002043",
+        "sale":  700
     },
     {
-        "name":  "Print Zarkan Gala",
         "stock":  1,
-        "barcode":  "002151",
-        "sale":  650,
-        "mrp":  712.5,
+        "group":  "CS",
         "wholesale":  475,
-        "group":  "CS"
+        "mrp":  712.5,
+        "name":  "Print Zarkan Gala",
+        "barcode":  "002151",
+        "sale":  650
     },
     {
         "name":  "SONY K 1224",
@@ -6282,13 +6282,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SNOW ROSE",
         "stock":  4,
-        "barcode":  "0003116",
-        "sale":  1590,
-        "mrp":  1987.5,
+        "group":  "T",
         "wholesale":  1325,
-        "group":  "T"
+        "mrp":  1987.5,
+        "name":  "KC SNOW ROSE",
+        "barcode":  "0003116",
+        "sale":  1590
     },
     {
         "name":  "Suite SNT Neptune",
@@ -6309,13 +6309,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM CHAND KA TUKDA",
         "stock":  4,
-        "barcode":  "0002485",
-        "sale":  650,
-        "mrp":  765,
+        "group":  "T",
         "wholesale":  515,
-        "group":  "T"
+        "mrp":  765,
+        "name":  "OM CHAND KA TUKDA",
+        "barcode":  "0002485",
+        "sale":  650
     },
     {
         "name":  "SF DREEMLAND",
@@ -6345,13 +6345,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SHINE STAR",
         "stock":  4,
-        "barcode":  "0002874",
-        "sale":  3000,
-        "mrp":  3877.5,
+        "group":  "FARSI",
         "wholesale":  2585,
-        "group":  "FARSI"
+        "mrp":  3877.5,
+        "name":  "KC SHINE STAR",
+        "barcode":  "0002874",
+        "sale":  3000
     },
     {
         "name":  "JS Kanchan",
@@ -6372,13 +6372,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KBI 6177",
         "stock":  -1,
-        "barcode":  "002046",
-        "sale":  1450,
-        "mrp":  1627.5,
+        "group":  "T",
         "wholesale":  1085,
-        "group":  "T"
+        "mrp":  1627.5,
+        "name":  "KBI 6177",
+        "barcode":  "002046",
+        "sale":  1450
     },
     {
         "name":  "Music Ruhan Pant",
@@ -6399,22 +6399,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC PRIME FIT",
         "stock":  4,
-        "barcode":  "0002780",
-        "sale":  1150,
-        "mrp":  1320,
+        "group":  "CS",
         "wholesale":  880,
-        "group":  "CS"
+        "mrp":  1320,
+        "name":  "KC PRIME FIT",
+        "barcode":  "0002780",
+        "sale":  1150
     },
     {
-        "name":  "Kc Lovemist",
         "stock":  4,
-        "barcode":  "0002674",
-        "sale":  2550,
-        "mrp":  3112.5,
+        "group":  "Paplon",
         "wholesale":  2075,
-        "group":  "Paplon"
+        "mrp":  3112.5,
+        "name":  "Kc Lovemist",
+        "barcode":  "0002674",
+        "sale":  2550
     },
     {
         "name":  "SNT Pinky",
@@ -6471,22 +6471,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Rs Satin Same Colour",
         "stock":  3,
-        "barcode":  "0002658",
-        "sale":  1400,
-        "mrp":  1560,
+        "group":  "OS",
         "wholesale":  1040,
-        "group":  "OS"
+        "mrp":  1560,
+        "name":  "Rs Satin Same Colour",
+        "barcode":  "0002658",
+        "sale":  1400
     },
     {
-        "name":  "Frock",
         "stock":  -1,
-        "barcode":  "000108",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "General",
         "wholesale":  0,
-        "group":  "General"
+        "mrp":  0,
+        "name":  "Frock",
+        "barcode":  "000108",
+        "sale":  0
     },
     {
         "name":  "KC Dil Diwana",
@@ -6498,40 +6498,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC LOVE MASALA",
         "stock":  4,
-        "barcode":  "0002855",
-        "sale":  1400,
-        "mrp":  1545,
+        "group":  "S",
         "wholesale":  1030,
-        "group":  "S"
+        "mrp":  1545,
+        "name":  "KC LOVE MASALA",
+        "barcode":  "0002855",
+        "sale":  1400
     },
     {
-        "name":  "SG STRAWBERRY",
         "stock":  1,
-        "barcode":  "0002490",
-        "sale":  850,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "SG STRAWBERRY",
+        "barcode":  "0002490",
+        "sale":  850
     },
     {
-        "name":  "OM Zainab",
         "stock":  2,
-        "barcode":  "002001",
-        "sale":  600,
-        "mrp":  705,
+        "group":  "S",
         "wholesale":  470,
-        "group":  "S"
+        "mrp":  705,
+        "name":  "OM Zainab",
+        "barcode":  "002001",
+        "sale":  600
     },
     {
-        "name":  "KC CHLL AND THRIL",
         "stock":  4,
-        "barcode":  "0003110",
-        "sale":  1900,
-        "mrp":  2377.5,
+        "group":  "S",
         "wholesale":  1585,
-        "group":  "S"
+        "mrp":  2377.5,
+        "name":  "KC CHLL AND THRIL",
+        "barcode":  "0003110",
+        "sale":  1900
     },
     {
         "name":  "KC ROOP SUNDARI",
@@ -6561,13 +6561,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MIHRAN",
         "stock":  3,
-        "barcode":  "000594",
-        "sale":  900,
-        "mrp":  1267,
+        "group":  "S",
         "wholesale":  844.67,
-        "group":  "S"
+        "mrp":  1267,
+        "name":  "KC MIHRAN",
+        "barcode":  "000594",
+        "sale":  900
     },
     {
         "name":  "SG CLASSIC",
@@ -6579,13 +6579,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MN Bhel Puri",
         "stock":  1,
-        "barcode":  "001886",
-        "sale":  470,
-        "mrp":  525,
+        "group":  "S",
         "wholesale":  350,
-        "group":  "S"
+        "mrp":  525,
+        "name":  "MN Bhel Puri",
+        "barcode":  "001886",
+        "sale":  470
     },
     {
         "name":  "Sony peplum",
@@ -6651,31 +6651,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "BARKHA",
         "stock":  4,
-        "barcode":  "0002806",
-        "sale":  600,
-        "mrp":  690,
+        "group":  "S",
         "wholesale":  460,
-        "group":  "S"
+        "mrp":  690,
+        "name":  "BARKHA",
+        "barcode":  "0002806",
+        "sale":  600
     },
     {
-        "name":  "KC FUN CRUST",
         "stock":  4,
-        "barcode":  "0003037",
-        "sale":  2050,
-        "mrp":  2580,
+        "group":  "P",
         "wholesale":  1720,
-        "group":  "P"
+        "mrp":  2580,
+        "name":  "KC FUN CRUST",
+        "barcode":  "0003037",
+        "sale":  2050
     },
     {
-        "name":  "JMD Manmeet",
         "stock":  4,
-        "barcode":  "001671",
-        "sale":  400,
-        "mrp":  469,
+        "group":  "S",
         "wholesale":  312.67,
-        "group":  "S"
+        "mrp":  469,
+        "name":  "JMD Manmeet",
+        "barcode":  "001671",
+        "sale":  400
     },
     {
         "name":  "Kc Gulnaar Glow",
@@ -6687,13 +6687,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "RR BAILEY",
         "stock":  -4,
-        "barcode":  "0002607",
-        "sale":  420,
-        "mrp":  475.5,
+        "group":  "CS",
         "wholesale":  317,
-        "group":  "CS"
+        "mrp":  475.5,
+        "name":  "RR BAILEY",
+        "barcode":  "0002607",
+        "sale":  420
     },
     {
         "name":  "GK Sitare",
@@ -6732,13 +6732,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RAIN DANCE",
         "stock":  4,
-        "barcode":  "0003086",
-        "sale":  730,
-        "mrp":  1125,
+        "group":  "S",
         "wholesale":  625,
-        "group":  "S"
+        "mrp":  1125,
+        "name":  "KC RAIN DANCE",
+        "barcode":  "0003086",
+        "sale":  730
     },
     {
         "name":  "MN Twenty Twenty",
@@ -6777,13 +6777,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC RANG SATRANGI",
         "stock":  4,
-        "barcode":  "0003057",
-        "sale":  1030,
-        "mrp":  1237.5,
+        "group":  "S",
         "wholesale":  825,
-        "group":  "S"
+        "mrp":  1237.5,
+        "name":  "KC RANG SATRANGI",
+        "barcode":  "0003057",
+        "sale":  1030
     },
     {
         "name":  "GF Shilpa",
@@ -6822,13 +6822,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FIRST LOVE",
         "stock":  4,
-        "barcode":  "0003105",
-        "sale":  1900,
-        "mrp":  2467,
+        "group":  "P",
         "wholesale":  1645,
-        "group":  "P"
+        "mrp":  2467,
+        "name":  "KC FIRST LOVE",
+        "barcode":  "0003105",
+        "sale":  1900
     },
     {
         "name":  "Bhumi Mastani",
@@ -6840,13 +6840,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS Crunchy 4",
         "stock":  -5,
-        "barcode":  "001850",
-        "sale":  1750,
-        "mrp":  1950,
+        "group":  "S",
         "wholesale":  1300,
-        "group":  "S"
+        "mrp":  1950,
+        "name":  "RS Crunchy 4",
+        "barcode":  "001850",
+        "sale":  1750
     },
     {
         "name":  "SNT Maira",
@@ -6867,13 +6867,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROYAL SWEET",
         "stock":  4,
-        "barcode":  "0003026",
-        "sale":  1400,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC ROYAL SWEET",
+        "barcode":  "0003026",
+        "sale":  1400
     },
     {
         "name":  "MN DHOKLA",
@@ -6894,13 +6894,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "Af Sana",
         "stock":  5,
-        "barcode":  "002051",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "Af Sana",
+        "barcode":  "002051",
+        "sale":  600
     },
     {
         "name":  "Varnika Manohar",
@@ -6912,13 +6912,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Desai Mehbuba",
         "stock":  1,
-        "barcode":  "000080",
-        "sale":  260,
-        "mrp":  323,
+        "group":  "S",
         "wholesale":  215.33,
-        "group":  "S"
+        "mrp":  323,
+        "name":  "Desai Mehbuba",
+        "barcode":  "000080",
+        "sale":  260
     },
     {
         "name":  "Kc High Speed",
@@ -6939,13 +6939,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GOLDEN MELODY",
         "stock":  4,
-        "barcode":  "0002992",
-        "sale":  2570,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC GOLDEN MELODY",
+        "barcode":  "0002992",
+        "sale":  2570
     },
     {
         "name":  "SNT Hum Tum",
@@ -6957,13 +6957,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ICON WEAR",
         "stock":  3,
-        "barcode":  "0002436",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC ICON WEAR",
+        "barcode":  "0002436",
+        "sale":  1450
     },
     {
         "name":  "MF 001",
@@ -6984,13 +6984,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM GIRL FIREND",
         "stock":  -1,
-        "barcode":  "0002764",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "OM GIRL FIREND",
+        "barcode":  "0002764",
+        "sale":  550
     },
     {
         "name":  "GF JASSI",
@@ -7002,13 +7002,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GOOGLE GEMINI",
         "stock":  4,
-        "barcode":  "0002839",
-        "sale":  2200,
-        "mrp":  2685,
+        "group":  "P",
         "wholesale":  1790,
-        "group":  "P"
+        "mrp":  2685,
+        "name":  "KC GOOGLE GEMINI",
+        "barcode":  "0002839",
+        "sale":  2200
     },
     {
         "name":  "Rice GK",
@@ -7029,13 +7029,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "DIVYA KARISHMA",
         "stock":  8,
-        "barcode":  "0002891",
-        "sale":  600,
-        "mrp":  660,
+        "group":  "CD",
         "wholesale":  440,
-        "group":  "CD"
+        "mrp":  660,
+        "name":  "DIVYA KARISHMA",
+        "barcode":  "0002891",
+        "sale":  600
     },
     {
         "name":  "GNA Firdos Dimpal",
@@ -7047,22 +7047,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MINT TWIST",
         "stock":  3,
-        "barcode":  "002358",
-        "sale":  1650,
-        "mrp":  2130,
+        "group":  "P",
         "wholesale":  1420,
-        "group":  "P"
+        "mrp":  2130,
+        "name":  "KC MINT TWIST",
+        "barcode":  "002358",
+        "sale":  1650
     },
     {
-        "name":  "Om 786",
         "stock":  9,
-        "barcode":  "001375",
-        "sale":  500,
-        "mrp":  540,
+        "group":  "S",
         "wholesale":  360,
-        "group":  "S"
+        "mrp":  540,
+        "name":  "Om 786",
+        "barcode":  "001375",
+        "sale":  500
     },
     {
         "name":  "RR Strawberry",
@@ -7074,13 +7074,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Black Cobra",
         "stock":  -2,
-        "barcode":  "002012",
-        "sale":  850,
-        "mrp":  975,
+        "group":  "S",
         "wholesale":  650,
-        "group":  "S"
+        "mrp":  975,
+        "name":  "SNT Black Cobra",
+        "barcode":  "002012",
+        "sale":  850
     },
     {
         "name":  "GF Raseeda",
@@ -7164,13 +7164,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MASTI RANGAT",
         "stock":  20,
-        "barcode":  "0002946",
-        "sale":  500,
-        "mrp":  645,
+        "group":  "CC",
         "wholesale":  430,
-        "group":  "CC"
+        "mrp":  645,
+        "name":  "MASTI RANGAT",
+        "barcode":  "0002946",
+        "sale":  500
     },
     {
         "name":  "KC Feriya",
@@ -7236,13 +7236,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Sony Red 1343",
         "stock":  4,
-        "barcode":  "002271",
-        "sale":  2700,
-        "mrp":  2992.5,
+        "group":  "G",
         "wholesale":  1995,
-        "group":  "G"
+        "mrp":  2992.5,
+        "name":  "Sony Red 1343",
+        "barcode":  "002271",
+        "sale":  2700
     },
     {
         "name":  "GK KITES",
@@ -7272,22 +7272,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Jayveelon JV Camric",
         "stock":  -2,
-        "barcode":  "001707",
-        "sale":  450,
-        "mrp":  502.5,
+        "group":  "S",
         "wholesale":  335,
-        "group":  "S"
+        "mrp":  502.5,
+        "name":  "Jayveelon JV Camric",
+        "barcode":  "001707",
+        "sale":  450
     },
     {
-        "name":  "MT Saanvi",
         "stock":  4,
-        "barcode":  "000844",
-        "sale":  600,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "MT Saanvi",
+        "barcode":  "000844",
+        "sale":  600
     },
     {
         "name":  "Innaya Hotkit",
@@ -7326,13 +7326,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Mf Pum Pum D",
         "stock":  -4,
-        "barcode":  "002176",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "CS",
         "wholesale":  465,
-        "group":  "CS"
+        "mrp":  697.5,
+        "name":  "Mf Pum Pum D",
+        "barcode":  "002176",
+        "sale":  600
     },
     {
         "name":  "KBI 6111",
@@ -7389,22 +7389,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Eva Simon",
         "stock":  1,
-        "barcode":  "002102",
-        "sale":  700,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "Eva Simon",
+        "barcode":  "002102",
+        "sale":  700
     },
     {
-        "name":  "KC GOLDEN VOICE",
         "stock":  4,
-        "barcode":  "0002529",
-        "sale":  1000,
-        "mrp":  1162.5,
+        "group":  "S",
         "wholesale":  775,
-        "group":  "S"
+        "mrp":  1162.5,
+        "name":  "KC GOLDEN VOICE",
+        "barcode":  "0002529",
+        "sale":  1000
     },
     {
         "name":  "OM FREE HAND",
@@ -7434,13 +7434,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "YF Saffron",
         "stock":  3,
-        "barcode":  "002072",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CD",
         "wholesale":  400,
-        "group":  "CD"
+        "mrp":  600,
+        "name":  "YF Saffron",
+        "barcode":  "002072",
+        "sale":  550
     },
     {
         "name":  "Kiana SG-213",
@@ -7452,13 +7452,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC PURE LEAF",
         "stock":  4,
-        "barcode":  "0002732",
-        "sale":  1650,
-        "mrp":  2085,
+        "group":  "S",
         "wholesale":  1390,
-        "group":  "S"
+        "mrp":  2085,
+        "name":  "KC PURE LEAF",
+        "barcode":  "0002732",
+        "sale":  1650
     },
     {
         "name":  "MT Aaj Tak",
@@ -7479,13 +7479,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC NOBLE LIGHT",
         "stock":  1,
-        "barcode":  "002285",
-        "sale":  2300,
-        "mrp":  3052.5,
+        "group":  "P",
         "wholesale":  2035,
-        "group":  "P"
+        "mrp":  3052.5,
+        "name":  "KC NOBLE LIGHT",
+        "barcode":  "002285",
+        "sale":  2300
     },
     {
         "name":  "DIPKA SAKHI SAHELI",
@@ -7497,22 +7497,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GOLDEN CRUNCH",
         "stock":  3,
-        "barcode":  "0002913",
-        "sale":  2800,
-        "mrp":  3120,
+        "group":  "P",
         "wholesale":  2080,
-        "group":  "P"
+        "mrp":  3120,
+        "name":  "KC GOLDEN CRUNCH",
+        "barcode":  "0002913",
+        "sale":  2800
     },
     {
-        "name":  "KC TUMSE ISHQ",
         "stock":  3,
-        "barcode":  "000714",
-        "sale":  1650,
-        "mrp":  1935,
+        "group":  "T",
         "wholesale":  1290,
-        "group":  "T"
+        "mrp":  1935,
+        "name":  "KC TUMSE ISHQ",
+        "barcode":  "000714",
+        "sale":  1650
     },
     {
         "name":  "MN Delhi Chat",
@@ -7533,13 +7533,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Mehbooba",
         "stock":  3,
-        "barcode":  "001691",
-        "sale":  550,
-        "mrp":  742,
+        "group":  "S",
         "wholesale":  494.67,
-        "group":  "S"
+        "mrp":  742,
+        "name":  "SNT Mehbooba",
+        "barcode":  "001691",
+        "sale":  550
     },
     {
         "name":  "KC Chennai express",
@@ -7641,13 +7641,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GULSANA",
         "stock":  3,
-        "barcode":  "0002585",
-        "sale":  1850,
-        "mrp":  2370,
+        "group":  "T",
         "wholesale":  1580,
-        "group":  "T"
+        "mrp":  2370,
+        "name":  "KC GULSANA",
+        "barcode":  "0002585",
+        "sale":  1850
     },
     {
         "name":  "Music Anaya",
@@ -7695,22 +7695,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RESTART",
         "stock":  3,
-        "barcode":  "002254",
-        "sale":  1250,
-        "mrp":  1417.5,
+        "group":  "S",
         "wholesale":  945,
-        "group":  "S"
+        "mrp":  1417.5,
+        "name":  "KC RESTART",
+        "barcode":  "002254",
+        "sale":  1250
     },
     {
-        "name":  "VAS Marry me",
         "stock":  8,
-        "barcode":  "001817",
-        "sale":  750,
-        "mrp":  862.5,
+        "group":  "S",
         "wholesale":  575,
-        "group":  "S"
+        "mrp":  862.5,
+        "name":  "VAS Marry me",
+        "barcode":  "001817",
+        "sale":  750
     },
     {
         "name":  "Sony 2681",
@@ -7740,13 +7740,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SWAG STAR",
         "stock":  4,
-        "barcode":  "0003034",
-        "sale":  2400,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "KC SWAG STAR",
+        "barcode":  "0003034",
+        "sale":  2400
     },
     {
         "name":  "OM Jivika",
@@ -7830,22 +7830,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SMART POINT",
         "stock":  4,
-        "barcode":  "0002823",
-        "sale":  1150,
-        "mrp":  1275,
+        "group":  "S",
         "wholesale":  850,
-        "group":  "S"
+        "mrp":  1275,
+        "name":  "KC SMART POINT",
+        "barcode":  "0002823",
+        "sale":  1150
     },
     {
-        "name":  "Paplon",
         "stock":  -1,
-        "barcode":  "001987",
-        "sale":  1850,
-        "mrp":  2100,
+        "group":  "P",
         "wholesale":  1400,
-        "group":  "P"
+        "mrp":  2100,
+        "name":  "Paplon",
+        "barcode":  "001987",
+        "sale":  1850
     },
     {
         "name":  "SNT Bharti",
@@ -7857,13 +7857,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "WHITE 5 PRINT GALA",
         "stock":  4,
-        "barcode":  "0002454",
-        "sale":  600,
-        "mrp":  667.5,
+        "group":  "S",
         "wholesale":  445,
-        "group":  "S"
+        "mrp":  667.5,
+        "name":  "WHITE 5 PRINT GALA",
+        "barcode":  "0002454",
+        "sale":  600
     },
     {
         "name":  "OM LADO RANI",
@@ -7884,13 +7884,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC DESI RANGREZ",
         "stock":  4,
-        "barcode":  "0002588",
-        "sale":  1050,
-        "mrp":  1192.5,
+        "group":  "S",
         "wholesale":  795,
-        "group":  "S"
+        "mrp":  1192.5,
+        "name":  "KC DESI RANGREZ",
+        "barcode":  "0002588",
+        "sale":  1050
     },
     {
         "name":  "SNT Megha",
@@ -7911,40 +7911,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROCK MASTER",
         "stock":  4,
-        "barcode":  "0002707",
-        "sale":  1550,
-        "mrp":  2002.5,
+        "group":  "T",
         "wholesale":  1335,
-        "group":  "T"
+        "mrp":  2002.5,
+        "name":  "KC ROCK MASTER",
+        "barcode":  "0002707",
+        "sale":  1550
     },
     {
-        "name":  "SNT Madhuri",
         "stock":  7,
-        "barcode":  "001243",
-        "sale":  850,
-        "mrp":  952.5,
+        "group":  "S",
         "wholesale":  625,
-        "group":  "S"
+        "mrp":  952.5,
+        "name":  "SNT Madhuri",
+        "barcode":  "001243",
+        "sale":  850
     },
     {
-        "name":  "KC JIZAAN",
         "stock":  1,
-        "barcode":  "000547",
-        "sale":  2750,
-        "mrp":  3225,
+        "group":  "P",
         "wholesale":  2150,
-        "group":  "P"
+        "mrp":  3225,
+        "name":  "KC JIZAAN",
+        "barcode":  "000547",
+        "sale":  2750
     },
     {
-        "name":  "Saanvi Raftar 2peice",
         "stock":  -21,
-        "barcode":  "0002808",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "CS",
         "wholesale":  0,
-        "group":  "CS"
+        "mrp":  0,
+        "name":  "Saanvi Raftar 2peice",
+        "barcode":  "0002808",
+        "sale":  0
     },
     {
         "name":  "JT Al Noor",
@@ -7992,13 +7992,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM DULHAN SAHIBA",
         "stock":  19,
-        "barcode":  "0002761",
-        "sale":  600,
-        "mrp":  660,
+        "group":  "S",
         "wholesale":  440,
-        "group":  "S"
+        "mrp":  660,
+        "name":  "OM DULHAN SAHIBA",
+        "barcode":  "0002761",
+        "sale":  600
     },
     {
         "name":  "Suite SNT Madhubala",
@@ -8028,13 +8028,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF mango bite",
         "stock":  1,
-        "barcode":  "000198",
-        "sale":  550,
-        "mrp":  615,
+        "group":  "S",
         "wholesale":  410,
-        "group":  "S"
+        "mrp":  615,
+        "name":  "GF mango bite",
+        "barcode":  "000198",
+        "sale":  550
     },
     {
         "name":  "Good luck GK",
@@ -8091,13 +8091,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Cotton 2.25 Dupatta",
         "stock":  10,
-        "barcode":  "002158",
-        "sale":  120,
-        "mrp":  136.08,
+        "group":  "Dupatta",
         "wholesale":  90,
-        "group":  "Dupatta"
+        "mrp":  136.08,
+        "name":  "Cotton 2.25 Dupatta",
+        "barcode":  "002158",
+        "sale":  120
     },
     {
         "name":  "SONY S 72",
@@ -8145,13 +8145,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MN Dal Dhokli",
         "stock":  -1,
-        "barcode":  "000826",
-        "sale":  450,
-        "mrp":  510,
+        "group":  "S",
         "wholesale":  340,
-        "group":  "S"
+        "mrp":  510,
+        "name":  "MN Dal Dhokli",
+        "barcode":  "000826",
+        "sale":  450
     },
     {
         "name":  "KC GUZARISH",
@@ -8172,13 +8172,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "SG SAHIBA",
         "stock":  4,
-        "barcode":  "0002896",
-        "sale":  1750,
-        "mrp":  1972.5,
+        "group":  "G",
         "wholesale":  1315,
-        "group":  "G"
+        "mrp":  1972.5,
+        "name":  "SG SAHIBA",
+        "barcode":  "0002896",
+        "sale":  1750
     },
     {
         "name":  "Roop Sangam 4 No.",
@@ -8199,13 +8199,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Fatima",
         "stock":  13,
-        "barcode":  "001569",
-        "sale":  650,
-        "mrp":  855,
+        "group":  "S",
         "wholesale":  570,
-        "group":  "S"
+        "mrp":  855,
+        "name":  "SNT Fatima",
+        "barcode":  "001569",
+        "sale":  650
     },
     {
         "name":  "GK ROMIYO",
@@ -8244,13 +8244,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ZESTY BITE",
         "stock":  -1,
-        "barcode":  "0002545",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC ZESTY BITE",
+        "barcode":  "0002545",
+        "sale":  1450
     },
     {
         "name":  "JS Dominos",
@@ -8334,13 +8334,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF AUDI",
         "stock":  8,
-        "barcode":  "0002975",
-        "sale":  900,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GF AUDI",
+        "barcode":  "0002975",
+        "sale":  900
     },
     {
         "name":  "KC Mihar",
@@ -8352,13 +8352,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC COOLE CAFE",
         "stock":  4,
-        "barcode":  "002278",
-        "sale":  1600,
-        "mrp":  2017.5,
+        "group":  "T",
         "wholesale":  1345,
-        "group":  "T"
+        "mrp":  2017.5,
+        "name":  "KC COOLE CAFE",
+        "barcode":  "002278",
+        "sale":  1600
     },
     {
         "name":  "KC sunflower",
@@ -8379,13 +8379,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "AVNEE 218",
         "stock":  4,
-        "barcode":  "0003126",
-        "sale":  1200,
-        "mrp":  1500,
+        "group":  "T",
         "wholesale":  1000,
-        "group":  "T"
+        "mrp":  1500,
+        "name":  "AVNEE 218",
+        "barcode":  "0003126",
+        "sale":  1200
     },
     {
         "name":  "Om Brahmastra",
@@ -8406,13 +8406,13 @@ var STOCK_DATA = [
         "group":  "N"
     },
     {
-        "name":  "Kc Chill Beat",
         "stock":  4,
-        "barcode":  "0002499",
-        "sale":  1800,
-        "mrp":  2047.5,
+        "group":  "T",
         "wholesale":  1365,
-        "group":  "T"
+        "mrp":  2047.5,
+        "name":  "Kc Chill Beat",
+        "barcode":  "0002499",
+        "sale":  1800
     },
     {
         "name":  "GF Rayna",
@@ -8424,31 +8424,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MANNAT PIKU",
         "stock":  1,
-        "barcode":  "000799",
-        "sale":  500,
-        "mrp":  697,
+        "group":  "S",
         "wholesale":  464.67,
-        "group":  "S"
+        "mrp":  697,
+        "name":  "MANNAT PIKU",
+        "barcode":  "000799",
+        "sale":  500
     },
     {
-        "name":  "Welcome Tikhi Mirchi",
         "stock":  -12,
-        "barcode":  "001952",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Tikhi Mirchi",
+        "barcode":  "001952",
+        "sale":  700
     },
     {
-        "name":  "KC BIJLI QUEEN",
         "stock":  1,
-        "barcode":  "0003040",
-        "sale":  2380,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC BIJLI QUEEN",
+        "barcode":  "0003040",
+        "sale":  2380
     },
     {
         "name":  "Nevedhyam Gulabi Farshi sharara",
@@ -8523,13 +8523,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Gulabo",
         "stock":  10,
-        "barcode":  "002097",
-        "sale":  600,
-        "mrp":  660,
+        "group":  "S",
         "wholesale":  440,
-        "group":  "S"
+        "mrp":  660,
+        "name":  "Welcome Gulabo",
+        "barcode":  "002097",
+        "sale":  600
     },
     {
         "name":  "Innu Batik Masti",
@@ -8541,13 +8541,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY S70",
         "stock":  2,
-        "barcode":  "0002592",
-        "sale":  1550,
-        "mrp":  1935,
+        "group":  "T",
         "wholesale":  1290,
-        "group":  "T"
+        "mrp":  1935,
+        "name":  "SONY S70",
+        "barcode":  "0002592",
+        "sale":  1550
     },
     {
         "name":  "Kc Golden Gate",
@@ -8559,13 +8559,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC HAPPY DENT",
         "stock":  4,
-        "barcode":  "0002817",
-        "sale":  1050,
-        "mrp":  1192.5,
+        "group":  "S",
         "wholesale":  795,
-        "group":  "S"
+        "mrp":  1192.5,
+        "name":  "KC HAPPY DENT",
+        "barcode":  "0002817",
+        "sale":  1050
     },
     {
         "name":  "KC Kitna Haseen",
@@ -8595,22 +8595,22 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "AMD WORK",
         "stock":  -15,
-        "barcode":  "000030",
-        "sale":  200,
-        "mrp":  259.5,
+        "group":  "S",
         "wholesale":  175,
-        "group":  "S"
+        "mrp":  259.5,
+        "name":  "AMD WORK",
+        "barcode":  "000030",
+        "sale":  200
     },
     {
-        "name":  "SNT Hemali",
         "stock":  7,
-        "barcode":  "001625",
-        "sale":  600,
-        "mrp":  787,
+        "group":  "S",
         "wholesale":  524.67,
-        "group":  "S"
+        "mrp":  787,
+        "name":  "SNT Hemali",
+        "barcode":  "001625",
+        "sale":  600
     },
     {
         "name":  "Jt Atrangi",
@@ -8649,13 +8649,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "VIC NATASHA",
         "stock":  -7,
-        "barcode":  "0002716",
-        "sale":  350,
-        "mrp":  382.5,
+        "group":  "CS",
         "wholesale":  255,
-        "group":  "CS"
+        "mrp":  382.5,
+        "name":  "VIC NATASHA",
+        "barcode":  "0002716",
+        "sale":  350
     },
     {
         "name":  "KC Pacific Osian",
@@ -8667,13 +8667,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SSM SHEENA",
         "stock":  4,
-        "barcode":  "0002468",
-        "sale":  1450,
-        "mrp":  1627.5,
+        "group":  "G",
         "wholesale":  1085,
-        "group":  "G"
+        "mrp":  1627.5,
+        "name":  "SSM SHEENA",
+        "barcode":  "0002468",
+        "sale":  1450
     },
     {
         "name":  "KC Rahmir",
@@ -8685,40 +8685,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Nargis Kali",
         "stock":  4,
-        "barcode":  "0003104",
-        "sale":  1750,
-        "mrp":  2227.5,
+        "group":  "P",
         "wholesale":  1485,
-        "group":  "P"
+        "mrp":  2227.5,
+        "name":  "Kc Nargis Kali",
+        "barcode":  "0003104",
+        "sale":  1750
     },
     {
-        "name":  "VC Panparag",
         "stock":  18,
-        "barcode":  "001477",
-        "sale":  400,
-        "mrp":  457,
+        "group":  "S",
         "wholesale":  304.67,
-        "group":  "S"
+        "mrp":  457,
+        "name":  "VC Panparag",
+        "barcode":  "001477",
+        "sale":  400
     },
     {
-        "name":  "Sony Coding Garara Spl Red",
         "stock":  5,
-        "barcode":  "001307",
-        "sale":  2450,
-        "mrp":  2722.5,
+        "group":  "G",
         "wholesale":  1815,
-        "group":  "G"
+        "mrp":  2722.5,
+        "name":  "Sony Coding Garara Spl Red",
+        "barcode":  "001307",
+        "sale":  2450
     },
     {
-        "name":  "GK Rebal",
         "stock":  4,
-        "barcode":  "001704",
-        "sale":  700,
-        "mrp":  787.5,
+        "group":  "S",
         "wholesale":  525,
-        "group":  "S"
+        "mrp":  787.5,
+        "name":  "GK Rebal",
+        "barcode":  "001704",
+        "sale":  700
     },
     {
         "name":  "KC Sadqay Tumhare",
@@ -8757,22 +8757,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BEAUTY SWAG",
         "stock":  4,
-        "barcode":  "0002994",
-        "sale":  3000,
-        "mrp":  4110,
+        "group":  "F",
         "wholesale":  2740,
-        "group":  "F"
+        "mrp":  4110,
+        "name":  "KC BEAUTY SWAG",
+        "barcode":  "0002994",
+        "sale":  3000
     },
     {
-        "name":  "KKC PRITAM",
         "stock":  56,
-        "barcode":  "002191",
-        "sale":  300,
-        "mrp":  367.5,
+        "group":  "CC",
         "wholesale":  245,
-        "group":  "CC"
+        "mrp":  367.5,
+        "name":  "KKC PRITAM",
+        "barcode":  "002191",
+        "sale":  300
     },
     {
         "name":  "SF AKRUTI",
@@ -8784,22 +8784,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MALAI ANOTHER 2 PC",
         "stock":  64,
-        "barcode":  "0002847",
-        "sale":  200,
-        "mrp":  222,
+        "group":  "CS",
         "wholesale":  148,
-        "group":  "CS"
+        "mrp":  222,
+        "name":  "MALAI ANOTHER 2 PC",
+        "barcode":  "0002847",
+        "sale":  200
     },
     {
-        "name":  "RR AMRUT",
         "stock":  -4,
-        "barcode":  "0002600",
-        "sale":  380,
-        "mrp":  427.5,
+        "group":  "CS",
         "wholesale":  285,
-        "group":  "CS"
+        "mrp":  427.5,
+        "name":  "RR AMRUT",
+        "barcode":  "0002600",
+        "sale":  380
     },
     {
         "name":  "Suite Om Seltos",
@@ -8811,13 +8811,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Meena Tai Gala",
         "stock":  6,
-        "barcode":  "001919",
-        "sale":  550,
-        "mrp":  637.5,
+        "group":  "S",
         "wholesale":  425,
-        "group":  "S"
+        "mrp":  637.5,
+        "name":  "Meena Tai Gala",
+        "barcode":  "001919",
+        "sale":  550
     },
     {
         "name":  "WELCOME SAJNI",
@@ -8856,13 +8856,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RASILA BITE",
         "stock":  2,
-        "barcode":  "0002744",
-        "sale":  850,
-        "mrp":  952.5,
+        "group":  "CS",
         "wholesale":  635,
-        "group":  "CS"
+        "mrp":  952.5,
+        "name":  "KC RASILA BITE",
+        "barcode":  "0002744",
+        "sale":  850
     },
     {
         "name":  "SNT FLOWER GIRL",
@@ -8928,22 +8928,22 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "Meena Patch Work",
         "stock":  1,
-        "barcode":  "002045",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "CS",
         "wholesale":  465,
-        "group":  "CS"
+        "mrp":  697.5,
+        "name":  "Meena Patch Work",
+        "barcode":  "002045",
+        "sale":  600
     },
     {
-        "name":  "Kc Coolie",
         "stock":  4,
-        "barcode":  "002279",
-        "sale":  1750,
-        "mrp":  1987.5,
+        "group":  "T",
         "wholesale":  1325,
-        "group":  "T"
+        "mrp":  1987.5,
+        "name":  "Kc Coolie",
+        "barcode":  "002279",
+        "sale":  1750
     },
     {
         "name":  "Pehnawa",
@@ -8982,31 +8982,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Mf Patchwork",
         "stock":  8,
-        "barcode":  "002294",
-        "sale":  650,
-        "mrp":  705,
+        "group":  "CS",
         "wholesale":  470,
-        "group":  "CS"
+        "mrp":  705,
+        "name":  "Mf Patchwork",
+        "barcode":  "002294",
+        "sale":  650
     },
     {
-        "name":  "KC CREMONA",
         "stock":  4,
-        "barcode":  "0002581",
-        "sale":  1800,
-        "mrp":  2025,
+        "group":  "S",
         "wholesale":  1350,
-        "group":  "S"
+        "mrp":  2025,
+        "name":  "KC CREMONA",
+        "barcode":  "0002581",
+        "sale":  1800
     },
     {
-        "name":  "SNT Sharmila",
         "stock":  4,
-        "barcode":  "001273",
-        "sale":  610,
-        "mrp":  855,
+        "group":  "S",
         "wholesale":  570,
-        "group":  "S"
+        "mrp":  855,
+        "name":  "SNT Sharmila",
+        "barcode":  "001273",
+        "sale":  610
     },
     {
         "name":  "GNA SINDOOR",
@@ -9018,13 +9018,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SWEET DREAM",
         "stock":  4,
-        "barcode":  "0002907",
-        "sale":  1950,
-        "mrp":  2175,
+        "group":  "S",
         "wholesale":  1450,
-        "group":  "S"
+        "mrp":  2175,
+        "name":  "KC SWEET DREAM",
+        "barcode":  "0002907",
+        "sale":  1950
     },
     {
         "name":  "Welcome Sonachandi",
@@ -9036,22 +9036,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "LS PARAS MANI",
         "stock":  1,
-        "barcode":  "000787",
-        "sale":  450,
-        "mrp":  510,
+        "group":  "S",
         "wholesale":  340,
-        "group":  "S"
+        "mrp":  510,
+        "name":  "LS PARAS MANI",
+        "barcode":  "000787",
+        "sale":  450
     },
     {
-        "name":  "RS 002",
         "stock":  -3,
-        "barcode":  "001842",
-        "sale":  1450,
-        "mrp":  1597.5,
+        "group":  "S",
         "wholesale":  1065,
-        "group":  "S"
+        "mrp":  1597.5,
+        "name":  "RS 002",
+        "barcode":  "001842",
+        "sale":  1450
     },
     {
         "name":  "Khawaish SNT",
@@ -9063,13 +9063,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Sada Sukhi",
         "stock":  1,
-        "barcode":  "002067",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "S",
         "wholesale":  550,
-        "group":  "S"
+        "mrp":  825,
+        "name":  "Welcome Sada Sukhi",
+        "barcode":  "002067",
+        "sale":  750
     },
     {
         "name":  "WELCOME SILVER",
@@ -9081,13 +9081,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MF 004",
         "stock":  4,
-        "barcode":  "002223",
-        "sale":  600,
-        "mrp":  667.5,
+        "group":  "CS",
         "wholesale":  445,
-        "group":  "CS"
+        "mrp":  667.5,
+        "name":  "MF 004",
+        "barcode":  "002223",
+        "sale":  600
     },
     {
         "name":  "Varnika Jaipriya",
@@ -9117,13 +9117,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CANDY HEART",
         "stock":  4,
-        "barcode":  "0002644",
-        "sale":  1600,
-        "mrp":  1777.5,
+        "group":  "S",
         "wholesale":  1185,
-        "group":  "S"
+        "mrp":  1777.5,
+        "name":  "KC CANDY HEART",
+        "barcode":  "0002644",
+        "sale":  1600
     },
     {
         "name":  "Kc Luxury Vibe",
@@ -9135,40 +9135,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Large Towel",
         "stock":  182,
-        "barcode":  "000769",
-        "sale":  80,
-        "mrp":  81,
+        "group":  "General",
         "wholesale":  54,
-        "group":  "General"
+        "mrp":  81,
+        "name":  "Large Towel",
+        "barcode":  "000769",
+        "sale":  80
     },
     {
-        "name":  "GK Dil Dariya",
         "stock":  4,
-        "barcode":  "000257",
-        "sale":  1300,
-        "mrp":  1762.5,
+        "group":  "P",
         "wholesale":  1175,
-        "group":  "P"
+        "mrp":  1762.5,
+        "name":  "GK Dil Dariya",
+        "barcode":  "000257",
+        "sale":  1300
     },
     {
-        "name":  "KC MUNCH BOX",
         "stock":  4,
-        "barcode":  "0003081",
-        "sale":  2300,
-        "mrp":  3528,
+        "group":  "P",
         "wholesale":  1960,
-        "group":  "P"
+        "mrp":  3528,
+        "name":  "KC MUNCH BOX",
+        "barcode":  "0003081",
+        "sale":  2300
     },
     {
-        "name":  "Priyanka Turkish Towel",
         "stock":  381,
-        "barcode":  "002295",
-        "sale":  70,
-        "mrp":  75,
+        "group":  "General",
         "wholesale":  50,
-        "group":  "General"
+        "mrp":  75,
+        "name":  "Priyanka Turkish Towel",
+        "barcode":  "002295",
+        "sale":  70
     },
     {
         "name":  "MT HAPPY",
@@ -9198,22 +9198,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC O Diwana",
         "stock":  3,
-        "barcode":  "001600",
-        "sale":  1500,
-        "mrp":  1792,
+        "group":  "S",
         "wholesale":  1194.67,
-        "group":  "S"
+        "mrp":  1792,
+        "name":  "KC O Diwana",
+        "barcode":  "001600",
+        "sale":  1500
     },
     {
-        "name":  "Heavy Zara 02",
         "stock":  2,
-        "barcode":  "001787",
-        "sale":  2049,
-        "mrp":  3740,
+        "group":  "G",
         "wholesale":  1870,
-        "group":  "G"
+        "mrp":  3740,
+        "name":  "Heavy Zara 02",
+        "barcode":  "001787",
+        "sale":  2049
     },
     {
         "name":  "KC Almas",
@@ -9225,40 +9225,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM Jenny",
         "stock":  4,
-        "barcode":  "001998",
-        "sale":  600,
-        "mrp":  705,
+        "group":  "S",
         "wholesale":  470,
-        "group":  "S"
+        "mrp":  705,
+        "name":  "OM Jenny",
+        "barcode":  "001998",
+        "sale":  600
     },
     {
-        "name":  "KC BULBUL MAGIC",
         "stock":  4,
-        "barcode":  "0003052",
-        "sale":  1160,
-        "mrp":  1387.5,
+        "group":  "CS",
         "wholesale":  925,
-        "group":  "CS"
+        "mrp":  1387.5,
+        "name":  "KC BULBUL MAGIC",
+        "barcode":  "0003052",
+        "sale":  1160
     },
     {
-        "name":  "WELCOME MANISHA",
         "stock":  3,
-        "barcode":  "0003067",
-        "sale":  1000,
-        "mrp":  1260,
+        "group":  "S",
         "wholesale":  840,
-        "group":  "S"
+        "mrp":  1260,
+        "name":  "WELCOME MANISHA",
+        "barcode":  "0003067",
+        "sale":  1000
     },
     {
-        "name":  "Vc Super Six",
         "stock":  1,
-        "barcode":  "001920",
-        "sale":  400,
-        "mrp":  480,
+        "group":  "S",
         "wholesale":  320,
-        "group":  "S"
+        "mrp":  480,
+        "name":  "Vc Super Six",
+        "barcode":  "001920",
+        "sale":  400
     },
     {
         "name":  "WELCOME CHHMAK CHALLO",
@@ -9297,22 +9297,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DESI HOOD",
         "stock":  4,
-        "barcode":  "0003111",
-        "sale":  2300,
-        "mrp":  2887.5,
+        "group":  "P",
         "wholesale":  1925,
-        "group":  "P"
+        "mrp":  2887.5,
+        "name":  "KC DESI HOOD",
+        "barcode":  "0003111",
+        "sale":  2300
     },
     {
-        "name":  "KC FIRE BOULT",
         "stock":  4,
-        "barcode":  "001499",
-        "sale":  1650,
-        "mrp":  1807.5,
+        "group":  "S",
         "wholesale":  1205,
-        "group":  "S"
+        "mrp":  1807.5,
+        "name":  "KC FIRE BOULT",
+        "barcode":  "001499",
+        "sale":  1650
     },
     {
         "name":  "Sony kaju katri garara 1026",
@@ -9351,22 +9351,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM Tehlka",
         "stock":  4,
-        "barcode":  "002090",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "OM Tehlka",
+        "barcode":  "002090",
+        "sale":  600
     },
     {
-        "name":  "KC ROYAL KAHWA",
         "stock":  1,
-        "barcode":  "0002689",
-        "sale":  1600,
-        "mrp":  2070,
+        "group":  "T",
         "wholesale":  1380,
-        "group":  "T"
+        "mrp":  2070,
+        "name":  "KC ROYAL KAHWA",
+        "barcode":  "0002689",
+        "sale":  1600
     },
     {
         "name":  "RR Help",
@@ -9396,13 +9396,13 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "RR TRUPTI",
         "stock":  4,
-        "barcode":  "0002604",
-        "sale":  380,
-        "mrp":  427.5,
+        "group":  "CS",
         "wholesale":  285,
-        "group":  "CS"
+        "mrp":  427.5,
+        "name":  "RR TRUPTI",
+        "barcode":  "0002604",
+        "sale":  380
     },
     {
         "name":  "PEHNAWA 3 METER SHALWAR",
@@ -9423,13 +9423,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC Jazari",
         "stock":  1,
-        "barcode":  "000544",
-        "sale":  1590,
-        "mrp":  1765,
+        "group":  "S",
         "wholesale":  1176.67,
-        "group":  "S"
+        "mrp":  1765,
+        "name":  "KC Jazari",
+        "barcode":  "000544",
+        "sale":  1590
     },
     {
         "name":  "SVT Star Shine",
@@ -9477,13 +9477,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Platina",
         "stock":  -1,
-        "barcode":  "001869",
-        "sale":  1800,
-        "mrp":  2465,
+        "group":  "OT",
         "wholesale":  1643.33,
-        "group":  "OT"
+        "mrp":  2465,
+        "name":  "KC Platina",
+        "barcode":  "001869",
+        "sale":  1800
     },
     {
         "name":  "MN Kaju Masala",
@@ -9540,13 +9540,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BANJARA HILLS",
         "stock":  2,
-        "barcode":  "0002630",
-        "sale":  1900,
-        "mrp":  2385,
+        "group":  "P",
         "wholesale":  1590,
-        "group":  "P"
+        "mrp":  2385,
+        "name":  "KC BANJARA HILLS",
+        "barcode":  "0002630",
+        "sale":  1900
     },
     {
         "name":  "SNT Anamika",
@@ -9567,13 +9567,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FULL TASHAN",
         "stock":  4,
-        "barcode":  "0003027",
-        "sale":  1530,
-        "mrp":  1830,
+        "group":  "S",
         "wholesale":  1220,
-        "group":  "S"
+        "mrp":  1830,
+        "name":  "KC FULL TASHAN",
+        "barcode":  "0003027",
+        "sale":  1530
     },
     {
         "name":  "SNT Burbury",
@@ -9585,13 +9585,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "DUA YASHIKA",
         "stock":  2,
-        "barcode":  "0002841",
-        "sale":  500,
-        "mrp":  630,
+        "group":  "CC",
         "wholesale":  420,
-        "group":  "CC"
+        "mrp":  630,
+        "name":  "DUA YASHIKA",
+        "barcode":  "0002841",
+        "sale":  500
     },
     {
         "name":  "OS Aaloo Tikki",
@@ -9603,22 +9603,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SUPER CHARGE",
         "stock":  4,
-        "barcode":  "0002866",
-        "sale":  1700,
-        "mrp":  2085,
+        "group":  "S",
         "wholesale":  1390,
-        "group":  "S"
+        "mrp":  2085,
+        "name":  "KC SUPER CHARGE",
+        "barcode":  "0002866",
+        "sale":  1700
     },
     {
-        "name":  "KC AE DIL",
         "stock":  1,
-        "barcode":  "0002666",
-        "sale":  750,
-        "mrp":  877.5,
+        "group":  "CS",
         "wholesale":  585,
-        "group":  "CS"
+        "mrp":  877.5,
+        "name":  "KC AE DIL",
+        "barcode":  "0002666",
+        "sale":  750
     },
     {
         "name":  "KC Gumnam",
@@ -9657,22 +9657,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MF IPL",
         "stock":  1,
-        "barcode":  "001667",
-        "sale":  800,
-        "mrp":  892,
+        "group":  "S",
         "wholesale":  594.67,
-        "group":  "S"
+        "mrp":  892,
+        "name":  "MF IPL",
+        "barcode":  "001667",
+        "sale":  800
     },
     {
-        "name":  "GK CBZ",
         "stock":  3,
-        "barcode":  "002348",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "GK CBZ",
+        "barcode":  "002348",
+        "sale":  650
     },
     {
         "name":  "KC Mitwa",
@@ -9684,22 +9684,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RUSSIAN PLAZO MIX",
         "stock":  31,
-        "barcode":  "0003008",
-        "sale":  1950,
-        "mrp":  2452.5,
+        "group":  "P",
         "wholesale":  1635,
-        "group":  "P"
+        "mrp":  2452.5,
+        "name":  "RUSSIAN PLAZO MIX",
+        "barcode":  "0003008",
+        "sale":  1950
     },
     {
-        "name":  "SBT DELHI",
         "stock":  7,
-        "barcode":  "0002765",
-        "sale":  300,
-        "mrp":  330,
+        "group":  "CS",
         "wholesale":  220,
-        "group":  "CS"
+        "mrp":  330,
+        "name":  "SBT DELHI",
+        "barcode":  "0002765",
+        "sale":  300
     },
     {
         "name":  "Malvika Beauty Full",
@@ -9720,31 +9720,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FIRE QUEEN",
         "stock":  4,
-        "barcode":  "0002834",
-        "sale":  1450,
-        "mrp":  1875,
+        "group":  "T",
         "wholesale":  1250,
-        "group":  "T"
+        "mrp":  1875,
+        "name":  "KC FIRE QUEEN",
+        "barcode":  "0002834",
+        "sale":  1450
     },
     {
-        "name":  "KC FARZAM",
         "stock":  1,
-        "barcode":  "000495",
-        "sale":  1450,
-        "mrp":  1792,
+        "group":  "S",
         "wholesale":  1194.67,
-        "group":  "S"
+        "mrp":  1792,
+        "name":  "KC FARZAM",
+        "barcode":  "000495",
+        "sale":  1450
     },
     {
-        "name":  "KC FLAMINGO",
         "stock":  1,
-        "barcode":  "0002437",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC FLAMINGO",
+        "barcode":  "0002437",
+        "sale":  1450
     },
     {
         "name":  "Gf Kusum",
@@ -9783,22 +9783,22 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "KT JENNY",
         "stock":  8,
-        "barcode":  "0002730",
-        "sale":  400,
-        "mrp":  442.5,
+        "group":  "CS",
         "wholesale":  295,
-        "group":  "CS"
+        "mrp":  442.5,
+        "name":  "KT JENNY",
+        "barcode":  "0002730",
+        "sale":  400
     },
     {
-        "name":  "KC CASA CRAFT",
         "stock":  -2,
-        "barcode":  "0002482",
-        "sale":  1900,
-        "mrp":  2467.5,
+        "group":  "T",
         "wholesale":  1645,
-        "group":  "T"
+        "mrp":  2467.5,
+        "name":  "KC CASA CRAFT",
+        "barcode":  "0002482",
+        "sale":  1900
     },
     {
         "name":  "Mt Jannat",
@@ -9828,13 +9828,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SHAWL 350",
         "stock":  -47,
-        "barcode":  "001159",
-        "sale":  120,
-        "mrp":  150,
+        "group":  "S",
         "wholesale":  100,
-        "group":  "S"
+        "mrp":  150,
+        "name":  "SHAWL 350",
+        "barcode":  "001159",
+        "sale":  120
     },
     {
         "name":  "GNA CAMRIC AEKTA",
@@ -9882,13 +9882,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Towel Winner",
         "stock":  856,
-        "barcode":  "002346",
-        "sale":  35,
-        "mrp":  37.5,
+        "group":  "General",
         "wholesale":  25,
-        "group":  "General"
+        "mrp":  37.5,
+        "name":  "Towel Winner",
+        "barcode":  "002346",
+        "sale":  35
     },
     {
         "name":  "Jam Cotton Red",
@@ -9909,13 +9909,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC Flower Bucket",
         "stock":  2,
-        "barcode":  "000505",
-        "sale":  570,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "KC Flower Bucket",
+        "barcode":  "000505",
+        "sale":  570
     },
     {
         "name":  "GF Jannat",
@@ -9936,13 +9936,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SMILEY SLICE",
         "stock":  4,
-        "barcode":  "0003019",
-        "sale":  1900,
-        "mrp":  2572.5,
+        "group":  "P",
         "wholesale":  1715,
-        "group":  "P"
+        "mrp":  2572.5,
+        "name":  "KC SMILEY SLICE",
+        "barcode":  "0003019",
+        "sale":  1900
     },
     {
         "name":  "Hotstar VT",
@@ -9972,13 +9972,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GULAABI KHWAAB",
         "stock":  4,
-        "barcode":  "0002871",
-        "sale":  2000,
-        "mrp":  2325,
+        "group":  "S",
         "wholesale":  1550,
-        "group":  "S"
+        "mrp":  2325,
+        "name":  "KC GULAABI KHWAAB",
+        "barcode":  "0002871",
+        "sale":  2000
     },
     {
         "name":  "SNT Fire Sharmila",
@@ -10035,31 +10035,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT SHEHNAZ",
         "stock":  4,
-        "barcode":  "0003113",
-        "sale":  1290,
-        "mrp":  1612.5,
+        "group":  "P",
         "wholesale":  1075,
-        "group":  "P"
+        "mrp":  1612.5,
+        "name":  "SNT SHEHNAZ",
+        "barcode":  "0003113",
+        "sale":  1290
     },
     {
-        "name":  "SNT LASSI",
         "stock":  6,
-        "barcode":  "001239",
-        "sale":  600,
-        "mrp":  818,
+        "group":  "S",
         "wholesale":  545.33,
-        "group":  "S"
+        "mrp":  818,
+        "name":  "SNT LASSI",
+        "barcode":  "001239",
+        "sale":  600
     },
     {
-        "name":  "KC FREE FLOW",
         "stock":  3,
-        "barcode":  "0002877",
-        "sale":  1600,
-        "mrp":  1800,
+        "group":  "S",
         "wholesale":  1200,
-        "group":  "S"
+        "mrp":  1800,
+        "name":  "KC FREE FLOW",
+        "barcode":  "0002877",
+        "sale":  1600
     },
     {
         "name":  "SF Dreamland",
@@ -10071,13 +10071,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CHOCO MITTIES",
         "stock":  2,
-        "barcode":  "0002749",
-        "sale":  1850,
-        "mrp":  2242,
+        "group":  "T",
         "wholesale":  1495,
-        "group":  "T"
+        "mrp":  2242,
+        "name":  "KC CHOCO MITTIES",
+        "barcode":  "0002749",
+        "sale":  1850
     },
     {
         "name":  "VC SUNFLOWER",
@@ -10098,31 +10098,31 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC GRACEFULL",
         "stock":  3,
-        "barcode":  "0002440",
-        "sale":  1350,
-        "mrp":  1492.5,
+        "group":  "S",
         "wholesale":  995,
-        "group":  "S"
+        "mrp":  1492.5,
+        "name":  "KC GRACEFULL",
+        "barcode":  "0002440",
+        "sale":  1350
     },
     {
-        "name":  "Jbt Tik Tok",
         "stock":  4,
-        "barcode":  "0002659",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "Jbt Tik Tok",
+        "barcode":  "0002659",
+        "sale":  600
     },
     {
-        "name":  "RS 1450 GLASS",
         "stock":  8,
-        "barcode":  "0002943",
-        "sale":  1850,
-        "mrp":  2055,
+        "group":  "S",
         "wholesale":  1370,
-        "group":  "S"
+        "mrp":  2055,
+        "name":  "RS 1450 GLASS",
+        "barcode":  "0002943",
+        "sale":  1850
     },
     {
         "name":  "KC Al Minaah",
@@ -10143,13 +10143,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "Cotton 2.25 Dupatta BLACK",
         "stock":  25,
-        "barcode":  "002273",
-        "sale":  120,
-        "mrp":  127,
+        "group":  "Dupatta",
         "wholesale":  90,
-        "group":  "Dupatta"
+        "mrp":  127,
+        "name":  "Cotton 2.25 Dupatta BLACK",
+        "barcode":  "002273",
+        "sale":  120
     },
     {
         "name":  "Aatish",
@@ -10188,22 +10188,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SHAWL",
         "stock":  -1,
-        "barcode":  "001157",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "SHAWL",
+        "barcode":  "001157",
+        "sale":  0
     },
     {
-        "name":  "SHAWL 100 NO",
         "stock":  1844,
-        "barcode":  "001158",
-        "sale":  30,
-        "mrp":  34.5,
+        "group":  "G",
         "wholesale":  23,
-        "group":  "G"
+        "mrp":  34.5,
+        "name":  "SHAWL 100 NO",
+        "barcode":  "001158",
+        "sale":  30
     },
     {
         "name":  "SVT Seltos",
@@ -10251,40 +10251,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM Yes Boss",
         "stock":  1,
-        "barcode":  "001927",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  390,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "OM Yes Boss",
+        "barcode":  "001927",
+        "sale":  600
     },
     {
-        "name":  "Abc Karma",
         "stock":  -1,
-        "barcode":  "001601",
-        "sale":  300,
-        "mrp":  382,
+        "group":  "S",
         "wholesale":  254.6666667,
-        "group":  "S"
+        "mrp":  382,
+        "name":  "Abc Karma",
+        "barcode":  "001601",
+        "sale":  300
     },
     {
-        "name":  "KC Ishq Junoon",
         "stock":  4,
-        "barcode":  "001599",
-        "sale":  1500,
-        "mrp":  1702,
+        "group":  "S",
         "wholesale":  1134.67,
-        "group":  "S"
+        "mrp":  1702,
+        "name":  "KC Ishq Junoon",
+        "barcode":  "001599",
+        "sale":  1500
     },
     {
-        "name":  "Kc Smart Future",
         "stock":  1,
-        "barcode":  "002320",
-        "sale":  1800,
-        "mrp":  2032.5,
+        "group":  "T",
         "wholesale":  1355,
-        "group":  "T"
+        "mrp":  2032.5,
+        "name":  "Kc Smart Future",
+        "barcode":  "002320",
+        "sale":  1800
     },
     {
         "name":  "GARMIA GULZAR 8325",
@@ -10296,31 +10296,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM ROLEX",
         "stock":  1,
-        "barcode":  "0002715",
-        "sale":  650,
-        "mrp":  787.5,
+        "group":  "CS",
         "wholesale":  525,
-        "group":  "CS"
+        "mrp":  787.5,
+        "name":  "OM ROLEX",
+        "barcode":  "0002715",
+        "sale":  650
     },
     {
-        "name":  "YF Sunaina",
         "stock":  1,
-        "barcode":  "001903",
-        "sale":  500,
-        "mrp":  547.5,
+        "group":  "S",
         "wholesale":  365,
-        "group":  "S"
+        "mrp":  547.5,
+        "name":  "YF Sunaina",
+        "barcode":  "001903",
+        "sale":  500
     },
     {
-        "name":  "KC ZOOM ZINDAGI",
         "stock":  4,
-        "barcode":  "0003049",
-        "sale":  1650,
-        "mrp":  2131.5,
+        "group":  "T",
         "wholesale":  1421,
-        "group":  "T"
+        "mrp":  2131.5,
+        "name":  "KC ZOOM ZINDAGI",
+        "barcode":  "0003049",
+        "sale":  1650
     },
     {
         "name":  "MT Butter",
@@ -10341,13 +10341,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Soniya",
         "stock":  -1,
-        "barcode":  "001279",
-        "sale":  500,
-        "mrp":  635,
+        "group":  "S",
         "wholesale":  423.33,
-        "group":  "S"
+        "mrp":  635,
+        "name":  "SNT Soniya",
+        "barcode":  "001279",
+        "sale":  500
     },
     {
         "name":  "Syed Arshiyan",
@@ -10359,13 +10359,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "KC SWITCH ON",
         "stock":  4,
-        "barcode":  "0002551",
-        "sale":  1350,
-        "mrp":  1605,
+        "group":  "S",
         "wholesale":  1070,
-        "group":  "S"
+        "mrp":  1605,
+        "name":  "KC SWITCH ON",
+        "barcode":  "0002551",
+        "sale":  1350
     },
     {
         "name":  "OM Jumka",
@@ -10386,13 +10386,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "KC SHAHI PASAND HEAVY",
         "stock":  4,
-        "barcode":  "0003088",
-        "sale":  2700,
-        "mrp":  4122,
+        "group":  "P",
         "wholesale":  2290,
-        "group":  "P"
+        "mrp":  4122,
+        "name":  "KC SHAHI PASAND HEAVY",
+        "barcode":  "0003088",
+        "sale":  2700
     },
     {
         "name":  "Sony Farshi twill net",
@@ -10422,40 +10422,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 1 No X",
         "stock":  -1,
-        "barcode":  "002091",
-        "sale":  1550,
-        "mrp":  1762.5,
+        "group":  "S",
         "wholesale":  1175,
-        "group":  "S"
+        "mrp":  1762.5,
+        "name":  "RS 1 No X",
+        "barcode":  "002091",
+        "sale":  1550
     },
     {
-        "name":  "Galaxy Fashion GF Dupatta",
         "stock":  230,
-        "barcode":  "002242",
-        "sale":  140,
-        "mrp":  153,
+        "group":  "Dupatta",
         "wholesale":  102.5,
-        "group":  "Dupatta"
+        "mrp":  153,
+        "name":  "Galaxy Fashion GF Dupatta",
+        "barcode":  "002242",
+        "sale":  140
     },
     {
-        "name":  "MT Safina",
         "stock":  4,
-        "barcode":  "001688",
-        "sale":  650,
-        "mrp":  742,
+        "group":  "S",
         "wholesale":  494.67,
-        "group":  "S"
+        "mrp":  742,
+        "name":  "MT Safina",
+        "barcode":  "001688",
+        "sale":  650
     },
     {
-        "name":  "Kc Sur Sagar (W PURSE)",
         "stock":  2,
-        "barcode":  "0002496",
-        "sale":  2400,
-        "mrp":  3127.5,
+        "group":  "P",
         "wholesale":  2085,
-        "group":  "P"
+        "mrp":  3127.5,
+        "name":  "Kc Sur Sagar (W PURSE)",
+        "barcode":  "0002496",
+        "sale":  2400
     },
     {
         "name":  "MN Fruit Cream",
@@ -10503,13 +10503,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "JBT SELFIE",
         "stock":  8,
-        "barcode":  "0002759",
-        "sale":  600,
-        "mrp":  675,
+        "group":  "S",
         "wholesale":  450,
-        "group":  "S"
+        "mrp":  675,
+        "name":  "JBT SELFIE",
+        "barcode":  "0002759",
+        "sale":  600
     },
     {
         "name":  "Om Mashal",
@@ -10521,22 +10521,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY JIYA 181",
         "stock":  3,
-        "barcode":  "0002816",
-        "sale":  2350,
-        "mrp":  3022.5,
+        "group":  "P",
         "wholesale":  2015,
-        "group":  "P"
+        "mrp":  3022.5,
+        "name":  "SONY JIYA 181",
+        "barcode":  "0002816",
+        "sale":  2350
     },
     {
-        "name":  "SG AADAB",
         "stock":  3,
-        "barcode":  "0002422",
-        "sale":  1450,
-        "mrp":  1650,
+        "group":  "G",
         "wholesale":  1100,
-        "group":  "G"
+        "mrp":  1650,
+        "name":  "SG AADAB",
+        "barcode":  "0002422",
+        "sale":  1450
     },
     {
         "name":  "Oppo GK",
@@ -10548,31 +10548,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GIGGLE BOX",
         "stock":  4,
-        "barcode":  "0002894",
-        "sale":  2700,
-        "mrp":  3210,
+        "group":  "P",
         "wholesale":  2140,
-        "group":  "P"
+        "mrp":  3210,
+        "name":  "KC GIGGLE BOX",
+        "barcode":  "0002894",
+        "sale":  2700
     },
     {
-        "name":  "GK QUEEN",
         "stock":  4,
-        "barcode":  "002352",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "GK QUEEN",
+        "barcode":  "002352",
+        "sale":  650
     },
     {
-        "name":  "KC DIL PASAND",
         "stock":  2,
-        "barcode":  "0002836",
-        "sale":  1750,
-        "mrp":  1942.5,
+        "group":  "T",
         "wholesale":  1295,
-        "group":  "T"
+        "mrp":  1942.5,
+        "name":  "KC DIL PASAND",
+        "barcode":  "0002836",
+        "sale":  1750
     },
     {
         "name":  "KC BAHEEJA",
@@ -10584,13 +10584,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Nazimi",
         "stock":  4,
-        "barcode":  "000613",
-        "sale":  1350,
-        "mrp":  1550,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  1550,
+        "name":  "KC Nazimi",
+        "barcode":  "000613",
+        "sale":  1350
     },
     {
         "name":  "Suman Pari Fab",
@@ -10620,31 +10620,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK COSTER",
         "stock":  4,
-        "barcode":  "0003036",
-        "sale":  1950,
-        "mrp":  2475,
+        "group":  "P",
         "wholesale":  1650,
-        "group":  "P"
+        "mrp":  2475,
+        "name":  "GK COSTER",
+        "barcode":  "0003036",
+        "sale":  1950
     },
     {
-        "name":  "Vc Mehbooba",
         "stock":  -1,
-        "barcode":  "002135",
-        "sale":  600,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  435,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "Vc Mehbooba",
+        "barcode":  "002135",
+        "sale":  600
     },
     {
-        "name":  "Shree Ganesh",
         "stock":  120,
-        "barcode":  "001933",
-        "sale":  360,
-        "mrp":  502.5,
+        "group":  "CC",
         "wholesale":  335,
-        "group":  "CC"
+        "mrp":  502.5,
+        "name":  "Shree Ganesh",
+        "barcode":  "001933",
+        "sale":  360
     },
     {
         "name":  "SVT BLACK SUITE",
@@ -10728,13 +10728,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC ULTRA LUXURY",
         "stock":  4,
-        "barcode":  "0002960",
-        "sale":  1650,
-        "mrp":  1972.5,
+        "group":  "S",
         "wholesale":  1315,
-        "group":  "S"
+        "mrp":  1972.5,
+        "name":  "KC ULTRA LUXURY",
+        "barcode":  "0002960",
+        "sale":  1650
     },
     {
         "name":  "Desai Angel",
@@ -10773,22 +10773,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SILENT HIT",
         "stock":  7,
-        "barcode":  "0003021",
-        "sale":  2050,
-        "mrp":  2685,
+        "group":  "P",
         "wholesale":  1790,
-        "group":  "P"
+        "mrp":  2685,
+        "name":  "KC SILENT HIT",
+        "barcode":  "0003021",
+        "sale":  2050
     },
     {
-        "name":  "Chahat Jaam Mix 02",
         "stock":  -15,
-        "barcode":  "002267",
-        "sale":  550,
-        "mrp":  650,
+        "group":  "CS",
         "wholesale":  275,
-        "group":  "CS"
+        "mrp":  650,
+        "name":  "Chahat Jaam Mix 02",
+        "barcode":  "002267",
+        "sale":  550
     },
     {
         "name":  "SNT KASTURI",
@@ -10809,13 +10809,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SWAGSTER",
         "stock":  4,
-        "barcode":  "0002435",
-        "sale":  1550,
-        "mrp":  1830,
+        "group":  "S",
         "wholesale":  1220,
-        "group":  "S"
+        "mrp":  1830,
+        "name":  "KC SWAGSTER",
+        "barcode":  "0002435",
+        "sale":  1550
     },
     {
         "name":  "VARI JAMSINE VS",
@@ -10827,13 +10827,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "BLACK DRESS",
         "stock":  2,
-        "barcode":  "000053",
-        "sale":  400,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  350,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "BLACK DRESS",
+        "barcode":  "000053",
+        "sale":  400
     },
     {
         "name":  "KC Lady Special",
@@ -10863,22 +10863,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Jackpot",
         "stock":  -1,
-        "barcode":  "002053",
-        "sale":  1600,
-        "mrp":  1755,
+        "group":  "T",
         "wholesale":  1170,
-        "group":  "T"
+        "mrp":  1755,
+        "name":  "Jackpot",
+        "barcode":  "002053",
+        "sale":  1600
     },
     {
-        "name":  "Vimal Fortuner",
         "stock":  59,
-        "barcode":  "002299",
-        "sale":  350,
-        "mrp":  391.5,
+        "group":  "Gents",
         "wholesale":  261,
-        "group":  "Gents"
+        "mrp":  391.5,
+        "name":  "Vimal Fortuner",
+        "barcode":  "002299",
+        "sale":  350
     },
     {
         "name":  "Varnika Jagrati",
@@ -10890,22 +10890,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Safiq",
         "stock":  2,
-        "barcode":  "000664",
-        "sale":  1100,
-        "mrp":  1525,
+        "group":  "S",
         "wholesale":  1016.67,
-        "group":  "S"
+        "mrp":  1525,
+        "name":  "KC Safiq",
+        "barcode":  "000664",
+        "sale":  1100
     },
     {
-        "name":  "KC SHAHANA",
         "stock":  4,
-        "barcode":  "0002909",
-        "sale":  2600,
-        "mrp":  2992.5,
+        "group":  "P",
         "wholesale":  1995,
-        "group":  "P"
+        "mrp":  2992.5,
+        "name":  "KC SHAHANA",
+        "barcode":  "0002909",
+        "sale":  2600
     },
     {
         "name":  "GF Heer Ranjha",
@@ -10917,22 +10917,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RUH E GUL",
         "stock":  4,
-        "barcode":  "0002753",
-        "sale":  1650,
-        "mrp":  1860,
+        "group":  "S",
         "wholesale":  1240,
-        "group":  "S"
+        "mrp":  1860,
+        "name":  "KC RUH E GUL",
+        "barcode":  "0002753",
+        "sale":  1650
     },
     {
-        "name":  "Sony Jiya 152",
         "stock":  1,
-        "barcode":  "002269",
-        "sale":  2550,
-        "mrp":  3427.5,
+        "group":  "P",
         "wholesale":  2285,
-        "group":  "P"
+        "mrp":  3427.5,
+        "name":  "Sony Jiya 152",
+        "barcode":  "002269",
+        "sale":  2550
     },
     {
         "name":  "KC NAAZO",
@@ -10944,13 +10944,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "ROYAL BRAND KUDI PATIYALA",
         "stock":  -9,
-        "barcode":  "0002851",
-        "sale":  250,
-        "mrp":  262.5,
+        "group":  "CC",
         "wholesale":  175,
-        "group":  "CC"
+        "mrp":  262.5,
+        "name":  "ROYAL BRAND KUDI PATIYALA",
+        "barcode":  "0002851",
+        "sale":  250
     },
     {
         "name":  "Snt Silver",
@@ -10971,13 +10971,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC TIME KILLER",
         "stock":  4,
-        "barcode":  "0002876",
-        "sale":  1600,
-        "mrp":  1800,
+        "group":  "S",
         "wholesale":  1200,
-        "group":  "S"
+        "mrp":  1800,
+        "name":  "KC TIME KILLER",
+        "barcode":  "0002876",
+        "sale":  1600
     },
     {
         "name":  "Kc Food Mood",
@@ -10998,13 +10998,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Vc Panipuri",
         "stock":  3,
-        "barcode":  "000811",
-        "sale":  400,
-        "mrp":  480,
+        "group":  "S",
         "wholesale":  320,
-        "group":  "S"
+        "mrp":  480,
+        "name":  "Vc Panipuri",
+        "barcode":  "000811",
+        "sale":  400
     },
     {
         "name":  "SONY Z GARARA",
@@ -11034,22 +11034,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY K 636",
         "stock":  1,
-        "barcode":  "002183",
-        "sale":  1650,
-        "mrp":  1860,
+        "group":  "T",
         "wholesale":  1240,
-        "group":  "T"
+        "mrp":  1860,
+        "name":  "SONY K 636",
+        "barcode":  "002183",
+        "sale":  1650
     },
     {
-        "name":  "GNA MIX 01",
         "stock":  13,
-        "barcode":  "002259",
-        "sale":  750,
-        "mrp":  1500,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  1500,
+        "name":  "GNA MIX 01",
+        "barcode":  "002259",
+        "sale":  750
     },
     {
         "name":  "MT Rasberry",
@@ -11124,13 +11124,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC STAR CLUSTER",
         "stock":  1,
-        "barcode":  "0002441",
-        "sale":  1340,
-        "mrp":  1492.5,
+        "group":  "S",
         "wholesale":  995,
-        "group":  "S"
+        "mrp":  1492.5,
+        "name":  "KC STAR CLUSTER",
+        "barcode":  "0002441",
+        "sale":  1340
     },
     {
         "name":  "Pasta MT",
@@ -11160,13 +11160,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GARIMA VELVET",
         "stock":  11,
-        "barcode":  "0002670",
-        "sale":  550,
-        "mrp":  615,
+        "group":  "VELVET SUIT",
         "wholesale":  410,
-        "group":  "VELVET SUIT"
+        "mrp":  615,
+        "name":  "GARIMA VELVET",
+        "barcode":  "0002670",
+        "sale":  550
     },
     {
         "name":  "RV Charminar",
@@ -11178,13 +11178,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DISCO FEVER",
         "stock":  3,
-        "barcode":  "0002790",
-        "sale":  1900,
-        "mrp":  2227.5,
+        "group":  "S",
         "wholesale":  1485,
-        "group":  "S"
+        "mrp":  2227.5,
+        "name":  "KC DISCO FEVER",
+        "barcode":  "0002790",
+        "sale":  1900
     },
     {
         "name":  "N AMISHA",
@@ -11205,13 +11205,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BLUSH SKY",
         "stock":  4,
-        "barcode":  "0003023",
-        "sale":  2000,
-        "mrp":  2542.5,
+        "group":  "P",
         "wholesale":  1695,
-        "group":  "P"
+        "mrp":  2542.5,
+        "name":  "KC BLUSH SKY",
+        "barcode":  "0003023",
+        "sale":  2000
     },
     {
         "name":  "GNA Jimmychoo Ranchi",
@@ -11223,13 +11223,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "JMD Love Boy",
         "stock":  -1,
-        "barcode":  "002143",
-        "sale":  400,
-        "mrp":  472.5,
+        "group":  "S",
         "wholesale":  315,
-        "group":  "S"
+        "mrp":  472.5,
+        "name":  "JMD Love Boy",
+        "barcode":  "002143",
+        "sale":  400
     },
     {
         "name":  "GK Tum Bin",
@@ -11241,22 +11241,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CLASSIC TREND",
         "stock":  4,
-        "barcode":  "0002958",
-        "sale":  1750,
-        "mrp":  2032.5,
+        "group":  "S",
         "wholesale":  1355,
-        "group":  "S"
+        "mrp":  2032.5,
+        "name":  "KC CLASSIC TREND",
+        "barcode":  "0002958",
+        "sale":  1750
     },
     {
-        "name":  "OM Boss",
         "stock":  -1,
-        "barcode":  "001982",
-        "sale":  550,
-        "mrp":  637.5,
+        "group":  "S",
         "wholesale":  425,
-        "group":  "S"
+        "mrp":  637.5,
+        "name":  "OM Boss",
+        "barcode":  "001982",
+        "sale":  550
     },
     {
         "name":  "MF Princess PAK",
@@ -11268,13 +11268,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT Safa",
         "stock":  4,
-        "barcode":  "001687",
-        "sale":  550,
-        "mrp":  742,
+        "group":  "S",
         "wholesale":  494.67,
-        "group":  "S"
+        "mrp":  742,
+        "name":  "MT Safa",
+        "barcode":  "001687",
+        "sale":  550
     },
     {
         "name":  "SONY 178 READYMADE",
@@ -11340,13 +11340,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC SLICE TOWN",
         "stock":  4,
-        "barcode":  "0002433",
-        "sale":  1900,
-        "mrp":  2467.5,
+        "group":  "S",
         "wholesale":  1645,
-        "group":  "S"
+        "mrp":  2467.5,
+        "name":  "KC SLICE TOWN",
+        "barcode":  "0002433",
+        "sale":  1900
     },
     {
         "name":  "KC Zuhoor Russian",
@@ -11376,22 +11376,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC GLOSSY GRACE",
         "stock":  4,
-        "barcode":  "0002541",
-        "sale":  1550,
-        "mrp":  1875,
+        "group":  "S",
         "wholesale":  1250,
-        "group":  "S"
+        "mrp":  1875,
+        "name":  "KC GLOSSY GRACE",
+        "barcode":  "0002541",
+        "sale":  1550
     },
     {
-        "name":  "KC FREE START",
         "stock":  2,
-        "barcode":  "0002633",
-        "sale":  1850,
-        "mrp":  2385,
+        "group":  "P",
         "wholesale":  1590,
-        "group":  "P"
+        "mrp":  2385,
+        "name":  "KC FREE START",
+        "barcode":  "0002633",
+        "sale":  1850
     },
     {
         "name":  "KC NAZUK",
@@ -11439,13 +11439,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Gsf Dupatta",
         "stock":  1022,
-        "barcode":  "002163",
-        "sale":  80,
-        "mrp":  94.5,
+        "group":  "Dupatta",
         "wholesale":  63,
-        "group":  "Dupatta"
+        "mrp":  94.5,
+        "name":  "Gsf Dupatta",
+        "barcode":  "002163",
+        "sale":  80
     },
     {
         "name":  "KC ASHQ",
@@ -11466,13 +11466,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MAUSAM MAGIC",
         "stock":  3,
-        "barcode":  "0002590",
-        "sale":  1550,
-        "mrp":  2017.5,
+        "group":  "S",
         "wholesale":  1345,
-        "group":  "S"
+        "mrp":  2017.5,
+        "name":  "KC MAUSAM MAGIC",
+        "barcode":  "0002590",
+        "sale":  1550
     },
     {
         "name":  "YF Akangsha",
@@ -11502,13 +11502,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CHILL BERRY SUITE",
         "stock":  4,
-        "barcode":  "0003054",
-        "sale":  1650,
-        "mrp":  2085,
+        "group":  "S",
         "wholesale":  1390,
-        "group":  "S"
+        "mrp":  2085,
+        "name":  "KC CHILL BERRY SUITE",
+        "barcode":  "0003054",
+        "sale":  1650
     },
     {
         "name":  "KC Dulari",
@@ -11520,13 +11520,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Sehnai",
         "stock":  2,
-        "barcode":  "001638",
-        "sale":  650,
-        "mrp":  889,
+        "group":  "S",
         "wholesale":  592.67,
-        "group":  "S"
+        "mrp":  889,
+        "name":  "KC Sehnai",
+        "barcode":  "001638",
+        "sale":  650
     },
     {
         "name":  "KKC NAQAB",
@@ -11538,13 +11538,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC TOP NEWS",
         "stock":  4,
-        "barcode":  "0002821",
-        "sale":  950,
-        "mrp":  1050,
+        "group":  "CS",
         "wholesale":  700,
-        "group":  "CS"
+        "mrp":  1050,
+        "name":  "KC TOP NEWS",
+        "barcode":  "0002821",
+        "sale":  950
     },
     {
         "name":  "SNT IPO",
@@ -11592,31 +11592,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CRUNCY MUNCHY",
         "stock":  4,
-        "barcode":  "0003044",
-        "sale":  2550,
-        "mrp":  3292.5,
+        "group":  "P",
         "wholesale":  2195,
-        "group":  "P"
+        "mrp":  3292.5,
+        "name":  "KC CRUNCY MUNCHY",
+        "barcode":  "0003044",
+        "sale":  2550
     },
     {
-        "name":  "KC MAGIC STAR",
         "stock":  3,
-        "barcode":  "0002910",
-        "sale":  2600,
-        "mrp":  2992.5,
+        "group":  "P",
         "wholesale":  1995,
-        "group":  "P"
+        "mrp":  2992.5,
+        "name":  "KC MAGIC STAR",
+        "barcode":  "0002910",
+        "sale":  2600
     },
     {
-        "name":  "Welcome Sandaar",
         "stock":  -4,
-        "barcode":  "001784",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "S",
         "wholesale":  550,
-        "group":  "S"
+        "mrp":  825,
+        "name":  "Welcome Sandaar",
+        "barcode":  "001784",
+        "sale":  750
     },
     {
         "name":  "OM Mercedes",
@@ -11637,13 +11637,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT SONA",
         "stock":  1,
-        "barcode":  "000869",
-        "sale":  650,
-        "mrp":  780,
+        "group":  "S",
         "wholesale":  520,
-        "group":  "S"
+        "mrp":  780,
+        "name":  "MT SONA",
+        "barcode":  "000869",
+        "sale":  650
     },
     {
         "name":  "GK Ridhi",
@@ -11709,13 +11709,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC PIN BALL",
         "stock":  4,
-        "barcode":  "0002629",
-        "sale":  1900,
-        "mrp":  2385,
+        "group":  "P",
         "wholesale":  1590,
-        "group":  "P"
+        "mrp":  2385,
+        "name":  "KC PIN BALL",
+        "barcode":  "0002629",
+        "sale":  1900
     },
     {
         "name":  "Aaj Tak VC",
@@ -11754,22 +11754,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Om Maharani",
         "stock":  3,
-        "barcode":  "002372",
-        "sale":  550,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  435,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "Om Maharani",
+        "barcode":  "002372",
+        "sale":  550
     },
     {
-        "name":  "RS 10",
         "stock":  -1,
-        "barcode":  "001545",
-        "sale":  1300,
-        "mrp":  1477,
+        "group":  "S",
         "wholesale":  984.6666667,
-        "group":  "S"
+        "mrp":  1477,
+        "name":  "RS 10",
+        "barcode":  "001545",
+        "sale":  1300
     },
     {
         "name":  "SAHIDA",
@@ -11790,13 +11790,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Chahat Jaam Mix 01",
         "stock":  -26,
-        "barcode":  "002266",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "CS",
         "wholesale":  275,
-        "group":  "CS"
+        "mrp":  750,
+        "name":  "Chahat Jaam Mix 01",
+        "barcode":  "002266",
+        "sale":  650
     },
     {
         "name":  "GF Safari",
@@ -11826,13 +11826,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SSM ZEPTO \u0026 RAPIDO",
         "stock":  8,
-        "barcode":  "0003132",
-        "sale":  1300,
-        "mrp":  1627.5,
+        "group":  "P",
         "wholesale":  1085,
-        "group":  "P"
+        "mrp":  1627.5,
+        "name":  "SSM ZEPTO \u0026 RAPIDO",
+        "barcode":  "0003132",
+        "sale":  1300
     },
     {
         "name":  "JT Allever",
@@ -11862,13 +11862,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RUSSIAN PLAZO",
         "stock":  -2,
-        "barcode":  "001076",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "P",
         "wholesale":  0,
-        "group":  "P"
+        "mrp":  0,
+        "name":  "RUSSIAN PLAZO",
+        "barcode":  "001076",
+        "sale":  0
     },
     {
         "name":  "Sg haye garmi",
@@ -11907,13 +11907,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Sony 383",
         "stock":  1,
-        "barcode":  "001346",
-        "sale":  1600,
-        "mrp":  1807.5,
+        "group":  "T",
         "wholesale":  1205,
-        "group":  "T"
+        "mrp":  1807.5,
+        "name":  "Sony 383",
+        "barcode":  "001346",
+        "sale":  1600
     },
     {
         "name":  "Sony 489",
@@ -11925,22 +11925,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "VT Harshita",
         "stock":  8,
-        "barcode":  "001764",
-        "sale":  850,
-        "mrp":  1230,
+        "group":  "S",
         "wholesale":  820,
-        "group":  "S"
+        "mrp":  1230,
+        "name":  "VT Harshita",
+        "barcode":  "001764",
+        "sale":  850
     },
     {
-        "name":  "VF SILLY SILLY",
         "stock":  4,
-        "barcode":  "0002608",
-        "sale":  550,
-        "mrp":  637.5,
+        "group":  "CD",
         "wholesale":  425,
-        "group":  "CD"
+        "mrp":  637.5,
+        "name":  "VF SILLY SILLY",
+        "barcode":  "0002608",
+        "sale":  550
     },
     {
         "name":  "GARMIA GULZAR 8313",
@@ -11952,13 +11952,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK PAKISTANI CONTRAST",
         "stock":  1,
-        "barcode":  "0002697",
-        "sale":  1200,
-        "mrp":  1365,
+        "group":  "K",
         "wholesale":  910,
-        "group":  "K"
+        "mrp":  1365,
+        "name":  "GK PAKISTANI CONTRAST",
+        "barcode":  "0002697",
+        "sale":  1200
     },
     {
         "name":  "SNT Bipasha",
@@ -11970,22 +11970,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 8",
         "stock":  -6,
-        "barcode":  "001549",
-        "sale":  1600,
-        "mrp":  1762,
+        "group":  "S",
         "wholesale":  1174.67,
-        "group":  "S"
+        "mrp":  1762,
+        "name":  "RS 8",
+        "barcode":  "001549",
+        "sale":  1600
     },
     {
-        "name":  "SPARKLE GEORGETTE",
         "stock":  25,
-        "barcode":  "001347",
-        "sale":  400,
-        "mrp":  450,
+        "group":  "S",
         "wholesale":  300,
-        "group":  "S"
+        "mrp":  450,
+        "name":  "SPARKLE GEORGETTE",
+        "barcode":  "001347",
+        "sale":  400
     },
     {
         "name":  "KC SHANUM",
@@ -11997,13 +11997,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SWEET CELEBRATION",
         "stock":  4,
-        "barcode":  "0003092",
-        "sale":  2500,
-        "mrp":  3771,
+        "group":  "P",
         "wholesale":  2095,
-        "group":  "P"
+        "mrp":  3771,
+        "name":  "KC SWEET CELEBRATION",
+        "barcode":  "0003092",
+        "sale":  2500
     },
     {
         "name":  "Shilpa Bhumi",
@@ -12051,13 +12051,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC True love",
         "stock":  -1,
-        "barcode":  "002057",
-        "sale":  1700,
-        "mrp":  2475,
+        "group":  "T",
         "wholesale":  1650,
-        "group":  "T"
+        "mrp":  2475,
+        "name":  "KC True love",
+        "barcode":  "002057",
+        "sale":  1700
     },
     {
         "name":  "G30",
@@ -12078,13 +12078,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "YC March Ending",
         "stock":  1,
-        "barcode":  "001959",
-        "sale":  800,
-        "mrp":  919.5,
+        "group":  "S",
         "wholesale":  613,
-        "group":  "S"
+        "mrp":  919.5,
+        "name":  "YC March Ending",
+        "barcode":  "001959",
+        "sale":  800
     },
     {
         "name":  "Om Glenfiddich",
@@ -12123,22 +12123,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA GLASS",
         "stock":  6,
-        "barcode":  "0002827",
-        "sale":  650,
-        "mrp":  810,
+        "group":  "OS",
         "wholesale":  540,
-        "group":  "OS"
+        "mrp":  810,
+        "name":  "GNA GLASS",
+        "barcode":  "0002827",
+        "sale":  650
     },
     {
-        "name":  "GK Good Luck",
         "stock":  2,
-        "barcode":  "000262",
-        "sale":  700,
-        "mrp":  915,
+        "group":  "S",
         "wholesale":  610,
-        "group":  "S"
+        "mrp":  915,
+        "name":  "GK Good Luck",
+        "barcode":  "000262",
+        "sale":  700
     },
     {
         "name":  "GK Padmavati",
@@ -12159,13 +12159,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Om 123",
         "stock":  1,
-        "barcode":  "0002387",
-        "sale":  600,
-        "mrp":  660,
+        "group":  "S",
         "wholesale":  440,
-        "group":  "S"
+        "mrp":  660,
+        "name":  "Om 123",
+        "barcode":  "0002387",
+        "sale":  600
     },
     {
         "name":  "Black Bery",
@@ -12186,13 +12186,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SWAD SANGAM",
         "stock":  4,
-        "barcode":  "0003094",
-        "sale":  2600,
-        "mrp":  4050,
+        "group":  "P",
         "wholesale":  2250,
-        "group":  "P"
+        "mrp":  4050,
+        "name":  "KC SWAD SANGAM",
+        "barcode":  "0003094",
+        "sale":  2600
     },
     {
         "name":  "NANU DRESS",
@@ -12258,13 +12258,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT jannat",
         "stock":  6,
-        "barcode":  "001228",
-        "sale":  900,
-        "mrp":  1012.5,
+        "group":  "S",
         "wholesale":  675,
-        "group":  "S"
+        "mrp":  1012.5,
+        "name":  "SNT jannat",
+        "barcode":  "001228",
+        "sale":  900
     },
     {
         "name":  "VAS Red Bul",
@@ -12276,31 +12276,31 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "Sultan",
         "stock":  1777,
-        "barcode":  "001397",
-        "sale":  50,
-        "mrp":  60,
+        "group":  "General",
         "wholesale":  40,
-        "group":  "General"
+        "mrp":  60,
+        "name":  "Sultan",
+        "barcode":  "001397",
+        "sale":  50
     },
     {
-        "name":  "OM KACHI KERI",
         "stock":  1,
-        "barcode":  "002229",
-        "sale":  550,
-        "mrp":  585,
+        "group":  "S",
         "wholesale":  390,
-        "group":  "S"
+        "mrp":  585,
+        "name":  "OM KACHI KERI",
+        "barcode":  "002229",
+        "sale":  550
     },
     {
-        "name":  "Rubiya",
         "stock":  2509,
-        "barcode":  "0003074",
-        "sale":  30,
-        "mrp":  30,
+        "group":  "General",
         "wholesale":  20,
-        "group":  "General"
+        "mrp":  30,
+        "name":  "Rubiya",
+        "barcode":  "0003074",
+        "sale":  30
     },
     {
         "name":  "MF 01",
@@ -12312,22 +12312,22 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC CHOCO KUNAFA",
         "stock":  4,
-        "barcode":  "0002882",
-        "sale":  2100,
-        "mrp":  2242.5,
+        "group":  "S",
         "wholesale":  1495,
-        "group":  "S"
+        "mrp":  2242.5,
+        "name":  "KC CHOCO KUNAFA",
+        "barcode":  "0002882",
+        "sale":  2100
     },
     {
-        "name":  "OM LITE YASMIN",
         "stock":  16,
-        "barcode":  "0002998",
-        "sale":  500,
-        "mrp":  540,
+        "group":  "S",
         "wholesale":  360,
-        "group":  "S"
+        "mrp":  540,
+        "name":  "OM LITE YASMIN",
+        "barcode":  "0002998",
+        "sale":  500
     },
     {
         "name":  "SCV Designer",
@@ -12339,85 +12339,85 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
+        "stock":  4,
+        "group":  "P",
+        "wholesale":  1590,
+        "mrp":  2385,
         "name":  "Kc Cooling Chilled",
-        "stock":  4,
         "barcode":  "002313",
-        "sale":  2150,
-        "mrp":  2385,
-        "wholesale":  1590,
-        "group":  "P"
+        "sale":  2150
     },
     {
-        "name":  "SNT TVS",
         "stock":  1,
-        "barcode":  "002096",
-        "sale":  700,
-        "mrp":  952.5,
+        "group":  "S",
         "wholesale":  635,
-        "group":  "S"
+        "mrp":  952.5,
+        "name":  "SNT TVS",
+        "barcode":  "002096",
+        "sale":  700
     },
     {
-        "name":  "OM PREM DHAGGA",
         "stock":  7,
-        "barcode":  "0002486",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "OM PREM DHAGGA",
+        "barcode":  "0002486",
+        "sale":  650
     },
     {
-        "name":  "KC Siyana",
         "stock":  8,
-        "barcode":  "002085",
-        "sale":  850,
-        "mrp":  877.5,
+        "group":  "CS",
         "wholesale":  585,
-        "group":  "CS"
+        "mrp":  877.5,
+        "name":  "KC Siyana",
+        "barcode":  "002085",
+        "sale":  850
     },
     {
-        "name":  "Welcome Sadabahar",
         "stock":  12,
-        "barcode":  "001783",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Sadabahar",
+        "barcode":  "001783",
+        "sale":  700
     },
     {
-        "name":  "KC JELLY JOY",
         "stock":  4,
-        "barcode":  "0002705",
-        "sale":  1850,
-        "mrp":  2445,
+        "group":  "T",
         "wholesale":  1630,
-        "group":  "T"
+        "mrp":  2445,
+        "name":  "KC JELLY JOY",
+        "barcode":  "0002705",
+        "sale":  1850
     },
     {
-        "name":  "KC URBAN STLE",
         "stock":  4,
-        "barcode":  "0002734",
-        "sale":  2150,
-        "mrp":  2385,
+        "group":  "P",
         "wholesale":  1590,
-        "group":  "P"
+        "mrp":  2385,
+        "name":  "KC URBAN STLE",
+        "barcode":  "0002734",
+        "sale":  2150
     },
     {
-        "name":  "SNT Nagma",
         "stock":  9,
-        "barcode":  "001255",
-        "sale":  650,
-        "mrp":  712.5,
+        "group":  "S",
         "wholesale":  475,
-        "group":  "S"
+        "mrp":  712.5,
+        "name":  "SNT Nagma",
+        "barcode":  "001255",
+        "sale":  650
     },
     {
-        "name":  "KC RIMJHIM ISHQ",
         "stock":  4,
-        "barcode":  "0002754",
-        "sale":  1650,
-        "mrp":  1860,
+        "group":  "S",
         "wholesale":  1240,
-        "group":  "S"
+        "mrp":  1860,
+        "name":  "KC RIMJHIM ISHQ",
+        "barcode":  "0002754",
+        "sale":  1650
     },
     {
         "name":  "KC Sitamgar",
@@ -12429,13 +12429,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC KESAR MAGIC",
         "stock":  3,
-        "barcode":  "0002706",
-        "sale":  1600,
-        "mrp":  2002.5,
+        "group":  "T",
         "wholesale":  1335,
-        "group":  "T"
+        "mrp":  2002.5,
+        "name":  "KC KESAR MAGIC",
+        "barcode":  "0002706",
+        "sale":  1600
     },
     {
         "name":  "RR Hindustan",
@@ -12456,13 +12456,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kkc Rehana NX",
         "stock":  7,
-        "barcode":  "002193",
-        "sale":  360,
-        "mrp":  297.5,
+        "group":  "CS",
         "wholesale":  265,
-        "group":  "CS"
+        "mrp":  297.5,
+        "name":  "Kkc Rehana NX",
+        "barcode":  "002193",
+        "sale":  360
     },
     {
         "name":  "KC 11649",
@@ -12474,22 +12474,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM DARLING",
         "stock":  3,
-        "barcode":  "0002966",
-        "sale":  1350,
-        "mrp":  1725,
+        "group":  "P",
         "wholesale":  1150,
-        "group":  "P"
+        "mrp":  1725,
+        "name":  "OM DARLING",
+        "barcode":  "0002966",
+        "sale":  1350
     },
     {
-        "name":  "KC CRAZY PAL",
         "stock":  4,
-        "barcode":  "0003041",
-        "sale":  1900,
-        "mrp":  2287.5,
+        "group":  "S",
         "wholesale":  1525,
-        "group":  "S"
+        "mrp":  2287.5,
+        "name":  "KC CRAZY PAL",
+        "barcode":  "0003041",
+        "sale":  1900
     },
     {
         "name":  "Sony Heavy 4",
@@ -12519,31 +12519,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "HUF Dupatta",
         "stock":  32,
-        "barcode":  "002161",
-        "sale":  100,
-        "mrp":  120,
+        "group":  "Dupatta",
         "wholesale":  55,
-        "group":  "Dupatta"
+        "mrp":  120,
+        "name":  "HUF Dupatta",
+        "barcode":  "002161",
+        "sale":  100
     },
     {
-        "name":  "GARIMA JHIL MIL",
         "stock":  19,
-        "barcode":  "002197",
-        "sale":  350,
-        "mrp":  375,
+        "group":  "CS",
         "wholesale":  250,
-        "group":  "CS"
+        "mrp":  375,
+        "name":  "GARIMA JHIL MIL",
+        "barcode":  "002197",
+        "sale":  350
     },
     {
-        "name":  "SG KIMORA",
         "stock":  4,
-        "barcode":  "0002897",
-        "sale":  1600,
-        "mrp":  1882.5,
+        "group":  "G",
         "wholesale":  1255,
-        "group":  "G"
+        "mrp":  1882.5,
+        "name":  "SG KIMORA",
+        "barcode":  "0002897",
+        "sale":  1600
     },
     {
         "name":  "LC Kiran",
@@ -12600,22 +12600,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Masti Panna",
         "stock":  40,
-        "barcode":  "000815",
-        "sale":  400,
-        "mrp":  480,
+        "group":  "S",
         "wholesale":  320,
-        "group":  "S"
+        "mrp":  480,
+        "name":  "Masti Panna",
+        "barcode":  "000815",
+        "sale":  400
     },
     {
-        "name":  "Sony 172",
         "stock":  2,
-        "barcode":  "001298",
-        "sale":  1350,
-        "mrp":  1695,
+        "group":  "T",
         "wholesale":  1130,
-        "group":  "T"
+        "mrp":  1695,
+        "name":  "Sony 172",
+        "barcode":  "001298",
+        "sale":  1350
     },
     {
         "name":  "YF Trishika",
@@ -12636,13 +12636,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Masti Milly",
         "stock":  10,
-        "barcode":  "0002402",
-        "sale":  300,
-        "mrp":  382.5,
+        "group":  "CC",
         "wholesale":  250,
-        "group":  "CC"
+        "mrp":  382.5,
+        "name":  "Masti Milly",
+        "barcode":  "0002402",
+        "sale":  300
     },
     {
         "name":  "KC SAUDE BAAZI",
@@ -12654,13 +12654,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GF MEERA",
         "stock":  4,
-        "barcode":  "0003068",
-        "sale":  850,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GF MEERA",
+        "barcode":  "0003068",
+        "sale":  850
     },
     {
         "name":  "Gk Son Pari",
@@ -12717,13 +12717,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT KAVITA",
         "stock":  3,
-        "barcode":  "0002695",
-        "sale":  750,
-        "mrp":  855,
+        "group":  "OS",
         "wholesale":  570,
-        "group":  "OS"
+        "mrp":  855,
+        "name":  "SNT KAVITA",
+        "barcode":  "0002695",
+        "sale":  750
     },
     {
         "name":  "SONY 067 CURNCHY",
@@ -12735,22 +12735,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC CHLLY WILLY",
         "stock":  4,
-        "barcode":  "0003056",
-        "sale":  1950,
-        "mrp":  2482.5,
+        "group":  "S",
         "wholesale":  1655,
-        "group":  "S"
+        "mrp":  2482.5,
+        "name":  "KC CHLLY WILLY",
+        "barcode":  "0003056",
+        "sale":  1950
     },
     {
-        "name":  "OM Vanilla",
         "stock":  3,
-        "barcode":  "002126",
-        "sale":  600,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  435,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "OM Vanilla",
+        "barcode":  "002126",
+        "sale":  600
     },
     {
         "name":  "MT Jeep Compass",
@@ -12780,13 +12780,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "GK ISHQ VISQ",
         "stock":  1,
-        "barcode":  "0002637",
-        "sale":  900,
-        "mrp":  1102.5,
+        "group":  "S",
         "wholesale":  735,
-        "group":  "S"
+        "mrp":  1102.5,
+        "name":  "GK ISHQ VISQ",
+        "barcode":  "0002637",
+        "sale":  900
     },
     {
         "name":  "SS Geet",
@@ -12825,31 +12825,31 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "PLAZA PRINTS Z2",
         "stock":  1,
-        "barcode":  "0002804",
-        "sale":  4050,
-        "mrp":  4500,
+        "group":  "Paplon",
         "wholesale":  3000,
-        "group":  "Paplon"
+        "mrp":  4500,
+        "name":  "PLAZA PRINTS Z2",
+        "barcode":  "0002804",
+        "sale":  4050
     },
     {
-        "name":  "KC Mazin",
         "stock":  1,
-        "barcode":  "000587",
-        "sale":  1000,
-        "mrp":  1222,
+        "group":  "S",
         "wholesale":  814.67,
-        "group":  "S"
+        "mrp":  1222,
+        "name":  "KC Mazin",
+        "barcode":  "000587",
+        "sale":  1000
     },
     {
-        "name":  "SNT Kinjal",
         "stock":  4,
-        "barcode":  "001834",
-        "sale":  550,
-        "mrp":  637.5,
+        "group":  "CS",
         "wholesale":  425,
-        "group":  "CS"
+        "mrp":  637.5,
+        "name":  "SNT Kinjal",
+        "barcode":  "001834",
+        "sale":  550
     },
     {
         "name":  "KC Rabeel",
@@ -12861,22 +12861,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Gulab E Nawabi",
         "stock":  3,
-        "barcode":  "0002389",
-        "sale":  1400,
-        "mrp":  1522.5,
+        "group":  "S",
         "wholesale":  1015,
-        "group":  "S"
+        "mrp":  1522.5,
+        "name":  "KC Gulab E Nawabi",
+        "barcode":  "0002389",
+        "sale":  1400
     },
     {
-        "name":  "KC SWEET NOOR",
         "stock":  4,
-        "barcode":  "0003078",
-        "sale":  2250,
-        "mrp":  3348,
+        "group":  "P",
         "wholesale":  1860,
-        "group":  "P"
+        "mrp":  3348,
+        "name":  "KC SWEET NOOR",
+        "barcode":  "0003078",
+        "sale":  2250
     },
     {
         "name":  "SG ALEENA",
@@ -12906,13 +12906,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RAAH BHULEYA",
         "stock":  2,
-        "barcode":  "001539",
-        "sale":  1365,
-        "mrp":  1717,
+        "group":  "S",
         "wholesale":  1144.67,
-        "group":  "S"
+        "mrp":  1717,
+        "name":  "KC RAAH BHULEYA",
+        "barcode":  "001539",
+        "sale":  1365
     },
     {
         "name":  "INNAYA NOVOTEL",
@@ -12924,22 +12924,22 @@ var STOCK_DATA = [
         "group":  "CD"
     },
     {
-        "name":  "KC QURESHI",
         "stock":  3,
-        "barcode":  "000641",
-        "sale":  1450,
-        "mrp":  1972,
+        "group":  "S",
         "wholesale":  1314.67,
-        "group":  "S"
+        "mrp":  1972,
+        "name":  "KC QURESHI",
+        "barcode":  "000641",
+        "sale":  1450
     },
     {
-        "name":  "Vas Upasana",
         "stock":  8,
-        "barcode":  "002022",
-        "sale":  550,
-        "mrp":  615,
+        "group":  "CD",
         "wholesale":  410,
-        "group":  "CD"
+        "mrp":  615,
+        "name":  "Vas Upasana",
+        "barcode":  "002022",
+        "sale":  550
     },
     {
         "name":  "Vani Prema",
@@ -12996,22 +12996,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RANIA",
         "stock":  1,
-        "barcode":  "000652",
-        "sale":  850,
-        "mrp":  877,
+        "group":  "S",
         "wholesale":  584.67,
-        "group":  "S"
+        "mrp":  877,
+        "name":  "KC RANIA",
+        "barcode":  "000652",
+        "sale":  850
     },
     {
-        "name":  "SNT ROSE GOLD",
         "stock":  5,
-        "barcode":  "0002692",
-        "sale":  550,
-        "mrp":  637.5,
+        "group":  "S",
         "wholesale":  425,
-        "group":  "S"
+        "mrp":  637.5,
+        "name":  "SNT ROSE GOLD",
+        "barcode":  "0002692",
+        "sale":  550
     },
     {
         "name":  "KC Zayed",
@@ -13050,13 +13050,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC SUPER MASALA",
         "stock":  4,
-        "barcode":  "0003046",
-        "sale":  2450,
-        "mrp":  2925,
+        "group":  "G",
         "wholesale":  1950,
-        "group":  "G"
+        "mrp":  2925,
+        "name":  "KC SUPER MASALA",
+        "barcode":  "0003046",
+        "sale":  2450
     },
     {
         "name":  "Nevedhyam Begum",
@@ -13086,22 +13086,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY 903 C",
         "stock":  1,
-        "barcode":  "0002815",
-        "sale":  2250,
-        "mrp":  2767.5,
+        "group":  "P",
         "wholesale":  1845,
-        "group":  "P"
+        "mrp":  2767.5,
+        "name":  "SONY 903 C",
+        "barcode":  "0002815",
+        "sale":  2250
     },
     {
-        "name":  "Snt Barsat",
         "stock":  -4,
-        "barcode":  "0002406",
-        "sale":  550,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  435,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "Snt Barsat",
+        "barcode":  "0002406",
+        "sale":  550
     },
     {
         "name":  "JF Skoda",
@@ -13140,13 +13140,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF PANJABI KUDI",
         "stock":  4,
-        "barcode":  "0003070",
-        "sale":  780,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GF PANJABI KUDI",
+        "barcode":  "0003070",
+        "sale":  780
     },
     {
         "name":  "KC NAKHRE TERE",
@@ -13158,13 +13158,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "OM Nigar",
         "stock":  2,
-        "barcode":  "001984",
-        "sale":  650,
-        "mrp":  735,
+        "group":  "S",
         "wholesale":  490,
-        "group":  "S"
+        "mrp":  735,
+        "name":  "OM Nigar",
+        "barcode":  "001984",
+        "sale":  650
     },
     {
         "name":  "KC Villagers",
@@ -13185,13 +13185,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK Kallakar",
         "stock":  2,
-        "barcode":  "000269",
-        "sale":  550,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "GK Kallakar",
+        "barcode":  "000269",
+        "sale":  550
     },
     {
         "name":  "GF Vichitra Toofan",
@@ -13230,13 +13230,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "KC FARIS",
         "stock":  4,
-        "barcode":  "002280",
-        "sale":  2300,
-        "mrp":  3052.5,
+        "group":  "P",
         "wholesale":  2035,
-        "group":  "P"
+        "mrp":  3052.5,
+        "name":  "KC FARIS",
+        "barcode":  "002280",
+        "sale":  2300
     },
     {
         "name":  "Siya Work Scarf",
@@ -13248,22 +13248,22 @@ var STOCK_DATA = [
         "group":  "Dupatta"
     },
     {
-        "name":  "GARIMA VELVET ZARKAN",
         "stock":  2,
-        "barcode":  "0002671",
-        "sale":  600,
-        "mrp":  690,
+        "group":  "VELVET SUIT",
         "wholesale":  465,
-        "group":  "VELVET SUIT"
+        "mrp":  690,
+        "name":  "GARIMA VELVET ZARKAN",
+        "barcode":  "0002671",
+        "sale":  600
     },
     {
-        "name":  "JT ZUBEE",
         "stock":  9,
-        "barcode":  "0002930",
-        "sale":  550,
-        "mrp":  667.5,
+        "group":  "CC",
         "wholesale":  445,
-        "group":  "CC"
+        "mrp":  667.5,
+        "name":  "JT ZUBEE",
+        "barcode":  "0002930",
+        "sale":  550
     },
     {
         "name":  "Svt Sapno Ki Rani",
@@ -13275,13 +13275,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC HASEEN WADI",
         "stock":  4,
-        "barcode":  "0003108",
-        "sale":  2000,
-        "mrp":  2542,
+        "group":  "P",
         "wholesale":  1695,
-        "group":  "P"
+        "mrp":  2542,
+        "name":  "KC HASEEN WADI",
+        "barcode":  "0003108",
+        "sale":  2000
     },
     {
         "name":  "KC 13453",
@@ -13302,13 +13302,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "YF Sarvana",
         "stock":  1,
-        "barcode":  "002073",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CS",
         "wholesale":  400,
-        "group":  "CS"
+        "mrp":  600,
+        "name":  "YF Sarvana",
+        "barcode":  "002073",
+        "sale":  550
     },
     {
         "name":  "KC Rutba",
@@ -13338,13 +13338,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM DOUBLE RUN",
         "stock":  3,
-        "barcode":  "002371",
-        "sale":  850,
-        "mrp":  975,
+        "group":  "S",
         "wholesale":  650,
-        "group":  "S"
+        "mrp":  975,
+        "name":  "OM DOUBLE RUN",
+        "barcode":  "002371",
+        "sale":  850
     },
     {
         "name":  "SVT Royal Enfield",
@@ -13356,13 +13356,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT MAHI",
         "stock":  3,
-        "barcode":  "0002391",
-        "sale":  1450,
-        "mrp":  1612.5,
+        "group":  "P",
         "wholesale":  1075,
-        "group":  "P"
+        "mrp":  1612.5,
+        "name":  "SNT MAHI",
+        "barcode":  "0002391",
+        "sale":  1450
     },
     {
         "name":  "KC Kalakand",
@@ -13392,13 +13392,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Innaya Gudgudi",
         "stock":  -1,
-        "barcode":  "001911",
-        "sale":  650,
-        "mrp":  720,
+        "group":  "S",
         "wholesale":  480,
-        "group":  "S"
+        "mrp":  720,
+        "name":  "Innaya Gudgudi",
+        "barcode":  "001911",
+        "sale":  650
     },
     {
         "name":  "GF Hemani",
@@ -13410,13 +13410,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF SUI DHAGA",
         "stock":  8,
-        "barcode":  "0002939",
-        "sale":  900,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GF SUI DHAGA",
+        "barcode":  "0002939",
+        "sale":  900
     },
     {
         "name":  "GF DHARA",
@@ -13428,13 +13428,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT BLUE WHALE",
         "stock":  8,
-        "barcode":  "002236",
-        "sale":  630,
-        "mrp":  892.5,
+        "group":  "S",
         "wholesale":  595,
-        "group":  "S"
+        "mrp":  892.5,
+        "name":  "SNT BLUE WHALE",
+        "barcode":  "002236",
+        "sale":  630
     },
     {
         "name":  "MSM Twinkle",
@@ -13446,13 +13446,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Sg Kajal",
         "stock":  2,
-        "barcode":  "0002678",
-        "sale":  850,
-        "mrp":  937.5,
+        "group":  "CS",
         "wholesale":  625,
-        "group":  "CS"
+        "mrp":  937.5,
+        "name":  "Sg Kajal",
+        "barcode":  "0002678",
+        "sale":  850
     },
     {
         "name":  "Shaheen Aunty",
@@ -13482,13 +13482,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Lamhen",
         "stock":  -20,
-        "barcode":  "000768",
-        "sale":  30,
-        "mrp":  34.5,
+        "group":  "S",
         "wholesale":  23,
-        "group":  "S"
+        "mrp":  34.5,
+        "name":  "Lamhen",
+        "barcode":  "000768",
+        "sale":  30
     },
     {
         "name":  "Rasgulla",
@@ -13500,13 +13500,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC Good Luck",
         "stock":  6,
-        "barcode":  "002030",
-        "sale":  650,
-        "mrp":  712.5,
+        "group":  "CD",
         "wholesale":  475,
-        "group":  "CD"
+        "mrp":  712.5,
+        "name":  "KC Good Luck",
+        "barcode":  "002030",
+        "sale":  650
     },
     {
         "name":  "Gumnam",
@@ -13527,22 +13527,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MERI HEERIYE",
         "stock":  2,
-        "barcode":  "000592",
-        "sale":  1650,
-        "mrp":  2205,
+        "group":  "T",
         "wholesale":  1470,
-        "group":  "T"
+        "mrp":  2205,
+        "name":  "KC MERI HEERIYE",
+        "barcode":  "000592",
+        "sale":  1650
     },
     {
-        "name":  "KC COOLZEN",
         "stock":  1,
-        "barcode":  "0002481",
-        "sale":  2100,
-        "mrp":  2737.5,
+        "group":  "P",
         "wholesale":  1825,
-        "group":  "P"
+        "mrp":  2737.5,
+        "name":  "KC COOLZEN",
+        "barcode":  "0002481",
+        "sale":  2100
     },
     {
         "name":  "KC Badal",
@@ -13563,13 +13563,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GK Karnavati",
         "stock":  3,
-        "barcode":  "001702",
-        "sale":  700,
-        "mrp":  787.5,
+        "group":  "S",
         "wholesale":  525,
-        "group":  "S"
+        "mrp":  787.5,
+        "name":  "GK Karnavati",
+        "barcode":  "001702",
+        "sale":  700
     },
     {
         "name":  "Dubai Special",
@@ -13581,13 +13581,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Fahar",
         "stock":  2,
-        "barcode":  "000490",
-        "sale":  1450,
-        "mrp":  2032,
+        "group":  "S",
         "wholesale":  1355,
-        "group":  "S"
+        "mrp":  2032,
+        "name":  "KC Fahar",
+        "barcode":  "000490",
+        "sale":  1450
     },
     {
         "name":  "GF Parrot",
@@ -13599,13 +13599,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC HAPPY RAINBOW",
         "stock":  4,
-        "barcode":  "0003100",
-        "sale":  2600,
-        "mrp":  3951,
+        "group":  "P",
         "wholesale":  2195,
-        "group":  "P"
+        "mrp":  3951,
+        "name":  "KC HAPPY RAINBOW",
+        "barcode":  "0003100",
+        "sale":  2600
     },
     {
         "name":  "VIC MANJU",
@@ -13635,22 +13635,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA MIX 05",
         "stock":  8,
-        "barcode":  "002263",
-        "sale":  600,
-        "mrp":  1350,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  1350,
+        "name":  "GNA MIX 05",
+        "barcode":  "002263",
+        "sale":  600
     },
     {
-        "name":  "KT MEHER",
         "stock":  16,
-        "barcode":  "0002938",
-        "sale":  300,
-        "mrp":  367.5,
+        "group":  "CC",
         "wholesale":  245,
-        "group":  "CC"
+        "mrp":  367.5,
+        "name":  "KT MEHER",
+        "barcode":  "0002938",
+        "sale":  300
     },
     {
         "name":  "SS Binad jam",
@@ -13671,13 +13671,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CAFE DILWALE",
         "stock":  4,
-        "barcode":  "0002563",
-        "sale":  1400,
-        "mrp":  1620,
+        "group":  "S",
         "wholesale":  1080,
-        "group":  "S"
+        "mrp":  1620,
+        "name":  "KC CAFE DILWALE",
+        "barcode":  "0002563",
+        "sale":  1400
     },
     {
         "name":  "Music Rajni Pant",
@@ -13698,13 +13698,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FIRST RAY",
         "stock":  4,
-        "barcode":  "0002864",
-        "sale":  2400,
-        "mrp":  2685,
+        "group":  "P",
         "wholesale":  1790,
-        "group":  "P"
+        "mrp":  2685,
+        "name":  "KC FIRST RAY",
+        "barcode":  "0002864",
+        "sale":  2400
     },
     {
         "name":  "PEHNAWA SAMRPAN",
@@ -13716,13 +13716,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SABEELA TROUSER",
         "stock":  -9,
-        "barcode":  "001086",
-        "sale":  1350,
-        "mrp":  1672,
+        "group":  "T",
         "wholesale":  1165,
-        "group":  "T"
+        "mrp":  1672,
+        "name":  "SABEELA TROUSER",
+        "barcode":  "001086",
+        "sale":  1350
     },
     {
         "name":  "Mohit Suhani",
@@ -13770,13 +13770,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Krushna Pushpa Rajwadi",
         "stock":  4,
-        "barcode":  "001993",
-        "sale":  600,
-        "mrp":  660,
+        "group":  "CS",
         "wholesale":  440,
-        "group":  "CS"
+        "mrp":  660,
+        "name":  "Krushna Pushpa Rajwadi",
+        "barcode":  "001993",
+        "sale":  600
     },
     {
         "name":  "GF JHUMAR",
@@ -13797,13 +13797,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "NAYRA",
         "stock":  -1,
-        "barcode":  "000908",
-        "sale":  1050,
-        "mrp":  1250,
+        "group":  "N",
         "wholesale":  833.3333333,
-        "group":  "N"
+        "mrp":  1250,
+        "name":  "NAYRA",
+        "barcode":  "000908",
+        "sale":  1050
     },
     {
         "name":  "Small Chouka",
@@ -13842,13 +13842,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GLOW ZONE",
         "stock":  3,
-        "barcode":  "0002792",
-        "sale":  1850,
-        "mrp":  2227.5,
+        "group":  "S",
         "wholesale":  1485,
-        "group":  "S"
+        "mrp":  2227.5,
+        "name":  "KC GLOW ZONE",
+        "barcode":  "0002792",
+        "sale":  1850
     },
     {
         "name":  "KC FALISHA",
@@ -13860,13 +13860,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DESI SPRINKLE",
         "stock":  4,
-        "barcode":  "0003106",
-        "sale":  1800,
-        "mrp":  2377.5,
+        "group":  "S",
         "wholesale":  1585,
-        "group":  "S"
+        "mrp":  2377.5,
+        "name":  "KC DESI SPRINKLE",
+        "barcode":  "0003106",
+        "sale":  1800
     },
     {
         "name":  "KC TERI CHUNARIYA",
@@ -13887,58 +13887,58 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "AHD PC COTTON",
         "stock":  24,
-        "barcode":  "0002861",
-        "sale":  250,
-        "mrp":  295.5,
+        "group":  "CS",
         "wholesale":  197,
-        "group":  "CS"
+        "mrp":  295.5,
+        "name":  "AHD PC COTTON",
+        "barcode":  "0002861",
+        "sale":  250
     },
     {
-        "name":  "Gk Maira",
         "stock":  2,
-        "barcode":  "0002404",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "CS",
         "wholesale":  550,
-        "group":  "CS"
+        "mrp":  825,
+        "name":  "Gk Maira",
+        "barcode":  "0002404",
+        "sale":  750
     },
     {
-        "name":  "Welcome Teekhi Mirch",
         "stock":  12,
-        "barcode":  "001785",
-        "sale":  700,
-        "mrp":  810,
+        "group":  "S",
         "wholesale":  540,
-        "group":  "S"
+        "mrp":  810,
+        "name":  "Welcome Teekhi Mirch",
+        "barcode":  "001785",
+        "sale":  700
     },
     {
-        "name":  "Kkc Masoom",
         "stock":  66,
-        "barcode":  "001730",
-        "sale":  300,
-        "mrp":  382.5,
+        "group":  "S",
         "wholesale":  255,
-        "group":  "S"
+        "mrp":  382.5,
+        "name":  "Kkc Masoom",
+        "barcode":  "001730",
+        "sale":  300
     },
     {
-        "name":  "Jt Zara",
         "stock":  -1,
-        "barcode":  "000390",
-        "sale":  400,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "Jt Zara",
+        "barcode":  "000390",
+        "sale":  400
     },
     {
-        "name":  "OM Cookies",
         "stock":  122,
-        "barcode":  "000941",
-        "sale":  600,
-        "mrp":  847.5,
+        "group":  "G",
         "wholesale":  565,
-        "group":  "G"
+        "mrp":  847.5,
+        "name":  "OM Cookies",
+        "barcode":  "000941",
+        "sale":  600
     },
     {
         "name":  "MDV FIROZA",
@@ -13950,13 +13950,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Gk Piku",
         "stock":  -1,
-        "barcode":  "002363",
-        "sale":  1300,
-        "mrp":  1462.5,
+        "group":  "T",
         "wholesale":  975,
-        "group":  "T"
+        "mrp":  1462.5,
+        "name":  "Gk Piku",
+        "barcode":  "002363",
+        "sale":  1300
     },
     {
         "name":  "RUHI",
@@ -14031,13 +14031,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BULLET TRAIN",
         "stock":  4,
-        "barcode":  "0002631",
-        "sale":  2450,
-        "mrp":  3352.5,
+        "group":  "P",
         "wholesale":  2235,
-        "group":  "P"
+        "mrp":  3352.5,
+        "name":  "KC BULLET TRAIN",
+        "barcode":  "0002631",
+        "sale":  2450
     },
     {
         "name":  "Sony Heavy 2",
@@ -14067,22 +14067,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC SAFRON BEAUTY FENDI",
         "stock":  3,
-        "barcode":  "0003072",
-        "sale":  2750,
-        "mrp":  2750,
+        "group":  "P",
         "wholesale":  2290,
-        "group":  "P"
+        "mrp":  2750,
+        "name":  "KC SAFRON BEAUTY FENDI",
+        "barcode":  "0003072",
+        "sale":  2750
     },
     {
-        "name":  "KC THANDAI",
         "stock":  4,
-        "barcode":  "0002687",
-        "sale":  1400,
-        "mrp":  1575,
+        "group":  "S",
         "wholesale":  1050,
-        "group":  "S"
+        "mrp":  1575,
+        "name":  "KC THANDAI",
+        "barcode":  "0002687",
+        "sale":  1400
     },
     {
         "name":  "KC Harry Potter",
@@ -14130,13 +14130,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "INNAYA ROYAL STAG",
         "stock":  -4,
-        "barcode":  "0003134",
-        "sale":  650,
-        "mrp":  805,
+        "group":  "C",
         "wholesale":  537,
-        "group":  "C"
+        "mrp":  805,
+        "name":  "INNAYA ROYAL STAG",
+        "barcode":  "0003134",
+        "sale":  650
     },
     {
         "name":  "Suite SNT Jasmine",
@@ -14148,13 +14148,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ZAHIDA",
         "stock":  3,
-        "barcode":  "0002751",
-        "sale":  1350,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC ZAHIDA",
+        "barcode":  "0002751",
+        "sale":  1350
     },
     {
         "name":  "KC Cookies",
@@ -14166,22 +14166,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PASHMINA",
         "stock":  3835.6,
-        "barcode":  "000990",
-        "sale":  30,
-        "mrp":  35.26,
+        "group":  "General",
         "wholesale":  23.5,
-        "group":  "General"
+        "mrp":  35.26,
+        "name":  "PASHMINA",
+        "barcode":  "000990",
+        "sale":  30
     },
     {
-        "name":  "KC Hats Off",
         "stock":  6,
-        "barcode":  "002031",
-        "sale":  650,
-        "mrp":  712.5,
+        "group":  "CD",
         "wholesale":  475,
-        "group":  "CD"
+        "mrp":  712.5,
+        "name":  "KC Hats Off",
+        "barcode":  "002031",
+        "sale":  650
     },
     {
         "name":  "PC ROMANCE",
@@ -14193,31 +14193,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SBC 4570",
         "stock":  4,
-        "barcode":  "0002778",
-        "sale":  2000,
-        "mrp":  2715,
+        "group":  "P",
         "wholesale":  1810,
-        "group":  "P"
+        "mrp":  2715,
+        "name":  "SBC 4570",
+        "barcode":  "0002778",
+        "sale":  2000
     },
     {
-        "name":  "KC Chunnari Chamke",
         "stock":  5,
-        "barcode":  "002365",
-        "sale":  650,
-        "mrp":  765,
+        "group":  "CS",
         "wholesale":  510,
-        "group":  "CS"
+        "mrp":  765,
+        "name":  "KC Chunnari Chamke",
+        "barcode":  "002365",
+        "sale":  650
     },
     {
-        "name":  "Royal Khushi",
         "stock":  -1,
-        "barcode":  "0002850",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "CC",
         "wholesale":  0,
-        "group":  "CC"
+        "mrp":  0,
+        "name":  "Royal Khushi",
+        "barcode":  "0002850",
+        "sale":  0
     },
     {
         "name":  "Kc Royal Fit",
@@ -14238,13 +14238,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Rayon",
         "stock":  -2,
-        "barcode":  "001019",
-        "sale":  50,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "Rayon",
+        "barcode":  "001019",
+        "sale":  50
     },
     {
         "name":  "KC DALCHINI",
@@ -14256,13 +14256,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ISHQ STEPS",
         "stock":  1,
-        "barcode":  "0002833",
-        "sale":  1650,
-        "mrp":  2085,
+        "group":  "T",
         "wholesale":  1390,
-        "group":  "T"
+        "mrp":  2085,
+        "name":  "KC ISHQ STEPS",
+        "barcode":  "0002833",
+        "sale":  1650
     },
     {
         "name":  "Sofia",
@@ -14292,13 +14292,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC ELANZA",
         "stock":  4,
-        "barcode":  "0002843",
-        "sale":  2000,
-        "mrp":  2542.5,
+        "group":  "P",
         "wholesale":  1695,
-        "group":  "P"
+        "mrp":  2542.5,
+        "name":  "KC ELANZA",
+        "barcode":  "0002843",
+        "sale":  2000
     },
     {
         "name":  "JT ANTIQUE",
@@ -14328,22 +14328,22 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "GF City Plus",
         "stock":  1,
-        "barcode":  "000156",
-        "sale":  650,
-        "mrp":  878,
+        "group":  "S",
         "wholesale":  585.33,
-        "group":  "S"
+        "mrp":  878,
+        "name":  "GF City Plus",
+        "barcode":  "000156",
+        "sale":  650
     },
     {
-        "name":  "JMD Chandrika",
         "stock":  -1,
-        "barcode":  "000377",
-        "sale":  400,
-        "mrp":  469,
+        "group":  "S",
         "wholesale":  312.67,
-        "group":  "S"
+        "mrp":  469,
+        "name":  "JMD Chandrika",
+        "barcode":  "000377",
+        "sale":  400
     },
     {
         "name":  "KC Shaitan Garara",
@@ -14355,22 +14355,22 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "Zara Aheri Suit",
         "stock":  52,
-        "barcode":  "002187",
-        "sale":  250,
-        "mrp":  292.5,
+        "group":  "CC",
         "wholesale":  195,
-        "group":  "CC"
+        "mrp":  292.5,
+        "name":  "Zara Aheri Suit",
+        "barcode":  "002187",
+        "sale":  250
     },
     {
-        "name":  "KC ROYAL MARINA",
         "stock":  2,
-        "barcode":  "0002932",
-        "sale":  2400,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC ROYAL MARINA",
+        "barcode":  "0002932",
+        "sale":  2400
     },
     {
         "name":  "10 LACHA",
@@ -14382,13 +14382,13 @@ var STOCK_DATA = [
         "group":  "L"
     },
     {
-        "name":  "BMW Plain",
         "stock":  3310.15,
-        "barcode":  "000056",
-        "sale":  30,
-        "mrp":  32.25,
+        "group":  "KAPDA",
         "wholesale":  21.5,
-        "group":  "KAPDA"
+        "mrp":  32.25,
+        "name":  "BMW Plain",
+        "barcode":  "000056",
+        "sale":  30
     },
     {
         "name":  "SVT FERRARI",
@@ -14418,13 +14418,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Oreo",
         "stock":  2,
-        "barcode":  "001766",
-        "sale":  700,
-        "mrp":  772,
+        "group":  "S",
         "wholesale":  514.67,
-        "group":  "S"
+        "mrp":  772,
+        "name":  "SNT Oreo",
+        "barcode":  "001766",
+        "sale":  700
     },
     {
         "name":  "KC O SAHIBA",
@@ -14436,22 +14436,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA Amrita",
         "stock":  -1,
-        "barcode":  "001587",
-        "sale":  900,
-        "mrp":  982,
+        "group":  "S",
         "wholesale":  654.6666667,
-        "group":  "S"
+        "mrp":  982,
+        "name":  "GNA Amrita",
+        "barcode":  "001587",
+        "sale":  900
     },
     {
-        "name":  "7 Clouds",
         "stock":  -2,
-        "barcode":  "001556",
-        "sale":  1200,
-        "mrp":  1350,
+        "group":  "T",
         "wholesale":  900,
-        "group":  "T"
+        "mrp":  1350,
+        "name":  "7 Clouds",
+        "barcode":  "001556",
+        "sale":  1200
     },
     {
         "name":  "Iznik 1182B",
@@ -14508,31 +14508,31 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "GK Kudrt",
         "stock":  -1,
-        "barcode":  "001853",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "S",
         "wholesale":  550,
-        "group":  "S"
+        "mrp":  825,
+        "name":  "GK Kudrt",
+        "barcode":  "001853",
+        "sale":  750
     },
     {
-        "name":  "SONY KALI PLAZO",
         "stock":  -2,
-        "barcode":  "001322",
-        "sale":  2300,
-        "mrp":  2557,
+        "group":  "P",
         "wholesale":  1704.666667,
-        "group":  "P"
+        "mrp":  2557,
+        "name":  "SONY KALI PLAZO",
+        "barcode":  "001322",
+        "sale":  2300
     },
     {
-        "name":  "GNA MIX 03",
         "stock":  7,
-        "barcode":  "002261",
-        "sale":  650,
-        "mrp":  1350,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  1350,
+        "name":  "GNA MIX 03",
+        "barcode":  "002261",
+        "sale":  650
     },
     {
         "name":  "02 LACHA",
@@ -14544,13 +14544,13 @@ var STOCK_DATA = [
         "group":  "L"
     },
     {
-        "name":  "KC WAFFY ZONE",
         "stock":  4,
-        "barcode":  "0002543",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC WAFFY ZONE",
+        "barcode":  "0002543",
+        "sale":  1450
     },
     {
         "name":  "KC DIGITAL LOOK",
@@ -14562,13 +14562,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SUR SAGAR",
         "stock":  2,
-        "barcode":  "0002739",
-        "sale":  2400,
-        "mrp":  3127.5,
+        "group":  "P",
         "wholesale":  2085,
-        "group":  "P"
+        "mrp":  3127.5,
+        "name":  "KC SUR SAGAR",
+        "barcode":  "0002739",
+        "sale":  2400
     },
     {
         "name":  "G35",
@@ -14589,13 +14589,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "SUITE",
         "stock":  -352,
-        "barcode":  "001359",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "SUITE",
+        "barcode":  "001359",
+        "sale":  0
     },
     {
         "name":  "KC SILVER KEY",
@@ -14625,13 +14625,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BLACK ROCK",
         "stock":  4,
-        "barcode":  "0002856",
-        "sale":  1400,
-        "mrp":  1545,
+        "group":  "S",
         "wholesale":  1030,
-        "group":  "S"
+        "mrp":  1545,
+        "name":  "KC BLACK ROCK",
+        "barcode":  "0002856",
+        "sale":  1400
     },
     {
         "name":  "KC Badshah",
@@ -14652,13 +14652,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC STYLE WORLD",
         "stock":  4,
-        "barcode":  "0003109",
-        "sale":  1950,
-        "mrp":  2467,
+        "group":  "P",
         "wholesale":  1645,
-        "group":  "P"
+        "mrp":  2467,
+        "name":  "KC STYLE WORLD",
+        "barcode":  "0003109",
+        "sale":  1950
     },
     {
         "name":  "KC PALKON TALE",
@@ -14706,31 +14706,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SF (Shriyan Fashion) BABITA",
         "stock":  2,
-        "barcode":  "001954",
-        "sale":  700,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "SF (Shriyan Fashion) BABITA",
+        "barcode":  "001954",
+        "sale":  700
     },
     {
-        "name":  "SONY 131",
         "stock":  4,
-        "barcode":  "0002508",
-        "sale":  2450,
-        "mrp":  2722.5,
+        "group":  "T",
         "wholesale":  1815,
-        "group":  "T"
+        "mrp":  2722.5,
+        "name":  "SONY 131",
+        "barcode":  "0002508",
+        "sale":  2450
     },
     {
-        "name":  "MASTI REYON KUDI",
         "stock":  10,
-        "barcode":  "0002947",
-        "sale":  500,
-        "mrp":  667.5,
+        "group":  "CC",
         "wholesale":  445,
-        "group":  "CC"
+        "mrp":  667.5,
+        "name":  "MASTI REYON KUDI",
+        "barcode":  "0002947",
+        "sale":  500
     },
     {
         "name":  "Bhumi Bandhan",
@@ -14742,13 +14742,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BITE TIME",
         "stock":  4,
-        "barcode":  "0003117",
-        "sale":  1970,
-        "mrp":  2467.5,
+        "group":  "P",
         "wholesale":  1645,
-        "group":  "P"
+        "mrp":  2467.5,
+        "name":  "KC BITE TIME",
+        "barcode":  "0003117",
+        "sale":  1970
     },
     {
         "name":  "GF Sahira",
@@ -14769,13 +14769,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Om Yess Boss",
         "stock":  4,
-        "barcode":  "001386",
-        "sale":  600,
-        "mrp":  675,
+        "group":  "S",
         "wholesale":  450,
-        "group":  "S"
+        "mrp":  675,
+        "name":  "Om Yess Boss",
+        "barcode":  "001386",
+        "sale":  600
     },
     {
         "name":  "OM Rangeela Raja",
@@ -14787,13 +14787,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Masti Afreen",
         "stock":  80,
-        "barcode":  "001995",
-        "sale":  500,
-        "mrp":  682.5,
+        "group":  "CC",
         "wholesale":  455,
-        "group":  "CC"
+        "mrp":  682.5,
+        "name":  "Masti Afreen",
+        "barcode":  "001995",
+        "sale":  500
     },
     {
         "name":  "GF Sky",
@@ -14805,22 +14805,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Rangoli",
         "stock":  -3,
-        "barcode":  "001949",
-        "sale":  700,
-        "mrp":  787.5,
+        "group":  "S",
         "wholesale":  525,
-        "group":  "S"
+        "mrp":  787.5,
+        "name":  "Welcome Rangoli",
+        "barcode":  "001949",
+        "sale":  700
     },
     {
-        "name":  "KC SOFT MELODY",
         "stock":  4,
-        "barcode":  "0002887",
-        "sale":  1200,
-        "mrp":  1335,
+        "group":  "S",
         "wholesale":  890,
-        "group":  "S"
+        "mrp":  1335,
+        "name":  "KC SOFT MELODY",
+        "barcode":  "0002887",
+        "sale":  1200
     },
     {
         "name":  "Pehnawa Shivani Print",
@@ -14850,13 +14850,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Rangeela",
         "stock":  -1,
-        "barcode":  "001265",
-        "sale":  550,
-        "mrp":  653,
+        "group":  "S",
         "wholesale":  435.3333333,
-        "group":  "S"
+        "mrp":  653,
+        "name":  "SNT Rangeela",
+        "barcode":  "001265",
+        "sale":  550
     },
     {
         "name":  "KC Shell",
@@ -14868,13 +14868,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Dosti Yaari",
         "stock":  1,
-        "barcode":  "001679",
-        "sale":  2600,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "KC Dosti Yaari",
+        "barcode":  "001679",
+        "sale":  2600
     },
     {
         "name":  "SNT Jalwa burberry",
@@ -14886,13 +14886,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK RUSTAM",
         "stock":  4,
-        "barcode":  "0002963",
-        "sale":  1600,
-        "mrp":  2047.5,
+        "group":  "P",
         "wholesale":  1365,
-        "group":  "P"
+        "mrp":  2047.5,
+        "name":  "GK RUSTAM",
+        "barcode":  "0002963",
+        "sale":  1600
     },
     {
         "name":  "Spari 4321B",
@@ -14931,13 +14931,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Sunset Valley",
         "stock":  4,
-        "barcode":  "0002675",
-        "sale":  1500,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "Kc Sunset Valley",
+        "barcode":  "0002675",
+        "sale":  1500
     },
     {
         "name":  "SG VICTORY",
@@ -14958,13 +14958,13 @@ var STOCK_DATA = [
         "group":  "C"
     },
     {
-        "name":  "OM KRRISH",
         "stock":  6,
-        "barcode":  "0002475",
-        "sale":  750,
-        "mrp":  858,
+        "group":  "S",
         "wholesale":  572,
-        "group":  "S"
+        "mrp":  858,
+        "name":  "OM KRRISH",
+        "barcode":  "0002475",
+        "sale":  750
     },
     {
         "name":  "3 Pcs",
@@ -14976,13 +14976,13 @@ var STOCK_DATA = [
         "group":  "C"
     },
     {
-        "name":  "AST HEENA",
         "stock":  24,
-        "barcode":  "0003009",
-        "sale":  450,
-        "mrp":  585,
+        "group":  "CS",
         "wholesale":  390,
-        "group":  "CS"
+        "mrp":  585,
+        "name":  "AST HEENA",
+        "barcode":  "0003009",
+        "sale":  450
     },
     {
         "name":  "Desai Rasgulla",
@@ -15012,13 +15012,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC RABBANA",
         "stock":  1,
-        "barcode":  "0002736",
-        "sale":  2100,
-        "mrp":  2767.5,
+        "group":  "P",
         "wholesale":  1845,
-        "group":  "P"
+        "mrp":  2767.5,
+        "name":  "KC RABBANA",
+        "barcode":  "0002736",
+        "sale":  2100
     },
     {
         "name":  "Sony 1550",
@@ -15048,94 +15048,94 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "YF Sang Dil",
         "stock":  3,
-        "barcode":  "001902",
-        "sale":  500,
-        "mrp":  547.5,
+        "group":  "S",
         "wholesale":  365,
-        "group":  "S"
+        "mrp":  547.5,
+        "name":  "YF Sang Dil",
+        "barcode":  "001902",
+        "sale":  500
     },
     {
-        "name":  "GN College Dupatta",
         "stock":  49,
-        "barcode":  "002160",
-        "sale":  100,
-        "mrp":  120,
+        "group":  "Dupatta",
         "wholesale":  55,
-        "group":  "Dupatta"
+        "mrp":  120,
+        "name":  "GN College Dupatta",
+        "barcode":  "002160",
+        "sale":  100
     },
     {
-        "name":  "SG GOOD LUCK",
         "stock":  3,
-        "barcode":  "0002898",
-        "sale":  900,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "SG GOOD LUCK",
+        "barcode":  "0002898",
+        "sale":  900
     },
     {
-        "name":  "Kc Sofia",
         "stock":  -3,
-        "barcode":  "0003058",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "Kc Sofia",
+        "barcode":  "0003058",
+        "sale":  0
     },
     {
-        "name":  "KC CHILL BERRY",
         "stock":  2,
-        "barcode":  "002356",
-        "sale":  1650,
-        "mrp":  2130,
+        "group":  "P",
         "wholesale":  1420,
-        "group":  "P"
+        "mrp":  2130,
+        "name":  "KC CHILL BERRY",
+        "barcode":  "002356",
+        "sale":  1650
     },
     {
-        "name":  "RS 7",
         "stock":  1,
-        "barcode":  "001548",
-        "sale":  1450,
-        "mrp":  1597,
+        "group":  "S",
         "wholesale":  1064.67,
-        "group":  "S"
+        "mrp":  1597,
+        "name":  "RS 7",
+        "barcode":  "001548",
+        "sale":  1450
     },
     {
-        "name":  "VC NDTV",
         "stock":  2,
-        "barcode":  "001474",
-        "sale":  400,
-        "mrp":  480,
+        "group":  "S",
         "wholesale":  433.33,
-        "group":  "S"
+        "mrp":  480,
+        "name":  "VC NDTV",
+        "barcode":  "001474",
+        "sale":  400
     },
     {
-        "name":  "SNT Haseena",
         "stock":  8,
-        "barcode":  "001743",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  460,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "SNT Haseena",
+        "barcode":  "001743",
+        "sale":  650
     },
     {
-        "name":  "KC SUPER SONIC",
         "stock":  1,
-        "barcode":  "002218",
-        "sale":  1650,
-        "mrp":  1860,
+        "group":  "T",
         "wholesale":  1240,
-        "group":  "T"
+        "mrp":  1860,
+        "name":  "KC SUPER SONIC",
+        "barcode":  "002218",
+        "sale":  1650
     },
     {
-        "name":  "JMD MIX SUIT STAR",
         "stock":  40,
-        "barcode":  "0002890",
-        "sale":  400,
-        "mrp":  469.5,
+        "group":  "S",
         "wholesale":  313,
-        "group":  "S"
+        "mrp":  469.5,
+        "name":  "JMD MIX SUIT STAR",
+        "barcode":  "0002890",
+        "sale":  400
     },
     {
         "name":  "Music Bindiya",
@@ -15183,13 +15183,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SG SHUBH MANGAL",
         "stock":  4,
-        "barcode":  "0002899",
-        "sale":  1800,
-        "mrp":  2040,
+        "group":  "G",
         "wholesale":  1360,
-        "group":  "G"
+        "mrp":  2040,
+        "name":  "SG SHUBH MANGAL",
+        "barcode":  "0002899",
+        "sale":  1800
     },
     {
         "name":  "Kc Mast Toli",
@@ -15210,31 +15210,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT LAXMI",
         "stock":  1,
-        "barcode":  "001977",
-        "sale":  800,
-        "mrp":  907.5,
+        "group":  "S",
         "wholesale":  605,
-        "group":  "S"
+        "mrp":  907.5,
+        "name":  "SNT LAXMI",
+        "barcode":  "001977",
+        "sale":  800
     },
     {
-        "name":  "KC DASTAK-E-DIL",
         "stock":  4,
-        "barcode":  "0003051",
-        "sale":  1650,
-        "mrp":  2131.5,
+        "group":  "S",
         "wholesale":  1421,
-        "group":  "S"
+        "mrp":  2131.5,
+        "name":  "KC DASTAK-E-DIL",
+        "barcode":  "0003051",
+        "sale":  1650
     },
     {
-        "name":  "KC TAJ RAANI",
         "stock":  4,
-        "barcode":  "0003043",
-        "sale":  2350,
-        "mrp":  2992.5,
+        "group":  "P",
         "wholesale":  1995,
-        "group":  "P"
+        "mrp":  2992.5,
+        "name":  "KC TAJ RAANI",
+        "barcode":  "0003043",
+        "sale":  2350
     },
     {
         "name":  "Mukesh RDX",
@@ -15273,13 +15273,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROLL NATION (PURSE)",
         "stock":  4,
-        "barcode":  "0003118",
-        "sale":  2500,
-        "mrp":  3135,
+        "group":  "P",
         "wholesale":  2090,
-        "group":  "P"
+        "mrp":  3135,
+        "name":  "KC ROLL NATION (PURSE)",
+        "barcode":  "0003118",
+        "sale":  2500
     },
     {
         "name":  "Varnika Madhukan",
@@ -15291,13 +15291,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "WHITE 1 ZARKAN",
         "stock":  7,
-        "barcode":  "0002450",
-        "sale":  600,
-        "mrp":  660,
+        "group":  "CS",
         "wholesale":  440,
-        "group":  "CS"
+        "mrp":  660,
+        "name":  "WHITE 1 ZARKAN",
+        "barcode":  "0002450",
+        "sale":  600
     },
     {
         "name":  "KC PEPLUM",
@@ -15354,13 +15354,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc 11675",
         "stock":  1,
-        "barcode":  "002162",
-        "sale":  350,
-        "mrp":  412.5,
+        "group":  "CS",
         "wholesale":  275,
-        "group":  "CS"
+        "mrp":  412.5,
+        "name":  "Kc 11675",
+        "barcode":  "002162",
+        "sale":  350
     },
     {
         "name":  "GF Ruksana",
@@ -15408,13 +15408,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "RS Crunchy 5",
         "stock":  -6,
-        "barcode":  "001851",
-        "sale":  1750,
-        "mrp":  1950,
+        "group":  "S",
         "wholesale":  1300,
-        "group":  "S"
+        "mrp":  1950,
+        "name":  "RS Crunchy 5",
+        "barcode":  "001851",
+        "sale":  1750
     },
     {
         "name":  "Tycoon KC",
@@ -15444,13 +15444,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "Kc Grand Walk",
         "stock":  1,
-        "barcode":  "0002410",
-        "sale":  1850,
-        "mrp":  2212.5,
+        "group":  "T",
         "wholesale":  1475,
-        "group":  "T"
+        "mrp":  2212.5,
+        "name":  "Kc Grand Walk",
+        "barcode":  "0002410",
+        "sale":  1850
     },
     {
         "name":  "MN APPLE SHAKE",
@@ -15498,13 +15498,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GARARA",
         "stock":  -2,
-        "barcode":  "000118",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "G",
         "wholesale":  0,
-        "group":  "G"
+        "mrp":  0,
+        "name":  "GARARA",
+        "barcode":  "000118",
+        "sale":  0
     },
     {
         "name":  "JMD CHALLENGER",
@@ -15543,13 +15543,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC POWER QUEEN",
         "stock":  4,
-        "barcode":  "0002826",
-        "sale":  1350,
-        "mrp":  1492.5,
+        "group":  "S",
         "wholesale":  995,
-        "group":  "S"
+        "mrp":  1492.5,
+        "name":  "KC POWER QUEEN",
+        "barcode":  "0002826",
+        "sale":  1350
     },
     {
         "name":  "SF Sakhi",
@@ -15633,40 +15633,40 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "RRT COTTON",
         "stock":  246,
-        "barcode":  "001066",
-        "sale":  350,
-        "mrp":  375,
+        "group":  "CD",
         "wholesale":  250,
-        "group":  "CD"
+        "mrp":  375,
+        "name":  "RRT COTTON",
+        "barcode":  "001066",
+        "sale":  350
     },
     {
-        "name":  "VF MOH MAYA",
         "stock":  8,
-        "barcode":  "0002969",
-        "sale":  1650,
-        "mrp":  2200,
+        "group":  "P",
         "wholesale":  1350,
-        "group":  "P"
+        "mrp":  2200,
+        "name":  "VF MOH MAYA",
+        "barcode":  "0002969",
+        "sale":  1650
     },
     {
-        "name":  "N MENGODOLY",
         "stock":  3,
-        "barcode":  "0002521",
-        "sale":  1250,
-        "mrp":  1507.5,
+        "group":  "P",
         "wholesale":  1005,
-        "group":  "P"
+        "mrp":  1507.5,
+        "name":  "N MENGODOLY",
+        "barcode":  "0002521",
+        "sale":  1250
     },
     {
-        "name":  "GK FIFA",
         "stock":  2,
-        "barcode":  "0002626",
-        "sale":  1000,
-        "mrp":  1102.5,
+        "group":  "Suite",
         "wholesale":  735,
-        "group":  "Suite"
+        "mrp":  1102.5,
+        "name":  "GK FIFA",
+        "barcode":  "0002626",
+        "sale":  1000
     },
     {
         "name":  "KC Hasina-e-Jahan",
@@ -15687,22 +15687,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "SNT Hungama",
         "stock":  9,
-        "barcode":  "001570",
-        "sale":  550,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "SNT Hungama",
+        "barcode":  "001570",
+        "sale":  550
     },
     {
-        "name":  "RS 1375 GLASS",
         "stock":  8,
-        "barcode":  "0002942",
-        "sale":  1700,
-        "mrp":  1927.5,
+        "group":  "S",
         "wholesale":  1285,
-        "group":  "S"
+        "mrp":  1927.5,
+        "name":  "RS 1375 GLASS",
+        "barcode":  "0002942",
+        "sale":  1700
     },
     {
         "name":  "GF Namkin",
@@ -15732,13 +15732,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "SRT SUPERFAST",
         "stock":  4,
-        "barcode":  "0002647",
-        "sale":  600,
-        "mrp":  675,
+        "group":  "S",
         "wholesale":  450,
-        "group":  "S"
+        "mrp":  675,
+        "name":  "SRT SUPERFAST",
+        "barcode":  "0002647",
+        "sale":  600
     },
     {
         "name":  "GF ALL IS WELL",
@@ -15750,13 +15750,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA Dharmendar",
         "stock":  1,
-        "barcode":  "001589",
-        "sale":  800,
-        "mrp":  870,
+        "group":  "S",
         "wholesale":  580,
-        "group":  "S"
+        "mrp":  870,
+        "name":  "GNA Dharmendar",
+        "barcode":  "001589",
+        "sale":  800
     },
     {
         "name":  "SONY S 183",
@@ -15804,13 +15804,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "OM DOLPHIN",
         "stock":  4,
-        "barcode":  "0003011",
-        "sale":  510,
-        "mrp":  637.5,
+        "group":  "S",
         "wholesale":  425,
-        "group":  "S"
+        "mrp":  637.5,
+        "name":  "OM DOLPHIN",
+        "barcode":  "0003011",
+        "sale":  510
     },
     {
         "name":  "Suro ka saag",
@@ -15840,13 +15840,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ZOFRA",
         "stock":  4,
-        "barcode":  "0002445",
-        "sale":  800,
-        "mrp":  877.5,
+        "group":  "CS",
         "wholesale":  585,
-        "group":  "CS"
+        "mrp":  877.5,
+        "name":  "KC ZOFRA",
+        "barcode":  "0002445",
+        "sale":  800
     },
     {
         "name":  "GF Hunger",
@@ -15858,22 +15858,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Kashfa",
         "stock":  1,
-        "barcode":  "000550",
-        "sale":  900,
-        "mrp":  1298,
+        "group":  "S",
         "wholesale":  865.33,
-        "group":  "S"
+        "mrp":  1298,
+        "name":  "KC Kashfa",
+        "barcode":  "000550",
+        "sale":  900
     },
     {
-        "name":  "Pari Fab Rani",
         "stock":  4,
-        "barcode":  "001874",
-        "sale":  850,
-        "mrp":  952.5,
+        "group":  "S",
         "wholesale":  635,
-        "group":  "S"
+        "mrp":  952.5,
+        "name":  "Pari Fab Rani",
+        "barcode":  "001874",
+        "sale":  850
     },
     {
         "name":  "RUCHIKA",
@@ -15894,22 +15894,22 @@ var STOCK_DATA = [
         "group":  "General"
     },
     {
-        "name":  "GNA JAM HANIYA",
         "stock":  1,
-        "barcode":  "0002491",
-        "sale":  650,
-        "mrp":  735,
+        "group":  "S",
         "wholesale":  490,
-        "group":  "S"
+        "mrp":  735,
+        "name":  "GNA JAM HANIYA",
+        "barcode":  "0002491",
+        "sale":  650
     },
     {
-        "name":  "Sony Coding Garara",
         "stock":  -3,
-        "barcode":  "001305",
-        "sale":  2550,
-        "mrp":  2650,
+        "group":  "G",
         "wholesale":  1766.67,
-        "group":  "G"
+        "mrp":  2650,
+        "name":  "Sony Coding Garara",
+        "barcode":  "001305",
+        "sale":  2550
     },
     {
         "name":  "KC Shaista",
@@ -15921,13 +15921,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "ROYAL BRAND RUMAISHA",
         "stock":  37,
-        "barcode":  "0002854",
-        "sale":  300,
-        "mrp":  340.5,
+        "group":  "CC",
         "wholesale":  227,
-        "group":  "CC"
+        "mrp":  340.5,
+        "name":  "ROYAL BRAND RUMAISHA",
+        "barcode":  "0002854",
+        "sale":  300
     },
     {
         "name":  "KC ZAAFIRA",
@@ -16011,13 +16011,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA FOX FLORIDA",
         "stock":  7,
-        "barcode":  "0002757",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "S",
         "wholesale":  550,
-        "group":  "S"
+        "mrp":  825,
+        "name":  "GNA FOX FLORIDA",
+        "barcode":  "0002757",
+        "sale":  750
     },
     {
         "name":  "Heavy Zara 05",
@@ -16056,22 +16056,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kashka Dupatta",
         "stock":  6,
-        "barcode":  "002341",
-        "sale":  150,
-        "mrp":  165,
+        "group":  "Dupatta",
         "wholesale":  110,
-        "group":  "Dupatta"
+        "mrp":  165,
+        "name":  "Kashka Dupatta",
+        "barcode":  "002341",
+        "sale":  150
     },
     {
-        "name":  "KROSS ZARKAN",
         "stock":  24,
-        "barcode":  "0002700",
-        "sale":  850,
-        "mrp":  975,
+        "group":  "K",
         "wholesale":  650,
-        "group":  "K"
+        "mrp":  975,
+        "name":  "KROSS ZARKAN",
+        "barcode":  "0002700",
+        "sale":  850
     },
     {
         "name":  "Kc Zaika E Mumbai",
@@ -16101,13 +16101,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Zari Pashmina",
         "stock":  509,
-        "barcode":  "002157",
-        "sale":  35,
-        "mrp":  45,
+        "group":  "General",
         "wholesale":  26,
-        "group":  "General"
+        "mrp":  45,
+        "name":  "Zari Pashmina",
+        "barcode":  "002157",
+        "sale":  35
     },
     {
         "name":  "GF Gungun",
@@ -16128,13 +16128,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KT ASMITA",
         "stock":  8,
-        "barcode":  "0003003",
-        "sale":  300,
-        "mrp":  345,
+        "group":  "S",
         "wholesale":  230,
-        "group":  "S"
+        "mrp":  345,
+        "name":  "KT ASMITA",
+        "barcode":  "0003003",
+        "sale":  300
     },
     {
         "name":  "SNT FALOODA",
@@ -16146,13 +16146,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MAYUR CRUNCH",
         "stock":  8,
-        "barcode":  "0003098",
-        "sale":  600,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "KC MAYUR CRUNCH",
+        "barcode":  "0003098",
+        "sale":  600
     },
     {
         "name":  "Kc Begum Banarasi",
@@ -16182,13 +16182,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "Meena V Neck",
         "stock":  12,
-        "barcode":  "001839",
-        "sale":  500,
-        "mrp":  667.5,
+        "group":  "S",
         "wholesale":  405,
-        "group":  "S"
+        "mrp":  667.5,
+        "name":  "Meena V Neck",
+        "barcode":  "001839",
+        "sale":  500
     },
     {
         "name":  "MF 002",
@@ -16200,13 +16200,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "SNT MISS WORLD",
         "stock":  1,
-        "barcode":  "0002892",
-        "sale":  1250,
-        "mrp":  1402.5,
+        "group":  "T",
         "wholesale":  935,
-        "group":  "T"
+        "mrp":  1402.5,
+        "name":  "SNT MISS WORLD",
+        "barcode":  "0002892",
+        "sale":  1250
     },
     {
         "name":  "WELCOME JALWA",
@@ -16218,22 +16218,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Mf Mirror",
         "stock":  -16,
-        "barcode":  "002293",
-        "sale":  600,
-        "mrp":  669,
+        "group":  "CS",
         "wholesale":  445,
-        "group":  "CS"
+        "mrp":  669,
+        "name":  "Mf Mirror",
+        "barcode":  "002293",
+        "sale":  600
     },
     {
-        "name":  "MANNAT SUPER FINE",
         "stock":  4,
-        "barcode":  "000803",
-        "sale":  650,
-        "mrp":  697,
+        "group":  "S",
         "wholesale":  464.67,
-        "group":  "S"
+        "mrp":  697,
+        "name":  "MANNAT SUPER FINE",
+        "barcode":  "000803",
+        "sale":  650
     },
     {
         "name":  "KC Rashed",
@@ -16245,22 +16245,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Turkish Towel",
         "stock":  -2,
-        "barcode":  "001441",
-        "sale":  80,
-        "mrp":  87,
+        "group":  "S",
         "wholesale":  58,
-        "group":  "S"
+        "mrp":  87,
+        "name":  "Turkish Towel",
+        "barcode":  "001441",
+        "sale":  80
     },
     {
-        "name":  "GF MAJIDA",
         "stock":  4,
-        "barcode":  "0002977",
-        "sale":  900,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "GF MAJIDA",
+        "barcode":  "0002977",
+        "sale":  900
     },
     {
         "name":  "MT ARIYA",
@@ -16308,13 +16308,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KT SITARA",
         "stock":  16,
-        "barcode":  "0003007",
-        "sale":  320,
-        "mrp":  355.5,
+        "group":  "S",
         "wholesale":  237,
-        "group":  "S"
+        "mrp":  355.5,
+        "name":  "KT SITARA",
+        "barcode":  "0003007",
+        "sale":  320
     },
     {
         "name":  "YF Delhi",
@@ -16335,13 +16335,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PRINTED DUPATTA",
         "stock":  -52,
-        "barcode":  "001010",
-        "sale":  40,
-        "mrp":  46.5,
+        "group":  "S",
         "wholesale":  31,
-        "group":  "S"
+        "mrp":  46.5,
+        "name":  "PRINTED DUPATTA",
+        "barcode":  "001010",
+        "sale":  40
     },
     {
         "name":  "MF Apple",
@@ -16398,22 +16398,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FOODY MOODY",
         "stock":  2,
-        "barcode":  "0002704",
-        "sale":  2400,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC FOODY MOODY",
+        "barcode":  "0002704",
+        "sale":  2400
     },
     {
-        "name":  "Masti Dhamaal",
         "stock":  33,
-        "barcode":  "0002403",
-        "sale":  300,
-        "mrp":  382.5,
+        "group":  "CC",
         "wholesale":  255,
-        "group":  "CC"
+        "mrp":  382.5,
+        "name":  "Masti Dhamaal",
+        "barcode":  "0002403",
+        "sale":  300
     },
     {
         "name":  "Kc Thoda Hatke",
@@ -16461,13 +16461,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Display",
         "stock":  1,
-        "barcode":  "0002412",
-        "sale":  1600,
-        "mrp":  1987.5,
+        "group":  "T",
         "wholesale":  1325,
-        "group":  "T"
+        "mrp":  1987.5,
+        "name":  "Kc Display",
+        "barcode":  "0002412",
+        "sale":  1600
     },
     {
         "name":  "AFSANA",
@@ -16506,22 +16506,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Sony Heavy 3",
         "stock":  1,
-        "barcode":  "001828",
-        "sale":  1650,
-        "mrp":  2940,
+        "group":  "T",
         "wholesale":  1470,
-        "group":  "T"
+        "mrp":  2940,
+        "name":  "Sony Heavy 3",
+        "barcode":  "001828",
+        "sale":  1650
     },
     {
-        "name":  "KC COOL BREEZE",
         "stock":  4,
-        "barcode":  "0002527",
-        "sale":  1000,
-        "mrp":  1162.5,
+        "group":  "S",
         "wholesale":  775,
-        "group":  "S"
+        "mrp":  1162.5,
+        "name":  "KC COOL BREEZE",
+        "barcode":  "0002527",
+        "sale":  1000
     },
     {
         "name":  "Pushpa Agarwal",
@@ -16533,13 +16533,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 0005",
         "stock":  -1,
-        "barcode":  "001840",
-        "sale":  1400,
-        "mrp":  1552.5,
+        "group":  "S",
         "wholesale":  1035,
-        "group":  "S"
+        "mrp":  1552.5,
+        "name":  "RS 0005",
+        "barcode":  "001840",
+        "sale":  1400
     },
     {
         "name":  "KC ALBEELA RAHI",
@@ -16569,13 +16569,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "Welcome Khajoor",
         "stock":  -1,
-        "barcode":  "001880",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Khajoor",
+        "barcode":  "001880",
+        "sale":  700
     },
     {
         "name":  "OM Serana",
@@ -16596,22 +16596,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT CHAHAL",
         "stock":  -1,
-        "barcode":  "001199",
-        "sale":  550,
-        "mrp":  772,
+        "group":  "S",
         "wholesale":  514.67,
-        "group":  "S"
+        "mrp":  772,
+        "name":  "SNT CHAHAL",
+        "barcode":  "001199",
+        "sale":  550
     },
     {
-        "name":  "KC AVIATOR",
         "stock":  4,
-        "barcode":  "0003083",
-        "sale":  800,
-        "mrp":  1215,
+        "group":  "S",
         "wholesale":  675,
-        "group":  "S"
+        "mrp":  1215,
+        "name":  "KC AVIATOR",
+        "barcode":  "0003083",
+        "sale":  800
     },
     {
         "name":  "RR Chole Kulche",
@@ -16623,31 +16623,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Cotton 150 Wala",
         "stock":  -34,
-        "barcode":  "001976",
-        "sale":  150,
-        "mrp":  200,
+        "group":  "S",
         "wholesale":  133.33,
-        "group":  "S"
+        "mrp":  200,
+        "name":  "Cotton 150 Wala",
+        "barcode":  "001976",
+        "sale":  150
     },
     {
-        "name":  "Sony Alina 1",
         "stock":  -1,
-        "barcode":  "002245",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "Trouser",
         "wholesale":  0,
-        "group":  "Trouser"
+        "mrp":  0,
+        "name":  "Sony Alina 1",
+        "barcode":  "002245",
+        "sale":  0
     },
     {
-        "name":  "KC Suhana Safar",
         "stock":  4,
-        "barcode":  "001645",
-        "sale":  1350,
-        "mrp":  1492,
+        "group":  "S",
         "wholesale":  994.67,
-        "group":  "S"
+        "mrp":  1492,
+        "name":  "KC Suhana Safar",
+        "barcode":  "001645",
+        "sale":  1350
     },
     {
         "name":  "SNT Urmila",
@@ -16659,13 +16659,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Aarti",
         "stock":  12,
-        "barcode":  "001176",
-        "sale":  700,
-        "mrp":  975,
+        "group":  "S",
         "wholesale":  595,
-        "group":  "S"
+        "mrp":  975,
+        "name":  "SNT Aarti",
+        "barcode":  "001176",
+        "sale":  700
     },
     {
         "name":  "DIVYA SNAPCHAT",
@@ -16713,22 +16713,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY HARI 51 PURSE",
         "stock":  16,
-        "barcode":  "0002509",
-        "sale":  2200,
-        "mrp":  2992.5,
+        "group":  "P",
         "wholesale":  1995,
-        "group":  "P"
+        "mrp":  2992.5,
+        "name":  "SONY HARI 51 PURSE",
+        "barcode":  "0002509",
+        "sale":  2200
     },
     {
-        "name":  "KC BEGUM AURA",
         "stock":  4,
-        "barcode":  "0003045",
-        "sale":  2700,
-        "mrp":  3375,
+        "group":  "P",
         "wholesale":  2250,
-        "group":  "P"
+        "mrp":  3375,
+        "name":  "KC BEGUM AURA",
+        "barcode":  "0003045",
+        "sale":  2700
     },
     {
         "name":  "MT PREMA",
@@ -16776,13 +16776,13 @@ var STOCK_DATA = [
         "group":  "C"
     },
     {
-        "name":  "KC Silicon Vally",
         "stock":  4,
-        "barcode":  "002367",
-        "sale":  1100,
-        "mrp":  1222.5,
+        "group":  "S",
         "wholesale":  815,
-        "group":  "S"
+        "mrp":  1222.5,
+        "name":  "KC Silicon Vally",
+        "barcode":  "002367",
+        "sale":  1100
     },
     {
         "name":  "Disha IPL",
@@ -16794,13 +16794,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK BOND",
         "stock":  4,
-        "barcode":  "0002599",
-        "sale":  1150,
-        "mrp":  1305,
+        "group":  "S",
         "wholesale":  870,
-        "group":  "S"
+        "mrp":  1305,
+        "name":  "GK BOND",
+        "barcode":  "0002599",
+        "sale":  1150
     },
     {
         "name":  "SG Florence",
@@ -16812,22 +16812,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PAYAL Deepkala",
         "stock":  10,
-        "barcode":  "002196",
-        "sale":  350,
-        "mrp":  465,
+        "group":  "CC",
         "wholesale":  310,
-        "group":  "CC"
+        "mrp":  465,
+        "name":  "PAYAL Deepkala",
+        "barcode":  "002196",
+        "sale":  350
     },
     {
-        "name":  "KKC AASMA",
         "stock":  48,
-        "barcode":  "000751",
-        "sale":  300,
-        "mrp":  367.5,
+        "group":  "CC",
         "wholesale":  245,
-        "group":  "CC"
+        "mrp":  367.5,
+        "name":  "KKC AASMA",
+        "barcode":  "000751",
+        "sale":  300
     },
     {
         "name":  "KC Ek Taara",
@@ -16848,13 +16848,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "RS 1525 TIKTOK",
         "stock":  4,
-        "barcode":  "0002944",
-        "sale":  1950,
-        "mrp":  2175,
+        "group":  "S",
         "wholesale":  1450,
-        "group":  "S"
+        "mrp":  2175,
+        "name":  "RS 1525 TIKTOK",
+        "barcode":  "0002944",
+        "sale":  1950
     },
     {
         "name":  "SF Planing",
@@ -16902,13 +16902,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RR SNOWFALL",
         "stock":  1,
-        "barcode":  "0002471",
-        "sale":  400,
-        "mrp":  450,
+        "group":  "CS",
         "wholesale":  300,
-        "group":  "CS"
+        "mrp":  450,
+        "name":  "RR SNOWFALL",
+        "barcode":  "0002471",
+        "sale":  400
     },
     {
         "name":  "SONY AR 067",
@@ -16920,22 +16920,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GK Polo Sport",
         "stock":  2,
-        "barcode":  "001703",
-        "sale":  700,
-        "mrp":  787.5,
+        "group":  "S",
         "wholesale":  525,
-        "group":  "S"
+        "mrp":  787.5,
+        "name":  "GK Polo Sport",
+        "barcode":  "001703",
+        "sale":  700
     },
     {
-        "name":  "09 LACHA",
         "stock":  -2,
-        "barcode":  "000009",
-        "sale":  5500,
-        "mrp":  11000,
+        "group":  "L",
         "wholesale":  7333.333333,
-        "group":  "L"
+        "mrp":  11000,
+        "name":  "09 LACHA",
+        "barcode":  "000009",
+        "sale":  5500
     },
     {
         "name":  "RV Look wise",
@@ -16956,22 +16956,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VC Kanya Kumari",
         "stock":  -2,
-        "barcode":  "001695",
-        "sale":  400,
-        "mrp":  465,
+        "group":  "S",
         "wholesale":  310,
-        "group":  "S"
+        "mrp":  465,
+        "name":  "VC Kanya Kumari",
+        "barcode":  "001695",
+        "sale":  400
     },
     {
-        "name":  "SG TWIST",
         "stock":  1,
-        "barcode":  "0002396",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "CS",
         "wholesale":  550,
-        "group":  "CS"
+        "mrp":  825,
+        "name":  "SG TWIST",
+        "barcode":  "0002396",
+        "sale":  750
     },
     {
         "name":  "VAS BAHAR",
@@ -16992,22 +16992,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SBC 4613",
         "stock":  4,
-        "barcode":  "0002779",
-        "sale":  2100,
-        "mrp":  2370,
+        "group":  "T",
         "wholesale":  1580,
-        "group":  "T"
+        "mrp":  2370,
+        "name":  "SBC 4613",
+        "barcode":  "0002779",
+        "sale":  2100
     },
     {
-        "name":  "OM TASKAREE",
         "stock":  8,
-        "barcode":  "0002989",
-        "sale":  550,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  435,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "OM TASKAREE",
+        "barcode":  "0002989",
+        "sale":  550
     },
     {
         "name":  "GF Darshana",
@@ -17037,13 +17037,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC GAPSHAP ZONE",
         "stock":  4,
-        "barcode":  "0002951",
-        "sale":  1900,
-        "mrp":  2160,
+        "group":  "S",
         "wholesale":  1440,
-        "group":  "S"
+        "mrp":  2160,
+        "name":  "KC GAPSHAP ZONE",
+        "barcode":  "0002951",
+        "sale":  1900
     },
     {
         "name":  "Music Masti",
@@ -17055,13 +17055,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ISHQ NATION",
         "stock":  4,
-        "barcode":  "0002997",
-        "sale":  2420,
-        "mrp":  2685,
+        "group":  "P",
         "wholesale":  1790,
-        "group":  "P"
+        "mrp":  2685,
+        "name":  "KC ISHQ NATION",
+        "barcode":  "0002997",
+        "sale":  2420
     },
     {
         "name":  "Kc Zeenat Test",
@@ -17073,22 +17073,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Rs Suite",
         "stock":  -4,
-        "barcode":  "002243",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "Rs Suite",
+        "barcode":  "002243",
+        "sale":  0
     },
     {
-        "name":  "Kc Manchala",
         "stock":  4,
-        "barcode":  "0003115",
-        "sale":  2280,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "Kc Manchala",
+        "barcode":  "0003115",
+        "sale":  2280
     },
     {
         "name":  "Kkc Kayamat",
@@ -17109,13 +17109,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "AF MAUSAM",
         "stock":  1,
-        "barcode":  "0002980",
-        "sale":  500,
-        "mrp":  592.5,
+        "group":  "CS",
         "wholesale":  395,
-        "group":  "CS"
+        "mrp":  592.5,
+        "name":  "AF MAUSAM",
+        "barcode":  "0002980",
+        "sale":  500
     },
     {
         "name":  "GC Bisleri",
@@ -17172,13 +17172,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "Sony Coding Suite",
         "stock":  -2,
-        "barcode":  "001696",
-        "sale":  1350,
-        "mrp":  2130,
+        "group":  "S",
         "wholesale":  1420,
-        "group":  "S"
+        "mrp":  2130,
+        "name":  "Sony Coding Suite",
+        "barcode":  "001696",
+        "sale":  1350
     },
     {
         "name":  "GF SAMEERA",
@@ -17190,13 +17190,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DESI FLEX",
         "stock":  4,
-        "barcode":  "0002906",
-        "sale":  1800,
-        "mrp":  2017.5,
+        "group":  "S",
         "wholesale":  1345,
-        "group":  "S"
+        "mrp":  2017.5,
+        "name":  "KC DESI FLEX",
+        "barcode":  "0002906",
+        "sale":  1800
     },
     {
         "name":  "Heavy Zara 08",
@@ -17217,13 +17217,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC TAARON KA SAHAR",
         "stock":  2,
-        "barcode":  "001508",
-        "sale":  1450,
-        "mrp":  1935,
+        "group":  "S",
         "wholesale":  1290,
-        "group":  "S"
+        "mrp":  1935,
+        "name":  "KC TAARON KA SAHAR",
+        "barcode":  "001508",
+        "sale":  1450
     },
     {
         "name":  "KCKC SUPER COOL",
@@ -17244,13 +17244,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Gf Reshma",
         "stock":  1,
-        "barcode":  "000074",
-        "sale":  700,
-        "mrp":  875,
+        "group":  "S",
         "wholesale":  680,
-        "group":  "S"
+        "mrp":  875,
+        "name":  "Gf Reshma",
+        "barcode":  "000074",
+        "sale":  700
     },
     {
         "name":  "Suite KC Eva Garlic",
@@ -17262,22 +17262,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM Happy",
         "stock":  1,
-        "barcode":  "001997",
-        "sale":  600,
-        "mrp":  705,
+        "group":  "S",
         "wholesale":  470,
-        "group":  "S"
+        "mrp":  705,
+        "name":  "OM Happy",
+        "barcode":  "001997",
+        "sale":  600
     },
     {
-        "name":  "VIC RUPA",
         "stock":  -4,
-        "barcode":  "0002723",
-        "sale":  300,
-        "mrp":  352.5,
+        "group":  "CS",
         "wholesale":  235,
-        "group":  "CS"
+        "mrp":  352.5,
+        "name":  "VIC RUPA",
+        "barcode":  "0002723",
+        "sale":  300
     },
     {
         "name":  "GF UNICORN",
@@ -17307,13 +17307,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MF GALA KHATLI HEAVY 2",
         "stock":  8,
-        "barcode":  "0002648",
-        "sale":  650,
-        "mrp":  712.5,
+        "group":  "CS",
         "wholesale":  475,
-        "group":  "CS"
+        "mrp":  712.5,
+        "name":  "MF GALA KHATLI HEAVY 2",
+        "barcode":  "0002648",
+        "sale":  650
     },
     {
         "name":  "JMD Milk Shake",
@@ -17361,22 +17361,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Vimal Olive",
         "stock":  2,
-        "barcode":  "002246",
-        "sale":  250,
-        "mrp":  255,
+        "group":  "Gents",
         "wholesale":  170,
-        "group":  "Gents"
+        "mrp":  255,
+        "name":  "Vimal Olive",
+        "barcode":  "002246",
+        "sale":  250
     },
     {
-        "name":  "MT Shaheena",
         "stock":  3,
-        "barcode":  "001689",
-        "sale":  479,
-        "mrp":  667,
+        "group":  "S",
         "wholesale":  444.67,
-        "group":  "S"
+        "mrp":  667,
+        "name":  "MT Shaheena",
+        "barcode":  "001689",
+        "sale":  479
     },
     {
         "name":  "GF Liza",
@@ -17388,13 +17388,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SG The Gazal",
         "stock":  10,
-        "barcode":  "002147",
-        "sale":  700,
-        "mrp":  900,
+        "group":  "CS",
         "wholesale":  600,
-        "group":  "CS"
+        "mrp":  900,
+        "name":  "SG The Gazal",
+        "barcode":  "002147",
+        "sale":  700
     },
     {
         "name":  "RR Damru",
@@ -17406,13 +17406,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MASTI ZONE",
         "stock":  -1,
-        "barcode":  "0002791",
-        "sale":  1850,
-        "mrp":  2227.5,
+        "group":  "S",
         "wholesale":  1485,
-        "group":  "S"
+        "mrp":  2227.5,
+        "name":  "KC MASTI ZONE",
+        "barcode":  "0002791",
+        "sale":  1850
     },
     {
         "name":  "GF Mahi",
@@ -17424,13 +17424,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FIRE RUNNER",
         "stock":  4,
-        "barcode":  "0002858",
-        "sale":  2750,
-        "mrp":  3097.5,
+        "group":  "P",
         "wholesale":  2065,
-        "group":  "P"
+        "mrp":  3097.5,
+        "name":  "KC FIRE RUNNER",
+        "barcode":  "0002858",
+        "sale":  2750
     },
     {
         "name":  "SNT Neha",
@@ -17442,13 +17442,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Radhika Hemshree",
         "stock":  3,
-        "barcode":  "002003",
-        "sale":  450,
-        "mrp":  487.5,
+        "group":  "S",
         "wholesale":  325,
-        "group":  "S"
+        "mrp":  487.5,
+        "name":  "Radhika Hemshree",
+        "barcode":  "002003",
+        "sale":  450
     },
     {
         "name":  "Mukesh Dream",
@@ -17478,22 +17478,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT ROSY",
         "stock":  10,
-        "barcode":  "001268",
-        "sale":  570,
-        "mrp":  810,
+        "group":  "S",
         "wholesale":  540,
-        "group":  "S"
+        "mrp":  810,
+        "name":  "SNT ROSY",
+        "barcode":  "001268",
+        "sale":  570
     },
     {
-        "name":  "JMD Sanam",
         "stock":  1,
-        "barcode":  "002145",
-        "sale":  400,
-        "mrp":  472.5,
+        "group":  "S",
         "wholesale":  315,
-        "group":  "S"
+        "mrp":  472.5,
+        "name":  "JMD Sanam",
+        "barcode":  "002145",
+        "sale":  400
     },
     {
         "name":  "KC Patang",
@@ -17523,13 +17523,13 @@ var STOCK_DATA = [
         "group":  "L"
     },
     {
-        "name":  "VC Mentos",
         "stock":  25,
-        "barcode":  "001763",
-        "sale":  450,
-        "mrp":  484.5,
+        "group":  "S",
         "wholesale":  323,
-        "group":  "S"
+        "mrp":  484.5,
+        "name":  "VC Mentos",
+        "barcode":  "001763",
+        "sale":  450
     },
     {
         "name":  "KC RIZWANA",
@@ -17550,22 +17550,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "SNT SHABANA",
         "stock":  1,
-        "barcode":  "0002456",
-        "sale":  600,
-        "mrp":  690,
+        "group":  "S",
         "wholesale":  425,
-        "group":  "S"
+        "mrp":  690,
+        "name":  "SNT SHABANA",
+        "barcode":  "0002456",
+        "sale":  600
     },
     {
-        "name":  "KC LONDON CAKE",
         "stock":  4,
-        "barcode":  "0002881",
-        "sale":  1900,
-        "mrp":  2130,
+        "group":  "S",
         "wholesale":  1420,
-        "group":  "S"
+        "mrp":  2130,
+        "name":  "KC LONDON CAKE",
+        "barcode":  "0002881",
+        "sale":  1900
     },
     {
         "name":  "Welcome Do Pati",
@@ -17595,13 +17595,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GF COTTON CHICKEN",
         "stock":  48,
-        "barcode":  "002250",
-        "sale":  400,
-        "mrp":  420,
+        "group":  "CS",
         "wholesale":  280,
-        "group":  "CS"
+        "mrp":  420,
+        "name":  "GF COTTON CHICKEN",
+        "barcode":  "002250",
+        "sale":  400
     },
     {
         "name":  "YF Neem Rose",
@@ -17685,13 +17685,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROYAL MARK",
         "stock":  4,
-        "barcode":  "0002632",
-        "sale":  2350,
-        "mrp":  2722.5,
+        "group":  "P",
         "wholesale":  1815,
-        "group":  "P"
+        "mrp":  2722.5,
+        "name":  "KC ROYAL MARK",
+        "barcode":  "0002632",
+        "sale":  2350
     },
     {
         "name":  "KC Slice",
@@ -17730,49 +17730,49 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Mt Samara",
         "stock":  1,
-        "barcode":  "002334",
-        "sale":  530,
-        "mrp":  585,
+        "group":  "S",
         "wholesale":  390,
-        "group":  "S"
+        "mrp":  585,
+        "name":  "Mt Samara",
+        "barcode":  "002334",
+        "sale":  530
     },
     {
-        "name":  "KC BAARISH BEATS",
         "stock":  4,
-        "barcode":  "0003085",
-        "sale":  730,
-        "mrp":  1125,
+        "group":  "S",
         "wholesale":  625,
-        "group":  "S"
+        "mrp":  1125,
+        "name":  "KC BAARISH BEATS",
+        "barcode":  "0003085",
+        "sale":  730
     },
     {
-        "name":  "RR SNEHA",
         "stock":  4,
-        "barcode":  "0002603",
-        "sale":  430,
-        "mrp":  475.5,
+        "group":  "CS",
         "wholesale":  317,
-        "group":  "CS"
+        "mrp":  475.5,
+        "name":  "RR SNEHA",
+        "barcode":  "0002603",
+        "sale":  430
     },
     {
-        "name":  "GARIMA SWISS",
         "stock":  -4,
-        "barcode":  "0003133",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "CS",
         "wholesale":  0,
-        "group":  "CS"
+        "mrp":  0,
+        "name":  "GARIMA SWISS",
+        "barcode":  "0003133",
+        "sale":  0
     },
     {
-        "name":  "SBC 4565",
         "stock":  4,
-        "barcode":  "0002777",
-        "sale":  1600,
-        "mrp":  2070,
+        "group":  "P",
         "wholesale":  1380,
-        "group":  "P"
+        "mrp":  2070,
+        "name":  "SBC 4565",
+        "barcode":  "0002777",
+        "sale":  1600
     },
     {
         "name":  "Gk Ajuba",
@@ -17802,13 +17802,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SSM POUND",
         "stock":  14,
-        "barcode":  "0002464",
-        "sale":  1300,
-        "mrp":  1627.5,
+        "group":  "T",
         "wholesale":  1085,
-        "group":  "T"
+        "mrp":  1627.5,
+        "name":  "SSM POUND",
+        "barcode":  "0002464",
+        "sale":  1300
     },
     {
         "name":  "N Panipuri",
@@ -17820,13 +17820,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "VIC GOLDY",
         "stock":  4,
-        "barcode":  "0002726",
-        "sale":  390,
-        "mrp":  430.5,
+        "group":  "CS",
         "wholesale":  287,
-        "group":  "CS"
+        "mrp":  430.5,
+        "name":  "VIC GOLDY",
+        "barcode":  "0002726",
+        "sale":  390
     },
     {
         "name":  "SG khwaab",
@@ -17856,22 +17856,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS JORGET",
         "stock":  20,
-        "barcode":  "0002394",
-        "sale":  1200,
-        "mrp":  1560,
+        "group":  "S",
         "wholesale":  1040,
-        "group":  "S"
+        "mrp":  1560,
+        "name":  "RS JORGET",
+        "barcode":  "0002394",
+        "sale":  1200
     },
     {
-        "name":  "KC Akasa",
         "stock":  1,
-        "barcode":  "000411",
-        "sale":  1300,
-        "mrp":  1780,
+        "group":  "S",
         "wholesale":  1186.67,
-        "group":  "S"
+        "mrp":  1780,
+        "name":  "KC Akasa",
+        "barcode":  "000411",
+        "sale":  1300
     },
     {
         "name":  "SNT Saloni",
@@ -17883,31 +17883,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GEMINI",
         "stock":  4,
-        "barcode":  "002212",
-        "sale":  1650,
-        "mrp":  1860,
+        "group":  "T",
         "wholesale":  1240,
-        "group":  "T"
+        "mrp":  1860,
+        "name":  "KC GEMINI",
+        "barcode":  "002212",
+        "sale":  1650
     },
     {
-        "name":  "Welcome Dull Sentun",
         "stock":  4,
-        "barcode":  "002137",
-        "sale":  750,
-        "mrp":  855,
+        "group":  "S",
         "wholesale":  570,
-        "group":  "S"
+        "mrp":  855,
+        "name":  "Welcome Dull Sentun",
+        "barcode":  "002137",
+        "sale":  750
     },
     {
-        "name":  "KC TRENDY STYLE",
         "stock":  1,
-        "barcode":  "0002748",
-        "sale":  2000,
-        "mrp":  2242,
+        "group":  "T",
         "wholesale":  1495,
-        "group":  "T"
+        "mrp":  2242,
+        "name":  "KC TRENDY STYLE",
+        "barcode":  "0002748",
+        "sale":  2000
     },
     {
         "name":  "Britannia GK",
@@ -17928,13 +17928,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SG THE SECRET",
         "stock":  2,
-        "barcode":  "0002415",
-        "sale":  1350,
-        "mrp":  1527.5,
+        "group":  "G",
         "wholesale":  1025,
-        "group":  "G"
+        "mrp":  1527.5,
+        "name":  "SG THE SECRET",
+        "barcode":  "0002415",
+        "sale":  1350
     },
     {
         "name":  "KC 11669",
@@ -17973,13 +17973,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC HUL CHAL",
         "stock":  2,
-        "barcode":  "0002838",
-        "sale":  1950,
-        "mrp":  2197.5,
+        "group":  "T",
         "wholesale":  1465,
-        "group":  "T"
+        "mrp":  2197.5,
+        "name":  "KC HUL CHAL",
+        "barcode":  "0002838",
+        "sale":  1950
     },
     {
         "name":  "GK Ahuja",
@@ -17991,22 +17991,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC KAHANI SUNO",
         "stock":  1,
-        "barcode":  "001501",
-        "sale":  1400,
-        "mrp":  1935,
+        "group":  "S",
         "wholesale":  1290,
-        "group":  "S"
+        "mrp":  1935,
+        "name":  "KC KAHANI SUNO",
+        "barcode":  "001501",
+        "sale":  1400
     },
     {
-        "name":  "KC SOFT SHINE",
         "stock":  3,
-        "barcode":  "0002875",
-        "sale":  1650,
-        "mrp":  1942.5,
+        "group":  "S",
         "wholesale":  1295,
-        "group":  "S"
+        "mrp":  1942.5,
+        "name":  "KC SOFT SHINE",
+        "barcode":  "0002875",
+        "sale":  1650
     },
     {
         "name":  "OM Zomato",
@@ -18018,13 +18018,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY S 165",
         "stock":  1,
-        "barcode":  "002184",
-        "sale":  1850,
-        "mrp":  2107.5,
+        "group":  "T",
         "wholesale":  1405,
-        "group":  "T"
+        "mrp":  2107.5,
+        "name":  "SONY S 165",
+        "barcode":  "002184",
+        "sale":  1850
     },
     {
         "name":  "RR danger zone",
@@ -18045,13 +18045,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "SNT Rayon Print Black",
         "stock":  2,
-        "barcode":  "000032",
-        "sale":  700,
-        "mrp":  772,
+        "group":  "CS",
         "wholesale":  514.67,
-        "group":  "CS"
+        "mrp":  772,
+        "name":  "SNT Rayon Print Black",
+        "barcode":  "000032",
+        "sale":  700
     },
     {
         "name":  "Suite KC Yusra",
@@ -18063,13 +18063,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MN Litti Chokha",
         "stock":  -5,
-        "barcode":  "001606",
-        "sale":  400,
-        "mrp":  427,
+        "group":  "S",
         "wholesale":  284.6666667,
-        "group":  "S"
+        "mrp":  427,
+        "name":  "MN Litti Chokha",
+        "barcode":  "001606",
+        "sale":  400
     },
     {
         "name":  "Sony Heavy Sleeves",
@@ -18099,13 +18099,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MAS DHAMAKA",
         "stock":  11,
-        "barcode":  "002219",
-        "sale":  600,
-        "mrp":  660,
+        "group":  "S",
         "wholesale":  440,
-        "group":  "S"
+        "mrp":  660,
+        "name":  "MAS DHAMAKA",
+        "barcode":  "002219",
+        "sale":  600
     },
     {
         "name":  "Spari 4213C",
@@ -18117,22 +18117,22 @@ var STOCK_DATA = [
         "group":  "K"
     },
     {
-        "name":  "KKC NOOR",
         "stock":  8,
-        "barcode":  "0002949",
-        "sale":  350,
-        "mrp":  382.5,
+        "group":  "CC",
         "wholesale":  255,
-        "group":  "CC"
+        "mrp":  382.5,
+        "name":  "KKC NOOR",
+        "barcode":  "0002949",
+        "sale":  350
     },
     {
-        "name":  "KC PEANUT CRUNCH",
         "stock":  4,
-        "barcode":  "0002785",
-        "sale":  1950,
-        "mrp":  2452.5,
+        "group":  "P",
         "wholesale":  1635,
-        "group":  "P"
+        "mrp":  2452.5,
+        "name":  "KC PEANUT CRUNCH",
+        "barcode":  "0002785",
+        "sale":  1950
     },
     {
         "name":  "Campus",
@@ -18162,13 +18162,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FINGERPRINT",
         "stock":  4,
-        "barcode":  "0002957",
-        "sale":  1600,
-        "mrp":  1800,
+        "group":  "S",
         "wholesale":  1200,
-        "group":  "S"
+        "mrp":  1800,
+        "name":  "KC FINGERPRINT",
+        "barcode":  "0002957",
+        "sale":  1600
     },
     {
         "name":  "RR White Cream",
@@ -18198,22 +18198,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Snt Russian Plazo",
         "stock":  24,
-        "barcode":  "001344",
-        "sale":  1350,
-        "mrp":  1612.5,
+        "group":  "P",
         "wholesale":  1075,
-        "group":  "P"
+        "mrp":  1612.5,
+        "name":  "Snt Russian Plazo",
+        "barcode":  "001344",
+        "sale":  1350
     },
     {
-        "name":  "I LOVE YOU",
         "stock":  4,
-        "barcode":  "0003128",
-        "sale":  1650,
-        "mrp":  2062.5,
+        "group":  "P",
         "wholesale":  1375,
-        "group":  "P"
+        "mrp":  2062.5,
+        "name":  "I LOVE YOU",
+        "barcode":  "0003128",
+        "sale":  1650
     },
     {
         "name":  "KC MEHERZARA",
@@ -18297,13 +18297,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC NON STOP",
         "stock":  3,
-        "barcode":  "0002550",
-        "sale":  1100,
-        "mrp":  1447.5,
+        "group":  "S",
         "wholesale":  965,
-        "group":  "S"
+        "mrp":  1447.5,
+        "name":  "KC NON STOP",
+        "barcode":  "0002550",
+        "sale":  1100
     },
     {
         "name":  "KC Rochas",
@@ -18351,22 +18351,22 @@ var STOCK_DATA = [
         "group":  "CC"
     },
     {
-        "name":  "KKC AKSHARA",
         "stock":  18,
-        "barcode":  "001563",
-        "sale":  330,
-        "mrp":  367.5,
+        "group":  "CC",
         "wholesale":  245,
-        "group":  "CC"
+        "mrp":  367.5,
+        "name":  "KKC AKSHARA",
+        "barcode":  "001563",
+        "sale":  330
     },
     {
-        "name":  "KC DIL KE ISHARE",
         "stock":  1,
-        "barcode":  "001527",
-        "sale":  1350,
-        "mrp":  1792,
+        "group":  "S",
         "wholesale":  1194.67,
-        "group":  "S"
+        "mrp":  1792,
+        "name":  "KC DIL KE ISHARE",
+        "barcode":  "001527",
+        "sale":  1350
     },
     {
         "name":  "SF Titanic",
@@ -18405,22 +18405,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "LAST TIME",
         "stock":  4,
-        "barcode":  "0003130",
-        "sale":  1540,
-        "mrp":  1920,
+        "group":  "T",
         "wholesale":  1280,
-        "group":  "T"
+        "mrp":  1920,
+        "name":  "LAST TIME",
+        "barcode":  "0003130",
+        "sale":  1540
     },
     {
-        "name":  "Welcome Dream Girl",
         "stock":  8,
-        "barcode":  "001878",
-        "sale":  750,
-        "mrp":  862.5,
+        "group":  "S",
         "wholesale":  575,
-        "group":  "S"
+        "mrp":  862.5,
+        "name":  "Welcome Dream Girl",
+        "barcode":  "001878",
+        "sale":  750
     },
     {
         "name":  "GK Malta",
@@ -18432,13 +18432,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "VAS Ruchika",
         "stock":  -1,
-        "barcode":  "002021",
-        "sale":  650,
-        "mrp":  712.5,
+        "group":  "S",
         "wholesale":  475,
-        "group":  "S"
+        "mrp":  712.5,
+        "name":  "VAS Ruchika",
+        "barcode":  "002021",
+        "sale":  650
     },
     {
         "name":  "SG Razia",
@@ -18495,22 +18495,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Ahd Chiffon Dupatta",
         "stock":  8,
-        "barcode":  "002310",
-        "sale":  450,
-        "mrp":  492,
+        "group":  "CS",
         "wholesale":  328,
-        "group":  "CS"
+        "mrp":  492,
+        "name":  "Ahd Chiffon Dupatta",
+        "barcode":  "002310",
+        "sale":  450
     },
     {
-        "name":  "KC LUCKY BRAND",
         "stock":  3,
-        "barcode":  "0002788",
-        "sale":  1650,
-        "mrp":  2145,
+        "group":  "S",
         "wholesale":  1430,
-        "group":  "S"
+        "mrp":  2145,
+        "name":  "KC LUCKY BRAND",
+        "barcode":  "0002788",
+        "sale":  1650
     },
     {
         "name":  "RR Jiim",
@@ -18531,22 +18531,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC COOLE BERY",
         "stock":  3,
-        "barcode":  "0002571",
-        "sale":  1600,
-        "mrp":  1777.5,
+        "group":  "S",
         "wholesale":  1185,
-        "group":  "S"
+        "mrp":  1777.5,
+        "name":  "KC COOLE BERY",
+        "barcode":  "0002571",
+        "sale":  1600
     },
     {
-        "name":  "KC BLOOM ROSE",
         "stock":  4,
-        "barcode":  "0003089",
-        "sale":  2650,
-        "mrp":  4050,
+        "group":  "P",
         "wholesale":  2250,
-        "group":  "P"
+        "mrp":  4050,
+        "name":  "KC BLOOM ROSE",
+        "barcode":  "0003089",
+        "sale":  2650
     },
     {
         "name":  "KC Tasheen",
@@ -18603,22 +18603,22 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "GF SANVI",
         "stock":  11,
-        "barcode":  "0002936",
-        "sale":  600,
-        "mrp":  675,
+        "group":  "CS",
         "wholesale":  450,
-        "group":  "CS"
+        "mrp":  675,
+        "name":  "GF SANVI",
+        "barcode":  "0002936",
+        "sale":  600
     },
     {
-        "name":  "KC MAGNET BALL",
         "stock":  3,
-        "barcode":  "0002860",
-        "sale":  1700,
-        "mrp":  2175,
+        "group":  "P",
         "wholesale":  1450,
-        "group":  "P"
+        "mrp":  2175,
+        "name":  "KC MAGNET BALL",
+        "barcode":  "0002860",
+        "sale":  1700
     },
     {
         "name":  "LC Saniya Pol",
@@ -18648,22 +18648,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Rolex",
         "stock":  9,
-        "barcode":  "002015",
-        "sale":  550,
-        "mrp":  690,
+        "group":  "S",
         "wholesale":  460,
-        "group":  "S"
+        "mrp":  690,
+        "name":  "SNT Rolex",
+        "barcode":  "002015",
+        "sale":  550
     },
     {
-        "name":  "JBT TIGER",
         "stock":  7,
-        "barcode":  "0002562",
-        "sale":  600,
-        "mrp":  682.5,
+        "group":  "S",
         "wholesale":  455,
-        "group":  "S"
+        "mrp":  682.5,
+        "name":  "JBT TIGER",
+        "barcode":  "0002562",
+        "sale":  600
     },
     {
         "name":  "OM Sayri",
@@ -18675,31 +18675,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VIC LIPSTIC",
         "stock":  7,
-        "barcode":  "0002725",
-        "sale":  400,
-        "mrp":  442.5,
+        "group":  "CS",
         "wholesale":  295,
-        "group":  "CS"
+        "mrp":  442.5,
+        "name":  "VIC LIPSTIC",
+        "barcode":  "0002725",
+        "sale":  400
     },
     {
-        "name":  "KC MINTY WAVE",
         "stock":  4,
-        "barcode":  "0002580",
-        "sale":  1400,
-        "mrp":  1575,
+        "group":  "OS",
         "wholesale":  1050,
-        "group":  "OS"
+        "mrp":  1575,
+        "name":  "KC MINTY WAVE",
+        "barcode":  "0002580",
+        "sale":  1400
     },
     {
-        "name":  "SBC 3841",
         "stock":  4,
-        "barcode":  "0002773",
-        "sale":  1800,
-        "mrp":  2070,
+        "group":  "T",
         "wholesale":  1380,
-        "group":  "T"
+        "mrp":  2070,
+        "name":  "SBC 3841",
+        "barcode":  "0002773",
+        "sale":  1800
     },
     {
         "name":  "SF DOLFIN",
@@ -18720,22 +18720,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC EXPRESS POINT",
         "stock":  4,
-        "barcode":  "0002819",
-        "sale":  900,
-        "mrp":  1020,
+        "group":  "CS",
         "wholesale":  680,
-        "group":  "CS"
+        "mrp":  1020,
+        "name":  "KC EXPRESS POINT",
+        "barcode":  "0002819",
+        "sale":  900
     },
     {
-        "name":  "Kc Someone Special",
         "stock":  3,
-        "barcode":  "002308",
-        "sale":  1650,
-        "mrp":  1875,
+        "group":  "T",
         "wholesale":  1250,
-        "group":  "T"
+        "mrp":  1875,
+        "name":  "Kc Someone Special",
+        "barcode":  "002308",
+        "sale":  1650
     },
     {
         "name":  "KC Jaam Mix Suit (72x2p)",
@@ -18747,13 +18747,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Rr Bablu",
         "stock":  -2,
-        "barcode":  "002059",
-        "sale":  400,
-        "mrp":  465,
+        "group":  "CS",
         "wholesale":  310,
-        "group":  "CS"
+        "mrp":  465,
+        "name":  "Rr Bablu",
+        "barcode":  "002059",
+        "sale":  400
     },
     {
         "name":  "KC Ferika",
@@ -18864,22 +18864,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GARIMA ZUBEIDA",
         "stock":  -7,
-        "barcode":  "002233",
-        "sale":  350,
-        "mrp":  375,
+        "group":  "CS",
         "wholesale":  250,
-        "group":  "CS"
+        "mrp":  375,
+        "name":  "GARIMA ZUBEIDA",
+        "barcode":  "002233",
+        "sale":  350
     },
     {
-        "name":  "SG Poshak",
         "stock":  2,
-        "barcode":  "002009",
-        "sale":  900,
-        "mrp":  1020,
+        "group":  "CS",
         "wholesale":  680,
-        "group":  "CS"
+        "mrp":  1020,
+        "name":  "SG Poshak",
+        "barcode":  "002009",
+        "sale":  900
     },
     {
         "name":  "GF Royalty",
@@ -18909,13 +18909,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF Gun Gun",
         "stock":  1,
-        "barcode":  "000170",
-        "sale":  600,
-        "mrp":  682.5,
+        "group":  "CS",
         "wholesale":  455,
-        "group":  "CS"
+        "mrp":  682.5,
+        "name":  "GF Gun Gun",
+        "barcode":  "000170",
+        "sale":  600
     },
     {
         "name":  "KC Romaisha",
@@ -18945,13 +18945,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BAKED COOKIES",
         "stock":  2,
-        "barcode":  "0003059",
-        "sale":  1160,
-        "mrp":  1387.5,
+        "group":  "S",
         "wholesale":  925,
-        "group":  "S"
+        "mrp":  1387.5,
+        "name":  "KC BAKED COOKIES",
+        "barcode":  "0003059",
+        "sale":  1160
     },
     {
         "name":  "SNT Fida",
@@ -18963,13 +18963,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Shirin",
         "stock":  1,
-        "barcode":  "000690",
-        "sale":  1750,
-        "mrp":  2302,
+        "group":  "G",
         "wholesale":  1534.67,
-        "group":  "G"
+        "mrp":  2302,
+        "name":  "KC Shirin",
+        "barcode":  "000690",
+        "sale":  1750
     },
     {
         "name":  "GF Luxury",
@@ -18981,13 +18981,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Jaadugar",
         "stock":  10,
-        "barcode":  "002291",
-        "sale":  500,
-        "mrp":  555,
+        "group":  "CS",
         "wholesale":  370,
-        "group":  "CS"
+        "mrp":  555,
+        "name":  "Kc Jaadugar",
+        "barcode":  "002291",
+        "sale":  500
     },
     {
         "name":  "SNT Aaliya",
@@ -18999,40 +18999,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RUS D CUT",
         "stock":  3,
-        "barcode":  "0002923",
-        "sale":  1950,
-        "mrp":  2152.5,
+        "group":  "P",
         "wholesale":  1435,
-        "group":  "P"
+        "mrp":  2152.5,
+        "name":  "RUS D CUT",
+        "barcode":  "0002923",
+        "sale":  1950
     },
     {
-        "name":  "KC Rajbhog",
         "stock":  1,
-        "barcode":  "000651",
-        "sale":  600,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "KC Rajbhog",
+        "barcode":  "000651",
+        "sale":  600
     },
     {
-        "name":  "KC SALSABILA",
         "stock":  -3,
-        "barcode":  "000668",
-        "sale":  900,
-        "mrp":  1267,
+        "group":  "S",
         "wholesale":  844.67,
-        "group":  "S"
+        "mrp":  1267,
+        "name":  "KC SALSABILA",
+        "barcode":  "000668",
+        "sale":  900
     },
     {
-        "name":  "KC BRILLIANT (W PURSE)",
         "stock":  3,
-        "barcode":  "002277",
-        "sale":  2350,
-        "mrp":  3052.5,
+        "group":  "P",
         "wholesale":  2035,
-        "group":  "P"
+        "mrp":  3052.5,
+        "name":  "KC BRILLIANT (W PURSE)",
+        "barcode":  "002277",
+        "sale":  2350
     },
     {
         "name":  "GF Sujata",
@@ -19062,13 +19062,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "MAS DIKSHA",
         "stock":  24,
-        "barcode":  "0002688",
-        "sale":  800,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "MAS DIKSHA",
+        "barcode":  "0002688",
+        "sale":  800
     },
     {
         "name":  "Sony B19 Readymade (6)",
@@ -19080,22 +19080,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC PUZZLE KING",
         "stock":  4,
-        "barcode":  "0002911",
-        "sale":  2650,
-        "mrp":  2992.5,
+        "group":  "P",
         "wholesale":  1995,
-        "group":  "P"
+        "mrp":  2992.5,
+        "name":  "KC PUZZLE KING",
+        "barcode":  "0002911",
+        "sale":  2650
     },
     {
-        "name":  "KC SPICE PALACE",
         "stock":  4,
-        "barcode":  "0003015",
-        "sale":  2600,
-        "mrp":  3375,
+        "group":  "P",
         "wholesale":  2250,
-        "group":  "P"
+        "mrp":  3375,
+        "name":  "KC SPICE PALACE",
+        "barcode":  "0003015",
+        "sale":  2600
     },
     {
         "name":  "VC IPHONE",
@@ -19125,13 +19125,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROAD TRIP",
         "stock":  4,
-        "barcode":  "0003087",
-        "sale":  2500,
-        "mrp":  3798,
+        "group":  "P",
         "wholesale":  2110,
-        "group":  "P"
+        "mrp":  3798,
+        "name":  "KC ROAD TRIP",
+        "barcode":  "0003087",
+        "sale":  2500
     },
     {
         "name":  "OM SANGAM",
@@ -19161,13 +19161,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BEST VOICE",
         "stock":  4,
-        "barcode":  "002210",
-        "sale":  1800,
-        "mrp":  2017.5,
+        "group":  "S",
         "wholesale":  1345,
-        "group":  "S"
+        "mrp":  2017.5,
+        "name":  "KC BEST VOICE",
+        "barcode":  "002210",
+        "sale":  1800
     },
     {
         "name":  "GARIMA HEENA",
@@ -19188,13 +19188,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RAFTAR ATST 2 PCS",
         "stock":  16,
-        "barcode":  "0002812",
-        "sale":  200,
-        "mrp":  222,
+        "group":  "S",
         "wholesale":  148,
-        "group":  "S"
+        "mrp":  222,
+        "name":  "RAFTAR ATST 2 PCS",
+        "barcode":  "0002812",
+        "sale":  200
     },
     {
         "name":  "Prinkha",
@@ -19206,31 +19206,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Lotus",
         "stock":  1,
-        "barcode":  "002080",
-        "sale":  500,
-        "mrp":  555,
+        "group":  "CS",
         "wholesale":  370,
-        "group":  "CS"
+        "mrp":  555,
+        "name":  "Kc Lotus",
+        "barcode":  "002080",
+        "sale":  500
     },
     {
-        "name":  "Mf Gala Zarkan Gala",
         "stock":  4,
-        "barcode":  "0002537",
-        "sale":  600,
-        "mrp":  667.5,
+        "group":  "CS",
         "wholesale":  445,
-        "group":  "CS"
+        "mrp":  667.5,
+        "name":  "Mf Gala Zarkan Gala",
+        "barcode":  "0002537",
+        "sale":  600
     },
     {
-        "name":  "MN Malai",
         "stock":  2,
-        "barcode":  "001996",
-        "sale":  550,
-        "mrp":  607.5,
+        "group":  "S",
         "wholesale":  405,
-        "group":  "S"
+        "mrp":  607.5,
+        "name":  "MN Malai",
+        "barcode":  "001996",
+        "sale":  550
     },
     {
         "name":  "GARIMA AASMA",
@@ -19242,13 +19242,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC ZEENAT GLOW",
         "stock":  4,
-        "barcode":  "0003079",
-        "sale":  2350,
-        "mrp":  3546,
+        "group":  "P",
         "wholesale":  1970,
-        "group":  "P"
+        "mrp":  3546,
+        "name":  "KC ZEENAT GLOW",
+        "barcode":  "0003079",
+        "sale":  2350
     },
     {
         "name":  "KC Veeda",
@@ -19269,31 +19269,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DREAM TONE",
         "stock":  4,
-        "barcode":  "0003061",
-        "sale":  2350,
-        "mrp":  2812.5,
+        "group":  "P",
         "wholesale":  1875,
-        "group":  "P"
+        "mrp":  2812.5,
+        "name":  "KC DREAM TONE",
+        "barcode":  "0003061",
+        "sale":  2350
     },
     {
-        "name":  "OM AIR AISA",
         "stock":  1,
-        "barcode":  "002228",
-        "sale":  500,
-        "mrp":  585,
+        "group":  "S",
         "wholesale":  390,
-        "group":  "S"
+        "mrp":  585,
+        "name":  "OM AIR AISA",
+        "barcode":  "002228",
+        "sale":  500
     },
     {
-        "name":  "Dorinier",
         "stock":  19,
-        "barcode":  "002241",
-        "sale":  150,
-        "mrp":  170,
+        "group":  "Gents",
         "wholesale":  70,
-        "group":  "Gents"
+        "mrp":  170,
+        "name":  "Dorinier",
+        "barcode":  "002241",
+        "sale":  150
     },
     {
         "name":  "KC Khwabdeeda",
@@ -19350,13 +19350,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC CLASSY TASHAN",
         "stock":  6,
-        "barcode":  "0003030",
-        "sale":  2350,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "KC CLASSY TASHAN",
+        "barcode":  "0003030",
+        "sale":  2350
     },
     {
         "name":  "SARI",
@@ -19377,13 +19377,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RASINA",
         "stock":  -3,
-        "barcode":  "000654",
-        "sale":  1750,
-        "mrp":  3248,
+        "group":  "G",
         "wholesale":  1624.67,
-        "group":  "G"
+        "mrp":  3248,
+        "name":  "KC RASINA",
+        "barcode":  "000654",
+        "sale":  1750
     },
     {
         "name":  "Snt pahal",
@@ -19422,22 +19422,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC MONSOON VALLEY",
         "stock":  3,
-        "barcode":  "0002525",
-        "sale":  1650,
-        "mrp":  2077.5,
+        "group":  "S",
         "wholesale":  1385,
-        "group":  "S"
+        "mrp":  2077.5,
+        "name":  "KC MONSOON VALLEY",
+        "barcode":  "0002525",
+        "sale":  1650
     },
     {
-        "name":  "KT KASAUTI",
         "stock":  8,
-        "barcode":  "0003004",
-        "sale":  340,
-        "mrp":  378,
+        "group":  "S",
         "wholesale":  252,
-        "group":  "S"
+        "mrp":  378,
+        "name":  "KT KASAUTI",
+        "barcode":  "0003004",
+        "sale":  340
     },
     {
         "name":  "Shivram Suite",
@@ -19530,13 +19530,13 @@ var STOCK_DATA = [
         "group":  "C"
     },
     {
-        "name":  "Pc Jackpot",
         "stock":  1,
-        "barcode":  "0002523",
-        "sale":  570,
-        "mrp":  690,
+        "group":  "S",
         "wholesale":  460,
-        "group":  "S"
+        "mrp":  690,
+        "name":  "Pc Jackpot",
+        "barcode":  "0002523",
+        "sale":  570
     },
     {
         "name":  "KC Istabraq",
@@ -19557,13 +19557,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PLAZA PRINTS PLAZO",
         "stock":  2,
-        "barcode":  "0002805",
-        "sale":  3100,
-        "mrp":  3450,
+        "group":  "P",
         "wholesale":  2300,
-        "group":  "P"
+        "mrp":  3450,
+        "name":  "PLAZA PRINTS PLAZO",
+        "barcode":  "0002805",
+        "sale":  3100
     },
     {
         "name":  "KC Khakra",
@@ -19620,13 +19620,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC ROYAL MEETHAS",
         "stock":  4,
-        "barcode":  "0003076",
-        "sale":  2400,
-        "mrp":  3582,
+        "group":  "P",
         "wholesale":  1990,
-        "group":  "P"
+        "mrp":  3582,
+        "name":  "KC ROYAL MEETHAS",
+        "barcode":  "0003076",
+        "sale":  2400
     },
     {
         "name":  "GF Sufiyna",
@@ -19656,22 +19656,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Rayon Dupatta",
         "stock":  39,
-        "barcode":  "002345",
-        "sale":  500,
-        "mrp":  562.5,
+        "group":  "CS",
         "wholesale":  375,
-        "group":  "CS"
+        "mrp":  562.5,
+        "name":  "Rayon Dupatta",
+        "barcode":  "002345",
+        "sale":  500
     },
     {
-        "name":  "KC CITY CART",
         "stock":  4,
-        "barcode":  "0002955",
-        "sale":  1650,
-        "mrp":  1875,
+        "group":  "S",
         "wholesale":  1250,
-        "group":  "S"
+        "mrp":  1875,
+        "name":  "KC CITY CART",
+        "barcode":  "0002955",
+        "sale":  1650
     },
     {
         "name":  "Mohit Juhi",
@@ -19710,13 +19710,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CRAZY GIRL",
         "stock":  1,
-        "barcode":  "0002952",
-        "sale":  1600,
-        "mrp":  1927.5,
+        "group":  "S",
         "wholesale":  1285,
-        "group":  "S"
+        "mrp":  1927.5,
+        "name":  "KC CRAZY GIRL",
+        "barcode":  "0002952",
+        "sale":  1600
     },
     {
         "name":  "RR Nakshtra",
@@ -19728,13 +19728,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY GANESH 04",
         "stock":  7,
-        "barcode":  "0002664",
-        "sale":  1350,
-        "mrp":  1890,
+        "group":  "T",
         "wholesale":  1260,
-        "group":  "T"
+        "mrp":  1890,
+        "name":  "SONY GANESH 04",
+        "barcode":  "0002664",
+        "sale":  1350
     },
     {
         "name":  "KC Kastiyan",
@@ -19746,22 +19746,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MARTON",
         "stock":  1,
-        "barcode":  "0002579",
-        "sale":  2750,
-        "mrp":  3127.5,
+        "group":  "T",
         "wholesale":  2085,
-        "group":  "T"
+        "mrp":  3127.5,
+        "name":  "KC MARTON",
+        "barcode":  "0002579",
+        "sale":  2750
     },
     {
-        "name":  "N Kinza",
         "stock":  4,
-        "barcode":  "002370",
-        "sale":  1300,
-        "mrp":  1462.5,
+        "group":  "T",
         "wholesale":  975,
-        "group":  "T"
+        "mrp":  1462.5,
+        "name":  "N Kinza",
+        "barcode":  "002370",
+        "sale":  1300
     },
     {
         "name":  "DTS RUKSHAR",
@@ -19782,22 +19782,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "GF Kashmiri Queen",
         "stock":  -1,
-        "barcode":  "001581",
-        "sale":  900,
-        "mrp":  997,
+        "group":  "S",
         "wholesale":  664.67,
-        "group":  "S"
+        "mrp":  997,
+        "name":  "GF Kashmiri Queen",
+        "barcode":  "001581",
+        "sale":  900
     },
     {
-        "name":  "SVT PARIDHI",
         "stock":  -1,
-        "barcode":  "001418",
-        "sale":  200,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "SVT PARIDHI",
+        "barcode":  "001418",
+        "sale":  200
     },
     {
         "name":  "GK Toffy",
@@ -19836,13 +19836,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "TATA CD",
         "stock":  3,
-        "barcode":  "0002889",
-        "sale":  450,
-        "mrp":  495,
+        "group":  "CD",
         "wholesale":  330,
-        "group":  "CD"
+        "mrp":  495,
+        "name":  "TATA CD",
+        "barcode":  "0002889",
+        "sale":  450
     },
     {
         "name":  "KC MITHAI",
@@ -19854,22 +19854,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SHINE LINE",
         "stock":  3,
-        "barcode":  "0002555",
-        "sale":  1450,
-        "mrp":  1717.5,
+        "group":  "S",
         "wholesale":  1145,
-        "group":  "S"
+        "mrp":  1717.5,
+        "name":  "KC SHINE LINE",
+        "barcode":  "0002555",
+        "sale":  1450
     },
     {
-        "name":  "Mannat Rang Mahal",
         "stock":  -1,
-        "barcode":  "000800",
-        "sale":  550,
-        "mrp":  607,
+        "group":  "S",
         "wholesale":  404.6666667,
-        "group":  "S"
+        "mrp":  607,
+        "name":  "Mannat Rang Mahal",
+        "barcode":  "000800",
+        "sale":  550
     },
     {
         "name":  "SNT Barfi",
@@ -19899,22 +19899,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF GOWN SHADED",
         "stock":  5,
-        "barcode":  "0002921",
-        "sale":  2400,
-        "mrp":  2685,
+        "group":  "Gown",
         "wholesale":  1790,
-        "group":  "Gown"
+        "mrp":  2685,
+        "name":  "GF GOWN SHADED",
+        "barcode":  "0002921",
+        "sale":  2400
     },
     {
-        "name":  "MF GALA KHATLI HEAVY",
         "stock":  -2,
-        "barcode":  "0002646",
-        "sale":  600,
-        "mrp":  682.5,
+        "group":  "CS",
         "wholesale":  455,
-        "group":  "CS"
+        "mrp":  682.5,
+        "name":  "MF GALA KHATLI HEAVY",
+        "barcode":  "0002646",
+        "sale":  600
     },
     {
         "name":  "SNT DOVE",
@@ -19962,13 +19962,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Om Sona Mihar",
         "stock":  4,
-        "barcode":  "002376",
-        "sale":  850,
-        "mrp":  937.5,
+        "group":  "S",
         "wholesale":  625,
-        "group":  "S"
+        "mrp":  937.5,
+        "name":  "Om Sona Mihar",
+        "barcode":  "002376",
+        "sale":  850
     },
     {
         "name":  "KC TERRY TOUCH",
@@ -20025,58 +20025,58 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GK KUNDAN",
         "stock":  4,
-        "barcode":  "0002965",
-        "sale":  1900,
-        "mrp":  2475,
+        "group":  "T",
         "wholesale":  1650,
-        "group":  "T"
+        "mrp":  2475,
+        "name":  "GK KUNDAN",
+        "barcode":  "0002965",
+        "sale":  1900
     },
     {
-        "name":  "KC FLAVOR HUB",
         "stock":  4,
-        "barcode":  "0002908",
-        "sale":  1150,
-        "mrp":  1290,
+        "group":  "S",
         "wholesale":  860,
-        "group":  "S"
+        "mrp":  1290,
+        "name":  "KC FLAVOR HUB",
+        "barcode":  "0002908",
+        "sale":  1150
     },
     {
-        "name":  "SONY INDO WESTERN 1",
         "stock":  2,
-        "barcode":  "0002639",
-        "sale":  5550,
-        "mrp":  6187.5,
+        "group":  "Paplon",
         "wholesale":  4125,
-        "group":  "Paplon"
+        "mrp":  6187.5,
+        "name":  "SONY INDO WESTERN 1",
+        "barcode":  "0002639",
+        "sale":  5550
     },
     {
-        "name":  "KC DESI DABANGG",
         "stock":  2,
-        "barcode":  "0002575",
-        "sale":  1650,
-        "mrp":  2092.5,
+        "group":  "T",
         "wholesale":  1395,
-        "group":  "T"
+        "mrp":  2092.5,
+        "name":  "KC DESI DABANGG",
+        "barcode":  "0002575",
+        "sale":  1650
     },
     {
-        "name":  "MN IPHONE",
         "stock":  14,
-        "barcode":  "0002503",
-        "sale":  500,
-        "mrp":  517.5,
+        "group":  "CD",
         "wholesale":  345,
-        "group":  "CD"
+        "mrp":  517.5,
+        "name":  "MN IPHONE",
+        "barcode":  "0002503",
+        "sale":  500
     },
     {
-        "name":  "SNT Mahima",
         "stock":  6,
-        "barcode":  "001244",
-        "sale":  530,
-        "mrp":  712.5,
+        "group":  "S",
         "wholesale":  475,
-        "group":  "S"
+        "mrp":  712.5,
+        "name":  "SNT Mahima",
+        "barcode":  "001244",
+        "sale":  530
     },
     {
         "name":  "KC FIRST CHOICE",
@@ -20088,13 +20088,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Costa Waterfall",
         "stock":  2,
-        "barcode":  "002314",
-        "sale":  1800,
-        "mrp":  2032.5,
+        "group":  "T",
         "wholesale":  1355,
-        "group":  "T"
+        "mrp":  2032.5,
+        "name":  "Kc Costa Waterfall",
+        "barcode":  "002314",
+        "sale":  1800
     },
     {
         "name":  "Aarohi",
@@ -20115,13 +20115,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MANNAT AAJ KAL",
         "stock":  1,
-        "barcode":  "000796",
-        "sale":  499,
-        "mrp":  697,
+        "group":  "S",
         "wholesale":  464.67,
-        "group":  "S"
+        "mrp":  697,
+        "name":  "MANNAT AAJ KAL",
+        "barcode":  "000796",
+        "sale":  499
     },
     {
         "name":  "Kiana SG-202",
@@ -20133,13 +20133,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VF BEST CHOICE",
         "stock":  4,
-        "barcode":  "0002971",
-        "sale":  1750,
-        "mrp":  2062.5,
+        "group":  "P",
         "wholesale":  1375,
-        "group":  "P"
+        "mrp":  2062.5,
+        "name":  "VF BEST CHOICE",
+        "barcode":  "0002971",
+        "sale":  1750
     },
     {
         "name":  "LACHA ABHIVADAN SUNSHINE",
@@ -20178,13 +20178,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "KC PARDESIYA",
         "stock":  2,
-        "barcode":  "002216",
-        "sale":  850,
-        "mrp":  967.5,
+        "group":  "S",
         "wholesale":  645,
-        "group":  "S"
+        "mrp":  967.5,
+        "name":  "KC PARDESIYA",
+        "barcode":  "002216",
+        "sale":  850
     },
     {
         "name":  "Madhumati Print",
@@ -20205,22 +20205,22 @@ var STOCK_DATA = [
         "group":  "OS"
     },
     {
-        "name":  "VIP",
         "stock":  -11,
-        "barcode":  "001484",
-        "sale":  100,
-        "mrp":  117,
+        "group":  "S",
         "wholesale":  78,
-        "group":  "S"
+        "mrp":  117,
+        "name":  "VIP",
+        "barcode":  "001484",
+        "sale":  100
     },
     {
-        "name":  "KC STAR DOLLS",
         "stock":  2,
-        "barcode":  "0002825",
-        "sale":  1350,
-        "mrp":  1492.5,
+        "group":  "S",
         "wholesale":  995,
-        "group":  "S"
+        "mrp":  1492.5,
+        "name":  "KC STAR DOLLS",
+        "barcode":  "0002825",
+        "sale":  1350
     },
     {
         "name":  "OM Winter",
@@ -20241,13 +20241,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Vc Lower circuit",
         "stock":  -21,
-        "barcode":  "002066",
-        "sale":  400,
-        "mrp":  492,
+        "group":  "CD",
         "wholesale":  328,
-        "group":  "CD"
+        "mrp":  492,
+        "name":  "Vc Lower circuit",
+        "barcode":  "002066",
+        "sale":  400
     },
     {
         "name":  "KC Fabis",
@@ -20268,13 +20268,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SBC 4302",
         "stock":  4,
-        "barcode":  "0002771",
-        "sale":  1800,
-        "mrp":  2070,
+        "group":  "T",
         "wholesale":  1380,
-        "group":  "T"
+        "mrp":  2070,
+        "name":  "SBC 4302",
+        "barcode":  "0002771",
+        "sale":  1800
     },
     {
         "name":  "SVT Doodh Malai",
@@ -20286,49 +20286,49 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROYAL ROAST",
         "stock":  4,
-        "barcode":  "0003124",
-        "sale":  1670,
-        "mrp":  2085,
+        "group":  "T",
         "wholesale":  1390,
-        "group":  "T"
+        "mrp":  2085,
+        "name":  "KC ROYAL ROAST",
+        "barcode":  "0003124",
+        "sale":  1670
     },
     {
-        "name":  "KC MELODY BLOOM",
         "stock":  4,
-        "barcode":  "0002824",
-        "sale":  1150,
-        "mrp":  1275,
+        "group":  "S",
         "wholesale":  850,
-        "group":  "S"
+        "mrp":  1275,
+        "name":  "KC MELODY BLOOM",
+        "barcode":  "0002824",
+        "sale":  1150
     },
     {
-        "name":  "KC KILLER VIBE",
         "stock":  4,
-        "barcode":  "0003038",
-        "sale":  2100,
-        "mrp":  2685,
+        "group":  "P",
         "wholesale":  1790,
-        "group":  "P"
+        "mrp":  2685,
+        "name":  "KC KILLER VIBE",
+        "barcode":  "0003038",
+        "sale":  2100
     },
     {
-        "name":  "KC LOADED NACHOS",
         "stock":  2,
-        "barcode":  "0002443",
-        "sale":  1200,
-        "mrp":  1350,
+        "group":  "OS",
         "wholesale":  900,
-        "group":  "OS"
+        "mrp":  1350,
+        "name":  "KC LOADED NACHOS",
+        "barcode":  "0002443",
+        "sale":  1200
     },
     {
-        "name":  "KC COOKIE CRAZE",
         "stock":  2,
-        "barcode":  "0002384",
-        "sale":  1950,
-        "mrp":  2175,
+        "group":  "T",
         "wholesale":  1450,
-        "group":  "T"
+        "mrp":  2175,
+        "name":  "KC COOKIE CRAZE",
+        "barcode":  "0002384",
+        "sale":  1950
     },
     {
         "name":  "KC MUSHEER",
@@ -20358,22 +20358,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MF WD GALA",
         "stock":  -3,
-        "barcode":  "0002539",
-        "sale":  550,
-        "mrp":  652.5,
+        "group":  "CS",
         "wholesale":  435,
-        "group":  "CS"
+        "mrp":  652.5,
+        "name":  "MF WD GALA",
+        "barcode":  "0002539",
+        "sale":  550
     },
     {
-        "name":  "Innaya Super 30",
         "stock":  -1,
-        "barcode":  "001969",
-        "sale":  650,
-        "mrp":  712.5,
+        "group":  "S",
         "wholesale":  475,
-        "group":  "S"
+        "mrp":  712.5,
+        "name":  "Innaya Super 30",
+        "barcode":  "001969",
+        "sale":  650
     },
     {
         "name":  "Kc Super Protect",
@@ -20421,13 +20421,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "REYON SUIT 3 pcs",
         "stock":  12,
-        "barcode":  "0002813",
-        "sale":  300,
-        "mrp":  330,
+        "group":  "CS",
         "wholesale":  220,
-        "group":  "CS"
+        "mrp":  330,
+        "name":  "REYON SUIT 3 pcs",
+        "barcode":  "0002813",
+        "sale":  300
     },
     {
         "name":  "JBT WHITE PARI",
@@ -20502,22 +20502,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Al Minah Xl Maknah",
         "stock":  6,
-        "barcode":  "002337",
-        "sale":  300,
-        "mrp":  345,
+        "group":  "Makhna",
         "wholesale":  230,
-        "group":  "Makhna"
+        "mrp":  345,
+        "name":  "Al Minah Xl Maknah",
+        "barcode":  "002337",
+        "sale":  300
     },
     {
-        "name":  "KC SMART CHOICE",
         "stock":  4,
-        "barcode":  "0003001",
-        "sale":  1220,
-        "mrp":  1350,
+        "group":  "S",
         "wholesale":  900,
-        "group":  "S"
+        "mrp":  1350,
+        "name":  "KC SMART CHOICE",
+        "barcode":  "0003001",
+        "sale":  1220
     },
     {
         "name":  "Sajan",
@@ -20529,22 +20529,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "WHITE 3 LAKHNAVI",
         "stock":  4,
-        "barcode":  "0002452",
-        "sale":  580,
-        "mrp":  645,
+        "group":  "CS",
         "wholesale":  430,
-        "group":  "CS"
+        "mrp":  645,
+        "name":  "WHITE 3 LAKHNAVI",
+        "barcode":  "0002452",
+        "sale":  580
     },
     {
-        "name":  "KC SOLO STAR",
         "stock":  4,
-        "barcode":  "0003123",
-        "sale":  1670,
-        "mrp":  2085,
+        "group":  "T",
         "wholesale":  1390,
-        "group":  "T"
+        "mrp":  2085,
+        "name":  "KC SOLO STAR",
+        "barcode":  "0003123",
+        "sale":  1670
     },
     {
         "name":  "INDIGO",
@@ -20574,13 +20574,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SVT PALKHI",
         "stock":  96,
-        "barcode":  "001417",
-        "sale":  250,
-        "mrp":  300,
+        "group":  "CC",
         "wholesale":  200,
-        "group":  "CC"
+        "mrp":  300,
+        "name":  "SVT PALKHI",
+        "barcode":  "001417",
+        "sale":  250
     },
     {
         "name":  "GF Angoori",
@@ -20592,22 +20592,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT MAYA",
         "stock":  1,
-        "barcode":  "001250",
-        "sale":  550,
-        "mrp":  772,
+        "group":  "S",
         "wholesale":  514.67,
-        "group":  "S"
+        "mrp":  772,
+        "name":  "SNT MAYA",
+        "barcode":  "001250",
+        "sale":  550
     },
     {
-        "name":  "KC SHAHI MITHAAS",
         "stock":  1,
-        "barcode":  "0002740",
-        "sale":  2650,
-        "mrp":  3210,
+        "group":  "P",
         "wholesale":  2140,
-        "group":  "P"
+        "mrp":  3210,
+        "name":  "KC SHAHI MITHAAS",
+        "barcode":  "0002740",
+        "sale":  2650
     },
     {
         "name":  "KC Reebok",
@@ -20664,13 +20664,13 @@ var STOCK_DATA = [
         "group":  "K"
     },
     {
-        "name":  "KC LUCKY STAR",
         "stock":  4,
-        "barcode":  "0002885",
-        "sale":  1200,
-        "mrp":  1335,
+        "group":  "S",
         "wholesale":  890,
-        "group":  "S"
+        "mrp":  1335,
+        "name":  "KC LUCKY STAR",
+        "barcode":  "0002885",
+        "sale":  1200
     },
     {
         "name":  "GK JOKER",
@@ -20754,22 +20754,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PRIYA JV READY",
         "stock":  9,
-        "barcode":  "002255",
-        "sale":  400,
-        "mrp":  487.5,
+        "group":  "RM",
         "wholesale":  325,
-        "group":  "RM"
+        "mrp":  487.5,
+        "name":  "PRIYA JV READY",
+        "barcode":  "002255",
+        "sale":  400
     },
     {
-        "name":  "MSM Savera",
         "stock":  1,
-        "barcode":  "001614",
-        "sale":  1550,
-        "mrp":  2010,
+        "group":  "S",
         "wholesale":  1340,
-        "group":  "S"
+        "mrp":  2010,
+        "name":  "MSM Savera",
+        "barcode":  "001614",
+        "sale":  1550
     },
     {
         "name":  "KC Al Mizhar",
@@ -20808,13 +20808,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 006",
         "stock":  -1,
-        "barcode":  "001845",
-        "sale":  1500,
-        "mrp":  1635,
+        "group":  "S",
         "wholesale":  1090,
-        "group":  "S"
+        "mrp":  1635,
+        "name":  "RS 006",
+        "barcode":  "001845",
+        "sale":  1500
     },
     {
         "name":  "OM Aaj Tak",
@@ -20835,13 +20835,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "OM Tara Sitara",
         "stock":  4,
-        "barcode":  "002000",
-        "sale":  600,
-        "mrp":  667.5,
+        "group":  "S",
         "wholesale":  445,
-        "group":  "S"
+        "mrp":  667.5,
+        "name":  "OM Tara Sitara",
+        "barcode":  "002000",
+        "sale":  600
     },
     {
         "name":  "GK CIPRA",
@@ -20862,13 +20862,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MANWA LAGE",
         "stock":  2,
-        "barcode":  "002232",
-        "sale":  850,
-        "mrp":  967.5,
+        "group":  "S",
         "wholesale":  645,
-        "group":  "S"
+        "mrp":  967.5,
+        "name":  "KC MANWA LAGE",
+        "barcode":  "002232",
+        "sale":  850
     },
     {
         "name":  "KC Hooriya",
@@ -20898,13 +20898,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 1250 FLUTE",
         "stock":  16,
-        "barcode":  "0002940",
-        "sale":  1550,
-        "mrp":  1570,
+        "group":  "S",
         "wholesale":  1150,
-        "group":  "S"
+        "mrp":  1570,
+        "name":  "RS 1250 FLUTE",
+        "barcode":  "0002940",
+        "sale":  1550
     },
     {
         "name":  "KC Summer Camp",
@@ -20925,13 +20925,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "GF GAYTRI",
         "stock":  2,
-        "barcode":  "0002652",
-        "sale":  600,
-        "mrp":  675,
+        "group":  "CS",
         "wholesale":  450,
-        "group":  "CS"
+        "mrp":  675,
+        "name":  "GF GAYTRI",
+        "barcode":  "0002652",
+        "sale":  600
     },
     {
         "name":  "GK Kuwet",
@@ -21042,13 +21042,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Hanny Banny",
         "stock":  8,
-        "barcode":  "002025",
-        "sale":  700,
-        "mrp":  810,
+        "group":  "S",
         "wholesale":  540,
-        "group":  "S"
+        "mrp":  810,
+        "name":  "Welcome Hanny Banny",
+        "barcode":  "002025",
+        "sale":  700
     },
     {
         "name":  "MSM Safari",
@@ -21060,13 +21060,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MALKIYAT",
         "stock":  3,
-        "barcode":  "0002934",
-        "sale":  2450,
-        "mrp":  2992.5,
+        "group":  "P",
         "wholesale":  1995,
-        "group":  "P"
+        "mrp":  2992.5,
+        "name":  "KC MALKIYAT",
+        "barcode":  "0002934",
+        "sale":  2450
     },
     {
         "name":  "KC Pasta",
@@ -21078,13 +21078,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF CHINGARI",
         "stock":  1,
-        "barcode":  "000154",
-        "sale":  650,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "GF CHINGARI",
+        "barcode":  "000154",
+        "sale":  650
     },
     {
         "name":  "KC 9XM",
@@ -21096,40 +21096,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT Indigo",
         "stock":  2,
-        "barcode":  "001738",
-        "sale":  450,
-        "mrp":  510,
+        "group":  "S",
         "wholesale":  340,
-        "group":  "S"
+        "mrp":  510,
+        "name":  "MT Indigo",
+        "barcode":  "001738",
+        "sale":  450
     },
     {
-        "name":  "GNA MIX",
         "stock":  102,
-        "barcode":  "002252",
-        "sale":  500,
-        "mrp":  570,
+        "group":  "CS",
         "wholesale":  380,
-        "group":  "CS"
+        "mrp":  570,
+        "name":  "GNA MIX",
+        "barcode":  "002252",
+        "sale":  500
     },
     {
-        "name":  "KC Zivana",
         "stock":  6,
-        "barcode":  "002088",
-        "sale":  800,
-        "mrp":  877.5,
+        "group":  "CS",
         "wholesale":  585,
-        "group":  "CS"
+        "mrp":  877.5,
+        "name":  "KC Zivana",
+        "barcode":  "002088",
+        "sale":  800
     },
     {
-        "name":  "KC Peppermint",
         "stock":  2,
-        "barcode":  "001776",
-        "sale":  2050,
-        "mrp":  2272.5,
+        "group":  "T",
         "wholesale":  1515,
-        "group":  "T"
+        "mrp":  2272.5,
+        "name":  "KC Peppermint",
+        "barcode":  "001776",
+        "sale":  2050
     },
     {
         "name":  "GF Vichitra",
@@ -21141,13 +21141,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC HAPPY POINT",
         "stock":  2,
-        "barcode":  "0002650",
-        "sale":  2650,
-        "mrp":  2985,
+        "group":  "P",
         "wholesale":  1990,
-        "group":  "P"
+        "mrp":  2985,
+        "name":  "KC HAPPY POINT",
+        "barcode":  "0002650",
+        "sale":  2650
     },
     {
         "name":  "VAS Saloni",
@@ -21168,13 +21168,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "HASINA",
         "stock":  7,
-        "barcode":  "0002478",
-        "sale":  450,
-        "mrp":  450,
+        "group":  "S",
         "wholesale":  300,
-        "group":  "S"
+        "mrp":  450,
+        "name":  "HASINA",
+        "barcode":  "0002478",
+        "sale":  450
     },
     {
         "name":  "GK Red Rose",
@@ -21186,13 +21186,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC AlRaso",
         "stock":  1,
-        "barcode":  "000421",
-        "sale":  1300,
-        "mrp":  1432,
+        "group":  "S",
         "wholesale":  954.67,
-        "group":  "S"
+        "mrp":  1432,
+        "name":  "KC AlRaso",
+        "barcode":  "000421",
+        "sale":  1300
     },
     {
         "name":  "Royal Punjabi Cut",
@@ -21213,13 +21213,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Dilkhush",
         "stock":  7,
-        "barcode":  "001935",
-        "sale":  500,
-        "mrp":  615,
+        "group":  "S",
         "wholesale":  395,
-        "group":  "S"
+        "mrp":  615,
+        "name":  "SNT Dilkhush",
+        "barcode":  "001935",
+        "sale":  500
     },
     {
         "name":  "KC Shimi",
@@ -21231,13 +21231,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY JIYA 9093 (WITH PURSE)",
         "stock":  1,
-        "barcode":  "0002622",
-        "sale":  2650,
-        "mrp":  3382.5,
+        "group":  "P",
         "wholesale":  2255,
-        "group":  "P"
+        "mrp":  3382.5,
+        "name":  "SONY JIYA 9093 (WITH PURSE)",
+        "barcode":  "0002622",
+        "sale":  2650
     },
     {
         "name":  "SONY GHARARA",
@@ -21249,22 +21249,22 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "Kashmira XL Makhna",
         "stock":  6,
-        "barcode":  "002342",
-        "sale":  280,
-        "mrp":  307.5,
+        "group":  "Makhna",
         "wholesale":  205,
-        "group":  "Makhna"
+        "mrp":  307.5,
+        "name":  "Kashmira XL Makhna",
+        "barcode":  "002342",
+        "sale":  280
     },
     {
-        "name":  "KC MEHAR LOOK",
         "stock":  4,
-        "barcode":  "0003063",
-        "sale":  2370,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "KC MEHAR LOOK",
+        "barcode":  "0003063",
+        "sale":  2370
     },
     {
         "name":  "Chikni Chameli",
@@ -21276,13 +21276,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MELODY MIX",
         "stock":  4,
-        "barcode":  "0002501",
-        "sale":  1700,
-        "mrp":  2047.5,
+        "group":  "T",
         "wholesale":  1365,
-        "group":  "T"
+        "mrp":  2047.5,
+        "name":  "KC MELODY MIX",
+        "barcode":  "0002501",
+        "sale":  1700
     },
     {
         "name":  "KC DUR E FISHAN",
@@ -21303,31 +21303,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Scarf",
         "stock":  -5,
-        "barcode":  "001100",
-        "sale":  100,
-        "mrp":  0,
+        "group":  "General",
         "wholesale":  0,
-        "group":  "General"
+        "mrp":  0,
+        "name":  "Scarf",
+        "barcode":  "001100",
+        "sale":  100
     },
     {
-        "name":  "SONY INDO WESTERN 2",
         "stock":  2,
-        "barcode":  "0002640",
-        "sale":  6350,
-        "mrp":  7050,
+        "group":  "Paplon",
         "wholesale":  4700,
-        "group":  "Paplon"
+        "mrp":  7050,
+        "name":  "SONY INDO WESTERN 2",
+        "barcode":  "0002640",
+        "sale":  6350
     },
     {
-        "name":  "N LAFEEZA",
         "stock":  1,
-        "barcode":  "0002519",
-        "sale":  1550,
-        "mrp":  2017.5,
+        "group":  "P",
         "wholesale":  1345,
-        "group":  "P"
+        "mrp":  2017.5,
+        "name":  "N LAFEEZA",
+        "barcode":  "0002519",
+        "sale":  1550
     },
     {
         "name":  "Masti Kalki",
@@ -21339,13 +21339,13 @@ var STOCK_DATA = [
         "group":  "CC"
     },
     {
-        "name":  "PLAZA PRINT PAPLON",
         "stock":  1,
-        "barcode":  "0002801",
-        "sale":  3650,
-        "mrp":  4050,
+        "group":  "Paplon",
         "wholesale":  2700,
-        "group":  "Paplon"
+        "mrp":  4050,
+        "name":  "PLAZA PRINT PAPLON",
+        "barcode":  "0002801",
+        "sale":  3650
     },
     {
         "name":  "RR God father",
@@ -21366,31 +21366,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ANGEL BERRY",
         "stock":  4,
-        "barcode":  "0002573",
-        "sale":  1600,
-        "mrp":  1792.5,
+        "group":  "S",
         "wholesale":  1195,
-        "group":  "S"
+        "mrp":  1792.5,
+        "name":  "KC ANGEL BERRY",
+        "barcode":  "0002573",
+        "sale":  1600
     },
     {
-        "name":  "VF I LOVE YOU",
         "stock":  8,
-        "barcode":  "0002973",
-        "sale":  1650,
-        "mrp":  2062.5,
+        "group":  "P",
         "wholesale":  1375,
-        "group":  "P"
+        "mrp":  2062.5,
+        "name":  "VF I LOVE YOU",
+        "barcode":  "0002973",
+        "sale":  1650
     },
     {
-        "name":  "Kc Best Wishes",
         "stock":  3,
-        "barcode":  "002311",
-        "sale":  650,
-        "mrp":  735,
+        "group":  "CS",
         "wholesale":  490,
-        "group":  "CS"
+        "mrp":  735,
+        "name":  "Kc Best Wishes",
+        "barcode":  "002311",
+        "sale":  650
     },
     {
         "name":  "SNT RASGULLA",
@@ -21402,13 +21402,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "INNAYA GOOGLEPAY",
         "stock":  -1,
-        "barcode":  "0003135",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "CD",
         "wholesale":  0,
-        "group":  "CD"
+        "mrp":  0,
+        "name":  "INNAYA GOOGLEPAY",
+        "barcode":  "0003135",
+        "sale":  0
     },
     {
         "name":  "Shruti",
@@ -21438,13 +21438,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT TOTAL DHAMAAL",
         "stock":  3,
-        "barcode":  "000871",
-        "sale":  650,
-        "mrp":  735,
+        "group":  "S",
         "wholesale":  490,
-        "group":  "S"
+        "mrp":  735,
+        "name":  "MT TOTAL DHAMAAL",
+        "barcode":  "000871",
+        "sale":  650
     },
     {
         "name":  "GF Rock Star",
@@ -21465,13 +21465,13 @@ var STOCK_DATA = [
         "group":  "K"
     },
     {
-        "name":  "SBT DHAMAKA",
         "stock":  3,
-        "barcode":  "0002530",
-        "sale":  550,
-        "mrp":  682.5,
+        "group":  "S",
         "wholesale":  455,
-        "group":  "S"
+        "mrp":  682.5,
+        "name":  "SBT DHAMAKA",
+        "barcode":  "0002530",
+        "sale":  550
     },
     {
         "name":  "GF Kantra",
@@ -21483,13 +21483,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC JUST WATCH",
         "stock":  -1,
-        "barcode":  "0002810",
-        "sale":  1000,
-        "mrp":  1117.5,
+        "group":  "T",
         "wholesale":  745,
-        "group":  "T"
+        "mrp":  1117.5,
+        "name":  "KC JUST WATCH",
+        "barcode":  "0002810",
+        "sale":  1000
     },
     {
         "name":  "Kc Rabiya Noor",
@@ -21501,13 +21501,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC BITEZON (With Purse)",
         "stock":  3,
-        "barcode":  "0002738",
-        "sale":  2650,
-        "mrp":  3547.5,
+        "group":  "Paplon",
         "wholesale":  2365,
-        "group":  "Paplon"
+        "mrp":  3547.5,
+        "name":  "KC BITEZON (With Purse)",
+        "barcode":  "0002738",
+        "sale":  2650
     },
     {
         "name":  "SG Sitara",
@@ -21546,13 +21546,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SNAPPER",
         "stock":  4,
-        "barcode":  "0002832",
-        "sale":  1650,
-        "mrp":  1972.5,
+        "group":  "S",
         "wholesale":  1315,
-        "group":  "S"
+        "mrp":  1972.5,
+        "name":  "KC SNAPPER",
+        "barcode":  "0002832",
+        "sale":  1650
     },
     {
         "name":  "MT SATRANGI",
@@ -21564,22 +21564,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "JT MARIGOLD",
         "stock":  1,
-        "barcode":  "0002925",
-        "sale":  600,
-        "mrp":  727.5,
+        "group":  "CC",
         "wholesale":  485,
-        "group":  "CC"
+        "mrp":  727.5,
+        "name":  "JT MARIGOLD",
+        "barcode":  "0002925",
+        "sale":  600
     },
     {
-        "name":  "SG GHAZAL",
         "stock":  14,
-        "barcode":  "0003013",
-        "sale":  700,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "SG GHAZAL",
+        "barcode":  "0003013",
+        "sale":  700
     },
     {
         "name":  "Tufan",
@@ -21600,49 +21600,49 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "JLF APPLE",
         "stock":  4,
-        "barcode":  "0003065",
-        "sale":  1100,
-        "mrp":  1350,
+        "group":  "P",
         "wholesale":  900,
-        "group":  "P"
+        "mrp":  1350,
+        "name":  "JLF APPLE",
+        "barcode":  "0003065",
+        "sale":  1100
     },
     {
-        "name":  "Kc Winter Sky",
         "stock":  1,
-        "barcode":  "002309",
-        "sale":  2550,
-        "mrp":  2827.5,
+        "group":  "P",
         "wholesale":  1885,
-        "group":  "P"
+        "mrp":  2827.5,
+        "name":  "Kc Winter Sky",
+        "barcode":  "002309",
+        "sale":  2550
     },
     {
-        "name":  "Sony 1295 Readymade (4)",
         "stock":  -1,
-        "barcode":  "001627",
-        "sale":  1700,
-        "mrp":  1912,
+        "group":  "T",
         "wholesale":  1274.666667,
-        "group":  "T"
+        "mrp":  1912,
+        "name":  "Sony 1295 Readymade (4)",
+        "barcode":  "001627",
+        "sale":  1700
     },
     {
-        "name":  "Snapchat",
         "stock":  37,
-        "barcode":  "001623",
-        "sale":  200,
-        "mrp":  255,
+        "group":  "S",
         "wholesale":  170,
-        "group":  "S"
+        "mrp":  255,
+        "name":  "Snapchat",
+        "barcode":  "001623",
+        "sale":  200
     },
     {
-        "name":  "Jaam Print",
         "stock":  2,
-        "barcode":  "002044",
-        "sale":  550,
-        "mrp":  727.5,
+        "group":  "CS",
         "wholesale":  485,
-        "group":  "CS"
+        "mrp":  727.5,
+        "name":  "Jaam Print",
+        "barcode":  "002044",
+        "sale":  550
     },
     {
         "name":  "KC Shifali",
@@ -21654,13 +21654,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Al Minah Heavy XL",
         "stock":  6,
-        "barcode":  "002336",
-        "sale":  300,
-        "mrp":  330,
+        "group":  "Makhna",
         "wholesale":  220,
-        "group":  "Makhna"
+        "mrp":  330,
+        "name":  "Al Minah Heavy XL",
+        "barcode":  "002336",
+        "sale":  300
     },
     {
         "name":  "Lc Jimmy 1186",
@@ -21672,22 +21672,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC ULFAT",
         "stock":  4,
-        "barcode":  "0002999",
-        "sale":  1880,
-        "mrp":  2085,
+        "group":  "S",
         "wholesale":  1390,
-        "group":  "S"
+        "mrp":  2085,
+        "name":  "KC ULFAT",
+        "barcode":  "0002999",
+        "sale":  1880
     },
     {
-        "name":  "08 LACHA",
         "stock":  -1,
-        "barcode":  "000008",
-        "sale":  6500,
-        "mrp":  13000,
+        "group":  "L",
         "wholesale":  8666.666667,
-        "group":  "L"
+        "mrp":  13000,
+        "name":  "08 LACHA",
+        "barcode":  "000008",
+        "sale":  6500
     },
     {
         "name":  "Sony Coding Garara New Design",
@@ -21699,13 +21699,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "KC SNACK SAAZ",
         "stock":  3,
-        "barcode":  "0002548",
-        "sale":  1350,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC SNACK SAAZ",
+        "barcode":  "0002548",
+        "sale":  1350
     },
     {
         "name":  "KC Zenika",
@@ -21744,13 +21744,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KKC SARGAM",
         "stock":  1,
-        "barcode":  "002194",
-        "sale":  310,
-        "mrp":  348,
+        "group":  "CC",
         "wholesale":  232,
-        "group":  "CC"
+        "mrp":  348,
+        "name":  "KKC SARGAM",
+        "barcode":  "002194",
+        "sale":  310
     },
     {
         "name":  "KC BEST NAME",
@@ -21762,13 +21762,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC LUKY CHARM",
         "stock":  4,
-        "barcode":  "0002883",
-        "sale":  1200,
-        "mrp":  1335,
+        "group":  "S",
         "wholesale":  890,
-        "group":  "S"
+        "mrp":  1335,
+        "name":  "KC LUKY CHARM",
+        "barcode":  "0002883",
+        "sale":  1200
     },
     {
         "name":  "KC Rasna",
@@ -21789,13 +21789,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Madhav CS",
         "stock":  66,
-        "barcode":  "000788",
-        "sale":  400,
-        "mrp":  513,
+        "group":  "CC",
         "wholesale":  342,
-        "group":  "CC"
+        "mrp":  513,
+        "name":  "Madhav CS",
+        "barcode":  "000788",
+        "sale":  400
     },
     {
         "name":  "KC Samah Gulabi",
@@ -21816,13 +21816,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "AVNEE 253",
         "stock":  3,
-        "barcode":  "0003125",
-        "sale":  1500,
-        "mrp":  1882.5,
+        "group":  "T",
         "wholesale":  1255,
-        "group":  "T"
+        "mrp":  1882.5,
+        "name":  "AVNEE 253",
+        "barcode":  "0003125",
+        "sale":  1500
     },
     {
         "name":  "KKC JASMINE",
@@ -21861,31 +21861,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SONY D 71",
         "stock":  3,
-        "barcode":  "0002708",
-        "sale":  2300,
+        "group":  "P",
+        "wholesale":  1990,
         "mrp":  2985,
-        "wholesale":  1990,
-        "group":  "P"
+        "name":  "SONY D 71",
+        "barcode":  "0002708",
+        "sale":  2300
     },
     {
-        "name":  "CRZY RASHMIKA",
         "stock":  8,
-        "barcode":  "0003099",
-        "sale":  570,
-        "mrp":  855,
+        "group":  "T",
         "wholesale":  475,
-        "group":  "T"
+        "mrp":  855,
+        "name":  "CRZY RASHMIKA",
+        "barcode":  "0003099",
+        "sale":  570
     },
     {
-        "name":  "KC SHAHI PASAND",
         "stock":  4,
-        "barcode":  "0003075",
-        "sale":  2400,
-        "mrp":  3582,
+        "group":  "P",
         "wholesale":  1990,
-        "group":  "P"
+        "mrp":  3582,
+        "name":  "KC SHAHI PASAND",
+        "barcode":  "0003075",
+        "sale":  2400
     },
     {
         "name":  "GK AKARSH",
@@ -21933,13 +21933,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Ctn Meter Cloth",
         "stock":  -2,
-        "barcode":  "001881",
-        "sale":  40,
-        "mrp":  80,
+        "group":  "General",
         "wholesale":  53.33333333,
-        "group":  "General"
+        "mrp":  80,
+        "name":  "Ctn Meter Cloth",
+        "barcode":  "001881",
+        "sale":  40
     },
     {
         "name":  "G55",
@@ -22014,22 +22014,22 @@ var STOCK_DATA = [
         "group":  "L"
     },
     {
-        "name":  "KC HAPPY LIFE",
         "stock":  5,
-        "barcode":  "0002542",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC HAPPY LIFE",
+        "barcode":  "0002542",
+        "sale":  1450
     },
     {
-        "name":  "SNT KANIKA",
         "stock":  5,
-        "barcode":  "0002459",
-        "sale":  600,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "SNT KANIKA",
+        "barcode":  "0002459",
+        "sale":  600
     },
     {
         "name":  "KC AZFAR",
@@ -22050,31 +22050,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA MIX 02",
         "stock":  8,
-        "barcode":  "002260",
-        "sale":  700,
-        "mrp":  1400,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  1400,
+        "name":  "GNA MIX 02",
+        "barcode":  "002260",
+        "sale":  700
     },
     {
-        "name":  "KC NAAL NACHNA",
         "stock":  2,
-        "barcode":  "0002931",
-        "sale":  2400,
-        "mrp":  2850,
+        "group":  "G",
         "wholesale":  1900,
-        "group":  "G"
+        "mrp":  2850,
+        "name":  "KC NAAL NACHNA",
+        "barcode":  "0002931",
+        "sale":  2400
     },
     {
-        "name":  "SF 5 Star",
         "stock":  5,
-        "barcode":  "002005",
-        "sale":  700,
-        "mrp":  780,
+        "group":  "S",
         "wholesale":  520,
-        "group":  "S"
+        "mrp":  780,
+        "name":  "SF 5 Star",
+        "barcode":  "002005",
+        "sale":  700
     },
     {
         "name":  "SG CRYSTAL",
@@ -22113,13 +22113,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SKY RISE",
         "stock":  4,
-        "barcode":  "0002863",
-        "sale":  2400,
-        "mrp":  2685,
+        "group":  "P",
         "wholesale":  1790,
-        "group":  "P"
+        "mrp":  2685,
+        "name":  "KC SKY RISE",
+        "barcode":  "0002863",
+        "sale":  2400
     },
     {
         "name":  "GF JHALAK",
@@ -22140,13 +22140,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK Fiza",
         "stock":  -1,
-        "barcode":  "000259",
-        "sale":  1600,
-        "mrp":  1762.5,
+        "group":  "P",
         "wholesale":  1175,
-        "group":  "P"
+        "mrp":  1762.5,
+        "name":  "GK Fiza",
+        "barcode":  "000259",
+        "sale":  1600
     },
     {
         "name":  "MN Bank",
@@ -22212,13 +22212,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROYAL ATLANTA",
         "stock":  4,
-        "barcode":  "0003107",
-        "sale":  1600,
-        "mrp":  2032.5,
+        "group":  "S",
         "wholesale":  1355,
-        "group":  "S"
+        "mrp":  2032.5,
+        "name":  "KC ROYAL ATLANTA",
+        "barcode":  "0003107",
+        "sale":  1600
     },
     {
         "name":  "KC Hazim",
@@ -22248,22 +22248,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC 13454",
         "stock":  1,
-        "barcode":  "002027",
-        "sale":  550,
-        "mrp":  619.5,
+        "group":  "CS",
         "wholesale":  413,
-        "group":  "CS"
+        "mrp":  619.5,
+        "name":  "KC 13454",
+        "barcode":  "002027",
+        "sale":  550
     },
     {
-        "name":  "One Peice",
         "stock":  2,
-        "barcode":  "0002794",
-        "sale":  2650,
-        "mrp":  2940,
+        "group":  "Gown",
         "wholesale":  1960,
-        "group":  "Gown"
+        "mrp":  2940,
+        "name":  "One Peice",
+        "barcode":  "0002794",
+        "sale":  2650
     },
     {
         "name":  "GK Pant Trouser",
@@ -22293,13 +22293,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CHILL UP",
         "stock":  4,
-        "barcode":  "0002434",
-        "sale":  1750,
-        "mrp":  2317.5,
+        "group":  "S",
         "wholesale":  1545,
-        "group":  "S"
+        "mrp":  2317.5,
+        "name":  "KC CHILL UP",
+        "barcode":  "0002434",
+        "sale":  1750
     },
     {
         "name":  "Desai Varsha",
@@ -22329,13 +22329,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT brezza",
         "stock":  1,
-        "barcode":  "001197",
-        "sale":  550,
-        "mrp":  772,
+        "group":  "S",
         "wholesale":  514.67,
-        "group":  "S"
+        "mrp":  772,
+        "name":  "SNT brezza",
+        "barcode":  "001197",
+        "sale":  550
     },
     {
         "name":  "SONY READYMADE 172",
@@ -22347,13 +22347,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "GF Glamour",
         "stock":  1,
-        "barcode":  "000167",
-        "sale":  750,
-        "mrp":  1090,
+        "group":  "S",
         "wholesale":  726.67,
-        "group":  "S"
+        "mrp":  1090,
+        "name":  "GF Glamour",
+        "barcode":  "000167",
+        "sale":  750
     },
     {
         "name":  "KK Kohinoor",
@@ -22401,13 +22401,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC ZARAFINA",
         "stock":  3,
-        "barcode":  "0002920",
-        "sale":  980,
-        "mrp":  1095,
+        "group":  "CS",
         "wholesale":  730,
-        "group":  "CS"
+        "mrp":  1095,
+        "name":  "KC ZARAFINA",
+        "barcode":  "0002920",
+        "sale":  980
     },
     {
         "name":  "OM Dream Girl",
@@ -22428,22 +22428,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Khatli work",
         "stock":  12,
-        "barcode":  "002343",
-        "sale":  500,
-        "mrp":  592.5,
+        "group":  "CS",
         "wholesale":  395,
-        "group":  "CS"
+        "mrp":  592.5,
+        "name":  "Khatli work",
+        "barcode":  "002343",
+        "sale":  500
     },
     {
-        "name":  "SG JASSI",
         "stock":  3,
-        "barcode":  "0002693",
-        "sale":  850,
-        "mrp":  982.5,
+        "group":  "CS",
         "wholesale":  655,
-        "group":  "CS"
+        "mrp":  982.5,
+        "name":  "SG JASSI",
+        "barcode":  "0002693",
+        "sale":  850
     },
     {
         "name":  "KC Ziyam",
@@ -22455,13 +22455,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "Kc Crispy Corner",
         "stock":  4,
-        "barcode":  "0002673",
-        "sale":  2250,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "Kc Crispy Corner",
+        "barcode":  "0002673",
+        "sale":  2250
     },
     {
         "name":  "KC CHANCHAL",
@@ -22473,13 +22473,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "SNT GOLD",
         "stock":  8,
-        "barcode":  "0003071",
-        "sale":  520,
-        "mrp":  615,
+        "group":  "S",
         "wholesale":  410,
-        "group":  "S"
+        "mrp":  615,
+        "name":  "SNT GOLD",
+        "barcode":  "0003071",
+        "sale":  520
     },
     {
         "name":  "KC Emoji",
@@ -22518,13 +22518,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC SWEET SPAROOW",
         "stock":  4,
-        "barcode":  "0003053",
-        "sale":  1160,
-        "mrp":  1387.5,
+        "group":  "S",
         "wholesale":  925,
-        "group":  "S"
+        "mrp":  1387.5,
+        "name":  "KC SWEET SPAROOW",
+        "barcode":  "0003053",
+        "sale":  1160
     },
     {
         "name":  "SNT Apple Burberry",
@@ -22581,22 +22581,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FIRE PATIYAL",
         "stock":  4,
-        "barcode":  "0002870",
-        "sale":  2000,
-        "mrp":  2325,
+        "group":  "S",
         "wholesale":  1550,
-        "group":  "S"
+        "mrp":  2325,
+        "name":  "KC FIRE PATIYAL",
+        "barcode":  "0002870",
+        "sale":  2000
     },
     {
-        "name":  "MOH MAYA",
         "stock":  4,
-        "barcode":  "0003129",
-        "sale":  1700,
-        "mrp":  2145,
+        "group":  "P",
         "wholesale":  1430,
-        "group":  "P"
+        "mrp":  2145,
+        "name":  "MOH MAYA",
+        "barcode":  "0003129",
+        "sale":  1700
     },
     {
         "name":  "Music Meghna",
@@ -22662,13 +22662,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Shawl Priya",
         "stock":  204,
-        "barcode":  "002297",
-        "sale":  80,
-        "mrp":  82.5,
+        "group":  "General",
         "wholesale":  55,
-        "group":  "General"
+        "mrp":  82.5,
+        "name":  "Shawl Priya",
+        "barcode":  "002297",
+        "sale":  80
     },
     {
         "name":  "JT NIGAAR",
@@ -22680,13 +22680,13 @@ var STOCK_DATA = [
         "group":  "CC"
     },
     {
-        "name":  "OM RAMKUDI JHAMKUDI",
         "stock":  -1,
-        "barcode":  "002230",
-        "sale":  550,
-        "mrp":  585,
+        "group":  "S",
         "wholesale":  390,
-        "group":  "S"
+        "mrp":  585,
+        "name":  "OM RAMKUDI JHAMKUDI",
+        "barcode":  "002230",
+        "sale":  550
     },
     {
         "name":  "KC Gazir",
@@ -22698,13 +22698,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome She girl",
         "stock":  1,
-        "barcode":  "002068",
-        "sale":  700,
-        "mrp":  780,
+        "group":  "S",
         "wholesale":  520,
-        "group":  "S"
+        "mrp":  780,
+        "name":  "Welcome She girl",
+        "barcode":  "002068",
+        "sale":  700
     },
     {
         "name":  "KC FACETIME",
@@ -22716,13 +22716,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Rooh Afza",
         "stock":  -2,
-        "barcode":  "001725",
-        "sale":  1700,
-        "mrp":  1890,
+        "group":  "S",
         "wholesale":  1260,
-        "group":  "S"
+        "mrp":  1890,
+        "name":  "KC Rooh Afza",
+        "barcode":  "001725",
+        "sale":  1700
     },
     {
         "name":  "RV SRI VALLI",
@@ -22743,13 +22743,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GULRANIG",
         "stock":  4,
-        "barcode":  "0002752",
-        "sale":  1650,
-        "mrp":  1860,
+        "group":  "S",
         "wholesale":  1240,
-        "group":  "S"
+        "mrp":  1860,
+        "name":  "KC GULRANIG",
+        "barcode":  "0002752",
+        "sale":  1650
     },
     {
         "name":  "Fifa GF",
@@ -22788,22 +22788,22 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "OM Swiggy",
         "stock":  8,
-        "barcode":  "002125",
-        "sale":  500,
-        "mrp":  540,
+        "group":  "S",
         "wholesale":  360,
-        "group":  "S"
+        "mrp":  540,
+        "name":  "OM Swiggy",
+        "barcode":  "002125",
+        "sale":  500
     },
     {
-        "name":  "KC NAIN LADAVA",
         "stock":  2,
-        "barcode":  "001536",
-        "sale":  1350,
-        "mrp":  1792,
+        "group":  "S",
         "wholesale":  1195,
-        "group":  "S"
+        "mrp":  1792,
+        "name":  "KC NAIN LADAVA",
+        "barcode":  "001536",
+        "sale":  1350
     },
     {
         "name":  "Gold Remove",
@@ -22833,13 +22833,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FAME BERRY",
         "stock":  4,
-        "barcode":  "0002686",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC FAME BERRY",
+        "barcode":  "0002686",
+        "sale":  1450
     },
     {
         "name":  "RR PANCHI",
@@ -22914,13 +22914,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Star Georgette",
         "stock":  -1,
-        "barcode":  "001358",
-        "sale":  500,
-        "mrp":  592,
+        "group":  "S",
         "wholesale":  394.6666667,
-        "group":  "S"
+        "mrp":  592,
+        "name":  "Star Georgette",
+        "barcode":  "001358",
+        "sale":  500
     },
     {
         "name":  "Kc Jaane Tamanna",
@@ -22932,13 +22932,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "OM My Love",
         "stock":  1,
-        "barcode":  "002039",
-        "sale":  600,
-        "mrp":  690,
+        "group":  "OS",
         "wholesale":  460,
-        "group":  "OS"
+        "mrp":  690,
+        "name":  "OM My Love",
+        "barcode":  "002039",
+        "sale":  600
     },
     {
         "name":  "SVT Balma Garara",
@@ -22986,22 +22986,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PAWNI JACKPOT",
         "stock":  4,
-        "barcode":  "0002649",
-        "sale":  650,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "PAWNI JACKPOT",
+        "barcode":  "0002649",
+        "sale":  650
     },
     {
-        "name":  "SNT KOYAL",
         "stock":  1,
-        "barcode":  "001237",
-        "sale":  550,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  460,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "SNT KOYAL",
+        "barcode":  "001237",
+        "sale":  550
     },
     {
         "name":  "BMW GK",
@@ -23013,13 +23013,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DJ MASTI",
         "stock":  1,
-        "barcode":  "0002835",
-        "sale":  1700,
-        "mrp":  2055,
+        "group":  "T",
         "wholesale":  1370,
-        "group":  "T"
+        "mrp":  2055,
+        "name":  "KC DJ MASTI",
+        "barcode":  "0002835",
+        "sale":  1700
     },
     {
         "name":  "Kc Dear Medam",
@@ -23085,22 +23085,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC CRYSTILE BREEZE",
         "stock":  4,
-        "barcode":  "0002432",
-        "sale":  1000,
-        "mrp":  1080,
+        "group":  "S",
         "wholesale":  720,
-        "group":  "S"
+        "mrp":  1080,
+        "name":  "KC CRYSTILE BREEZE",
+        "barcode":  "0002432",
+        "sale":  1000
     },
     {
-        "name":  "GK RUN",
         "stock":  4,
-        "barcode":  "002353",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "GK RUN",
+        "barcode":  "002353",
+        "sale":  650
     },
     {
         "name":  "KC Paneer Dhosa",
@@ -23112,22 +23112,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Blue Whale",
         "stock":  -1,
-        "barcode":  "002300",
-        "sale":  1600,
-        "mrp":  1792.5,
+        "group":  "T",
         "wholesale":  1195,
-        "group":  "T"
+        "mrp":  1792.5,
+        "name":  "Kc Blue Whale",
+        "barcode":  "002300",
+        "sale":  1600
     },
     {
-        "name":  "ROYAL BRAND HASEENA",
         "stock":  56,
-        "barcode":  "0002852",
-        "sale":  300,
-        "mrp":  340.5,
+        "group":  "CC",
         "wholesale":  227,
-        "group":  "CC"
+        "mrp":  340.5,
+        "name":  "ROYAL BRAND HASEENA",
+        "barcode":  "0002852",
+        "sale":  300
     },
     {
         "name":  "KC Vistara",
@@ -23184,13 +23184,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KT TITENIC",
         "stock":  4,
-        "barcode":  "0002728",
-        "sale":  390,
-        "mrp":  427.5,
+        "group":  "CS",
         "wholesale":  285,
-        "group":  "CS"
+        "mrp":  427.5,
+        "name":  "KT TITENIC",
+        "barcode":  "0002728",
+        "sale":  390
     },
     {
         "name":  "KC BlackBerry",
@@ -23220,22 +23220,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BAJAJ FLEXI",
         "stock":  3,
-        "barcode":  "0002733",
-        "sale":  1950,
-        "mrp":  2385,
+        "group":  "P",
         "wholesale":  1590,
-        "group":  "P"
+        "mrp":  2385,
+        "name":  "KC BAJAJ FLEXI",
+        "barcode":  "0002733",
+        "sale":  1950
     },
     {
-        "name":  "Gk Black Tea",
         "stock":  4,
-        "barcode":  "0002405",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "CS",
         "wholesale":  550,
-        "group":  "CS"
+        "mrp":  825,
+        "name":  "Gk Black Tea",
+        "barcode":  "0002405",
+        "sale":  750
     },
     {
         "name":  "KC Mohra",
@@ -23247,13 +23247,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Bani Thani rubiya",
         "stock":  1252.5,
-        "barcode":  "0003073",
-        "sale":  30,
-        "mrp":  30,
+        "group":  "General",
         "wholesale":  20,
-        "group":  "General"
+        "mrp":  30,
+        "name":  "Bani Thani rubiya",
+        "barcode":  "0003073",
+        "sale":  30
     },
     {
         "name":  "GK Humraaz",
@@ -23265,22 +23265,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Sony 565 Rangoli (WITH PURSE)",
         "stock":  4,
-        "barcode":  "0002814",
-        "sale":  2600,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "Sony 565 Rangoli (WITH PURSE)",
+        "barcode":  "0002814",
+        "sale":  2600
     },
     {
-        "name":  "Kc Mastana Dil",
         "stock":  1,
-        "barcode":  "002357",
-        "sale":  1700,
-        "mrp":  2272.5,
+        "group":  "OS",
         "wholesale":  1515,
-        "group":  "OS"
+        "mrp":  2272.5,
+        "name":  "Kc Mastana Dil",
+        "barcode":  "002357",
+        "sale":  1700
     },
     {
         "name":  "SONY READYMADE 2692",
@@ -23292,13 +23292,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK ABHIMAN",
         "stock":  2,
-        "barcode":  "002361",
-        "sale":  1300,
-        "mrp":  1462.5,
+        "group":  "T",
         "wholesale":  975,
-        "group":  "T"
+        "mrp":  1462.5,
+        "name":  "GK ABHIMAN",
+        "barcode":  "002361",
+        "sale":  1300
     },
     {
         "name":  "Firebolt",
@@ -23364,13 +23364,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC DHOL DHAMAKA",
         "stock":  4,
-        "barcode":  "0002961",
-        "sale":  1600,
-        "mrp":  1875,
+        "group":  "S",
         "wholesale":  1250,
-        "group":  "S"
+        "mrp":  1875,
+        "name":  "KC DHOL DHAMAKA",
+        "barcode":  "0002961",
+        "sale":  1600
     },
     {
         "name":  "GT Noorie",
@@ -23391,13 +23391,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Aaina",
         "stock":  -2,
-        "barcode":  "002023",
-        "sale":  700,
-        "mrp":  802.5,
+        "group":  "S",
         "wholesale":  535,
-        "group":  "S"
+        "mrp":  802.5,
+        "name":  "Welcome Aaina",
+        "barcode":  "002023",
+        "sale":  700
     },
     {
         "name":  "GF All in One",
@@ -23418,13 +23418,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Crazy Bite",
         "stock":  1,
-        "barcode":  "001577",
-        "sale":  1300,
-        "mrp":  1425,
+        "group":  "T",
         "wholesale":  950,
-        "group":  "T"
+        "mrp":  1425,
+        "name":  "Crazy Bite",
+        "barcode":  "001577",
+        "sale":  1300
     },
     {
         "name":  "RR Superfast Express",
@@ -23463,13 +23463,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF Suger",
         "stock":  -1,
-        "barcode":  "000229",
-        "sale":  850,
-        "mrp":  1015,
+        "group":  "S",
         "wholesale":  676.6666667,
-        "group":  "S"
+        "mrp":  1015,
+        "name":  "GF Suger",
+        "barcode":  "000229",
+        "sale":  850
     },
     {
         "name":  "KC PYAAR KE PAL",
@@ -23499,13 +23499,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BANNO BEAUTY",
         "stock":  4,
-        "barcode":  "0003080",
-        "sale":  2350,
-        "mrp":  3546,
+        "group":  "P",
         "wholesale":  1970,
-        "group":  "P"
+        "mrp":  3546,
+        "name":  "KC BANNO BEAUTY",
+        "barcode":  "0003080",
+        "sale":  2350
     },
     {
         "name":  "RS 11",
@@ -23535,22 +23535,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Tajima",
         "stock":  28,
-        "barcode":  "002256",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "S",
         "wholesale":  400,
-        "group":  "S"
+        "mrp":  600,
+        "name":  "SNT Tajima",
+        "barcode":  "002256",
+        "sale":  550
     },
     {
-        "name":  "MN Angur Juice",
         "stock":  2,
-        "barcode":  "001604",
-        "sale":  499,
-        "mrp":  667,
+        "group":  "S",
         "wholesale":  444.67,
-        "group":  "S"
+        "mrp":  667,
+        "name":  "MN Angur Juice",
+        "barcode":  "001604",
+        "sale":  499
     },
     {
         "name":  "DF SAKHI SAHELI",
@@ -23580,22 +23580,22 @@ var STOCK_DATA = [
         "group":  "CD"
     },
     {
-        "name":  "KC OPEN SKY",
         "stock":  4,
-        "barcode":  "0003055",
-        "sale":  2000,
-        "mrp":  2482.5,
+        "group":  "S",
         "wholesale":  1655,
-        "group":  "S"
+        "mrp":  2482.5,
+        "name":  "KC OPEN SKY",
+        "barcode":  "0003055",
+        "sale":  2000
     },
     {
-        "name":  "KROSS MOTI",
         "stock":  10,
-        "barcode":  "0002698",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "K",
         "wholesale":  550,
-        "group":  "K"
+        "mrp":  825,
+        "name":  "KROSS MOTI",
+        "barcode":  "0002698",
+        "sale":  750
     },
     {
         "name":  "YF Citizen",
@@ -23607,13 +23607,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Deepak Sona Chandi",
         "stock":  -7,
-        "barcode":  "002248",
-        "sale":  450,
-        "mrp":  487.5,
+        "group":  "S",
         "wholesale":  325,
-        "group":  "S"
+        "mrp":  487.5,
+        "name":  "Deepak Sona Chandi",
+        "barcode":  "002248",
+        "sale":  450
     },
     {
         "name":  "KC ISHQ DI BAAJIYAN",
@@ -23652,22 +23652,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc black magic",
         "stock":  3,
-        "barcode":  "0002682",
-        "sale":  1350,
-        "mrp":  1545,
+        "group":  "S",
         "wholesale":  1030,
-        "group":  "S"
+        "mrp":  1545,
+        "name":  "Kc black magic",
+        "barcode":  "0002682",
+        "sale":  1350
     },
     {
-        "name":  "KC DAIJAAN",
         "stock":  3,
-        "barcode":  "0002549",
-        "sale":  1350,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC DAIJAAN",
+        "barcode":  "0002549",
+        "sale":  1350
     },
     {
         "name":  "GF Rukmani",
@@ -23733,13 +23733,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "LC Rumana",
         "stock":  -2,
-        "barcode":  "000775",
-        "sale":  600,
-        "mrp":  664,
+        "group":  "S",
         "wholesale":  442.6666667,
-        "group":  "S"
+        "mrp":  664,
+        "name":  "LC Rumana",
+        "barcode":  "000775",
+        "sale":  600
     },
     {
         "name":  "Ice Cub",
@@ -23751,13 +23751,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MN Litti Choka",
         "stock":  7,
-        "barcode":  "001737",
-        "sale":  350,
-        "mrp":  427,
+        "group":  "S",
         "wholesale":  284.67,
-        "group":  "S"
+        "mrp":  427,
+        "name":  "MN Litti Choka",
+        "barcode":  "001737",
+        "sale":  350
     },
     {
         "name":  "Kavita EID SPECIAL Burberry",
@@ -23778,13 +23778,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC ROCKET RIDER",
         "stock":  1,
-        "barcode":  "0002578",
-        "sale":  2600,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "KC ROCKET RIDER",
+        "barcode":  "0002578",
+        "sale":  2600
     },
     {
         "name":  "MN Nylon Khaman",
@@ -23814,40 +23814,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Readymade 273",
         "stock":  -1,
-        "barcode":  "001948",
-        "sale":  1350,
-        "mrp":  1792.5,
+        "group":  "T",
         "wholesale":  1195,
-        "group":  "T"
+        "mrp":  1792.5,
+        "name":  "Readymade 273",
+        "barcode":  "001948",
+        "sale":  1350
     },
     {
-        "name":  "AF NEW MOONLIGH",
         "stock":  4,
-        "barcode":  "0002982",
-        "sale":  500,
-        "mrp":  555,
+        "group":  "CS",
         "wholesale":  370,
-        "group":  "CS"
+        "mrp":  555,
+        "name":  "AF NEW MOONLIGH",
+        "barcode":  "0002982",
+        "sale":  500
     },
     {
-        "name":  "KC JUSTIFY",
         "stock":  4,
-        "barcode":  "0002685",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC JUSTIFY",
+        "barcode":  "0002685",
+        "sale":  1450
     },
     {
-        "name":  "KC POWER BOOM",
         "stock":  1,
-        "barcode":  "0002502",
-        "sale":  1900,
-        "mrp":  2190,
+        "group":  "T",
         "wholesale":  1460,
-        "group":  "T"
+        "mrp":  2190,
+        "name":  "KC POWER BOOM",
+        "barcode":  "0002502",
+        "sale":  1900
     },
     {
         "name":  "GK ZIYAFAT",
@@ -23868,22 +23868,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MSM DIL RUBA",
         "stock":  4,
-        "barcode":  "0002974",
-        "sale":  900,
-        "mrp":  1027.5,
+        "group":  "S",
         "wholesale":  685,
-        "group":  "S"
+        "mrp":  1027.5,
+        "name":  "MSM DIL RUBA",
+        "barcode":  "0002974",
+        "sale":  900
     },
     {
-        "name":  "PLAZA PRINT WINC",
         "stock":  1,
-        "barcode":  "0002800",
-        "sale":  2700,
-        "mrp":  3000,
+        "group":  "L",
         "wholesale":  2000,
-        "group":  "L"
+        "mrp":  3000,
+        "name":  "PLAZA PRINT WINC",
+        "barcode":  "0002800",
+        "sale":  2700
     },
     {
         "name":  "KC MASALA FRIES",
@@ -23904,13 +23904,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SBC 3839",
         "stock":  4,
-        "barcode":  "0002772",
-        "sale":  1800,
-        "mrp":  2070,
+        "group":  "P",
         "wholesale":  1380,
-        "group":  "P"
+        "mrp":  2070,
+        "name":  "SBC 3839",
+        "barcode":  "0002772",
+        "sale":  1800
     },
     {
         "name":  "ALINA 4",
@@ -23922,13 +23922,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "Snt Janu",
         "stock":  7,
-        "barcode":  "0002378",
-        "sale":  650,
-        "mrp":  892.5,
+        "group":  "S",
         "wholesale":  595,
-        "group":  "S"
+        "mrp":  892.5,
+        "name":  "Snt Janu",
+        "barcode":  "0002378",
+        "sale":  650
     },
     {
         "name":  "Gulzar Rayon",
@@ -23940,13 +23940,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SWEET TASTE",
         "stock":  4,
-        "barcode":  "0002818",
-        "sale":  1050,
-        "mrp":  1192.5,
+        "group":  "S",
         "wholesale":  795,
-        "group":  "S"
+        "mrp":  1192.5,
+        "name":  "KC SWEET TASTE",
+        "barcode":  "0002818",
+        "sale":  1050
     },
     {
         "name":  "Kc Rainbow Cake",
@@ -23994,22 +23994,22 @@ var STOCK_DATA = [
         "group":  "CD"
     },
     {
-        "name":  "OM JOLLY",
         "stock":  3,
-        "barcode":  "0002593",
-        "sale":  700,
-        "mrp":  780,
+        "group":  "S",
         "wholesale":  515,
-        "group":  "S"
+        "mrp":  780,
+        "name":  "OM JOLLY",
+        "barcode":  "0002593",
+        "sale":  700
     },
     {
-        "name":  "GF SHADED HEAVY GOWN",
         "stock":  4,
-        "barcode":  "0002967",
-        "sale":  2400,
-        "mrp":  2925,
+        "group":  "G",
         "wholesale":  1950,
-        "group":  "G"
+        "mrp":  2925,
+        "name":  "GF SHADED HEAVY GOWN",
+        "barcode":  "0002967",
+        "sale":  2400
     },
     {
         "name":  "Vani Studio Jam Cotton Garara Sharara",
@@ -24021,13 +24021,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "N Highway",
         "stock":  3,
-        "barcode":  "002369",
-        "sale":  1650,
-        "mrp":  1860,
+        "group":  "P",
         "wholesale":  1240,
-        "group":  "P"
+        "mrp":  1860,
+        "name":  "N Highway",
+        "barcode":  "002369",
+        "sale":  1650
     },
     {
         "name":  "Samundar GK",
@@ -24039,13 +24039,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Eva Vanrtara",
         "stock":  2,
-        "barcode":  "002103",
-        "sale":  700,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "Eva Vanrtara",
+        "barcode":  "002103",
+        "sale":  700
     },
     {
         "name":  "Innaya Rajwadi",
@@ -24075,13 +24075,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GF PREM",
         "stock":  4,
-        "barcode":  "0003069",
-        "sale":  900,
-        "mrp":  1110,
+        "group":  "S",
         "wholesale":  740,
-        "group":  "S"
+        "mrp":  1110,
+        "name":  "GF PREM",
+        "barcode":  "0003069",
+        "sale":  900
     },
     {
         "name":  "KC Miller",
@@ -24111,13 +24111,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Towel Medium",
         "stock":  72,
-        "barcode":  "001438",
-        "sale":  40,
-        "mrp":  46.5,
+        "group":  "General",
         "wholesale":  31,
-        "group":  "General"
+        "mrp":  46.5,
+        "name":  "Towel Medium",
+        "barcode":  "001438",
+        "sale":  40
     },
     {
         "name":  "Om Nagina",
@@ -24129,58 +24129,58 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Panipuri",
         "stock":  1,
-        "barcode":  "001980",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "S",
         "wholesale":  400,
-        "group":  "S"
+        "mrp":  600,
+        "name":  "KC Panipuri",
+        "barcode":  "001980",
+        "sale":  550
     },
     {
+        "stock":  4,
+        "group":  "S",
+        "wholesale":  530,
+        "mrp":  795,
         "name":  "GK MEESHO",
-        "stock":  4,
         "barcode":  "002251",
-        "sale":  750,
-        "mrp":  795,
-        "wholesale":  530,
-        "group":  "S"
+        "sale":  750
     },
     {
-        "name":  "LACHA RAJWADI",
         "stock":  -2,
-        "barcode":  "000767",
-        "sale":  5050,
-        "mrp":  5716,
+        "group":  "S",
         "wholesale":  3810.666667,
-        "group":  "S"
+        "mrp":  5716,
+        "name":  "LACHA RAJWADI",
+        "barcode":  "000767",
+        "sale":  5050
     },
     {
-        "name":  "DEEPIKA RIM JHIM",
         "stock":  8,
-        "barcode":  "0002995",
-        "sale":  500,
-        "mrp":  570,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  570,
+        "name":  "DEEPIKA RIM JHIM",
+        "barcode":  "0002995",
+        "sale":  500
     },
     {
-        "name":  "KC Aizaz",
         "stock":  1,
-        "barcode":  "000410",
-        "sale":  650,
-        "mrp":  795,
+        "group":  "S",
         "wholesale":  530,
-        "group":  "S"
+        "mrp":  795,
+        "name":  "KC Aizaz",
+        "barcode":  "000410",
+        "sale":  650
     },
     {
-        "name":  "Welcome Hany Bany",
         "stock":  4,
-        "barcode":  "001946",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Hany Bany",
+        "barcode":  "001946",
+        "sale":  700
     },
     {
         "name":  "Svt Simran",
@@ -24201,13 +24201,13 @@ var STOCK_DATA = [
         "group":  "CD"
     },
     {
-        "name":  "07 LACHA",
         "stock":  -1,
-        "barcode":  "000007",
-        "sale":  4500,
-        "mrp":  9000,
+        "group":  "L",
         "wholesale":  6000,
-        "group":  "L"
+        "mrp":  9000,
+        "name":  "07 LACHA",
+        "barcode":  "000007",
+        "sale":  4500
     },
     {
         "name":  "SS Oreo",
@@ -24246,22 +24246,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Old Balance",
         "stock":  -1,
-        "barcode":  "000926",
-        "sale":  0,
-        "mrp":  0,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  0,
+        "name":  "Old Balance",
+        "barcode":  "000926",
+        "sale":  0
     },
     {
-        "name":  "Kkc Guzarish",
         "stock":  -14,
-        "barcode":  "002190",
-        "sale":  350,
-        "mrp":  397.5,
+        "group":  "CS",
         "wholesale":  265,
-        "group":  "CS"
+        "mrp":  397.5,
+        "name":  "Kkc Guzarish",
+        "barcode":  "002190",
+        "sale":  350
     },
     {
         "name":  "Lovely SNT",
@@ -24327,22 +24327,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC NOOR E ZAREEN",
         "stock":  4,
-        "barcode":  "0002846",
-        "sale":  1500,
-        "mrp":  1800,
+        "group":  "S",
         "wholesale":  1200,
-        "group":  "S"
+        "mrp":  1800,
+        "name":  "KC NOOR E ZAREEN",
+        "barcode":  "0002846",
+        "sale":  1500
     },
     {
-        "name":  "Kc Funny Moments",
         "stock":  -1,
-        "barcode":  "002055",
-        "sale":  2000,
-        "mrp":  3500,
+        "group":  "T",
         "wholesale":  1960,
-        "group":  "T"
+        "mrp":  3500,
+        "name":  "Kc Funny Moments",
+        "barcode":  "002055",
+        "sale":  2000
     },
     {
         "name":  "KC Chand ka Tukda",
@@ -24399,22 +24399,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CRISPY POPCORN",
         "stock":  4,
-        "barcode":  "0003103",
-        "sale":  1470,
-        "mrp":  1837.5,
+        "group":  "P",
         "wholesale":  1225,
-        "group":  "P"
+        "mrp":  1837.5,
+        "name":  "KC CRISPY POPCORN",
+        "barcode":  "0003103",
+        "sale":  1470
     },
     {
-        "name":  "Welcome Dhoom Dhadaka",
         "stock":  8,
-        "barcode":  "002024",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Dhoom Dhadaka",
+        "barcode":  "002024",
+        "sale":  700
     },
     {
         "name":  "SNT HAWA MAHEL",
@@ -24444,13 +24444,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RS 001",
         "stock":  -1,
-        "barcode":  "001841",
-        "sale":  1450,
-        "mrp":  1597.5,
+        "group":  "S",
         "wholesale":  1065,
-        "group":  "S"
+        "mrp":  1597.5,
+        "name":  "RS 001",
+        "barcode":  "001841",
+        "sale":  1450
     },
     {
         "name":  "Durga",
@@ -24489,13 +24489,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GNA MIX 06",
         "stock":  5,
-        "barcode":  "002264",
-        "sale":  850,
-        "mrp":  2100,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  2100,
+        "name":  "GNA MIX 06",
+        "barcode":  "002264",
+        "sale":  850
     },
     {
         "name":  "Sony Suit Jorjet",
@@ -24561,13 +24561,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RI ALISHA",
         "stock":  4,
-        "barcode":  "0002935",
-        "sale":  700,
-        "mrp":  802.5,
+        "group":  "S",
         "wholesale":  535,
-        "group":  "S"
+        "mrp":  802.5,
+        "name":  "RI ALISHA",
+        "barcode":  "0002935",
+        "sale":  700
     },
     {
         "name":  "KC Favourite",
@@ -24588,13 +24588,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "RITU 2 PCS MALAI",
         "stock":  70,
-        "barcode":  "0002665",
-        "sale":  200,
-        "mrp":  217.5,
+        "group":  "CS",
         "wholesale":  145,
-        "group":  "CS"
+        "mrp":  217.5,
+        "name":  "RITU 2 PCS MALAI",
+        "barcode":  "0002665",
+        "sale":  200
     },
     {
         "name":  "GK Chilly",
@@ -24606,13 +24606,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Yash Cotton Dupatta",
         "stock":  10,
-        "barcode":  "001894",
-        "sale":  500,
-        "mrp":  547.5,
+        "group":  "S",
         "wholesale":  365,
-        "group":  "S"
+        "mrp":  547.5,
+        "name":  "Yash Cotton Dupatta",
+        "barcode":  "001894",
+        "sale":  500
     },
     {
         "name":  "KC BARZAKH",
@@ -24669,22 +24669,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SUNSHINE SMILE",
         "stock":  4,
-        "barcode":  "0002865",
-        "sale":  2100,
-        "mrp":  2325,
+        "group":  "S",
         "wholesale":  1550,
-        "group":  "S"
+        "mrp":  2325,
+        "name":  "KC SUNSHINE SMILE",
+        "barcode":  "0002865",
+        "sale":  2100
     },
     {
-        "name":  "VC Mahek",
         "stock":  4,
-        "barcode":  "001942",
-        "sale":  400,
-        "mrp":  480,
+        "group":  "S",
         "wholesale":  320,
-        "group":  "S"
+        "mrp":  480,
+        "name":  "VC Mahek",
+        "barcode":  "001942",
+        "sale":  400
     },
     {
         "name":  "MSM Gulbahar",
@@ -24696,49 +24696,49 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Blouse",
         "stock":  -37,
-        "barcode":  "000054",
-        "sale":  10,
-        "mrp":  0,
+        "group":  "General",
         "wholesale":  0,
-        "group":  "General"
+        "mrp":  0,
+        "name":  "Blouse",
+        "barcode":  "000054",
+        "sale":  10
     },
     {
-        "name":  "KC SMART KEY",
         "stock":  4,
-        "barcode":  "0002859",
-        "sale":  2750,
-        "mrp":  3097.5,
+        "group":  "P",
         "wholesale":  2065,
-        "group":  "P"
+        "mrp":  3097.5,
+        "name":  "KC SMART KEY",
+        "barcode":  "0002859",
+        "sale":  2750
     },
     {
-        "name":  "Welcome Sonikudi",
         "stock":  4,
-        "barcode":  "001951",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Sonikudi",
+        "barcode":  "001951",
+        "sale":  700
     },
     {
-        "name":  "KC ROYAL FLEX",
         "stock":  4,
-        "barcode":  "0003101",
-        "sale":  2600,
-        "mrp":  3951,
+        "group":  "P",
         "wholesale":  2195,
-        "group":  "P"
+        "mrp":  3951,
+        "name":  "KC ROYAL FLEX",
+        "barcode":  "0003101",
+        "sale":  2600
     },
     {
-        "name":  "YF Wonder girl",
         "stock":  3,
-        "barcode":  "002075",
-        "sale":  550,
-        "mrp":  600,
+        "group":  "CD",
         "wholesale":  400,
-        "group":  "CD"
+        "mrp":  600,
+        "name":  "YF Wonder girl",
+        "barcode":  "002075",
+        "sale":  550
     },
     {
         "name":  "GNA Jaam",
@@ -24759,13 +24759,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT unity",
         "stock":  3,
-        "barcode":  "001285",
-        "sale":  600,
-        "mrp":  820,
+        "group":  "S",
         "wholesale":  546.67,
-        "group":  "S"
+        "mrp":  820,
+        "name":  "SNT unity",
+        "barcode":  "001285",
+        "sale":  600
     },
     {
         "name":  "Eena",
@@ -24795,13 +24795,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Rado",
         "stock":  5,
-        "barcode":  "002014",
-        "sale":  700,
-        "mrp":  892.5,
+        "group":  "S",
         "wholesale":  595,
-        "group":  "S"
+        "mrp":  892.5,
+        "name":  "SNT Rado",
+        "barcode":  "002014",
+        "sale":  700
     },
     {
         "name":  "KC Bidipta",
@@ -24822,22 +24822,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GARIMA HIRA",
         "stock":  -1,
-        "barcode":  "002206",
-        "sale":  450,
-        "mrp":  510,
+        "group":  "CS",
         "wholesale":  340,
-        "group":  "CS"
+        "mrp":  510,
+        "name":  "GARIMA HIRA",
+        "barcode":  "002206",
+        "sale":  450
     },
     {
-        "name":  "VF MAHARANI",
         "stock":  4,
-        "barcode":  "0002968",
-        "sale":  1850,
-        "mrp":  2137.5,
+        "group":  "P",
         "wholesale":  1425,
-        "group":  "P"
+        "mrp":  2137.5,
+        "name":  "VF MAHARANI",
+        "barcode":  "0002968",
+        "sale":  1850
     },
     {
         "name":  "KC Zehreen",
@@ -24885,13 +24885,13 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "OM ONLINE",
         "stock":  3,
-        "barcode":  "002375",
-        "sale":  850,
-        "mrp":  945,
+        "group":  "S",
         "wholesale":  630,
-        "group":  "S"
+        "mrp":  945,
+        "name":  "OM ONLINE",
+        "barcode":  "002375",
+        "sale":  850
     },
     {
         "name":  "Varnika Sahiba",
@@ -24903,31 +24903,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KKC HEER",
         "stock":  6,
-        "barcode":  "000753",
-        "sale":  350,
-        "mrp":  405,
+        "group":  "S",
         "wholesale":  270,
-        "group":  "S"
+        "mrp":  405,
+        "name":  "KKC HEER",
+        "barcode":  "000753",
+        "sale":  350
     },
     {
-        "name":  "Kc Rock Trex",
         "stock":  3,
-        "barcode":  "0002500",
-        "sale":  1760,
-        "mrp":  1987.5,
+        "group":  "T",
         "wholesale":  1325,
-        "group":  "T"
+        "mrp":  1987.5,
+        "name":  "Kc Rock Trex",
+        "barcode":  "0002500",
+        "sale":  1760
     },
     {
-        "name":  "KC GOLDEN BEATS",
         "stock":  4,
-        "barcode":  "0002789",
-        "sale":  1750,
-        "mrp":  2227.5,
+        "group":  "S",
         "wholesale":  1485,
-        "group":  "S"
+        "mrp":  2227.5,
+        "name":  "KC GOLDEN BEATS",
+        "barcode":  "0002789",
+        "sale":  1750
     },
     {
         "name":  "MF Audi",
@@ -24939,40 +24939,40 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC HONEY BAR",
         "stock":  4,
-        "barcode":  "0002879",
-        "sale":  1800,
-        "mrp":  2032.5,
+        "group":  "S",
         "wholesale":  1355,
-        "group":  "S"
+        "mrp":  2032.5,
+        "name":  "KC HONEY BAR",
+        "barcode":  "0002879",
+        "sale":  1800
     },
     {
-        "name":  "Masti Kalash",
         "stock":  28,
-        "barcode":  "000813",
-        "sale":  350,
-        "mrp":  480,
+        "group":  "CC",
         "wholesale":  320,
-        "group":  "CC"
+        "mrp":  480,
+        "name":  "Masti Kalash",
+        "barcode":  "000813",
+        "sale":  350
     },
     {
-        "name":  "KC RED HEART",
         "stock":  4,
-        "barcode":  "0003039",
-        "sale":  2350,
-        "mrp":  2992.5,
+        "group":  "P",
         "wholesale":  1995,
-        "group":  "P"
+        "mrp":  2992.5,
+        "name":  "KC RED HEART",
+        "barcode":  "0003039",
+        "sale":  2350
     },
     {
-        "name":  "Kkc Jannat",
         "stock":  6,
-        "barcode":  "002322",
-        "sale":  550,
-        "mrp":  615,
+        "group":  "CC",
         "wholesale":  410,
-        "group":  "CC"
+        "mrp":  615,
+        "name":  "Kkc Jannat",
+        "barcode":  "002322",
+        "sale":  550
     },
     {
         "name":  "SNT Kajal",
@@ -24993,31 +24993,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Alina 2",
         "stock":  -2,
-        "barcode":  "002041",
-        "sale":  2750,
-        "mrp":  3052.5,
+        "group":  "T",
         "wholesale":  2035,
-        "group":  "T"
+        "mrp":  3052.5,
+        "name":  "Alina 2",
+        "barcode":  "002041",
+        "sale":  2750
     },
     {
-        "name":  "KC Bridal Queen",
         "stock":  1,
-        "barcode":  "000452",
-        "sale":  1650,
-        "mrp":  2250,
+        "group":  "T",
         "wholesale":  1500,
-        "group":  "T"
+        "mrp":  2250,
+        "name":  "KC Bridal Queen",
+        "barcode":  "000452",
+        "sale":  1650
     },
     {
-        "name":  "KC CHERRY MERRY",
         "stock":  4,
-        "barcode":  "0002634",
-        "sale":  1800,
-        "mrp":  2002.5,
+        "group":  "T",
         "wholesale":  1335,
-        "group":  "T"
+        "mrp":  2002.5,
+        "name":  "KC CHERRY MERRY",
+        "barcode":  "0002634",
+        "sale":  1800
     },
     {
         "name":  "OM IPL",
@@ -25029,13 +25029,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "GF ROCK",
         "stock":  4,
-        "barcode":  "0002937",
-        "sale":  600,
-        "mrp":  690,
+        "group":  "CS",
         "wholesale":  460,
-        "group":  "CS"
+        "mrp":  690,
+        "name":  "GF ROCK",
+        "barcode":  "0002937",
+        "sale":  600
     },
     {
         "name":  "KC MALAK",
@@ -25047,13 +25047,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROYAL PATOLA",
         "stock":  1,
-        "barcode":  "0002737",
-        "sale":  2350,
-        "mrp":  2992.5,
+        "group":  "Paplon",
         "wholesale":  1995,
-        "group":  "Paplon"
+        "mrp":  2992.5,
+        "name":  "KC ROYAL PATOLA",
+        "barcode":  "0002737",
+        "sale":  2350
     },
     {
         "name":  "Spari 4277D",
@@ -25074,31 +25074,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SELFIE MODE",
         "stock":  4,
-        "barcode":  "0003060",
-        "sale":  1000,
-        "mrp":  1192.5,
+        "group":  "S",
         "wholesale":  795,
-        "group":  "S"
+        "mrp":  1192.5,
+        "name":  "KC SELFIE MODE",
+        "barcode":  "0003060",
+        "sale":  1000
     },
     {
-        "name":  "Kc Rava Dosa",
         "stock":  3,
-        "barcode":  "0002667",
-        "sale":  800,
-        "mrp":  877.5,
+        "group":  "CS",
         "wholesale":  585,
-        "group":  "CS"
+        "mrp":  877.5,
+        "name":  "Kc Rava Dosa",
+        "barcode":  "0002667",
+        "sale":  800
     },
     {
-        "name":  "SSM GEORGETTE KIRAN",
         "stock":  3,
-        "barcode":  "0002466",
-        "sale":  1450,
-        "mrp":  1627.5,
+        "group":  "G",
         "wholesale":  1085,
-        "group":  "G"
+        "mrp":  1627.5,
+        "name":  "SSM GEORGETTE KIRAN",
+        "barcode":  "0002466",
+        "sale":  1450
     },
     {
         "name":  "KC AZBAN",
@@ -25128,13 +25128,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT KOYAL PLAZO",
         "stock":  6,
-        "barcode":  "0002392",
-        "sale":  1450,
-        "mrp":  1612.5,
+        "group":  "P",
         "wholesale":  1075,
-        "group":  "P"
+        "mrp":  1612.5,
+        "name":  "SNT KOYAL PLAZO",
+        "barcode":  "0002392",
+        "sale":  1450
     },
     {
         "name":  "KC Bit Coin",
@@ -25173,13 +25173,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC TASTE TOWN",
         "stock":  4,
-        "barcode":  "0003014",
-        "sale":  2550,
-        "mrp":  3292.5,
+        "group":  "P",
         "wholesale":  2195,
-        "group":  "P"
+        "mrp":  3292.5,
+        "name":  "KC TASTE TOWN",
+        "barcode":  "0003014",
+        "sale":  2550
     },
     {
         "name":  "SG DESTINY",
@@ -25254,31 +25254,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Sifarish",
         "stock":  6,
-        "barcode":  "001693",
-        "sale":  550,
-        "mrp":  712.5,
+        "group":  "S",
         "wholesale":  395,
-        "group":  "S"
+        "mrp":  712.5,
+        "name":  "SNT Sifarish",
+        "barcode":  "001693",
+        "sale":  550
     },
     {
-        "name":  "GF Hatim",
         "stock":  1,
-        "barcode":  "000173",
-        "sale":  600,
-        "mrp":  820,
+        "group":  "S",
         "wholesale":  546.67,
-        "group":  "S"
+        "mrp":  820,
+        "name":  "GF Hatim",
+        "barcode":  "000173",
+        "sale":  600
     },
     {
-        "name":  "05 LACHA",
         "stock":  -1,
-        "barcode":  "000005",
-        "sale":  3800,
-        "mrp":  6000,
+        "group":  "L",
         "wholesale":  4000,
-        "group":  "L"
+        "mrp":  6000,
+        "name":  "05 LACHA",
+        "barcode":  "000005",
+        "sale":  3800
     },
     {
         "name":  "Om American Pride Pak Suit",
@@ -25308,31 +25308,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CHASHNI",
         "stock":  4,
-        "barcode":  "0003102",
-        "sale":  2450,
-        "mrp":  3067.5,
+        "group":  "P",
         "wholesale":  2045,
-        "group":  "P"
+        "mrp":  3067.5,
+        "name":  "KC CHASHNI",
+        "barcode":  "0003102",
+        "sale":  2450
     },
     {
-        "name":  "Masti Bulbul",
         "stock":  8,
-        "barcode":  "001733",
-        "sale":  400,
-        "mrp":  532.5,
+        "group":  "CC",
         "wholesale":  350,
-        "group":  "CC"
+        "mrp":  532.5,
+        "name":  "Masti Bulbul",
+        "barcode":  "001733",
+        "sale":  400
     },
     {
-        "name":  "GNA MIX 04",
         "stock":  3,
-        "barcode":  "002262",
-        "sale":  550,
-        "mrp":  1175,
+        "group":  "S",
         "wholesale":  380,
-        "group":  "S"
+        "mrp":  1175,
+        "name":  "GNA MIX 04",
+        "barcode":  "002262",
+        "sale":  550
     },
     {
         "name":  "MSM Messi",
@@ -25344,22 +25344,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Taufeer",
         "stock":  1,
-        "barcode":  "000707",
-        "sale":  1400,
-        "mrp":  1988,
+        "group":  "S",
         "wholesale":  1325.33,
-        "group":  "S"
+        "mrp":  1988,
+        "name":  "KC Taufeer",
+        "barcode":  "000707",
+        "sale":  1400
     },
     {
-        "name":  "Alina Jack 2",
         "stock":  -2,
-        "barcode":  "002099",
-        "sale":  2700,
-        "mrp":  3052.5,
+        "group":  "T",
         "wholesale":  2035,
-        "group":  "T"
+        "mrp":  3052.5,
+        "name":  "Alina Jack 2",
+        "barcode":  "002099",
+        "sale":  2700
     },
     {
         "name":  "Alplain Bigboss",
@@ -25371,13 +25371,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC SMILE SHOULE",
         "stock":  4,
-        "barcode":  "0002993",
-        "sale":  2780,
-        "mrp":  3330,
+        "group":  "P",
         "wholesale":  2220,
-        "group":  "P"
+        "mrp":  3330,
+        "name":  "KC SMILE SHOULE",
+        "barcode":  "0002993",
+        "sale":  2780
     },
     {
         "name":  "SONY 122",
@@ -25389,22 +25389,22 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "JBT JAM JAM",
         "stock":  4,
-        "barcode":  "0002990",
-        "sale":  550,
-        "mrp":  690,
+        "group":  "S",
         "wholesale":  460,
-        "group":  "S"
+        "mrp":  690,
+        "name":  "JBT JAM JAM",
+        "barcode":  "0002990",
+        "sale":  550
     },
     {
-        "name":  "KC BLESSING",
         "stock":  1,
-        "barcode":  "0002745",
-        "sale":  850,
-        "mrp":  952.5,
+        "group":  "CS",
         "wholesale":  635,
-        "group":  "CS"
+        "mrp":  952.5,
+        "name":  "KC BLESSING",
+        "barcode":  "0002745",
+        "sale":  850
     },
     {
         "name":  "Gk Inayat Fish Pant Trouser",
@@ -25416,49 +25416,49 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC Comedy Circle",
         "stock":  4,
-        "barcode":  "002366",
-        "sale":  650,
-        "mrp":  735,
+        "group":  "CS",
         "wholesale":  490,
-        "group":  "CS"
+        "mrp":  735,
+        "name":  "KC Comedy Circle",
+        "barcode":  "002366",
+        "sale":  650
     },
     {
-        "name":  "Kc Google Pay",
         "stock":  4,
-        "barcode":  "0002681",
-        "sale":  1350,
-        "mrp":  1545,
+        "group":  "S",
         "wholesale":  1030,
-        "group":  "S"
+        "mrp":  1545,
+        "name":  "Kc Google Pay",
+        "barcode":  "0002681",
+        "sale":  1350
     },
     {
-        "name":  "RANGEELA",
         "stock":  4,
-        "barcode":  "0003131",
-        "sale":  1700,
-        "mrp":  2130,
+        "group":  "P",
         "wholesale":  1420,
-        "group":  "P"
+        "mrp":  2130,
+        "name":  "RANGEELA",
+        "barcode":  "0003131",
+        "sale":  1700
     },
     {
-        "name":  "KC BERRY FIZZ",
         "stock":  2,
-        "barcode":  "0002783",
-        "sale":  1950,
-        "mrp":  2437.5,
+        "group":  "P",
         "wholesale":  1625,
-        "group":  "P"
+        "mrp":  2437.5,
+        "name":  "KC BERRY FIZZ",
+        "barcode":  "0002783",
+        "sale":  1950
     },
     {
-        "name":  "KC CHEEZY PLANET",
         "stock":  2,
-        "barcode":  "0002696",
-        "sale":  1600,
-        "mrp":  1815,
+        "group":  "S",
         "wholesale":  1210,
-        "group":  "S"
+        "mrp":  1815,
+        "name":  "KC CHEEZY PLANET",
+        "barcode":  "0002696",
+        "sale":  1600
     },
     {
         "name":  "RS FANCY",
@@ -25497,13 +25497,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC YEH RISHTA",
         "stock":  2,
-        "barcode":  "0002526",
-        "sale":  950,
-        "mrp":  1095,
+        "group":  "S",
         "wholesale":  730,
-        "group":  "S"
+        "mrp":  1095,
+        "name":  "KC YEH RISHTA",
+        "barcode":  "0002526",
+        "sale":  950
     },
     {
         "name":  "PAKHODI MT",
@@ -25569,13 +25569,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MILKY WAY",
         "stock":  3,
-        "barcode":  "0002460",
-        "sale":  650,
-        "mrp":  765,
+        "group":  "CS",
         "wholesale":  510,
-        "group":  "CS"
+        "mrp":  765,
+        "name":  "KC MILKY WAY",
+        "barcode":  "0002460",
+        "sale":  650
     },
     {
         "name":  "KC Atoot Rishta",
@@ -25587,13 +25587,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RANG CRUNCH",
         "stock":  4,
-        "barcode":  "0003091",
-        "sale":  1550,
-        "mrp":  2385,
+        "group":  "T",
         "wholesale":  1325,
-        "group":  "T"
+        "mrp":  2385,
+        "name":  "KC RANG CRUNCH",
+        "barcode":  "0003091",
+        "sale":  1550
     },
     {
         "name":  "SG Zara",
@@ -25632,22 +25632,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "CHITRA",
         "stock":  3,
-        "barcode":  "0002595",
-        "sale":  500,
-        "mrp":  592.5,
+        "group":  "S",
         "wholesale":  395,
-        "group":  "S"
+        "mrp":  592.5,
+        "name":  "CHITRA",
+        "barcode":  "0002595",
+        "sale":  500
     },
     {
-        "name":  "KC CAFE MEHFIL",
         "stock":  4,
-        "barcode":  "0003121",
-        "sale":  1870,
-        "mrp":  2340,
+        "group":  "T",
         "wholesale":  1560,
-        "group":  "T"
+        "mrp":  2340,
+        "name":  "KC CAFE MEHFIL",
+        "barcode":  "0003121",
+        "sale":  1870
     },
     {
         "name":  "KC MEHKA DIL",
@@ -25695,13 +25695,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SAROOR",
         "stock":  3,
-        "barcode":  "0002586",
-        "sale":  2360,
-        "mrp":  2955,
+        "group":  "P",
         "wholesale":  1970,
-        "group":  "P"
+        "mrp":  2955,
+        "name":  "KC SAROOR",
+        "barcode":  "0002586",
+        "sale":  2360
     },
     {
         "name":  "GNA Firdos Patang",
@@ -25722,13 +25722,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MF JAAM KHULLI",
         "stock":  -1,
-        "barcode":  "0002398",
-        "sale":  600,
-        "mrp":  667.5,
+        "group":  "CS",
         "wholesale":  445,
-        "group":  "CS"
+        "mrp":  667.5,
+        "name":  "MF JAAM KHULLI",
+        "barcode":  "0002398",
+        "sale":  600
     },
     {
         "name":  "Sony White",
@@ -25776,13 +25776,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Banjara",
         "stock":  -3,
-        "barcode":  "000442",
-        "sale":  600,
-        "mrp":  667.5,
+        "group":  "S",
         "wholesale":  445,
-        "group":  "S"
+        "mrp":  667.5,
+        "name":  "KC Banjara",
+        "barcode":  "000442",
+        "sale":  600
     },
     {
         "name":  "KC ALMIR",
@@ -25803,13 +25803,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RAJWADI STYLE",
         "stock":  1,
-        "barcode":  "0002781",
-        "sale":  1050,
-        "mrp":  1260,
+        "group":  "CS",
         "wholesale":  840,
-        "group":  "CS"
+        "mrp":  1260,
+        "name":  "KC RAJWADI STYLE",
+        "barcode":  "0002781",
+        "sale":  1050
     },
     {
         "name":  "LACHA ABHIVADAN LIMBAYAT",
@@ -25821,22 +25821,22 @@ var STOCK_DATA = [
         "group":  "L"
     },
     {
-        "name":  "KC SOFT ROSE",
         "stock":  1,
-        "barcode":  "0002528",
-        "sale":  1100,
-        "mrp":  1237.5,
+        "group":  "S",
         "wholesale":  825,
-        "group":  "S"
+        "mrp":  1237.5,
+        "name":  "KC SOFT ROSE",
+        "barcode":  "0002528",
+        "sale":  1100
     },
     {
-        "name":  "SNT SONIA",
         "stock":  17,
-        "barcode":  "0002710",
-        "sale":  500,
-        "mrp":  615,
+        "group":  "S",
         "wholesale":  410,
-        "group":  "S"
+        "mrp":  615,
+        "name":  "SNT SONIA",
+        "barcode":  "0002710",
+        "sale":  500
     },
     {
         "name":  "GK Ishq",
@@ -25884,31 +25884,31 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "SNT Jupiter",
         "stock":  4,
-        "barcode":  "001232",
-        "sale":  650,
-        "mrp":  727,
+        "group":  "S",
         "wholesale":  484.67,
-        "group":  "S"
+        "mrp":  727,
+        "name":  "SNT Jupiter",
+        "barcode":  "001232",
+        "sale":  650
     },
     {
-        "name":  "Om Nautanki",
         "stock":  4,
-        "barcode":  "002373",
-        "sale":  800,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "Om Nautanki",
+        "barcode":  "002373",
+        "sale":  800
     },
     {
-        "name":  "JMD MIX SUIT",
         "stock":  3,
-        "barcode":  "0002849",
-        "sale":  400,
-        "mrp":  415,
+        "group":  "S",
         "wholesale":  313,
-        "group":  "S"
+        "mrp":  415,
+        "name":  "JMD MIX SUIT",
+        "barcode":  "0002849",
+        "sale":  400
     },
     {
         "name":  "JBT GOLD CITY",
@@ -25929,31 +25929,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC Pinnaple Punch",
         "stock":  4,
-        "barcode":  "0002390",
-        "sale":  1450,
-        "mrp":  1635,
+        "group":  "S",
         "wholesale":  1090,
-        "group":  "S"
+        "mrp":  1635,
+        "name":  "KC Pinnaple Punch",
+        "barcode":  "0002390",
+        "sale":  1450
     },
     {
-        "name":  "Activa Astar",
         "stock":  4515,
-        "barcode":  "000018",
-        "sale":  25,
-        "mrp":  30,
+        "group":  "General",
         "wholesale":  20,
-        "group":  "General"
+        "mrp":  30,
+        "name":  "Activa Astar",
+        "barcode":  "000018",
+        "sale":  25
     },
     {
-        "name":  "KC SPARKON",
         "stock":  4,
-        "barcode":  "0002431",
-        "sale":  1100,
-        "mrp":  1222.5,
+        "group":  "S",
         "wholesale":  815,
-        "group":  "S"
+        "mrp":  1222.5,
+        "name":  "KC SPARKON",
+        "barcode":  "0002431",
+        "sale":  1100
     },
     {
         "name":  "KKC ASHA",
@@ -25974,13 +25974,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC JAAM SILK",
         "stock":  7,
-        "barcode":  "0003017",
-        "sale":  700,
-        "mrp":  892.5,
+        "group":  "S",
         "wholesale":  595,
-        "group":  "S"
+        "mrp":  892.5,
+        "name":  "KC JAAM SILK",
+        "barcode":  "0003017",
+        "sale":  700
     },
     {
         "name":  "Nazrana SNT",
@@ -26010,13 +26010,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SG HALDI RASAM",
         "stock":  2,
-        "barcode":  "0002421",
-        "sale":  1100,
-        "mrp":  1252.5,
+        "group":  "G",
         "wholesale":  835,
-        "group":  "G"
+        "mrp":  1252.5,
+        "name":  "SG HALDI RASAM",
+        "barcode":  "0002421",
+        "sale":  1100
     },
     {
         "name":  "SNT Kaira",
@@ -26028,13 +26028,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC NAZARA",
         "stock":  4,
-        "barcode":  "002284",
-        "sale":  1600,
-        "mrp":  2017.5,
+        "group":  "T",
         "wholesale":  1345,
-        "group":  "T"
+        "mrp":  2017.5,
+        "name":  "KC NAZARA",
+        "barcode":  "002284",
+        "sale":  1600
     },
     {
         "name":  "AF NEW RAJBHOG",
@@ -26064,13 +26064,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "MT DIPEEKA",
         "stock":  8,
-        "barcode":  "0002828",
-        "sale":  650,
-        "mrp":  735,
+        "group":  "S",
         "wholesale":  490,
-        "group":  "S"
+        "mrp":  735,
+        "name":  "MT DIPEEKA",
+        "barcode":  "0002828",
+        "sale":  650
     },
     {
         "name":  "SG TIGER",
@@ -26082,13 +26082,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SBC 1099",
         "stock":  2,
-        "barcode":  "0002775",
-        "sale":  1650,
-        "mrp":  1837.5,
+        "group":  "T",
         "wholesale":  1225,
-        "group":  "T"
+        "mrp":  1837.5,
+        "name":  "SBC 1099",
+        "barcode":  "0002775",
+        "sale":  1650
     },
     {
         "name":  "KKU World Cup",
@@ -26100,22 +26100,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MANGO MASTANI",
         "stock":  4,
-        "barcode":  "0002439",
-        "sale":  1200,
-        "mrp":  1350,
+        "group":  "S",
         "wholesale":  900,
-        "group":  "S"
+        "mrp":  1350,
+        "name":  "KC MANGO MASTANI",
+        "barcode":  "0002439",
+        "sale":  1200
     },
     {
-        "name":  "SNT Mona",
         "stock":  3,
-        "barcode":  "001253",
-        "sale":  650,
-        "mrp":  697,
+        "group":  "S",
         "wholesale":  464.67,
-        "group":  "S"
+        "mrp":  697,
+        "name":  "SNT Mona",
+        "barcode":  "001253",
+        "sale":  650
     },
     {
         "name":  "Kkc Gulnaaz",
@@ -26127,31 +26127,31 @@ var STOCK_DATA = [
         "group":  "CC"
     },
     {
-        "name":  "Vas Aakruti",
         "stock":  2,
-        "barcode":  "0002663",
-        "sale":  500,
-        "mrp":  622.5,
+        "group":  "CD",
         "wholesale":  415,
-        "group":  "CD"
+        "mrp":  622.5,
+        "name":  "Vas Aakruti",
+        "barcode":  "0002663",
+        "sale":  500
     },
     {
-        "name":  "AUDI CLOTH",
         "stock":  -5,
-        "barcode":  "0002902",
-        "sale":  30,
-        "mrp":  0,
+        "group":  "KAPDA",
         "wholesale":  0,
-        "group":  "KAPDA"
+        "mrp":  0,
+        "name":  "AUDI CLOTH",
+        "barcode":  "0002902",
+        "sale":  30
     },
     {
-        "name":  "OM MAX FRESH",
         "stock":  4,
-        "barcode":  "0002388",
-        "sale":  600,
-        "mrp":  697.5,
+        "group":  "S",
         "wholesale":  465,
-        "group":  "S"
+        "mrp":  697.5,
+        "name":  "OM MAX FRESH",
+        "barcode":  "0002388",
+        "sale":  600
     },
     {
         "name":  "KC Martial",
@@ -26163,13 +26163,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CLASSIC MUSIC",
         "stock":  3,
-        "barcode":  "0002447",
-        "sale":  650,
-        "mrp":  765,
+        "group":  "CS",
         "wholesale":  510,
-        "group":  "CS"
+        "mrp":  765,
+        "name":  "KC CLASSIC MUSIC",
+        "barcode":  "0002447",
+        "sale":  650
     },
     {
         "name":  "MT Jumari",
@@ -26226,13 +26226,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FLAME BERRY",
         "stock":  2,
-        "barcode":  "0002544",
-        "sale":  1450,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC FLAME BERRY",
+        "barcode":  "0002544",
+        "sale":  1450
     },
     {
         "name":  "KC Jhalak Asherfi",
@@ -26262,13 +26262,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SS Rajwadi",
         "stock":  2,
-        "barcode":  "002131",
-        "sale":  600,
-        "mrp":  637.5,
+        "group":  "CS",
         "wholesale":  425,
-        "group":  "CS"
+        "mrp":  637.5,
+        "name":  "SS Rajwadi",
+        "barcode":  "002131",
+        "sale":  600
     },
     {
         "name":  "G 35",
@@ -26334,13 +26334,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BEAT BLAST",
         "stock":  3,
-        "barcode":  "0002912",
-        "sale":  2800,
-        "mrp":  3120,
+        "group":  "P",
         "wholesale":  2080,
-        "group":  "P"
+        "mrp":  3120,
+        "name":  "KC BEAT BLAST",
+        "barcode":  "0002912",
+        "sale":  2800
     },
     {
         "name":  "KC Aanvi",
@@ -26370,13 +26370,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC DIL DHADAKNE DO",
         "stock":  2,
-        "barcode":  "001526",
-        "sale":  1800,
-        "mrp":  1987,
+        "group":  "S",
         "wholesale":  1324.67,
-        "group":  "S"
+        "mrp":  1987,
+        "name":  "KC DIL DHADAKNE DO",
+        "barcode":  "001526",
+        "sale":  1800
     },
     {
         "name":  "KC 11672",
@@ -26415,13 +26415,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SECRET CODE",
         "stock":  1,
-        "barcode":  "0002822",
-        "sale":  950,
-        "mrp":  1050,
+        "group":  "CS",
         "wholesale":  700,
-        "group":  "CS"
+        "mrp":  1050,
+        "name":  "KC SECRET CODE",
+        "barcode":  "0002822",
+        "sale":  950
     },
     {
         "name":  "KC Qawwali",
@@ -26442,13 +26442,13 @@ var STOCK_DATA = [
         "group":  "CD"
     },
     {
-        "name":  "SF Salma",
         "stock":  5,
-        "barcode":  "002007",
-        "sale":  600,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  435,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "SF Salma",
+        "barcode":  "002007",
+        "sale":  600
     },
     {
         "name":  "KC SWEET HEART",
@@ -26487,22 +26487,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SG GOLD COIN",
         "stock":  3,
-        "barcode":  "0002597",
-        "sale":  1050,
-        "mrp":  1185,
+        "group":  "S",
         "wholesale":  790,
-        "group":  "S"
+        "mrp":  1185,
+        "name":  "SG GOLD COIN",
+        "barcode":  "0002597",
+        "sale":  1050
     },
     {
-        "name":  "KC NEXA STYLE",
         "stock":  4,
-        "barcode":  "0003047",
-        "sale":  2150,
-        "mrp":  2550,
+        "group":  "P",
         "wholesale":  1700,
-        "group":  "P"
+        "mrp":  2550,
+        "name":  "KC NEXA STYLE",
+        "barcode":  "0003047",
+        "sale":  2150
     },
     {
         "name":  "Nevedhyam Anaya",
@@ -26568,22 +26568,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GARIMA QUEEN",
         "stock":  1,
-        "barcode":  "002208",
-        "sale":  450,
-        "mrp":  510,
+        "group":  "CS",
         "wholesale":  340,
-        "group":  "CS"
+        "mrp":  510,
+        "name":  "GARIMA QUEEN",
+        "barcode":  "002208",
+        "sale":  450
     },
     {
-        "name":  "GF AARDHYA",
         "stock":  1,
-        "barcode":  "000136",
-        "sale":  800,
-        "mrp":  895,
+        "group":  "S",
         "wholesale":  596.67,
-        "group":  "S"
+        "mrp":  895,
+        "name":  "GF AARDHYA",
+        "barcode":  "000136",
+        "sale":  800
     },
     {
         "name":  "PPT Nazakat",
@@ -26604,13 +26604,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "CHIKNA KAPDA",
         "stock":  -44.25,
-        "barcode":  "000064",
-        "sale":  30,
-        "mrp":  0,
+        "group":  "General",
         "wholesale":  0,
-        "group":  "General"
+        "mrp":  0,
+        "name":  "CHIKNA KAPDA",
+        "barcode":  "000064",
+        "sale":  30
     },
     {
         "name":  "Music Anu",
@@ -26622,13 +26622,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GRILL STONE",
         "stock":  4,
-        "barcode":  "0003028",
-        "sale":  1400,
-        "mrp":  1680,
+        "group":  "S",
         "wholesale":  1120,
-        "group":  "S"
+        "mrp":  1680,
+        "name":  "KC GRILL STONE",
+        "barcode":  "0003028",
+        "sale":  1400
     },
     {
         "name":  "KKC KAJU ANJEER",
@@ -26667,22 +26667,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SG Cutie Pie",
         "stock":  2,
-        "barcode":  "001129",
-        "sale":  1200,
-        "mrp":  1402.5,
+        "group":  "G",
         "wholesale":  935,
-        "group":  "G"
+        "mrp":  1402.5,
+        "name":  "SG Cutie Pie",
+        "barcode":  "001129",
+        "sale":  1200
     },
     {
-        "name":  "KC PYARI NAZAR",
         "stock":  3,
-        "barcode":  "0002844",
-        "sale":  2450,
-        "mrp":  3180,
+        "group":  "P",
         "wholesale":  2120,
-        "group":  "P"
+        "mrp":  3180,
+        "name":  "KC PYARI NAZAR",
+        "barcode":  "0002844",
+        "sale":  2450
     },
     {
         "name":  "KC Shabiyat",
@@ -26712,13 +26712,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "KC SHAMILA",
         "stock":  2,
-        "barcode":  "0002750",
-        "sale":  1400,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC SHAMILA",
+        "barcode":  "0002750",
+        "sale":  1400
     },
     {
         "name":  "KC Kirtan",
@@ -26730,22 +26730,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Anandi",
         "stock":  2,
-        "barcode":  "001182",
-        "sale":  550,
-        "mrp":  682.5,
+        "group":  "S",
         "wholesale":  435,
-        "group":  "S"
+        "mrp":  682.5,
+        "name":  "SNT Anandi",
+        "barcode":  "001182",
+        "sale":  550
     },
     {
-        "name":  "KC FIZZY POP",
         "stock":  1,
-        "barcode":  "0002743",
-        "sale":  850,
-        "mrp":  952.5,
+        "group":  "CS",
         "wholesale":  635,
-        "group":  "CS"
+        "mrp":  952.5,
+        "name":  "KC FIZZY POP",
+        "barcode":  "0002743",
+        "sale":  850
     },
     {
         "name":  "JF Rang Rasiya",
@@ -26802,22 +26802,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Mehraan",
         "stock":  3,
-        "barcode":  "0002669",
-        "sale":  850,
-        "mrp":  877.5,
+        "group":  "CS",
         "wholesale":  585,
-        "group":  "CS"
+        "mrp":  877.5,
+        "name":  "Kc Mehraan",
+        "barcode":  "0002669",
+        "sale":  850
     },
     {
-        "name":  "Welcome Shandar",
         "stock":  12,
-        "barcode":  "001950",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "S",
         "wholesale":  550,
-        "group":  "S"
+        "mrp":  825,
+        "name":  "Welcome Shandar",
+        "barcode":  "001950",
+        "sale":  750
     },
     {
         "name":  "Sony 632 Readymade (3)",
@@ -26865,22 +26865,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VIC RIVA",
         "stock":  4,
-        "barcode":  "0002721",
-        "sale":  350,
-        "mrp":  375,
+        "group":  "CS",
         "wholesale":  250,
-        "group":  "CS"
+        "mrp":  375,
+        "name":  "VIC RIVA",
+        "barcode":  "0002721",
+        "sale":  350
     },
     {
-        "name":  "SNT Preeti",
         "stock":  11,
-        "barcode":  "001955",
-        "sale":  550,
-        "mrp":  652.5,
+        "group":  "S",
         "wholesale":  395,
-        "group":  "S"
+        "mrp":  652.5,
+        "name":  "SNT Preeti",
+        "barcode":  "001955",
+        "sale":  550
     },
     {
         "name":  "Sony Pant Jorjet",
@@ -26928,13 +26928,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Zanzar",
         "stock":  4,
-        "barcode":  "002238",
-        "sale":  700,
-        "mrp":  952.5,
+        "group":  "S",
         "wholesale":  635,
-        "group":  "S"
+        "mrp":  952.5,
+        "name":  "SNT Zanzar",
+        "barcode":  "002238",
+        "sale":  700
     },
     {
         "name":  "KC Hamdard",
@@ -26973,13 +26973,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Heavy Zara 10",
         "stock":  6,
-        "barcode":  "001795",
-        "sale":  2150,
-        "mrp":  2358.75,
+        "group":  "F",
         "wholesale":  1572.5,
-        "group":  "F"
+        "mrp":  2358.75,
+        "name":  "Heavy Zara 10",
+        "barcode":  "001795",
+        "sale":  2150
     },
     {
         "name":  "KC Kayan",
@@ -27027,22 +27027,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Welcome Khajur",
         "stock":  13,
-        "barcode":  "001779",
-        "sale":  700,
-        "mrp":  810,
+        "group":  "S",
         "wholesale":  540,
-        "group":  "S"
+        "mrp":  810,
+        "name":  "Welcome Khajur",
+        "barcode":  "001779",
+        "sale":  700
     },
     {
-        "name":  "GK Spark",
         "stock":  4,
-        "barcode":  "001705",
-        "sale":  700,
-        "mrp":  787.5,
+        "group":  "S",
         "wholesale":  525,
-        "group":  "S"
+        "mrp":  787.5,
+        "name":  "GK Spark",
+        "barcode":  "001705",
+        "sale":  700
     },
     {
         "name":  "SVT Charminar",
@@ -27054,13 +27054,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GAPPE SHAPPE",
         "stock":  4,
-        "barcode":  "0002904",
-        "sale":  1750,
-        "mrp":  1942.5,
+        "group":  "S",
         "wholesale":  1295,
-        "group":  "S"
+        "mrp":  1942.5,
+        "name":  "KC GAPPE SHAPPE",
+        "barcode":  "0002904",
+        "sale":  1750
     },
     {
         "name":  "KC JAANE JANA",
@@ -27072,13 +27072,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC HEER MAHEL (WITH PURSE)",
         "stock":  2,
-        "barcode":  "0002769",
-        "sale":  2800,
-        "mrp":  3577.5,
+        "group":  "P",
         "wholesale":  2385,
-        "group":  "P"
+        "mrp":  3577.5,
+        "name":  "KC HEER MAHEL (WITH PURSE)",
+        "barcode":  "0002769",
+        "sale":  2800
     },
     {
         "name":  "GF Joker",
@@ -27090,22 +27090,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "GK DEV-D",
         "stock":  4,
-        "barcode":  "0002636",
-        "sale":  800,
-        "mrp":  1065,
+        "group":  "S",
         "wholesale":  710,
-        "group":  "S"
+        "mrp":  1065,
+        "name":  "GK DEV-D",
+        "barcode":  "0002636",
+        "sale":  800
     },
     {
-        "name":  "SRT SATMOLA",
         "stock":  123,
-        "barcode":  "001349",
-        "sale":  300,
-        "mrp":  327,
+        "group":  "S",
         "wholesale":  218,
-        "group":  "S"
+        "mrp":  327,
+        "name":  "SRT SATMOLA",
+        "barcode":  "001349",
+        "sale":  300
     },
     {
         "name":  "N HOPE",
@@ -27126,13 +27126,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BROWN BREAD",
         "stock":  4,
-        "barcode":  "0002506",
-        "sale":  2150,
-        "mrp":  2572.5,
+        "group":  "T",
         "wholesale":  1715,
-        "group":  "T"
+        "mrp":  2572.5,
+        "name":  "KC BROWN BREAD",
+        "barcode":  "0002506",
+        "sale":  2150
     },
     {
         "name":  "Suite SG Summer Choice",
@@ -27144,13 +27144,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC HUNTER",
         "stock":  1,
-        "barcode":  "002281",
-        "sale":  1500,
-        "mrp":  1987.5,
+        "group":  "P",
         "wholesale":  1325,
-        "group":  "P"
+        "mrp":  1987.5,
+        "name":  "KC HUNTER",
+        "barcode":  "002281",
+        "sale":  1500
     },
     {
         "name":  "Kc Sonic Boom",
@@ -27162,22 +27162,22 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "Gna Panta",
         "stock":  4,
-        "barcode":  "0002918",
-        "sale":  800,
-        "mrp":  900,
+        "group":  "S",
         "wholesale":  600,
-        "group":  "S"
+        "mrp":  900,
+        "name":  "Gna Panta",
+        "barcode":  "0002918",
+        "sale":  800
     },
     {
-        "name":  "OM Afreen",
         "stock":  4,
-        "barcode":  "002120",
-        "sale":  750,
-        "mrp":  840,
+        "group":  "S",
         "wholesale":  560,
-        "group":  "S"
+        "mrp":  840,
+        "name":  "OM Afreen",
+        "barcode":  "002120",
+        "sale":  750
     },
     {
         "name":  "Usha GF",
@@ -27189,13 +27189,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Jmd Shehzada",
         "stock":  5,
-        "barcode":  "002165",
-        "sale":  500,
-        "mrp":  558,
+        "group":  "CS",
         "wholesale":  372,
-        "group":  "CS"
+        "mrp":  558,
+        "name":  "Jmd Shehzada",
+        "barcode":  "002165",
+        "sale":  500
     },
     {
         "name":  "GK matuki",
@@ -27207,31 +27207,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Kc Zohairaa",
         "stock":  4,
-        "barcode":  "0002919",
-        "sale":  980,
-        "mrp":  1095,
+        "group":  "CS",
         "wholesale":  730,
-        "group":  "CS"
+        "mrp":  1095,
+        "name":  "Kc Zohairaa",
+        "barcode":  "0002919",
+        "sale":  980
     },
     {
-        "name":  "Sg ice cool",
         "stock":  4,
-        "barcode":  "002061",
-        "sale":  750,
-        "mrp":  825,
+        "group":  "CS",
         "wholesale":  550,
-        "group":  "CS"
+        "mrp":  825,
+        "name":  "Sg ice cool",
+        "barcode":  "002061",
+        "sale":  750
     },
     {
-        "name":  "OM SHATABDI",
         "stock":  12,
-        "barcode":  "0002888",
-        "sale":  550,
-        "mrp":  697.5,
+        "group":  "CS",
         "wholesale":  465,
-        "group":  "CS"
+        "mrp":  697.5,
+        "name":  "OM SHATABDI",
+        "barcode":  "0002888",
+        "sale":  550
     },
     {
         "name":  "LC Sargam",
@@ -27288,22 +27288,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT PANKHUDI",
         "stock":  2,
-        "barcode":  "0002986",
-        "sale":  800,
-        "mrp":  937.5,
+        "group":  "S",
         "wholesale":  625,
-        "group":  "S"
+        "mrp":  937.5,
+        "name":  "SNT PANKHUDI",
+        "barcode":  "0002986",
+        "sale":  800
     },
     {
-        "name":  "Music Enam",
         "stock":  2,
-        "barcode":  "000887",
-        "sale":  1650,
-        "mrp":  2215,
+        "group":  "T",
         "wholesale":  1476.67,
-        "group":  "T"
+        "mrp":  2215,
+        "name":  "Music Enam",
+        "barcode":  "000887",
+        "sale":  1650
     },
     {
         "name":  "VIC GOL MOL",
@@ -27333,31 +27333,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "DUPATTA",
         "stock":  -97,
-        "barcode":  "000098",
-        "sale":  60,
-        "mrp":  70,
+        "group":  "General",
         "wholesale":  46.67,
-        "group":  "General"
+        "mrp":  70,
+        "name":  "DUPATTA",
+        "barcode":  "000098",
+        "sale":  60
     },
     {
-        "name":  "SNT Rose",
         "stock":  2,
-        "barcode":  "001267",
-        "sale":  550,
-        "mrp":  772,
+        "group":  "S",
         "wholesale":  514.67,
-        "group":  "S"
+        "mrp":  772,
+        "name":  "SNT Rose",
+        "barcode":  "001267",
+        "sale":  550
     },
     {
-        "name":  "SONY JAM COTTON SUITE 1",
         "stock":  -1,
-        "barcode":  "001319",
-        "sale":  950,
-        "mrp":  1250,
+        "group":  "S",
         "wholesale":  833.3333333,
-        "group":  "S"
+        "mrp":  1250,
+        "name":  "SONY JAM COTTON SUITE 1",
+        "barcode":  "001319",
+        "sale":  950
     },
     {
         "name":  "Suite Om Verna",
@@ -27387,13 +27387,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT lemon",
         "stock":  5,
-        "barcode":  "001241",
-        "sale":  580,
-        "mrp":  788,
+        "group":  "S",
         "wholesale":  525.33,
-        "group":  "S"
+        "mrp":  788,
+        "name":  "SNT lemon",
+        "barcode":  "001241",
+        "sale":  580
     },
     {
         "name":  "SF Jashna",
@@ -27441,22 +27441,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "JMD ACHIEVER",
         "stock":  -1,
-        "barcode":  "000376",
-        "sale":  400,
-        "mrp":  465,
+        "group":  "S",
         "wholesale":  310,
-        "group":  "S"
+        "mrp":  465,
+        "name":  "JMD ACHIEVER",
+        "barcode":  "000376",
+        "sale":  400
     },
     {
-        "name":  "KKC INDIAN CURRENCY",
         "stock":  5,
-        "barcode":  "0002494",
-        "sale":  330,
-        "mrp":  337.5,
+        "group":  "CC",
         "wholesale":  225,
-        "group":  "CC"
+        "mrp":  337.5,
+        "name":  "KKC INDIAN CURRENCY",
+        "barcode":  "0002494",
+        "sale":  330
     },
     {
         "name":  "GF SEJAL",
@@ -27468,13 +27468,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC COLOURFUL BIRD",
         "stock":  4,
-        "barcode":  "0002746",
-        "sale":  1850,
-        "mrp":  2242.5,
+        "group":  "Trouser",
         "wholesale":  1495,
-        "group":  "Trouser"
+        "mrp":  2242.5,
+        "name":  "KC COLOURFUL BIRD",
+        "barcode":  "0002746",
+        "sale":  1850
     },
     {
         "name":  "Kc Hasmukh",
@@ -27486,31 +27486,31 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC MOIVE OFFER",
         "stock":  4,
-        "barcode":  "0002589",
-        "sale":  1850,
-        "mrp":  2302.5,
+        "group":  "S",
         "wholesale":  1535,
-        "group":  "S"
+        "mrp":  2302.5,
+        "name":  "KC MOIVE OFFER",
+        "barcode":  "0002589",
+        "sale":  1850
     },
     {
-        "name":  "KC Gurnazar",
         "stock":  1,
-        "barcode":  "001598",
-        "sale":  1350,
-        "mrp":  1792,
+        "group":  "S",
         "wholesale":  1194.67,
-        "group":  "S"
+        "mrp":  1792,
+        "name":  "KC Gurnazar",
+        "barcode":  "001598",
+        "sale":  1350
     },
     {
-        "name":  "KC CHAMAK CHALO",
         "stock":  8,
-        "barcode":  "0003095",
-        "sale":  600,
-        "mrp":  891,
+        "group":  "S",
         "wholesale":  495,
-        "group":  "S"
+        "mrp":  891,
+        "name":  "KC CHAMAK CHALO",
+        "barcode":  "0003095",
+        "sale":  600
     },
     {
         "name":  "Suite Disha IPL",
@@ -27585,22 +27585,22 @@ var STOCK_DATA = [
         "group":  "G"
     },
     {
-        "name":  "LC DIAMOND",
         "stock":  4,
-        "barcode":  "0002611",
-        "sale":  750,
-        "mrp":  862.5,
+        "group":  "S",
         "wholesale":  575,
-        "group":  "S"
+        "mrp":  862.5,
+        "name":  "LC DIAMOND",
+        "barcode":  "0002611",
+        "sale":  750
     },
     {
-        "name":  "KC ISHQ MOHABBAT",
         "stock":  4,
-        "barcode":  "0003048",
-        "sale":  1700,
-        "mrp":  2131.5,
+        "group":  "T",
         "wholesale":  1421,
-        "group":  "T"
+        "mrp":  2131.5,
+        "name":  "KC ISHQ MOHABBAT",
+        "barcode":  "0003048",
+        "sale":  1700
     },
     {
         "name":  "KASMIRI DHAGA WORK PEPLUM",
@@ -27639,31 +27639,31 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "SNT Dolphin",
         "stock":  1,
-        "barcode":  "002237",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "S",
         "wholesale":  500,
-        "group":  "S"
+        "mrp":  750,
+        "name":  "SNT Dolphin",
+        "barcode":  "002237",
+        "sale":  650
     },
     {
-        "name":  "GK SANTOOR",
         "stock":  4,
-        "barcode":  "0003033",
-        "sale":  2300,
-        "mrp":  2767.5,
+        "group":  "P",
         "wholesale":  1845,
-        "group":  "P"
+        "mrp":  2767.5,
+        "name":  "GK SANTOOR",
+        "barcode":  "0003033",
+        "sale":  2300
     },
     {
-        "name":  "JT Pakeeza",
         "stock":  1,
-        "barcode":  "002111",
-        "sale":  500,
-        "mrp":  585,
+        "group":  "CC",
         "wholesale":  390,
-        "group":  "CC"
+        "mrp":  585,
+        "name":  "JT Pakeeza",
+        "barcode":  "002111",
+        "sale":  500
     },
     {
         "name":  "Suite VC NDTV",
@@ -27684,13 +27684,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "OG GALAXY",
         "stock":  27,
-        "barcode":  "0002612",
-        "sale":  360,
-        "mrp":  405,
+        "group":  "CS",
         "wholesale":  260,
-        "group":  "CS"
+        "mrp":  405,
+        "name":  "OG GALAXY",
+        "barcode":  "0002612",
+        "sale":  360
     },
     {
         "name":  "GK Nisha",
@@ -27702,13 +27702,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC MASTER CARD",
         "stock":  2,
-        "barcode":  "0002809",
-        "sale":  1000,
-        "mrp":  1117.5,
+        "group":  "T",
         "wholesale":  745,
-        "group":  "T"
+        "mrp":  1117.5,
+        "name":  "KC MASTER CARD",
+        "barcode":  "0002809",
+        "sale":  1000
     },
     {
         "name":  "MF TAI",
@@ -27729,13 +27729,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Inaya Suite",
         "stock":  -1,
-        "barcode":  "001910",
-        "sale":  550,
-        "mrp":  850,
+        "group":  "S",
         "wholesale":  0,
-        "group":  "S"
+        "mrp":  850,
+        "name":  "Inaya Suite",
+        "barcode":  "001910",
+        "sale":  550
     },
     {
         "name":  "SNT Anupama",
@@ -27765,13 +27765,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "YF Fashion Store",
         "stock":  1,
-        "barcode":  "001898",
-        "sale":  500,
-        "mrp":  547.5,
+        "group":  "S",
         "wholesale":  365,
-        "group":  "S"
+        "mrp":  547.5,
+        "name":  "YF Fashion Store",
+        "barcode":  "001898",
+        "sale":  500
     },
     {
         "name":  "KC 11641",
@@ -27783,13 +27783,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "VIC JHUMKA",
         "stock":  4,
-        "barcode":  "0002727",
-        "sale":  400,
-        "mrp":  442.5,
+        "group":  "CS",
         "wholesale":  295,
-        "group":  "CS"
+        "mrp":  442.5,
+        "name":  "VIC JHUMKA",
+        "barcode":  "0002727",
+        "sale":  400
     },
     {
         "name":  "SBC 4227",
@@ -27810,13 +27810,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Rr Gola",
         "stock":  2,
-        "barcode":  "001929",
-        "sale":  400,
-        "mrp":  465,
+        "group":  "CS",
         "wholesale":  310,
-        "group":  "CS"
+        "mrp":  465,
+        "name":  "Rr Gola",
+        "barcode":  "001929",
+        "sale":  400
     },
     {
         "name":  "SNT PC PRINT",
@@ -27828,22 +27828,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Mf Khulli Print",
         "stock":  -8,
-        "barcode":  "002175",
-        "sale":  650,
-        "mrp":  750,
+        "group":  "CS",
         "wholesale":  500,
-        "group":  "CS"
+        "mrp":  750,
+        "name":  "Mf Khulli Print",
+        "barcode":  "002175",
+        "sale":  650
     },
     {
-        "name":  "KC SUHANE LAMHE",
         "stock":  4,
-        "barcode":  "0002873",
-        "sale":  2750,
-        "mrp":  3210,
+        "group":  "P",
         "wholesale":  2140,
-        "group":  "P"
+        "mrp":  3210,
+        "name":  "KC SUHANE LAMHE",
+        "barcode":  "0002873",
+        "sale":  2750
     },
     {
         "name":  "Kc Zareen Mahel",
@@ -27855,13 +27855,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Amazon",
         "stock":  -4,
-        "barcode":  "001698",
-        "sale":  2300,
-        "mrp":  2527.5,
+        "group":  "S",
         "wholesale":  1685,
-        "group":  "S"
+        "mrp":  2527.5,
+        "name":  "Amazon",
+        "barcode":  "001698",
+        "sale":  2300
     },
     {
         "name":  "VS Varnika",
@@ -27873,13 +27873,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC RANGOONI",
         "stock":  2,
-        "barcode":  "0002479",
-        "sale":  2500,
-        "mrp":  2925,
+        "group":  "T",
         "wholesale":  1950,
-        "group":  "T"
+        "mrp":  2925,
+        "name":  "KC RANGOONI",
+        "barcode":  "0002479",
+        "sale":  2500
     },
     {
         "name":  "KC Rangeen",
@@ -27909,13 +27909,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Masti Zara",
         "stock":  -9,
-        "barcode":  "000817",
-        "sale":  350,
-        "mrp":  480,
+        "group":  "CC",
         "wholesale":  320,
-        "group":  "CC"
+        "mrp":  480,
+        "name":  "Masti Zara",
+        "barcode":  "000817",
+        "sale":  350
     },
     {
         "name":  "KC Sehraa",
@@ -27936,13 +27936,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC PERL TOUCH",
         "stock":  4,
-        "barcode":  "0003022",
-        "sale":  2350,
-        "mrp":  2940,
+        "group":  "P",
         "wholesale":  1960,
-        "group":  "P"
+        "mrp":  2940,
+        "name":  "KC PERL TOUCH",
+        "barcode":  "0003022",
+        "sale":  2350
     },
     {
         "name":  "KS PRINCESS",
@@ -27972,13 +27972,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KC FLYING RANI",
         "stock":  4,
-        "barcode":  "0002959",
-        "sale":  1950,
-        "mrp":  2190,
+        "group":  "S",
         "wholesale":  1460,
-        "group":  "S"
+        "mrp":  2190,
+        "name":  "KC FLYING RANI",
+        "barcode":  "0002959",
+        "sale":  1950
     },
     {
         "name":  "SNT Max",
@@ -27999,13 +27999,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC CHILL TIME",
         "stock":  4,
-        "barcode":  "0002950",
-        "sale":  1900,
-        "mrp":  2160,
+        "group":  "S",
         "wholesale":  1440,
-        "group":  "S"
+        "mrp":  2160,
+        "name":  "KC CHILL TIME",
+        "barcode":  "0002950",
+        "sale":  1900
     },
     {
         "name":  "Mohit Rashmika",
@@ -28026,13 +28026,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC AMROzIA",
         "stock":  4,
-        "barcode":  "002209",
-        "sale":  1500,
-        "mrp":  1687.5,
+        "group":  "S",
         "wholesale":  1125,
-        "group":  "S"
+        "mrp":  1687.5,
+        "name":  "KC AMROzIA",
+        "barcode":  "002209",
+        "sale":  1500
     },
     {
         "name":  "KC GOODNESS",
@@ -28071,13 +28071,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "KKC FIDA",
         "stock":  8,
-        "barcode":  "0002656",
-        "sale":  350,
-        "mrp":  390,
+        "group":  "CS",
         "wholesale":  257,
-        "group":  "CS"
+        "mrp":  390,
+        "name":  "KKC FIDA",
+        "barcode":  "0002656",
+        "sale":  350
     },
     {
         "name":  "INNAYA CHICKEN",
@@ -28116,13 +28116,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ART GALLERY",
         "stock":  2,
-        "barcode":  "0002735",
-        "sale":  2250,
-        "mrp":  2767.5,
+        "group":  "P",
         "wholesale":  1845,
-        "group":  "P"
+        "mrp":  2767.5,
+        "name":  "KC ART GALLERY",
+        "barcode":  "0002735",
+        "sale":  2250
     },
     {
         "name":  "11 LACHA",
@@ -28143,31 +28143,31 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "Headcap",
         "stock":  28,
-        "barcode":  "002340",
-        "sale":  50,
-        "mrp":  30,
+        "group":  "Makhna",
         "wholesale":  20,
-        "group":  "Makhna"
+        "mrp":  30,
+        "name":  "Headcap",
+        "barcode":  "002340",
+        "sale":  50
     },
     {
-        "name":  "Welcome Pardesi",
         "stock":  15,
-        "barcode":  "001782",
-        "sale":  700,
-        "mrp":  817.5,
+        "group":  "S",
         "wholesale":  545,
-        "group":  "S"
+        "mrp":  817.5,
+        "name":  "Welcome Pardesi",
+        "barcode":  "001782",
+        "sale":  700
     },
     {
-        "name":  "KC ZOYA BEGUM",
         "stock":  4,
-        "barcode":  "0003032",
-        "sale":  1550,
-        "mrp":  1830,
+        "group":  "S",
         "wholesale":  1220,
-        "group":  "S"
+        "mrp":  1830,
+        "name":  "KC ZOYA BEGUM",
+        "barcode":  "0003032",
+        "sale":  1550
     },
     {
         "name":  "GK AMRUT",
@@ -28206,13 +28206,13 @@ var STOCK_DATA = [
         "group":  "P"
     },
     {
-        "name":  "Kc saahi gulshan",
         "stock":  4,
-        "barcode":  "0003114",
-        "sale":  1750,
-        "mrp":  2227.5,
+        "group":  "P",
         "wholesale":  1485,
-        "group":  "P"
+        "mrp":  2227.5,
+        "name":  "Kc saahi gulshan",
+        "barcode":  "0003114",
+        "sale":  1750
     },
     {
         "name":  "SNT jam print with gala stone",
@@ -28278,13 +28278,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC BADSHAHI STYLE",
         "stock":  4,
-        "barcode":  "0003093",
-        "sale":  2700,
-        "mrp":  4122,
+        "group":  "P",
         "wholesale":  2290,
-        "group":  "P"
+        "mrp":  4122,
+        "name":  "KC BADSHAHI STYLE",
+        "barcode":  "0003093",
+        "sale":  2700
     },
     {
         "name":  "SNT MANGO",
@@ -28323,13 +28323,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Bhumi Super Star",
         "stock":  2,
-        "barcode":  "001908",
-        "sale":  600,
-        "mrp":  682.5,
+        "group":  "S",
         "wholesale":  455,
-        "group":  "S"
+        "mrp":  682.5,
+        "name":  "Bhumi Super Star",
+        "barcode":  "001908",
+        "sale":  600
     },
     {
         "name":  "SNT LOTTERY",
@@ -28350,13 +28350,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Karishma",
         "stock":  4,
-        "barcode":  "002094",
-        "sale":  700,
-        "mrp":  855,
+        "group":  "S",
         "wholesale":  570,
-        "group":  "S"
+        "mrp":  855,
+        "name":  "SNT Karishma",
+        "barcode":  "002094",
+        "sale":  700
     },
     {
         "name":  "Sony Dark Sharara",
@@ -28440,13 +28440,13 @@ var STOCK_DATA = [
         "group":  "CS"
     },
     {
-        "name":  "GF Super Deluxe",
         "stock":  1,
-        "barcode":  "001586",
-        "sale":  700,
-        "mrp":  945,
+        "group":  "S",
         "wholesale":  630,
-        "group":  "S"
+        "mrp":  945,
+        "name":  "GF Super Deluxe",
+        "barcode":  "001586",
+        "sale":  700
     },
     {
         "name":  "KC Aldeenar",
@@ -28458,22 +28458,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT APPLE",
         "stock":  1,
-        "barcode":  "001188",
-        "sale":  570,
-        "mrp":  705,
+        "group":  "S",
         "wholesale":  355,
-        "group":  "S"
+        "mrp":  705,
+        "name":  "SNT APPLE",
+        "barcode":  "001188",
+        "sale":  570
     },
     {
-        "name":  "JMD Dal Lake",
         "stock":  3,
-        "barcode":  "001670",
-        "sale":  400,
-        "mrp":  469,
+        "group":  "S",
         "wholesale":  312.67,
-        "group":  "S"
+        "mrp":  469,
+        "name":  "JMD Dal Lake",
+        "barcode":  "001670",
+        "sale":  400
     },
     {
         "name":  "KC O MAAHI",
@@ -28494,13 +28494,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Surajmukhi",
         "stock":  1,
-        "barcode":  "001283",
-        "sale":  600,
-        "mrp":  690,
+        "group":  "S",
         "wholesale":  460,
-        "group":  "S"
+        "mrp":  690,
+        "name":  "SNT Surajmukhi",
+        "barcode":  "001283",
+        "sale":  600
     },
     {
         "name":  "GF Royal Enfield",
@@ -28512,13 +28512,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC PEHLI NAZAR",
         "stock":  1,
-        "barcode":  "000632",
-        "sale":  1950,
-        "mrp":  2287,
+        "group":  "T",
         "wholesale":  1524.67,
-        "group":  "T"
+        "mrp":  2287,
+        "name":  "KC PEHLI NAZAR",
+        "barcode":  "000632",
+        "sale":  1950
     },
     {
         "name":  "Mohit Shabbo",
@@ -28548,13 +28548,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC GARHANA (WITH PURSE)",
         "stock":  4,
-        "barcode":  "0002767",
-        "sale":  3300,
-        "mrp":  3675,
+        "group":  "P",
         "wholesale":  2450,
-        "group":  "P"
+        "mrp":  3675,
+        "name":  "KC GARHANA (WITH PURSE)",
+        "barcode":  "0002767",
+        "sale":  3300
     },
     {
         "name":  "MN NAWABI PAN",
@@ -28566,13 +28566,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "PLAZA PRINTS ZANDOSI",
         "stock":  1,
-        "barcode":  "0002803",
-        "sale":  3350,
-        "mrp":  3750,
+        "group":  "Paplon",
         "wholesale":  2500,
-        "group":  "Paplon"
+        "mrp":  3750,
+        "name":  "PLAZA PRINTS ZANDOSI",
+        "barcode":  "0002803",
+        "sale":  3350
     },
     {
         "name":  "GARMIA GULZAR 8443",
@@ -28584,49 +28584,49 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT ROMANCE",
         "stock":  10,
-        "barcode":  "0002712",
-        "sale":  550,
-        "mrp":  690,
+        "group":  "S",
         "wholesale":  495,
-        "group":  "S"
+        "mrp":  690,
+        "name":  "SNT ROMANCE",
+        "barcode":  "0002712",
+        "sale":  550
     },
     {
-        "name":  "Kc cornetto",
         "stock":  -1,
-        "barcode":  "002054",
-        "sale":  2000,
-        "mrp":  2940,
+        "group":  "T",
         "wholesale":  1960,
-        "group":  "T"
+        "mrp":  2940,
+        "name":  "Kc cornetto",
+        "barcode":  "002054",
+        "sale":  2000
     },
     {
-        "name":  "Welcome Hello Baby",
         "stock":  9,
-        "barcode":  "001947",
-        "sale":  650,
-        "mrp":  832.5,
+        "group":  "S",
         "wholesale":  555,
-        "group":  "S"
+        "mrp":  832.5,
+        "name":  "Welcome Hello Baby",
+        "barcode":  "001947",
+        "sale":  650
     },
     {
-        "name":  "KC Likely",
         "stock":  2,
-        "barcode":  "000567",
-        "sale":  1550,
-        "mrp":  2017,
+        "group":  "S",
         "wholesale":  1345,
-        "group":  "S"
+        "mrp":  2017,
+        "name":  "KC Likely",
+        "barcode":  "000567",
+        "sale":  1550
     },
     {
-        "name":  "KC Next Level",
         "stock":  2,
-        "barcode":  "001681",
-        "sale":  2200,
-        "mrp":  2925,
+        "group":  "P",
         "wholesale":  1950,
-        "group":  "P"
+        "mrp":  2925,
+        "name":  "KC Next Level",
+        "barcode":  "001681",
+        "sale":  2200
     },
     {
         "name":  "RI SULTAN",
@@ -28638,13 +28638,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "N NAYSA",
         "stock":  4,
-        "barcode":  "0002516",
-        "sale":  1500,
-        "mrp":  1950,
+        "group":  "P",
         "wholesale":  1300,
-        "group":  "P"
+        "mrp":  1950,
+        "name":  "N NAYSA",
+        "barcode":  "0002516",
+        "sale":  1500
     },
     {
         "name":  "Rc Nayra",
@@ -28719,13 +28719,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SG JALWA",
         "stock":  2,
-        "barcode":  "0002419",
-        "sale":  1250,
-        "mrp":  1410,
+        "group":  "G",
         "wholesale":  940,
-        "group":  "G"
+        "mrp":  1410,
+        "name":  "SG JALWA",
+        "barcode":  "0002419",
+        "sale":  1250
     },
     {
         "name":  "KC Dilawar",
@@ -28737,13 +28737,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "SNT Gulab",
         "stock":  8,
-        "barcode":  "001216",
-        "sale":  550,
-        "mrp":  772,
+        "group":  "S",
         "wholesale":  514.67,
-        "group":  "S"
+        "mrp":  772,
+        "name":  "SNT Gulab",
+        "barcode":  "001216",
+        "sale":  550
     },
     {
         "name":  "VS Monisha",
@@ -28755,13 +28755,13 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC 11671",
         "stock":  1,
-        "barcode":  "002167",
-        "sale":  350,
-        "mrp":  412.5,
+        "group":  "CS",
         "wholesale":  275,
-        "group":  "CS"
+        "mrp":  412.5,
+        "name":  "KC 11671",
+        "barcode":  "002167",
+        "sale":  350
     },
     {
         "name":  "Kc Dolphin",
@@ -28773,13 +28773,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC STYLEZA",
         "stock":  4,
-        "barcode":  "0003024",
-        "sale":  2800,
-        "mrp":  3735,
+        "group":  "P",
         "wholesale":  2490,
-        "group":  "P"
+        "mrp":  3735,
+        "name":  "KC STYLEZA",
+        "barcode":  "0003024",
+        "sale":  2800
     },
     {
         "name":  "GNA Fox Ganga",
@@ -28791,31 +28791,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC SWAG E STYLE",
         "stock":  3,
-        "barcode":  "002359",
-        "sale":  1650,
-        "mrp":  2130,
+        "group":  "P",
         "wholesale":  1420,
-        "group":  "P"
+        "mrp":  2130,
+        "name":  "KC SWAG E STYLE",
+        "barcode":  "002359",
+        "sale":  1650
     },
     {
-        "name":  "Tikli Dupatta",
         "stock":  51,
-        "barcode":  "002159",
-        "sale":  130,
-        "mrp":  136,
+        "group":  "Dupatta",
         "wholesale":  90,
-        "group":  "Dupatta"
+        "mrp":  136,
+        "name":  "Tikli Dupatta",
+        "barcode":  "002159",
+        "sale":  130
     },
     {
-        "name":  "SNT PP DIAMOND",
         "stock":  11,
-        "barcode":  "0002763",
-        "sale":  500,
-        "mrp":  517.5,
+        "group":  "S",
         "wholesale":  345,
-        "group":  "S"
+        "mrp":  517.5,
+        "name":  "SNT PP DIAMOND",
+        "barcode":  "0002763",
+        "sale":  500
     },
     {
         "name":  "GK Preeti",
@@ -28863,31 +28863,31 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "OM YASMIN",
         "stock":  11,
-        "barcode":  "0002762",
-        "sale":  500,
-        "mrp":  562.5,
+        "group":  "S",
         "wholesale":  375,
-        "group":  "S"
+        "mrp":  562.5,
+        "name":  "OM YASMIN",
+        "barcode":  "0002762",
+        "sale":  500
     },
     {
-        "name":  "SNT Vivo",
         "stock":  4,
-        "barcode":  "001752",
-        "sale":  720,
-        "mrp":  1012,
+        "group":  "S",
         "wholesale":  674.67,
-        "group":  "S"
+        "mrp":  1012,
+        "name":  "SNT Vivo",
+        "barcode":  "001752",
+        "sale":  720
     },
     {
-        "name":  "SG SELFIE TIME",
         "stock":  4,
-        "barcode":  "0002900",
-        "sale":  1850,
-        "mrp":  2362.5,
+        "group":  "G",
         "wholesale":  1575,
-        "group":  "G"
+        "mrp":  2362.5,
+        "name":  "SG SELFIE TIME",
+        "barcode":  "0002900",
+        "sale":  1850
     },
     {
         "name":  "SNT Ishq",
@@ -28899,22 +28899,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC FILMI SWAG",
         "stock":  4,
-        "barcode":  "0002830",
-        "sale":  1650,
-        "mrp":  2070,
+        "group":  "S",
         "wholesale":  1380,
-        "group":  "S"
+        "mrp":  2070,
+        "name":  "KC FILMI SWAG",
+        "barcode":  "0002830",
+        "sale":  1650
     },
     {
-        "name":  "KC PRETTY STYLE",
         "stock":  4,
-        "barcode":  "0003119",
-        "sale":  2280,
-        "mrp":  2850,
+        "group":  "P",
         "wholesale":  1900,
-        "group":  "P"
+        "mrp":  2850,
+        "name":  "KC PRETTY STYLE",
+        "barcode":  "0003119",
+        "sale":  2280
     },
     {
         "name":  "Music Fashion",
@@ -28926,22 +28926,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KT KRISHNA",
         "stock":  24,
-        "barcode":  "0003005",
-        "sale":  350,
-        "mrp":  378,
+        "group":  "S",
         "wholesale":  252,
-        "group":  "S"
+        "mrp":  378,
+        "name":  "KT KRISHNA",
+        "barcode":  "0003005",
+        "sale":  350
     },
     {
-        "name":  "Suite SNT Anjali",
         "stock":  -1,
-        "barcode":  "001387",
-        "sale":  650,
-        "mrp":  713,
+        "group":  "S",
         "wholesale":  475.3333333,
-        "group":  "S"
+        "mrp":  713,
+        "name":  "Suite SNT Anjali",
+        "barcode":  "001387",
+        "sale":  650
     },
     {
         "name":  "VC Ragbi",
@@ -28962,22 +28962,22 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "KC ROOP RANGILA",
         "stock":  4,
-        "barcode":  "0002584",
-        "sale":  2000,
-        "mrp":  2370,
+        "group":  "T",
         "wholesale":  1580,
-        "group":  "T"
+        "mrp":  2370,
+        "name":  "KC ROOP RANGILA",
+        "barcode":  "0002584",
+        "sale":  2000
     },
     {
-        "name":  "Aheri Dupatta",
         "stock":  1396,
-        "barcode":  "000342",
-        "sale":  40,
-        "mrp":  42.52,
+        "group":  "Dupatta",
         "wholesale":  31.5,
-        "group":  "Dupatta"
+        "mrp":  42.52,
+        "name":  "Aheri Dupatta",
+        "barcode":  "000342",
+        "sale":  40
     },
     {
         "name":  "Kc Trendify",
@@ -29025,13 +29025,13 @@ var STOCK_DATA = [
         "group":  "T"
     },
     {
-        "name":  "KC SPICY CRUNCH",
         "stock":  4,
-        "barcode":  "0002914",
-        "sale":  2000,
-        "mrp":  2542.5,
+        "group":  "P",
         "wholesale":  1695,
-        "group":  "P"
+        "mrp":  2542.5,
+        "name":  "KC SPICY CRUNCH",
+        "barcode":  "0002914",
+        "sale":  2000
     },
     {
         "name":  "KT SONIX",
@@ -29115,21 +29115,21 @@ var STOCK_DATA = [
         "group":  "S"
     },
     {
-        "name":  "Siya Scarf",
         "stock":  -19,
-        "barcode":  "002179",
-        "sale":  135,
-        "mrp":  200,
+        "group":  "Dupatta",
         "wholesale":  105,
-        "group":  "Dupatta"
+        "mrp":  200,
+        "name":  "Siya Scarf",
+        "barcode":  "002179",
+        "sale":  135
     },
     {
-        "name":  "AVNEE 251",
         "stock":  4,
-        "barcode":  "0003127",
-        "sale":  1500,
-        "mrp":  1755,
+        "group":  "T",
         "wholesale":  1170,
-        "group":  "T"
+        "mrp":  1755,
+        "name":  "AVNEE 251",
+        "barcode":  "0003127",
+        "sale":  1500
     }
 ]
