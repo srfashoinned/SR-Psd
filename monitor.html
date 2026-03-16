@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>SR Fashion System Monitor</title>
+
+<style>
+
+body{
+font-family:Arial;
+background:#f2f2f2;
+padding:40px;
+}
+
+h1{
+margin-bottom:30px;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
+gap:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+border-radius:8px;
+box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+.label{
+font-size:14px;
+color:#777;
+}
+
+.value{
+font-size:20px;
+font-weight:bold;
+margin-top:6px;
+}
+
+.ok{
+color:green;
+}
+
+.bad{
+color:red;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>SR Fashion Live System Monitor</h1>
+
+<div class="grid">
+
+<div class="card">
+<div class="label">SQL Connection</div>
+<div id="sql" class="value">Loading...</div>
+</div>
+
+<div class="card">
+<div class="label">Last Export</div>
+<div id="export" class="value">Loading...</div>
+</div>
+
+<div class="card">
+<div class="label">Total Items Synced</div>
+<div id="items" class="value">Loading...</div>
+</div>
+
+<div class="card">
+<div class="label">Server</div>
+<div id="server" class="value">Loading...</div>
+</div>
+
+<div class="card">
+<div class="label">Errors</div>
+<div id="error" class="value">Loading...</div>
+</div>
+
+</div>
+
+<script>
+
+async function loadStatus(){
+
+try{
+
+let r = await fetch("status.json")
+
+let data = await r.json()
+
+document.getElementById("sql").innerHTML =
+"<span class='ok'>Connected</span>"
+
+document.getElementById("export").innerText =
+data.last_export
+
+document.getElementById("items").innerText =
+data.total_items
+
+document.getElementById("server").innerText =
+data.server
+
+if(data.error===""){
+document.getElementById("error").innerHTML =
+"<span class='ok'>None</span>"
+}else{
+document.getElementById("error").innerHTML =
+"<span class='bad'>"+data.error+"</span>"
+}
+
+}catch{
+
+document.getElementById("sql").innerHTML =
+"<span class='bad'>Disconnected</span>"
+
+}
+
+}
+
+loadStatus()
+
+setInterval(loadStatus,10000)
+
+</script>
+
+</body>
+</html>
