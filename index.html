@@ -8,15 +8,15 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<script src="https://unpkg.com/html5-qrcode"></script>
+
 <style>
 
-*{
-box-sizing:border-box;
-}
+*{box-sizing:border-box}
 
 body{
-font-family:Arial;
 margin:0;
+font-family:Arial;
 background:#f2f2f2;
 overflow-x:hidden;
 }
@@ -24,7 +24,7 @@ overflow-x:hidden;
 .header{
 background:#3c64a5;
 color:white;
-padding:16px;
+padding:15px;
 text-align:center;
 font-size:24px;
 font-weight:bold;
@@ -34,7 +34,7 @@ position:relative;
 .admin{
 position:absolute;
 right:10px;
-top:12px;
+top:10px;
 background:black;
 color:white;
 border:none;
@@ -58,10 +58,16 @@ border:1px solid #ccc;
 margin-bottom:10px;
 }
 
-.live{
-text-align:center;
-margin:10px;
-color:#555;
+.scanBtn{
+width:100%;
+padding:12px;
+background:#2ea44f;
+color:white;
+border:none;
+border-radius:6px;
+font-size:16px;
+cursor:pointer;
+margin-bottom:10px;
 }
 
 .results{
@@ -91,10 +97,10 @@ color:white;
 border-radius:4px;
 }
 
-.mrp{background:#1e73be;}
-.sale{background:#28a745;}
-.ws{background:#d73a49;}
-.purchase{background:#444;}
+.mrp{background:#1e73be}
+.sale{background:#28a745}
+.ws{background:#d73a49}
+.purchase{background:#444}
 
 .stock{
 background:#f1c40f;
@@ -103,6 +109,10 @@ padding:3px 8px;
 border-radius:4px;
 display:inline-block;
 margin-top:6px;
+}
+
+#reader{
+margin-top:15px;
 }
 
 </style>
@@ -122,14 +132,15 @@ SR Psd
 type="text"
 id="search"
 class="search"
-placeholder="Search by name, barcode or group..."
+placeholder="Search item name / barcode"
 oninput="searchItems()"
 />
 
-<div class="live">
-● Live: <span id="time"></span> |
-<span id="count"></span> items
-</div>
+<button class="scanBtn" onclick="startScanner()">
+Scan Barcode
+</button>
+
+<div id="reader"></div>
 
 <div id="results" class="results"></div>
 
@@ -138,6 +149,7 @@ oninput="searchItems()"
 <script>
 
 let STOCK_DATA=[]
+let searchIndex={}
 let admin=false
 
 async function loadStock(){
@@ -147,7 +159,33 @@ const text=await res.text()
 
 eval(text)
 
+buildIndex()
+
 render(STOCK_DATA)
+
+}
+
+function buildIndex(){
+
+searchIndex={}
+
+for(let i=0;i<STOCK_DATA.length;i++){
+
+let item=STOCK_DATA[i]
+
+searchIndex[item.barcode]=item
+
+let name=item.name.toLowerCase()
+
+for(let j=1;j<=name.length;j++){
+
+let part=name.substring(0,j)
+
+searchIndex[part]=item
+
+}
+
+}
 
 }
 
@@ -169,9 +207,7 @@ function render(list){
 
 let html=""
 
-for(let i=0;i<list.length;i++){
-
-let p=list[i]
+for(let p of list){
 
 html+=`
 <div class="card">
@@ -219,37 +255,42 @@ render(STOCK_DATA)
 return
 }
 
-let results=[]
+let result=[]
 
-for(let i=0;i<STOCK_DATA.length;i++){
-
-let p=STOCK_DATA[i]
+for(let item of STOCK_DATA){
 
 if(
-(p.name && p.name.toLowerCase().includes(q)) ||
-(p.barcode && p.barcode.includes(q)) ||
-(p.group && p.group.toLowerCase().includes(q))
+(item.name && item.name.toLowerCase().includes(q)) ||
+(item.barcode && item.barcode.includes(q))
 ){
-results.push(p)
+result.push(item)
 }
 
 }
 
-render(results)
+render(result)
 
 }
 
-function updateTime(){
+function startScanner(){
 
-document.getElementById("time").innerText=
-new Date().toLocaleTimeString()
+const html5QrCode = new Html5Qrcode("reader")
 
-document.getElementById("count").innerText=
-STOCK_DATA.length
+html5QrCode.start(
+{ facingMode: "environment" },
+{ fps: 10, qrbox: 250 },
+(decodedText)=>{
+
+document.getElementById("search").value=decodedText
+
+searchItems()
+
+html5QrCode.stop()
 
 }
+)
 
-setInterval(updateTime,1000)
+}
 
 loadStock()
 
