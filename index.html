@@ -1,61 +1,206 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>SR Psd</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="stock_data.js"></script>
+
+<script src="https://unpkg.com/html5-qrcode"></script>
+
+<style>
+body{
+margin:0;
+font-family:Arial;
+background:#f2f2f2;
+}
+
+.header{
+background:#3c64a5;
+color:white;
+padding:15px;
+text-align:center;
+font-size:24px;
+font-weight:bold;
+position:relative;
+}
+
+.adminBtn{
+position:absolute;
+right:10px;
+top:10px;
+background:black;
+color:white;
+border:none;
+padding:6px 10px;
+border-radius:5px;
+cursor:pointer;
+}
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:15px;
+}
+
+.search{
+width:100%;
+padding:12px;
+font-size:16px;
+border-radius:6px;
+border:1px solid #ccc;
+margin-bottom:10px;
+}
+
+.scanBtn{
+width:100%;
+padding:12px;
+background:#2ea44f;
+color:white;
+border:none;
+border-radius:6px;
+font-size:16px;
+cursor:pointer;
+margin-bottom:15px;
+}
+
+.results{
+display:grid;
+grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+gap:12px;
+}
+
+.card{
+background:white;
+border-left:5px solid #3c64a5;
+padding:12px;
+border-radius:6px;
+}
+
+.price{
+margin-top:8px;
+display:flex;
+flex-wrap:wrap;
+gap:5px;
+}
+
+.tag{
+padding:3px 8px;
+font-size:13px;
+color:white;
+border-radius:4px;
+}
+
+.mrp{background:#1e73be}
+.sale{background:#28a745}
+.ws{background:#d73a49}
+.purchase{background:#444}
+
+.stock{
+background:#f1c40f;
+color:black;
+padding:3px 8px;
+border-radius:4px;
+display:inline-block;
+margin-top:6px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="header">
+SR Psd
+<button class="adminBtn" onclick="adminLogin()">Admin</button>
+</div>
+
+<div class="container">
+
+<input
+class="search"
+id="search"
+placeholder="Search item name / barcode"
+onkeyup="searchItems()"
+/>
+
+<button class="scanBtn" onclick="startScanner()">
+Scan Barcode
+</button>
+
+<div id="reader"></div>
+<div id="results" class="results"></div>
+
+</div>
+
 <script>
 
-let filtered = []
+let admin=false
+let filtered=[]
 
-window.onload = function(){
+window.onload=function(){
 
 if(typeof STOCK_DATA === "undefined"){
-document.getElementById("results").innerHTML = "Stock data not loaded"
+document.getElementById("results").innerHTML="Stock data not loaded"
 return
 }
 
-filtered = [...STOCK_DATA]
-
+filtered=[...STOCK_DATA]
 render()
 
 }
 
 function render(){
 
-let html = ""
+let html=""
 
 for(let p of filtered.slice(0,200)){
 
-html += `
+const name=p.name||p.ItemName||"Unknown"
+const barcode=p.barcode||p.ItemAlias||""
+const mrp=p.mrp||p.Item_MRP||0
+const sale=p.sale||p.Item_Sale_Price||0
+const wholesale=p.wholesale||p.Item_Purchase_Price||0
+const stock=p.stock||0
+
+html+=`
 <div class="card">
 
-<b>${p.name}</b><br>
-${p.barcode || ""}
+<b>${name}</b><br>
+${barcode}
 
 <div class="price">
 
-<span class="mrp">MRP ₹${p.mrp}</span>
-<span class="sale">Sale ₹${p.sale}</span>
-<span class="ws">WS ₹${p.wholesale}</span>
+<span class="tag mrp">MRP ₹${mrp}</span>
+<span class="tag sale">Sale ₹${sale}</span>
+<span class="tag ws">WS ₹${wholesale}</span>
+${admin?`<span class="tag purchase">Purchase ₹${wholesale}</span>`:""}
 
 </div>
 
 <div class="stock">
-Stock: ${p.stock}
+Stock: ${stock}
 </div>
 
 </div>
 `
-
 }
 
-document.getElementById("results").innerHTML = html
+document.getElementById("results").innerHTML=html
 
 }
 
 function searchItems(){
 
-let q = document.getElementById("search").value.toLowerCase()
+let q=document.getElementById("search").value.toLowerCase()
 
-filtered = STOCK_DATA.filter(p =>
+filtered=STOCK_DATA.filter(p=>
 
 (p.name && p.name.toLowerCase().includes(q)) ||
-(p.barcode && p.barcode.includes(q))
+(p.barcode && p.barcode.includes(q)) ||
+(p.ItemName && p.ItemName.toLowerCase().includes(q))
 
 )
 
@@ -63,4 +208,41 @@ render()
 
 }
 
+function adminLogin(){
+
+let pass=prompt("Enter Admin Password")
+
+if(pass==="7865"){
+admin=true
+alert("Admin Mode Enabled")
+render()
+}else{
+alert("Wrong Password")
+}
+
+}
+
+function startScanner(){
+
+const html5QrCode=new Html5Qrcode("reader")
+
+html5QrCode.start(
+{ facingMode:"environment" },
+{ fps:10, qrbox:250 },
+(decodedText)=>{
+document.getElementById("search").value=decodedText
+searchItems()
+html5QrCode.stop()
+}
+)
+
+}
+
+setInterval(()=>{
+location.reload()
+},90000)
+
 </script>
+
+</body>
+</html>
