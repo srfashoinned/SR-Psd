@@ -4,13 +4,11 @@
 <head>
 
 <meta charset="UTF-8">
-<title>LIBAS Stock</title>
+<title>SR Psd</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <script src="stock_data.js"></script>
-
-<script src="https://unpkg.com/html5-qrcode"></script>
 
 <style>
 
@@ -27,6 +25,7 @@ text-align:center;
 padding:22px;
 font-size:28px;
 font-weight:bold;
+cursor:pointer;
 }
 
 .container{
@@ -85,6 +84,7 @@ margin-right:5px;
 .mrp{background:#1e73be;}
 .sale{background:#28a745;}
 .ws{background:#d73a49;}
+.purchase{background:#444;}
 
 .stock{
 background:#f1c40f;
@@ -95,18 +95,14 @@ display:inline-block;
 margin-top:8px;
 }
 
-#reader{
-margin-top:20px;
-}
-
 </style>
 
 </head>
 
 <body>
 
-<div class="header">
-LIBAS Stock
+<div class="header" id="title">
+SR Psd
 </div>
 
 <div class="container">
@@ -117,10 +113,6 @@ class="searchbox"
 placeholder="Search by name, barcode, or group..."
 onkeyup="searchProduct()">
 
-<button class="scanbtn" onclick="startScanner()">
-📷 Scan Barcode
-</button>
-
 <div class="live">
 ● Live: <span id="time"></span> |
 <span id="count"></span> items
@@ -128,42 +120,67 @@ onkeyup="searchProduct()">
 
 <div id="results"></div>
 
-<div id="reader"></div>
-
 </div>
 
 <script>
 
-function updateTime(){
+let adminMode=false
 
-let now=new Date();
+document.getElementById("title").addEventListener("mousedown",startHold)
 
-document.getElementById("time").innerText=
-now.toLocaleTimeString();
+function startHold(){
 
-document.getElementById("count").innerText=
-STOCK_DATA.length;
+holdTimer=setTimeout(function(){
+
+let pass=prompt("Admin Password")
+
+if(pass==="7865"){
+
+adminMode=true
+alert("Admin Mode Enabled")
+
+searchProduct()
+
+}else{
+
+alert("Wrong Password")
 
 }
 
-setInterval(updateTime,1000);
-updateTime();
+},1500)
+
+}
+
+document.getElementById("title").addEventListener("mouseup",function(){
+clearTimeout(holdTimer)
+})
+
+function updateTime(){
+
+let now=new Date()
+
+document.getElementById("time").innerText=
+now.toLocaleTimeString()
+
+document.getElementById("count").innerText=
+STOCK_DATA.length
+
+}
+
+setInterval(updateTime,1000)
+updateTime()
 
 function searchProduct(){
 
-let q=document.getElementById("search").value.toLowerCase();
+let q=document.getElementById("search").value.toLowerCase()
 
-let html="";
+let html=""
 
 let results=STOCK_DATA.filter(p=>
 p.name.toLowerCase().includes(q) ||
-p.barcode.includes(q) ||
-p.group.toLowerCase().includes(q)
-);
-
-if(results.length===0){
-html="<p>No product found</p>";
-}
+(p.barcode && p.barcode.includes(q)) ||
+(p.group && p.group.toLowerCase().includes(q))
+)
 
 results.forEach(p=>{
 
@@ -171,12 +188,15 @@ html+=`
 <div class="card">
 
 <b>${p.name}</b><br>
-${p.barcode} • ${p.size}
+${p.barcode || ""}
 
 <div class="price">
 <span class="tag mrp">MRP: ₹${p.mrp}</span>
 <span class="tag sale">Sale: ₹${p.sale}</span>
 <span class="tag ws">WS: ₹${p.wholesale}</span>
+
+${adminMode ? `<span class="tag purchase">Purchase: ₹${p.wholesale}</span>` : ""}
+
 </div>
 
 <div class="stock">
@@ -184,33 +204,11 @@ Stock: ${p.stock}
 </div>
 
 </div>
-`;
+`
 
-});
+})
 
-document.getElementById("results").innerHTML=html;
-
-}
-
-function startScanner(){
-
-const html5QrCode=new Html5Qrcode("reader");
-
-html5QrCode.start(
-{facingMode:"environment"},
-{fps:10,qrbox:250},
-
-(barcode)=>{
-
-document.getElementById("search").value=barcode;
-
-searchProduct();
-
-html5QrCode.stop();
-
-}
-
-);
+document.getElementById("results").innerHTML=html
 
 }
 
